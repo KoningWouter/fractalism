@@ -1,5 +1,6 @@
 ---
 import MainLayout from '../layouts/MainLayout.astro';
+import MarkdownPage from '../components/MarkdownPage.astro';
 import { getEntry, render } from 'astro:content';
 
 const entry = await getEntry('pages', 'home');
@@ -10,76 +11,91 @@ if (!entry) {
 
 const { Content } = await render(entry);
 const { hero, intro, themes, relevance } = entry.data;
+const hasStructuredHomepage = hero && intro && themes && relevance;
 ---
 
 <MainLayout
 	title={entry.data.title}
 	description={entry.data.description}
 >
-	<section class="hero">
-		<div class="hero__inner">
-			<p class="eyebrow">{hero.eyebrow}</p>
-			<h1>{hero.title}</h1>
-			<p class="hero__subtitle">{hero.subtitle}</p>
-			<p class="hero__intro">{hero.intro}</p>
-			<div class="cta-row">
-				<a class="button-link button-link--primary" href={hero.primaryCta.href}>
-					{hero.primaryCta.label}
-				</a>
-				<a class="button-link button-link--secondary" href={hero.secondaryCta.href}>
-					{hero.secondaryCta.label}
-				</a>
-			</div>
-		</div>
-	</section>
+	{
+		hasStructuredHomepage ? (
+			<>
+				<section class="hero">
+					<div class="hero__inner">
+						<p class="eyebrow">{hero.eyebrow}</p>
+						<h1>{hero.title}</h1>
+						<p class="hero__subtitle">{hero.subtitle}</p>
+						<p class="hero__intro">{hero.intro}</p>
+						<div class="cta-row">
+							<a class="button-link button-link--primary" href={hero.primaryCta.href}>
+								{hero.primaryCta.label}
+							</a>
+							<a class="button-link button-link--secondary" href={hero.secondaryCta.href}>
+								{hero.secondaryCta.label}
+							</a>
+						</div>
+					</div>
+				</section>
 
-	<section class="section-stack">
-		<div class="section-heading">
-			<p class="eyebrow">{intro.eyebrow}</p>
-			<h2>{intro.heading}</h2>
-		</div>
-		<div class="prose-block">
-			<p>{intro.paragraphs[0]}</p>
-			<p>{intro.paragraphs[1]}</p>
-		</div>
-	</section>
+				<section class="section-stack">
+					<div class="section-heading">
+						<p class="eyebrow">{intro.eyebrow}</p>
+						<h2>{intro.heading}</h2>
+					</div>
+					<div class="prose-block">
+						<p>{intro.paragraphs[0]}</p>
+						<p>{intro.paragraphs[1]}</p>
+					</div>
+				</section>
 
-	<section class="section-stack">
-		<div class="section-heading">
-			<p class="eyebrow">{themes.eyebrow}</p>
-			<h2>{themes.heading}</h2>
-		</div>
-	</section>
+				<section class="section-stack">
+					<div class="section-heading">
+						<p class="eyebrow">{themes.eyebrow}</p>
+						<h2>{themes.heading}</h2>
+					</div>
+				</section>
 
-	<section class="section-grid">
-		{
-			themes.cards.map((card) => (
-				<article class="theme-card">
-					<h3>{card.title}</h3>
-					<p>{card.text}</p>
-				</article>
-			))
-		}
-	</section>
+				<section class="section-grid">
+					{
+						themes.cards.map((card) => (
+							<article class="theme-card">
+								<h3>{card.title}</h3>
+								<p>{card.text}</p>
+							</article>
+						))
+					}
+				</section>
 
-	<section class="section-stack">
-		<div class="section-heading">
-			<p class="eyebrow">{relevance.eyebrow}</p>
-			<h2>{relevance.heading}</h2>
-		</div>
-		<div class="prose-block">
-			<p>{relevance.paragraph}</p>
-			<p>{relevance.closing}</p>
-		</div>
-	</section>
+				<section class="section-stack">
+					<div class="section-heading">
+						<p class="eyebrow">{relevance.eyebrow}</p>
+						<h2>{relevance.heading}</h2>
+					</div>
+					<div class="prose-block">
+						<p>{relevance.paragraph}</p>
+						<p>{relevance.closing}</p>
+					</div>
+				</section>
 
-	<section class="section-stack">
-		<div class="section-heading">
-			<p class="eyebrow">Markdown</p>
-			<h2>Working Draft</h2>
-		</div>
-		<div class="markdown-shell">
-			<Content />
-		</div>
-	</section>
+				<section class="section-stack">
+					<div class="section-heading">
+						<p class="eyebrow">Markdown</p>
+						<h2>Working Draft</h2>
+					</div>
+					<div class="markdown-shell">
+						<Content />
+					</div>
+				</section>
+			</>
+		) : (
+			<MarkdownPage
+				eyebrow={entry.data.eyebrow ?? 'Fractalism'}
+				title={entry.data.title}
+				description={entry.data.description}
+			>
+				<Content />
+			</MarkdownPage>
+		)
+	}
 </MainLayout>

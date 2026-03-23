@@ -3,8 +3,6 @@ title: Essays
 description: Long-form writings from the Fractalism framework. This section is currently in development.
 ---
 
-# Essays
-
 This section will contain longer writings emerging from the Fractalism framework.
 
 These essays are intended as sustained explorations rather than brief notes or isolated concepts. They will be the place where core intuitions are developed in fuller form: where pattern, distortion, resonance, polarity, community, metaphysics, and civilizational structure can be examined with more depth and continuity.
@@ -22,6 +20,13 @@ Over time, the essay section is expected to include writings on themes such as:
 - the rebuilding of human community beyond extraction
 
 Some essays may be conceptual. Others may be more reflective, diagnostic, or synthetic. What they will have in common is a commitment to depth, coherence, and seriousness.
+
+## Manifesto Essay
+
+The first published manifesto essay is now available:
+
+- [The Way of Resonance](/the-way-of-resonance)  
+  A foundational Fractalism manifesto on resonance, friction, flow, and the return to coherence.
 
 ## Current Status
 

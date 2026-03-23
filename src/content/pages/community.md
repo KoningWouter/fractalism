@@ -3,8 +3,6 @@ title: Community
 description: On the need for communities rooted in truth, reciprocity, sobriety, and living alignment rather than inversion.
 ---
 
-# Community
-
 If Fractalism means anything beyond thought, it must eventually touch the question of community.
 
 Not community as branding.

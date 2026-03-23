@@ -3,8 +3,6 @@ title: The 26 Axioms
 description: The foundational axioms of Fractalism, beginning with Axiom 0 and unfolding through metaphysical, mechanical, and phenomenological law.
 ---
 
-# The 26 Axioms
-
 Fractalism is structured around a series of **26 axioms**, beginning with **Axiom 0**. These axioms are not all of the same type. Some describe the deepest ontological nature of reality, some describe the mechanics through which reality unfolds, and others describe how these laws appear in consciousness, history, relation, and lived experience.
 
 Together, they form the structural code of the framework.

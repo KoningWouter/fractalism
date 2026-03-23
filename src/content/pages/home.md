@@ -3,8 +3,6 @@ title: Fractalism
 description: A living framework for truth, resonance, inner sovereignty, and the rebuilding of human community beyond inversion.
 ---
 
-# Fractalism
-
 *A living framework for truth, resonance, inner sovereignty, and the rebuilding of human community beyond inversion.*
 
 Fractalism is an evolving framework for understanding reality through pattern, ethics, consciousness, and scale. It explores how truth, distortion, resonance, service, and symbolic structure unfold across the human, social, and metaphysical layers of life.
