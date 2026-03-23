@@ -1,11 +1,23 @@
 ---
 import MainLayout from '../layouts/MainLayout.astro';
-import PlaceholderPage from '../components/PlaceholderPage.astro';
+import MarkdownPage from '../components/MarkdownPage.astro';
+import { getEntry, render } from 'astro:content';
+
+const entry = await getEntry('pages', 'introduction');
+
+if (!entry) {
+	throw new Error('Missing content entry: pages/introduction.md');
+}
+
+const { Content } = await render(entry);
 ---
 
-<MainLayout title="Introduction | Fractalism" description="Introduction to the Fractalism framework.">
-	<PlaceholderPage
-		title="Introduction"
-		description="This page will introduce the basic orientation, intent, and first premises of Fractalism."
-	/>
+<MainLayout title={`${entry.data.title} | Fractalism`} description={entry.data.description}>
+	<MarkdownPage
+		eyebrow={entry.data.eyebrow}
+		title={entry.data.title}
+		description={entry.data.description}
+	>
+		<Content />
+	</MarkdownPage>
 </MainLayout>

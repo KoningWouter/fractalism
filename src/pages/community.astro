@@ -1,11 +1,23 @@
 ---
 import MainLayout from '../layouts/MainLayout.astro';
-import PlaceholderPage from '../components/PlaceholderPage.astro';
+import MarkdownPage from '../components/MarkdownPage.astro';
+import { getEntry, render } from 'astro:content';
+
+const entry = await getEntry('pages', 'community');
+
+if (!entry) {
+	throw new Error('Missing content entry: pages/community.md');
+}
+
+const { Content } = await render(entry);
 ---
 
-<MainLayout title="Community | Fractalism" description="Community-oriented work within Fractalism.">
-	<PlaceholderPage
-		title="Community"
-		description="This page will outline the community dimension of Fractalism, including shared practice, relation, and service."
-	/>
+<MainLayout title={`${entry.data.title} | Fractalism`} description={entry.data.description}>
+	<MarkdownPage
+		eyebrow={entry.data.eyebrow}
+		title={entry.data.title}
+		description={entry.data.description}
+	>
+		<Content />
+	</MarkdownPage>
 </MainLayout>

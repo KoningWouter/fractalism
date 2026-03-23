@@ -1,0 +1,21 @@
+---
+interface Props {
+	eyebrow?: string;
+	title: string;
+	description?: string;
+}
+
+const { eyebrow = 'Fractalism', title, description } = Astro.props;
+---
+
+<section class="content-shell">
+	<div class="section-heading">
+		<p class="eyebrow">{eyebrow}</p>
+		<h1 class="content-title">{title}</h1>
+		{description && <p class="section-copy">{description}</p>}
+	</div>
+
+	<div class="markdown-shell">
+		<slot />
+	</div>
+</section>

@@ -1,11 +1,23 @@
 ---
 import MainLayout from '../layouts/MainLayout.astro';
-import PlaceholderPage from '../components/PlaceholderPage.astro';
+import MarkdownPage from '../components/MarkdownPage.astro';
+import { getEntry, render } from 'astro:content';
+
+const entry = await getEntry('pages', 'axioms');
+
+if (!entry) {
+	throw new Error('Missing content entry: pages/axioms.md');
+}
+
+const { Content } = await render(entry);
 ---
 
-<MainLayout title="Axioms | Fractalism" description="Foundational axioms of the Fractalism framework.">
-	<PlaceholderPage
-		title="Axioms"
-		description="This page will hold the foundational axioms and first principles that anchor the site."
-	/>
+<MainLayout title={`${entry.data.title} | Fractalism`} description={entry.data.description}>
+	<MarkdownPage
+		eyebrow={entry.data.eyebrow}
+		title={entry.data.title}
+		description={entry.data.description}
+	>
+		<Content />
+	</MarkdownPage>
 </MainLayout>
