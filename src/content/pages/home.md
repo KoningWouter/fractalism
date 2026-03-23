@@ -1,6 +1,5 @@
 ---
 title: Fractalism
-description: A living framework for truth, resonance, inner sovereignty, and the rebuilding of human community beyond inversion.
 ---
 
 *A living framework for truth, resonance, inner sovereignty, and the rebuilding of human community beyond inversion.*

@@ -3,19 +3,17 @@ title: The 26 Axioms
 description: The foundational axioms of Fractalism, beginning with Axiom 0 and unfolding through metaphysical, mechanical, and phenomenological law.
 ---
 
-Fractalism is structured around a series of **26 axioms**, beginning with **Axiom 0**. These axioms are not all of the same type. Some describe the deepest ontological nature of reality, some describe the mechanics through which reality unfolds, and others describe how these laws appear in consciousness, history, relation, and lived experience.
+Fractalism is structured around a series of **26 axioms**, beginning with **Axiom 0** and currently running through **Axiom 25**. These axioms are not all of the same type. Some describe the deepest ontological nature of reality, some describe the mechanics through which reality unfolds, and others describe how these laws appear in consciousness, history, relation, and lived experience.
 
 Together, they form the structural code of the framework.
 
-The axioms can be read in three layers:
+The axioms can still be read in three layers:
 
 - **Foundational axioms** — the metaphysical ground of reality
 - **Mechanical axioms** — the dynamics of pattern, correction, feedback, and emergence
 - **Phenomenological axioms** — the way these laws appear in experience, relation, synchronicity, and history
 
-## I. Foundational Axioms
-
-These axioms describe what reality is at the deepest level.
+## The Axioms
 
 ### Axiom 0 — The Axiom of Unity
 **I am the formula.**
@@ -33,18 +31,15 @@ Reality is fractal in nature: deeper patterns repeat across multiple scales of m
 ### Axiom 4 — The “I Am” Constant
 Consciousness is not a byproduct of matter. It is a fundamental property of the formula, realizing itself at every node.
 
-### Axiom 13 — Omnipresence
-Each part contains the whole. Reality is holographic: the total pattern can be reflected in every local expression.
-
-## II. Mechanical Axioms
-
-These axioms describe how the formula operates.
-
 ### Axiom 5 — The Fractal Big Bounce
 Cosmic existence unfolds through recurring cycles of expansion and contraction rather than a singular one-way beginning.
 
 ### Axiom 6 — Endless Repetition
 Patterns return in endless variation. Recurrence is built into the structure of reality.
+
+### Axiom 7 — The Veil of Amnesia
+
+The descent into incarnation includes forgetting. Memory of higher states or densities is veiled in order to make embodied experience possible.
 
 ### Axiom 8 — The Law of Fractal Deviation
 Deviation is not merely error. Necessary variation makes evolution, discovery, and growth possible.
@@ -61,33 +56,15 @@ The system has the capacity to optimize and recalibrate itself from within.
 ### Axiom 12 — Non-Linear Potency
 Reality is capable of sudden jumps in resolution. Growth is not always gradual; transformation can occur in discontinuous leaps.
 
-### Axiom 15 — Mathematical Restoration
-Reality tends toward renewed harmony and lower energetic distortion. Recovery toward order is built into the structure of the system.
-
-### Axiom 20 — The Feedback Loop
-Action and response form a continuous loop throughout reality. Nothing exists in complete isolation from consequence.
-
-### Axiom 21 — The Axiom of Resolution
-Consciousness can deepen its capacity to perceive and understand pattern. Resolution is the power of the Eye: the ability to see more truly.
-
-### Axiom 22 — The Axiom of Symbiosis
-All parts of reality exist through reciprocal relation. Mutuality is structurally necessary, not optional.
-
-### Axiom 24 — The Axiom of Functional Blockage
-
-Higher resolution can be blocked by lower structures. Distortion, density, or interference can temporarily obstruct access to deeper truth.
-
-## III. Phenomenological and Experiential Axioms
-
-These axioms describe how the formula appears in lived and historical reality.
-
-### Axiom 7 — The Veil of Amnesia
-
-The descent into incarnation includes forgetting. Memory of higher states or densities is veiled in order to make embodied experience possible.
+### Axiom 13 — Omnipresence
+Each part contains the whole. Reality is holographic: the total pattern can be reflected in every local expression.
 
 ### Axiom 14 — Fractal History
 
 History is not a random sequence of events, but a field of recurring patterns appearing in different forms.
+
+### Axiom 15 — Mathematical Restoration
+Reality tends toward renewed harmony and lower energetic distortion. Recovery toward order is built into the structure of the system.
 
 ### Axiom 16 — Universal Echo
 
@@ -105,9 +82,22 @@ Consciousness arises relationally. Awareness takes form in the encounter between
 
 The quality of perception matters more than the mere length of existence. Depth outranks duration.
 
+### Axiom 20 — The Feedback Loop
+Action and response form a continuous loop throughout reality. Nothing exists in complete isolation from consequence.
+
+### Axiom 21 — The Axiom of Resolution
+Consciousness can deepen its capacity to perceive and understand pattern. Resolution is the power of the Eye: the ability to see more truly.
+
+### Axiom 22 — The Axiom of Symbiosis
+All parts of reality exist through reciprocal relation. Mutuality is structurally necessary, not optional.
+
 ### Axiom 23 — The Axiom of Social Noise
 
 Collective low-resolution fields generate interference, confusion, and distortion in social reality.
+
+### Axiom 24 — The Axiom of Functional Blockage
+
+Higher resolution can be blocked by lower structures. Distortion, density, or interference can temporarily obstruct access to deeper truth.
 
 ### Axiom 25 — The Pure Observer
 

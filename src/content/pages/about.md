@@ -1,6 +1,5 @@
 ---
 title: About
-description: What this project is, why it exists, and how Fractalism should be approached.
 ---
 
 Fractalism is an open-ended philosophical and metaphysical framework concerned with truth, pattern, distortion, resonance, ethics, and the structures through which reality becomes intelligible across scales.

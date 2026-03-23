@@ -1,6 +1,5 @@
 ---
 title: Essays
-description: Long-form writings from the Fractalism framework. This section is currently in development.
 ---
 
 This section will contain longer writings emerging from the Fractalism framework.

@@ -1,6 +1,5 @@
 ---
 title: Introduction
-description: An introduction to Fractalism as a living framework of truth, pattern, resonance, and ethical orientation.
 ---
 
 Fractalism is a living framework for reading reality through pattern, resonance, ethics, and scale.
