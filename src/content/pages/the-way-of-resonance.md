@@ -1,4 +1,3 @@
-
 ---
 title: The Way of Resonance
 description: A foundational Fractalism manifesto on resonance, friction, flow, and the return to coherence.
@@ -44,7 +43,8 @@ Because we are the resonance we seek.
 ---
 
 ## Chapter 1
-## Practical Application
+
+### Practical Application
 
 ### The Diagnostics of the Day
 
@@ -85,26 +85,30 @@ Flow may appear as:
 
 Because you are in sync with the fractal, external events begin to align more effortlessly with your movement.
 
-• Effortless action (Wu Wei): you do much, yet it does not drain you
-The energy comes from the pattern itself, not from ego-driven force.
-3. The Choice
-Forcing vs. Navigating
+- **Effortless action (Wu Wei)**: you do much, yet it does not drain you. The energy comes from the pattern itself, not from ego-driven force.
+
+## 3. The Choice
+
+### Forcing vs. Navigating
 
 Fractalism does not ask you to abandon your will.
 
 It asks you to refine it.
 
-• Forcing means using free will to impose an outcome that does not fit the current vibration of the system. This immediately builds tension for Elastic Correction (Axiom 9).
-• Navigating means using free will to recognize the current and adjust your course accordingly. You do not choose the river, but you do choose how to set your sails within its movement.
-Practical Exercise
-The Resonance Check
+- **Forcing** means using free will to impose an outcome that does not fit the current vibration of the system. This immediately builds tension for Elastic Correction (Axiom 9).
+- **Navigating** means using free will to recognize the current and adjust your course accordingly. You do not choose the river, but you do choose how to set your sails within its movement.
+
+### Practical Exercise
+
+#### The Resonance Check
 
 With every major decision, or every stubborn emotional state, ask yourself:
 
 > Am I resonating with reality as it is, or am I using my will to create a deviation that produces friction?
 
-───
-Conclusion of This Chapter
+---
+
+## Conclusion of This Chapter
 
 To live according to Fractalism is to practice the art of minimizing unnecessary friction.
 

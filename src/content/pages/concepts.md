@@ -74,7 +74,8 @@ These are not simplistic moral labels, but deep orientations of consciousness, r
 - the concentration of power through asymmetry
 
 Fractalism does not treat this polarity as abstract metaphysics only. It studies how these orientations appear concretely in systems, communities, technologies, and habits of life.
-The Void
+
+## The Void
 
 The Void is one of the most important and easily misunderstood concepts within Fractalism.
 
@@ -83,7 +84,8 @@ It is not merely emptiness in the nihilistic sense. It can also be encountered a
 The Void is difficult because it deprives the self of noise, distraction, and substitute meaning. But for that same reason, it can become a site of truth, reset, purification, and reorientation.
 
 Fractalism sees the Void not as a dead absence, but as a condition in which reality may become less mediated and more directly felt.
-Polarity
+
+## Polarity
 
 Polarity refers to directional orientation within consciousness and structure.
 
@@ -92,7 +94,8 @@ Not all movement is neutral. Human beings, communities, and systems tend to orie
 Fractalism uses polarity to understand why similar outer forms can carry radically different inner logics.
 
 Two communities may both speak of care, freedom, or spirituality, while embodying entirely different polarities.
-Scale
+
+## Scale
 
 Scale matters deeply in Fractalism.
 
@@ -100,13 +103,14 @@ A pattern that appears in the individual may reappear in the family, the institu
 
 Fractalism therefore pays close attention to scale transitions:
 
-• from inner life to social structure
-• from symbol to institution
-• from habit to worldview
-• from local distortion to civilizational pattern
+- from inner life to social structure
+- from symbol to institution
+- from habit to worldview
+- from local distortion to civilizational pattern
 
 Understanding scale is part of learning to read reality fractally.
-Fractality
+
+## Fractality
 
 Fractality is the principle that deeper patterns recur across levels of existence.
 
@@ -115,7 +119,8 @@ This is not a claim that everything is reducible to one formula, but that form, 
 Fractality allows one to move between scales without collapsing them into sameness.
 
 It is one of the central reasons Fractalism can function as a framework rather than just a collection of opinions.
-Discernment
+
+## Discernment
 
 Discernment is the practical faculty by which truth, distortion, resonance, inversion, and polarity are distinguished.
 
@@ -123,12 +128,13 @@ Without discernment, concepts become decorative. With discernment, they become u
 
 Fractalism is ultimately interested in cultivating discernment that is:
 
-• intellectually serious
-• ethically alert
-• symbolically literate
-• resistant to glamour, manipulation, and inversion
-• capable of recognizing living coherence
-Closing
+- intellectually serious
+- ethically alert
+- symbolically literate
+- resistant to glamour, manipulation, and inversion
+- capable of recognizing living coherence
+
+## Closing
 
 These concepts are not final definitions carved in stone. They are working distinctions within a living framework.
 

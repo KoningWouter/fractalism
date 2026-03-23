@@ -1,4 +1,3 @@
-
 ---
 title: Introduction
 description: An introduction to Fractalism as a living framework of truth, pattern, resonance, and ethical orientation.
@@ -71,20 +70,22 @@ The Void is not understood merely as dead emptiness or nihilistic absence. It ca
 For this reason, the Void can be terrifying or healing depending on the condition of the one who enters it. It reveals what cannot survive without noise, stimulation, or inversion.
 
 Fractalism treats the Void as a serious experiential and metaphysical category, not merely a metaphor.
-Fractal Reality
+
+## Fractal Reality
 
 The word Fractalism points toward the conviction that reality is not only complex, but recursively structured.
 
 What happens at one scale often reflects what happens at another:
 
-• the psyche mirrors the civilization
-• the family mirrors the system
-• the symbolic mirrors the political
-• metaphysical distortion echoes through social form
-• small acts can reveal large architectures
+- the psyche mirrors the civilization
+- the family mirrors the system
+- the symbolic mirrors the political
+- metaphysical distortion echoes through social form
+- small acts can reveal large architectures
 
 This does not mean that everything is identical. It means that pattern-recognition across scales can become a path to deeper understanding.
-Toward Living Orientation
+
+## Toward Living Orientation
 
 Fractalism is not merely an attempt to analyze collapse, corruption, or inversion. Its deeper aim is orientation.
 
@@ -92,12 +93,13 @@ If reality is patterned, then one can learn to orient within it. If distortion h
 
 For that reason, Fractalism points not only toward critique, but toward reconstruction:
 
-• inner coherence
-• sober discernment
-• ethical seriousness
-• resonance-based community
-• forms of life less shaped by extraction and simulation
-Closing
+- inner coherence
+- sober discernment
+- ethical seriousness
+- resonance-based community
+- forms of life less shaped by extraction and simulation
+
+## Closing
 
 Fractalism is an attempt to read reality as a living pattern rather than a dead mechanism.
 

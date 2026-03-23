@@ -73,17 +73,18 @@ Not without structure.
 
 A genuine STO-oriented community may not require rigid power hierarchy, but it cannot exist without role differentiation, responsibility, and forms of discernment. Otherwise hidden hierarchy quickly replaces visible hierarchy, and informal power becomes harder to correct.
 
-Th... Read more
+Such a community may still require:
 
-• temporary coordination
-• recognized competence
-• delegated responsibility
-• protective boundaries
-• correction without humiliation
-• structure without cultic submission
+- temporary coordination
+- recognized competence
+- delegated responsibility
+- protective boundaries
+- correction without humiliation
+- structure without cultic submission
 
 What it must avoid is the crystallization of unaccountable power.
-Small Before Large
+
+## Small Before Large
 
 Fractalism has no interest in mass identity for its own sake.
 
@@ -94,30 +95,32 @@ How do we grow as fast as possible?
 
 But rather:
 What kind of field can remain clean enough to become worth growing at all?
-Field Quality
+
+## Field Quality
 
 A real community is not only defined by its stated principles, but by the quality of field it actually produces.
 
 Does it generate:
 
-• more clarity?
-• more trust?
-• more steadiness?
-• more responsibility?
-• more vitality?
-• more courage to remain truthful?
+- more clarity?
+- more trust?
+- more steadiness?
+- more responsibility?
+- more vitality?
+- more courage to remain truthful?
 
 Or does it generate:
 
-• confusion?
-• status seeking?
-• dependency?
-• atmosphere manipulation?
-• covert competition?
-• emotional exhaustion?
+- confusion?
+- status seeking?
+- dependency?
+- atmosphere manipulation?
+- covert competition?
+- emotional exhaustion?
 
 The field itself tells the truth, often before language does.
-Toward a Real STO Community
+
+## Toward a Real STO Community
 
 The phrase “STO community” should not be used cheaply.
 
@@ -129,17 +132,18 @@ It would not flatten moral distinctions in the name of peace.
 
 It would need:
 
-• discernment
-• boundaries
-• ethical seriousness
-• truthfulness
-• willingness to self-examine
-• willingness to protect what is living from what corrodes it
+- discernment
+- boundaries
+- ethical seriousness
+- truthfulness
+- willingness to self-examine
+- willingness to protect what is living from what corrodes it
 
 The challenge is not merely finding people who want belonging. Many people want belonging.
 
 The challenge is finding people willing to become the kind of presence that makes living community possible.
-Closing
+
+## Closing
 
 Community is where philosophy either begins to incarnate or reveals its own emptiness.
 

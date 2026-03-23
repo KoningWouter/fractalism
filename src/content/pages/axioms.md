@@ -76,47 +76,57 @@ All parts of reality exist through reciprocal relation. Mutuality is structurall
 ### Axiom 24 — The Axiom of Functional Blockage
 
 Higher resolution can be blocked by lower structures. Distortion, density, or interference can temporarily obstruct access to deeper truth.
-III. Phenomenological and Experiential Axioms
+
+## III. Phenomenological and Experiential Axioms
 
 These axioms describe how the formula appears in lived and historical reality.
-Axiom 7 — The Veil of Amnesia
+
+### Axiom 7 — The Veil of Amnesia
 
 The descent into incarnation includes forgetting. Memory of higher states or densities is veiled in order to make embodied experience possible.
-Axiom 14 — Fractal History
+
+### Axiom 14 — Fractal History
 
 History is not a random sequence of events, but a field of recurring patterns appearing in different forms.
-Axiom 16 — Universal Echo
+
+### Axiom 16 — Universal Echo
 
 Manifest reality reflects Source through echo, resonance, and symbolic recurrence.
-Axiom 17 — Decoded Coincidence
+
+### Axiom 17 — Decoded Coincidence
 
 Synchronicity is not meaningless accident, but data carried within the formula.
-Axiom 18 — Relation-Based Consciousness
+
+### Axiom 18 — Relation-Based Consciousness
 
 Consciousness arises relationally. Awareness takes form in the encounter between observer and observed.
-Axiom 19 — Resolution Over Duration
+
+### Axiom 19 — Resolution Over Duration
 
 The quality of perception matters more than the mere length of existence. Depth outranks duration.
-Axiom 23 — The Axiom of Social Noise
+
+### Axiom 23 — The Axiom of Social Noise
 
 Collective low-resolution fields generate interference, confusion, and distortion in social reality.
-Axiom 25 — The Pure Observer
+
+### Axiom 25 — The Pure Observer
 
 There exists a mode of being in which consciousness rests without identification with noise, distortion, or reactive turbulence.
-How to Read the Axioms
+
+## How to Read the Axioms
 
 The later axioms are not less important than the earlier ones, but they do operate at different levels.
 
-• The foundational axioms describe ontological structure.
-• The mechanical axioms describe process, recurrence, correction, and unfolding.
-• The phenomenological axioms describe how these laws appear in consciousness, history, relation, and lived experience.
+- The foundational axioms describe ontological structure.
+- The mechanical axioms describe process, recurrence, correction, and unfolding.
+- The phenomenological axioms describe how these laws appear in consciousness, history, relation, and lived experience.
 
 Together, they form a layered architecture rather than a flat list.
-Closing
+
+## Closing
 
 The 26 axioms of Fractalism are not meant as decorative abstractions. They are the structural laws of the framework — the deep code through which reality, consciousness, distortion, correction, and meaning can be read across scales.
 
 They do not close inquiry.
 
 They give it a more coherent starting point.
-
