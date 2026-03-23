@@ -9,7 +9,71 @@ Together, they form the structural code of the framework.
 
 The axioms can be read in three layers:
 
-- **Foundational axioms** —... Read more
+- **Foundational axioms** — the metaphysical ground of reality
+- **Mechanical axioms** — the dynamics of pattern, correction, feedback, and emergence
+- **Phenomenological axioms** — the way these laws appear in experience, relation, synchronicity, and history
+
+## I. Foundational Axioms
+
+These axioms describe what reality is at the deepest level.
+
+### Axiom 0 — The Axiom of Unity
+**I am the formula.**
+There is no final separation between source, law, and observer. Reality is not composed of isolated parts standing apart from one another, but of a living unity expressing itself through pattern.
+
+### Axiom 1 — The Universal Equation
+Everything is derived from the fractal formula that shapes form, relation, and the laws of action and reaction.
+
+### Axiom 2 — Timelessness
+There is no absolute beginning or end. The formula exists in an eternal Now without ultimate origin in linear time.
+
+### Axiom 3 — Scaling
+Reality is fractal in nature: deeper patterns repeat across multiple scales of manifestation.
+
+### Axiom 4 — The “I Am” Constant
+Consciousness is not a byproduct of matter. It is a fundamental property of the formula, realizing itself at every node.
+
+### Axiom 13 — Omnipresence
+Each part contains the whole. Reality is holographic: the total pattern can be reflected in every local expression.
+
+## II. Mechanical Axioms
+
+These axioms describe how the formula operates.
+
+### Axiom 5 — The Fractal Big Bounce
+Cosmic existence unfolds through recurring cycles of expansion and contraction rather than a singular one-way beginning.
+
+### Axiom 6 — Endless Repetition
+Patterns return in endless variation. Recurrence is built into the structure of reality.
+
+### Axiom 8 — The Law of Fractal Deviation
+Deviation is not merely error. Necessary variation makes evolution, discovery, and growth possible.
+
+### Axiom 9 — Elastic Correction
+Whenever friction, imbalance, or distortion becomes too great, reality generates corrective recoil to restore balance. In experiential terms, this is closely related to karma.
+
+### Axiom 10 — Timeless Transition
+Reality moves through a process of involution into matter and evolution back toward Source.
+
+### Axiom 11 — Self-Correction
+The system has the capacity to optimize and recalibrate itself from within.
+
+### Axiom 12 — Non-Linear Potency
+Reality is capable of sudden jumps in resolution. Growth is not always gradual; transformation can occur in discontinuous leaps.
+
+### Axiom 15 — Mathematical Restoration
+Reality tends toward renewed harmony and lower energetic distortion. Recovery toward order is built into the structure of the system.
+
+### Axiom 20 — The Feedback Loop
+Action and response form a continuous loop throughout reality. Nothing exists in complete isolation from consequence.
+
+### Axiom 21 — The Axiom of Resolution
+Consciousness can deepen its capacity to perceive and understand pattern. Resolution is the power of the Eye: the ability to see more truly.
+
+### Axiom 22 — The Axiom of Symbiosis
+All parts of reality exist through reciprocal relation. Mutuality is structurally necessary, not optional.
+
+### Axiom 24 — The Axiom of Functional Blockage
 
 Higher resolution can be blocked by lower structures. Distortion, density, or interference can temporarily obstruct access to deeper truth.
 III. Phenomenological and Experiential Axioms
@@ -55,3 +119,4 @@ The 26 axioms of Fractalism are not meant as decorative abstractions. They are t
 They do not close inquiry.
 
 They give it a more coherent starting point.
+
