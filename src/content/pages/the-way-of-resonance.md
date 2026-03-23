@@ -1,5 +1,6 @@
 ---
 title: The Way of Resonance
+description: A foundational Fractalism manifesto on resonance, friction, flow, and the return to coherence.
 ---
 
 ## Foreword

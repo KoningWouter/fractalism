@@ -1,5 +1,6 @@
 ---
 title: Core Concepts
+description: The central concepts of Fractalism, including truth, inversion, resonance, polarity, and the Void.
 ---
 
 Fractalism is not built from isolated ideas, but from a set of recurring concepts that illuminate one another.
