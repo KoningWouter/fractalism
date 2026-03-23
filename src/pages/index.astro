@@ -1,11 +1,100 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
+import MainLayout from '../layouts/MainLayout.astro';
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+const themeCards = [
+	{
+		title: 'Truth and distortion',
+		text: 'Fractalism treats truth as something that clarifies pattern and restores alignment. Distortion appears wherever language, power, or perception are bent away from reality and made to serve inversion.',
+	},
+	{
+		title: 'Resonance and field quality',
+		text: 'Every thought, structure, and relationship carries a field quality. Fractalism asks not only whether something functions, but what atmosphere it generates and what kind of life it amplifies.',
+	},
+	{
+		title: 'STO and STS',
+		text: 'Service-to-Others and Service-to-Self describe deeper moral orientations rather than surface identities. They help name the divergence between coherence that nourishes life and intelligence that turns inward toward domination.',
+	},
+	{
+		title: 'The Void',
+		text: 'The Void is not mere emptiness but the threshold where illusion thins and foundations are tested. It is the place of interruption, surrender, and contact with what remains when the false falls away.',
+	},
+	{
+		title: 'Community beyond inversion',
+		text: 'Fractalism looks toward forms of community built on discernment, reciprocity, and inner responsibility. It asks how human belonging can be rebuilt without reproducing the manipulations and dependencies of inverted systems.',
+	},
+];
 ---
 
-<Layout>
-	<Welcome />
-</Layout>
+<MainLayout
+	title="Fractalism"
+	description="A living framework for truth, resonance, inner sovereignty, and the rebuilding of human community beyond inversion."
+>
+	<section class="hero">
+		<div class="hero__inner">
+			<p class="eyebrow">Doctrine Site</p>
+			<h1>Fractalism</h1>
+			<p class="hero__subtitle">
+				A living framework for truth, resonance, inner sovereignty, and the rebuilding of
+				human community beyond inversion.
+			</p>
+			<p class="hero__intro">
+				Fractalism is an evolving framework for understanding reality through pattern, ethics,
+				consciousness, and scale. It explores how truth, distortion, resonance, service, and
+				symbolic structure unfold across the human, social, and metaphysical layers of life.
+			</p>
+			<div class="cta-row">
+				<a class="button-link button-link--primary" href="/introduction">Read the Introduction</a>
+				<a class="button-link button-link--secondary" href="/concepts">Explore Core Concepts</a>
+			</div>
+		</div>
+	</section>
+
+	<section class="section-stack">
+		<div class="section-heading">
+			<p class="eyebrow">Orientation</p>
+			<h2>What is Fractalism?</h2>
+		</div>
+		<div class="prose-block">
+			<p>
+				Fractalism is not a brand, a conventional ideology, or a fixed dogma. It is a living
+				orientation system: a way of reading reality that seeks coherence across inner life,
+				social structure, spiritual polarity, and the symbolic architecture of existence.
+			</p>
+			<p>It begins from a simple intuition: what is true tends to echo across scales.</p>
+		</div>
+	</section>
+
+	<section class="section-stack">
+		<div class="section-heading">
+			<p class="eyebrow">Themes</p>
+			<h2>Core Themes</h2>
+		</div>
+	</section>
+
+	<section class="section-grid">
+		{
+			themeCards.map((card) => (
+				<article class="theme-card">
+					<h3>{card.title}</h3>
+					<p>{card.text}</p>
+				</article>
+			))
+		}
+	</section>
+
+	<section class="section-stack">
+		<div class="section-heading">
+			<p class="eyebrow">Relevance</p>
+			<h2>Why it matters</h2>
+		</div>
+		<div class="prose-block">
+			<p>
+				Modern systems are increasingly optimized for distraction, extraction, dependency, and
+				emotional fragmentation. Fractalism asks what becomes possible when attention is
+				reclaimed, discernment is sharpened, and reality is approached as a living pattern
+				rather than a dead machine.
+			</p>
+			<p>This is not a finished system. It is a living map under refinement.</p>
+		</div>
+	</section>
+</MainLayout>
