@@ -14,6 +14,8 @@ Fractalism is neither a brand nor a mood. It seeks to recover intelligibility ac
 
 **What is true tends to echo across scales.**
 
+![Service to Self versus Service to Others](../assets/stsvssto.png)
+
 ## Core Themes
 
 ### Truth and distortion
