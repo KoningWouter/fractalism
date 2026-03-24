@@ -14,8 +14,6 @@ Fractalism is neither a brand nor a mood. It seeks to recover intelligibility ac
 
 **What is true tends to echo across scales.**
 
-![Service to Self versus Service to Others](/stsvssto.png)
-
 ## Core Themes
 
 ### Truth and distortion
@@ -26,6 +24,8 @@ Some things declare themselves before they are fully explained. A field can shar
 
 ### STO and STS
 Service-to-others and service-to-self are treated as real polarities, not decorative metaphysics. They mark opposed logics of consciousness, relation, and power. Entire systems are built in the image of one or the other.
+
+![Service to Self versus Service to Others](/stsvssto.png)
 
 ### The Void
 The Void names a zone where false support gives way. It is depth without ornament, silence without anesthesia, potential before collapse into habit. Most structures cannot survive it.
