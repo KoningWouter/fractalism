@@ -58,7 +58,7 @@ This site does not ask for belief. It offers an instrument: something to think w
 
 ## Reach Me
 
-If you want to reach me directly, the clearest way is through Nostr. You can find my public address here:
+For those who wish to follow the work or make contact, a Nostr profile is available here: 
 
 [npub1dh4734l2gqvh35ctpx2tlhswksayx0czk6fhkldwcuupu4xtzm4sw26l6j](https://njump.me/npub1dh4734l2gqvh35ctpx2tlhswksayx0czk6fhkldwcuupu4xtzm4sw26l6j)
 
