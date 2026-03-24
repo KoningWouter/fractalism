@@ -1,6 +1,6 @@
 ---
 title: Introduction
-description: The first orientation to Fractalism: its governing premise, central tensions, and metaphysical scope.
+description: "The first orientation to Fractalism: its governing premise, central tensions, and metaphysical scope."
 ---
 
 Fractalism is a method for reading reality through pattern, distortion, polarity, ethics, and scale.
