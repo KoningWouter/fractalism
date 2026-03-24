@@ -1,6 +1,6 @@
 ---
 title: Introduction
-description: An introduction to Fractalism as a framework of truth, pattern, distortion, and metaphysical orientation.
+description: The first orientation to Fractalism: its governing premise, central tensions, and metaphysical scope.
 ---
 
 Fractalism is a method for reading reality through pattern, distortion, polarity, ethics, and scale.
