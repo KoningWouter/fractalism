@@ -56,6 +56,12 @@ Read slowly. Compare concepts. Notice recurring structures. Test whether an idea
 
 This site does not ask for belief. It offers an instrument: something to think with, test against reality, and use for orientation.
 
+## Reach Me
+
+If you want to reach me directly, the clearest way is through Nostr. You can find my public address here:
+
+[npub1dh4734l2gqvh35ctpx2tlhswksayx0czk6fhkldwcuupu4xtzm4sw26l6j](https://njump.me/npub1dh4734l2gqvh35ctpx2tlhswksayx0czk6fhkldwcuupu4xtzm4sw26l6j)
+
 ## Closing
 
 Fractalism exists to restore pattern-recognition, ethical seriousness, and metaphysical depth under conditions of inversion and fragmentation.
