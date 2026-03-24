@@ -1,6 +1,6 @@
 ---
 title: The 26 Axioms
-description: The foundational axioms of Fractalism, beginning with Axiom 0 and unfolding through metaphysical, mechanical, and phenomenological law.
+description: "The doctrinal core of Fractalism: 26 axioms arranged across ontological, mechanical, and phenomenological layers."
 ---
 
 Fractalism is articulated through **26 axioms**, beginning with **Axiom 0** and continuing through **Axiom 25**. They do not all speak at the same level. Some concern ontology. Some concern operation. Some concern appearance in consciousness, history, relation, and lived experience.
