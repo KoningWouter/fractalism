@@ -10,6 +10,8 @@ Fractalism is a doctrine of pattern, truth, distortion, polarity, and scale. It 
 
 ## What is Fractalism?
 
+![Service to Self versus Service to Others](/stsvssto.png)
+
 Fractalism is neither a brand nor a mood. It seeks to recover intelligibility across domains that modern thought prefers to keep severed: inner life, symbolic form, social order, metaphysical orientation.
 
 **What is true tends to echo across scales.**
@@ -24,8 +26,6 @@ Some things declare themselves before they are fully explained. A field can shar
 
 ### STO and STS
 Service-to-others and service-to-self are treated as real polarities, not decorative metaphysics. They mark opposed logics of consciousness, relation, and power. Entire systems are built in the image of one or the other.
-
-![Service to Self versus Service to Others](/stsvssto.png)
 
 ### The Void
 The Void names a zone where false support gives way. It is depth without ornament, silence without anesthesia, potential before collapse into habit. Most structures cannot survive it.

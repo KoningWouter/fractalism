@@ -57,6 +57,8 @@ A central polarity in Fractalism is the distinction between **service-to-others 
 
 These are deep orientations of consciousness, relation, and structure.
 
+![Service to Self versus Service to Others](/stsvssto.png)
+
 **STO** is associated with:
 - reciprocity
 - truthful alignment
