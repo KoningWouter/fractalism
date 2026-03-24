@@ -309,6 +309,7 @@ p {
 
 .markdown-shell {
 	max-width: var(--measure);
+	margin: 0 auto;
 	padding: 2rem;
 	background: rgba(20, 28, 39, 0.48);
 	border: 1px solid var(--border);
