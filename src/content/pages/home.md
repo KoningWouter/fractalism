@@ -41,14 +41,14 @@ Modern systems train fragmentation. They reward dependency, noise, managed appet
 
 - [Introduction](/introduction)
 - [How to Read Fractalism](/how-to-read-fractalism)
+- [Core Concepts](/concepts)
+- [The 26 Axioms](/axioms)
 - [Living Fractalism](/living-fractalism)
 - [The Wanderer](/the-wanderer)
 - [Team 3](/team-3)
-- [Core Concepts](/concepts)
-- [The 26 Axioms](/axioms)
+- [Essays](/essays)
 - [Community](/community)
 - [About](/about)
-- [Essays](/essays)
 
 ## Closing
 
