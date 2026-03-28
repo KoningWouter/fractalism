@@ -58,12 +58,14 @@ function parseFeed(xml: string): DispatchItem[] {
 			const id = getTag(block, 'id') || `${published}-${index}`;
 			const excerpt = toExcerpt(content || title);
 
-			return { id, title, excerpt, url, published };
+			return { id, title, excerpt, url, published, rawContent: content };
 		})
 		.filter((item) => item.url)
 		.filter((item) => item.excerpt.length > 0)
 		.filter((item) => !/^repost\b/i.test(item.title))
-		.filter((item) => !/^re:/i.test(item.title));
+		.filter((item) => !/^re:/i.test(item.title))
+		.filter((item) => !/^in reply to\b/i.test(item.rawContent))
+		.map(({ rawContent, ...item }) => item);
 }
 
 export async function getDispatches(limit = 12): Promise<DispatchItem[]> {
