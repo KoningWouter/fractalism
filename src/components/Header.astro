@@ -5,6 +5,7 @@ const navItems = [
 	{ href: '/how-to-read-fractalism', label: 'How to Read' },
 	{ href: '/concepts', label: 'Core Concepts' },
 	{ href: '/axioms', label: 'Axioms' },
+	{ href: '/the-void', label: 'The Void' },
 	{ href: '/living-fractalism', label: 'Living Fractalism' },
 	{ href: '/the-wanderer', label: 'The Wanderer' },
 	{ href: '/team-3', label: 'Team 3' },
@@ -38,15 +39,6 @@ const currentPath = Astro.url.pathname;
 								aria-current={currentPath === item.href ? 'page' : undefined}
 							>
 								{item.label}
-							</a>
-						</li>
-					))
-				}
-			</ul>
-		</nav>
-	</div>
-</header>
-item.label}
 							</a>
 						</li>
 					))
