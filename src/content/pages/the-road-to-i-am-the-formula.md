@@ -1,6 +1,6 @@
 ---
 title: The Road to I Am the Formula
-description: A human language essay on co-creation, consciousness, participation in reality, and what it could mean to say I Am the Formula.
+description: An essay on co-creation, consciousness, participation in reality, and what it could mean to say I Am the Formula.
 eyebrow: Essays
 ---
 
