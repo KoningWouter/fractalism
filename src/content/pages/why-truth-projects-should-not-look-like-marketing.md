@@ -1,6 +1,6 @@
 ---
 title: Why Truth Projects Should Not Look Like Marketing
-description: A human language essay on why projects built around truth should resist seduction, behavioral manipulation, and the design logic of modern marketing.
+description: An essay on why projects built around truth should resist seduction, behavioral manipulation, and the design logic of modern marketing.
 eyebrow: Essays
 ---
 
