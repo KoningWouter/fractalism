@@ -21,12 +21,15 @@ Over time, this section will gather longer writings on themes such as:
 
 Some essays will be conceptual. Others diagnostic. Others synthetic. Category matters less than whether the writing deepens intelligibility and gives the framework more durable form.
 
-## Manifesto Essay
+## Published Essays
 
-The first published manifesto essay is available here:
+The first published essays are available here:
 
 - [The Way of Resonance](/the-way-of-resonance)  
   A foundational Fractalism essay on resonance, friction, flow, and the return to coherence.
+
+- [Astro, Cloudflare Pages, and the One Cent Site](/astro-cloudflare-and-the-one-cent-site)  
+  Why this stack fits Fractalism, why text matters more than flashy design, and how a real website can now exist for almost nothing.
 
 ## Current Status
 
