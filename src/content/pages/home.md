@@ -48,10 +48,10 @@ Modern systems train fragmentation. They reward dependency, noise, managed appet
 - [Team 3](/team-3)
 - [Essays](/essays)
 - [Epistemic Hygiene](/epistemic-hygiene)
-- [The Void](/the-void)
 - [Community](/community)
 - [About](/about)
 
 ## Closing
 
 **This is not a finished system. It is an architecture under pressure.**
+system. It is an architecture under pressure.**

@@ -10,7 +10,6 @@ const navItems = [
 	{ href: '/team-3', label: 'Team 3' },
 	{ href: '/essays', label: 'Essays' },
 	{ href: '/epistemic-hygiene', label: 'Epistemic Hygiene' },
-	{ href: '/the-void', label: 'The Void' },
 	{ href: '/community', label: 'Community' },
 	{ href: '/about', label: 'About' },
 ];
@@ -39,6 +38,15 @@ const currentPath = Astro.url.pathname;
 								aria-current={currentPath === item.href ? 'page' : undefined}
 							>
 								{item.label}
+							</a>
+						</li>
+					))
+				}
+			</ul>
+		</nav>
+	</div>
+</header>
+item.label}
 							</a>
 						</li>
 					))
