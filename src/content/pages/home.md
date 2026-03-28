@@ -47,6 +47,7 @@ Modern systems train fragmentation. They reward dependency, noise, managed appet
 - [The Wanderer](/the-wanderer)
 - [Team 3](/team-3)
 - [Essays](/essays)
+- [Epistemic Hygiene](/epistemic-hygiene)
 - [Community](/community)
 - [About](/about)
 
