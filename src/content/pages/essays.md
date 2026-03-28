@@ -32,10 +32,10 @@ The first published essays are available here:
   Why this stack fits Fractalism, why text matters more than flashy design, and how a real website can now exist for almost nothing.
 
 - [The Road to I Am the Formula](/the-road-to-i-am-the-formula)  
-  A human language essay on co creation, consciousness, participation in reality, and what it could mean to say I Am the Formula.
+  An essay on co creation, consciousness, participation in reality, and what it could mean to say I Am the Formula.
 
 - [Why Truth Projects Should Not Look Like Marketing](/why-truth-projects-should-not-look-like-marketing)  
-  A human language essay on why projects built around truth should resist seduction, behavioral manipulation, and the design logic of modern marketing.
+  An essay on why projects built around truth should resist seduction, behavioral manipulation, and the design logic of modern marketing.
 
 ## Current Status
 

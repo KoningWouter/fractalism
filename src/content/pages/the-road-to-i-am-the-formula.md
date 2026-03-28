@@ -12,7 +12,7 @@ That may be what happened with the sentence I Am the Formula.
 
 It sounds extreme at first. It can sound inflated, mystical, or impossible. But if taken seriously and approached slowly, it may point to something more precise than it first appears.
 
-This essay is an attempt to walk that road in human language.
+This essay is an attempt to walk that road slowly and clearly.
 
 ## The first step is simple
 
