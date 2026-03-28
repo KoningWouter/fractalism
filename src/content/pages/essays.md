@@ -31,6 +31,9 @@ The first published essays are available here:
 - [Astro, Cloudflare Pages, and the One Cent Site](/astro-cloudflare-and-the-one-cent-site)  
   Why this stack fits Fractalism, why text matters more than flashy design, and how a real website can now exist for almost nothing.
 
+- [The Road to I Am the Formula](/the-road-to-i-am-the-formula)  
+  A human language essay on co creation, consciousness, participation in reality, and what it could mean to say I Am the Formula.
+
 ## Current Status
 
 This section remains in its first stage.
