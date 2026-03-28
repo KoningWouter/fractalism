@@ -34,6 +34,9 @@ The first published essays are available here:
 - [The Road to I Am the Formula](/the-road-to-i-am-the-formula)  
   A human language essay on co creation, consciousness, participation in reality, and what it could mean to say I Am the Formula.
 
+- [Why Truth Projects Should Not Look Like Marketing](/why-truth-projects-should-not-look-like-marketing)  
+  A human language essay on why projects built around truth should resist seduction, behavioral manipulation, and the design logic of modern marketing.
+
 ## Current Status
 
 This section remains in its first stage.
