@@ -12,6 +12,8 @@ const {
 	title = 'Fractalism',
 	description = 'Fractalism is a living framework for truth, resonance, inner sovereignty, and the rebuilding of human community beyond inversion.',
 } = Astro.props;
+
+const canonicalUrl = Astro.url.href;
 ---
 
 <!doctype html>
@@ -21,6 +23,7 @@ const {
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="description" content={description} />
 		<meta name="generator" content={Astro.generator} />
+		<link rel="canonical" href={canonicalUrl} />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<link rel="icon" href="/favicon.ico" />
 		<link rel="sitemap" href="/sitemap-0.xml" />
