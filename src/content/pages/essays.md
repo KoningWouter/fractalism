@@ -37,6 +37,9 @@ The first published essays are available here:
 - [Why Truth Projects Should Not Look Like Marketing](/why-truth-projects-should-not-look-like-marketing)  
   An essay on why projects built around truth should resist seduction, behavioral manipulation, and the design logic of modern marketing.
 
+- [Why STS Drifts Toward Sadism](/why-sts-drifts-toward-sadism)  
+  An essay on why radical service-to-self tends to turn other people into objects, why asymmetry becomes intoxicating, and why domination can harden into sadism.
+
 ## Current Status
 
 This section remains in its first stage.
