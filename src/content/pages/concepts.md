@@ -134,6 +134,12 @@ Fractalism is ultimately interested in cultivating discernment that is:
 - resistant to glamour, manipulation, and inversion
 - capable of recognizing living coherence
 
+## Related reading
+
+- [Friction as Signal](/friction-as-signal) — a practical distinction between noise friction and corrective friction
+- [Living Fractalism](/living-fractalism) — how these distinctions appear in ordinary life
+- [The Void](/the-void) — on silence, interruption, and the collapse of false support
+
 ## Closing
 
 These concepts are not final definitions. They are working distinctions within a developing system.
