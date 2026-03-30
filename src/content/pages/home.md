@@ -16,7 +16,7 @@ This project explores those patterns and asks what becomes visible when we learn
 
 Fractalism is a way of understanding reality through recurring patterns. It looks at how the same dynamics appear in consciousness, relationships, society, symbolism, and systems of power.
 
-It tries to bring together metaphysics, moral orientation, symbolic thinking, and social critique in a way that stays readable and grounded.
+It brings together metaphysics, moral orientation, symbolic thinking, and social critique in a way that aims to stay readable and grounded.
 
 **What is true tends to echo across scales.**
 
@@ -41,20 +41,32 @@ If truth has force, it eventually needs social form. Fractalism therefore asks w
 
 Modern life trains fragmentation. It rewards noise, dependency, managed appetite, and counterfeit meaning. Fractalism begins where that arrangement stops looking natural and starts becoming legible.
 
-## Explore
+## Start here
 
-- [Introduction](/introduction)
-- [How to Read Fractalism](/how-to-read-fractalism)
-- [Core Concepts](/concepts)
-- [The 26 Axioms](/axioms)
-- [The Void](/the-void)
-- [Living Fractalism](/living-fractalism)
+If you are new to Fractalism, these are the best places to begin:
+
+- [Introduction](/introduction) — the first orientation to the framework
+- [How to Read Fractalism](/how-to-read-fractalism) — how to approach the project without flattening it into dogma or vague metaphor
+- [Core Concepts](/concepts) — the main vocabulary of the framework
+- [About](/about) — what kind of project this is, and why it exists
+
+## Go deeper
+
+Once you have the basics, these pages take you further into the structure:
+
+- [The Void](/the-void) — a core concept about silence, interruption, and the loss of false support
+- [Living Fractalism](/living-fractalism) — how the framework becomes practical in daily life
+- [The 26 Axioms](/axioms) — the doctrinal core of the system
+- [Epistemic Hygiene](/epistemic-hygiene) — how Fractalism distinguishes symbol, experience, hypothesis, and claim
+- [Community](/community) — what kind of social form could sustain truth, reciprocity, and sobriety
+
+## Essays and further explorations
+
+For longer writings and thematic applications:
+
+- [Essays](/essays)
 - [The Wanderer](/the-wanderer)
 - [Team 3](/team-3)
-- [Essays](/essays)
-- [Epistemic Hygiene](/epistemic-hygiene)
-- [Community](/community)
-- [About](/about)
 
 ## Closing
 
