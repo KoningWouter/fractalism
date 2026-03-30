@@ -1,6 +1,6 @@
 ---
 title: The Void
-description: The Void as a core Fractalist concept: a space of silence, exposure, interruption, and the recovery of real orientation.
+description: "The Void as a core Fractalist concept: a space of silence, exposure, interruption, and the recovery of real orientation."
 eyebrow: The Void
 ---
 

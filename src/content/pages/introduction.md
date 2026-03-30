@@ -1,6 +1,6 @@
 ---
 title: Introduction
-description: The first orientation to Fractalism: its central premise, key themes, and way of reading reality.
+description: "The first orientation to Fractalism: its central premise, key themes, and way of reading reality."
 ---
 
 Fractalism is a way of reading reality through pattern, distortion, polarity, ethics, and scale.
