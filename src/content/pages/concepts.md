@@ -136,6 +136,7 @@ Fractalism is ultimately interested in cultivating discernment that is:
 
 ## Related reading
 
+- [Truth](/truth) — on truth as living coherence, correction, and increasing resolution
 - [Friction as Signal](/friction-as-signal) — a practical distinction between noise friction and corrective friction
 - [Living Fractalism](/living-fractalism) — how these distinctions appear in ordinary life
 - [The Void](/the-void) — on silence, interruption, and the collapse of false support
