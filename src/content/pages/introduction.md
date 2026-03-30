@@ -1,19 +1,19 @@
 ---
 title: Introduction
-description: "The first orientation to Fractalism: its governing premise, central tensions, and metaphysical scope."
+description: The first orientation to Fractalism: its central premise, key themes, and way of reading reality.
 ---
 
-Fractalism is a method for reading reality through pattern, distortion, polarity, ethics, and scale.
+Fractalism is a way of reading reality through pattern, distortion, polarity, ethics, and scale.
 
-Its first proposition is plain:
+Its basic premise is simple:
 
 **What is true tends to echo across scales.**
 
-The same formative structures return in different domains: in the psyche, in relation, in institutions, in symbol, in history, in metaphysical imagination. Reality is not treated here as a set of sealed compartments. It is layered, recursive, and morally charged.
+The same formative patterns can appear in the psyche, in relationships, in institutions, in symbols, in history, and in the metaphysical imagination of an age. Reality is not treated here as a set of sealed compartments. It is layered, recursive, and morally charged.
 
 ## A Framework of Coherence
 
-Fractalism rejects the flattening reflex of modern thought. Existence is not assumed to be random, spiritually inert, or exhausted at the level of mechanism. It has pattern. It has direction. It can become more or less intelligible depending on the quality of perception brought to it.
+Fractalism rejects the flattening reflex of modern thought. Existence is not assumed to be random, spiritually inert, or exhausted by mechanism alone. It has pattern. It has direction. It can become more or less intelligible depending on the quality of perception brought to it.
 
 To read that intelligibility, one must learn to see relations as well as facts:
 
@@ -21,23 +21,23 @@ To read that intelligibility, one must learn to see relations as well as facts:
 - how systems reward distortion or clarity
 - how symbolic structures carry ethical orientation
 - how truth and inversion propagate across levels of reality
-- how resonance reveals hidden coherence
+- how resonance can reveal hidden coherence
 
-Fractalism is not a neutral inventory. It is an orienting discipline. The central question is not only *what is happening*, but *what order or disorder is declaring itself here*.
+Fractalism is not a neutral inventory. It is an orienting discipline. The question is not only *what is happening*, but also *what kind of order or disorder is declaring itself here*.
 
 ## Truth, Distortion, and Inversion
 
 Truth is not exhausted by correct information. A sentence may be accurate and still conceal the real structure of a situation. In Fractalism, truth means coherence with living reality.
 
-Distortion is misalignment. It bends perception, language, desire, structure, or will away from reality. Some distortions remain local. Others harden into systems. When that hardening becomes advanced, distortion passes into **inversion**: what is hollow appears superior, what is parasitic appears virtuous, what is dead acquires prestige, what is true becomes difficult to recognize.
+Distortion is misalignment. It bends perception, language, desire, structure, or will away from reality. Some distortions remain local. Others harden into systems. When that hardening becomes advanced, distortion passes into **inversion**: what is hollow appears superior, what is parasitic appears virtuous, what is dead acquires prestige, and what is true becomes harder to recognize.
 
 Inversion is one of the signature conditions of the age.
 
 ## Resonance and Field Quality
 
-Not everything real is first known through argument. Some structures are registered before they are fully named.
+Not everything real is first known through argument. Some structures are felt before they are fully named.
 
-Fractalism therefore treats resonance as one instrument of discernment. A person, text, place, institution, or idea can strengthen clarity and inner steadiness. It can also generate confusion, depletion, vanity, or split attention. That difference is not secondary.
+Fractalism therefore treats resonance as one instrument of discernment. A person, text, place, institution, or idea can strengthen clarity and inner steadiness. It can also generate confusion, depletion, vanity, or split attention. That difference matters.
 
 This is why Fractalism attends to **field quality** as well as explicit propositions:
 - does something increase clarity or confusion?
@@ -75,13 +75,13 @@ What appears at one scale often reappears at another:
 - the family mirrors the system
 - the symbolic mirrors the political
 - metaphysical distortion echoes through social form
-- small acts can reveal large architectures
+- small acts can reveal larger architectures
 
 This does not erase difference between levels. It means that cross-scalar pattern recognition can become a method of knowledge.
 
 ## Toward Living Orientation
 
-Fractalism does not exist merely to diagnose collapse, corruption, or inversion. Diagnosis without orientation degenerates into spectacle.
+Fractalism does not exist merely to diagnose collapse, corruption, or inversion. Diagnosis without orientation turns into spectacle.
 
 If reality has structure, orientation is possible. If distortion has structure, it can be recognized. If truth leaves echoes, those echoes can be followed. If living order still exists, forms of thought, relation, and community can still be built in greater alignment with it.
 
