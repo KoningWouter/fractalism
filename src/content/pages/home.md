@@ -1,6 +1,6 @@
 ---
-title: Fractalism
-description: A way of seeing the repeating patterns in consciousness, society, and reality.
+title: Fractalism | Truth, resonance, STO/STS, and the Void
+description: Fractalism is a framework for truth, resonance, STO and STS, the Void, and the repeating patterns that shape consciousness, society, and reality.
 ---
 
 Fractalism begins with a simple conviction: reality is not random, and truth is not arbitrary. Patterns echo across scales. What appears in the inner life also appears in language, culture, power, and the structures we live inside.
