@@ -14,6 +14,7 @@ Over time, this section will gather longer writings on themes such as:
 - truth and inversion
 - STO and STS as ethical polarity
 - the Void as reset-space and living depth
+- predictive systems, behavioral legibility, and human freedom
 - resonance, field quality, and discernment
 - addiction, fragmentation, and failed community
 - symbolic structure and metaphysical pattern
@@ -21,12 +22,27 @@ Over time, this section will gather longer writings on themes such as:
 
 Some essays will be conceptual. Others diagnostic. Others synthetic. Category matters less than whether the writing deepens intelligibility and gives the framework more durable form.
 
-## Manifesto Essay
+## Published Essays
 
-The first published manifesto essay is available here:
+The first published essays are available here:
 
 - [The Way of Resonance](/the-way-of-resonance)  
   A foundational Fractalism essay on resonance, friction, flow, and the return to coherence.
+
+- [Astro, Cloudflare Pages, and the One Cent Site](/astro-cloudflare-and-the-one-cent-site)  
+  Why this stack fits Fractalism, why text matters more than flashy design, and how a real website can now exist for almost nothing.
+
+- [The Road to I Am the Formula](/the-road-to-i-am-the-formula)  
+  An essay on co creation, consciousness, participation in reality, and what it could mean to say I Am the Formula.
+
+- [The Void, Palantir, and Behavioral Legibility](/the-void-and-palantir)  
+  An essay on predictive systems, behavioral loops, and why the Void matters in an age that turns human pattern into operational knowledge.
+
+- [Why Truth Projects Should Not Look Like Marketing](/why-truth-projects-should-not-look-like-marketing)  
+  An essay on why projects built around truth should resist seduction, behavioral manipulation, and the design logic of modern marketing.
+
+- [Why STS Drifts Toward Sadism](/why-sts-drifts-toward-sadism)  
+  An essay on why radical service-to-self tends to turn other people into objects, why asymmetry becomes intoxicating, and why domination can harden into sadism.
 
 ## Current Status
 

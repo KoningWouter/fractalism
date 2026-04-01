@@ -275,7 +275,8 @@ p {
 	padding: 1rem 0 4.5rem;
 }
 
-.theme-card {
+.theme-card,
+.dispatch-card {
 	padding: 1.5rem;
 	background: linear-gradient(180deg, rgba(20, 28, 39, 0.92), rgba(20, 28, 39, 0.72));
 	border: 1px solid var(--border);
@@ -286,6 +287,42 @@ p {
 .theme-card p {
 	margin-top: 0.85rem;
 	color: var(--text-soft);
+}
+
+.dispatches-shell {
+	display: grid;
+	gap: 1.2rem;
+}
+
+.dispatches-shell--compact {
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.dispatch-card {
+	display: grid;
+	gap: 0.9rem;
+}
+
+.dispatch-card__meta {
+	font-size: 0.85rem;
+	letter-spacing: 0.06em;
+	text-transform: uppercase;
+	color: var(--text-muted);
+}
+
+.dispatch-card__title {
+	max-width: none;
+}
+
+.dispatch-card__link {
+	color: var(--accent);
+	text-decoration: none;
+}
+
+.dispatch-card__link:hover,
+.dispatch-card__link:focus-visible {
+	text-decoration: underline;
+	outline: none;
 }
 
 .prose-block {
@@ -349,6 +386,14 @@ p {
 .markdown-shell code {
 	font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
 	font-size: 0.92em;
+}
+
+.markdown-shell a,
+.markdown-shell p,
+.markdown-shell li,
+.markdown-shell code {
+	overflow-wrap: anywhere;
+	word-break: break-word;
 }
 
 .site-footer {

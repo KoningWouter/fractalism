@@ -142,6 +142,14 @@ You could say:
 
 That is the basic distinction.
 
+## Open source as a Team 3 instinct
+
+Team 3 naturally leans toward open source tools where possible.
+
+Not because every open project is automatically aligned, but because transparency, inspectability, and non-possessive building are generally closer to real STO than black-box control.
+
+Tools do not need to be mystified to be useful. In many cases, it is better when they can be inspected, shared, improved, and used without unnecessary hidden dependency.
+
 ## Team 3 is not about identity inflation
 
 This model becomes useless the moment it turns into self-congratulation.

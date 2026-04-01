@@ -2,6 +2,7 @@
 import MainLayout from '../layouts/MainLayout.astro';
 import MarkdownPage from '../components/MarkdownPage.astro';
 import { getEntry, render } from 'astro:content';
+import { formatDispatchDate, getDispatches } from '../lib/dispatches';
 
 const entry = await getEntry('pages', 'home');
 
@@ -11,6 +12,7 @@ if (!entry) {
 
 const { Content } = await render(entry);
 const { hero, intro, themes, relevance } = entry.data;
+const latestDispatches = await getDispatches(3);
 const hasStructuredHomepage = hero && intro && themes && relevance;
 ---
 
@@ -80,6 +82,34 @@ const hasStructuredHomepage = hero && intro && themes && relevance;
 
 				<section class="section-stack">
 					<div class="section-heading">
+						<p class="eyebrow">Dispatches</p>
+						<h2>Latest from Nostr</h2>
+						<p class="section-copy">
+							Latest from Nostr. The essays hold the deeper architecture. The dispatches
+							show the movement in between.
+						</p>
+					</div>
+					<div class="dispatches-shell dispatches-shell--compact">
+						{latestDispatches.map((dispatch) => (
+							<article class="dispatch-card">
+								<p class="dispatch-card__meta">{formatDispatchDate(dispatch.published)}</p>
+								<h3 class="dispatch-card__title">{dispatch.title}</h3>
+								<p>{dispatch.excerpt}</p>
+								<a class="dispatch-card__link" href={dispatch.url} target="_blank" rel="noreferrer">
+									Read on Nostr
+								</a>
+							</article>
+						))}
+					</div>
+					<div class="cta-row">
+						<a class="button-link button-link--secondary" href="/dispatches">
+							View all dispatches
+						</a>
+					</div>
+				</section>
+
+				<section class="section-stack">
+					<div class="section-heading">
 						<p class="eyebrow">Markdown</p>
 						<h2>Working Draft</h2>
 					</div>
@@ -89,13 +119,43 @@ const hasStructuredHomepage = hero && intro && themes && relevance;
 				</section>
 			</>
 		) : (
-			<MarkdownPage
-				eyebrow={entry.data.eyebrow ?? 'Fractalism'}
-				title={entry.data.title}
-				description={entry.data.description}
-			>
-				<Content />
-			</MarkdownPage>
+			<>
+				<MarkdownPage
+					eyebrow={entry.data.eyebrow ?? 'Fractalism'}
+					title={entry.data.title}
+					description={entry.data.description}
+				>
+					<Content />
+				</MarkdownPage>
+
+				<section class="section-stack">
+					<div class="section-heading">
+						<p class="eyebrow">Dispatches</p>
+						<h2>Latest from Nostr</h2>
+						<p class="section-copy">
+							Latest from Nostr. The essays hold the deeper architecture. The dispatches
+							show the movement in between.
+						</p>
+					</div>
+					<div class="dispatches-shell dispatches-shell--compact">
+						{latestDispatches.map((dispatch) => (
+							<article class="dispatch-card">
+								<p class="dispatch-card__meta">{formatDispatchDate(dispatch.published)}</p>
+								<h3 class="dispatch-card__title">{dispatch.title}</h3>
+								<p>{dispatch.excerpt}</p>
+								<a class="dispatch-card__link" href={dispatch.url} target="_blank" rel="noreferrer">
+									Read on Nostr
+								</a>
+							</article>
+						))}
+					</div>
+					<div class="cta-row">
+						<a class="button-link button-link--secondary" href="/dispatches">
+							View all dispatches
+						</a>
+					</div>
+				</section>
+			</>
 		)
 	}
 </MainLayout>

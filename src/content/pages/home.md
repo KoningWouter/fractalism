@@ -1,54 +1,74 @@
 ---
 title: Fractalism
-description: A metaphysical framework for truth, distortion, polarity, and the restoration of intelligible form.
+description: A way of seeing the repeating patterns in consciousness, society, and reality.
 ---
 
-Fractalism is a doctrine of pattern, truth, distortion, polarity, and scale. It begins from a simple conviction: reality is not mute chaos. It has form, and that form can be read.
+Fractalism begins with a simple conviction: reality is not random, and truth is not arbitrary. Patterns echo across scales. What appears in the inner life also appears in language, culture, power, and the structures we live inside.
 
-[Read the Introduction](/introduction)
-[Explore Core Concepts](/concepts)
+This project explores those patterns and asks what becomes visible when we learn to read them clearly.
+
+[Start Reading](/introduction)
+[Explore the Concepts](/concepts)
 
 ## What is Fractalism?
 
 ![Service to Self versus Service to Others](/stsvssto.png)
 
-Fractalism is neither a brand nor a mood. It seeks to recover intelligibility across domains that modern thought prefers to keep severed: inner life, symbolic form, social order, metaphysical orientation.
+Fractalism is a way of understanding reality through recurring patterns. It looks at how the same dynamics appear in consciousness, relationships, society, symbolism, and systems of power.
+
+It brings together metaphysics, moral orientation, symbolic thinking, and social critique in a way that aims to stay readable and grounded.
 
 **What is true tends to echo across scales.**
 
 ## Core Themes
 
 ### Truth and distortion
-Truth is more than accuracy. It is alignment with what is structurally real. Distortion is the bending of perception, language, desire, or system away from it. Fractalism studies both, because an age cannot be understood by its declarations alone.
+Truth is more than factual accuracy. It is alignment with what is structurally real. Distortion is what bends perception, language, desire, or systems away from that reality. Fractalism studies both, because confusion is often as revealing as clarity.
 
 ### Resonance and field quality
-Some things declare themselves before they are fully explained. A field can sharpen awareness or blunt it. A text can carry order or static. Resonance matters here, not as sentiment, but as evidence of deeper fit or misfit.
+Some things can be felt before they are fully explained. A field can sharpen awareness or dull it. A text can carry coherence or static. Resonance matters here not as sentiment, but as a clue that something is fitting or misfitting at a deeper level.
 
 ### STO and STS
-Service-to-others and service-to-self are treated as real polarities, not decorative metaphysics. They mark opposed logics of consciousness, relation, and power. Entire systems are built in the image of one or the other.
+Service-to-others and service-to-self are treated as real moral and spiritual orientations. They point to different ways of relating to truth, power, and other beings, and they shape the systems built in their image.
 
 ### The Void
-The Void names a zone where false support gives way. It is depth without ornament, silence without anesthesia, potential before collapse into habit. Most structures cannot survive it.
+The Void names a threshold where false supports fall away. It is a space of exposure, silence, and possibility before a person returns to habit or arrives at something more real.
 
 ### Community beyond inversion
-If truth has force, it must eventually take social form. Fractalism therefore asks what kind of community could sustain reciprocity, sobriety, and discernment without decaying into domination, simulation, or extraction.
+If truth has force, it eventually needs social form. Fractalism therefore asks what kind of community could sustain reciprocity, sobriety, and discernment without collapsing into domination, simulation, or extraction.
 
 ## Why it matters
 
-Modern systems train fragmentation. They reward dependency, noise, managed appetite, and counterfeit meaning. Fractalism starts where that arrangement ceases to look inevitable.
+Modern life trains fragmentation. It rewards noise, dependency, managed appetite, and counterfeit meaning. Fractalism begins where that arrangement stops looking natural and starts becoming legible.
 
-## Explore
+## Start here
 
-- [Introduction](/introduction)
-- [How to Read Fractalism](/how-to-read-fractalism)
-- [Living Fractalism](/living-fractalism)
+If you are new to Fractalism, these are the best places to begin:
+
+- [Introduction](/introduction) — the first orientation to the framework
+- [How to Read Fractalism](/how-to-read-fractalism) — how to approach the project without flattening it into dogma or vague metaphor
+- [Core Concepts](/concepts) — the main vocabulary of the framework
+- [About](/about) — what kind of project this is, and why it exists
+
+## Go deeper
+
+Once you have the basics, these pages take you further into the structure:
+
+- [Truth](/truth) — a Fractalist understanding of truth as living coherence, increasing resolution, and a practice rather than a possession
+- [The Void](/the-void) — a core concept about silence, interruption, and the loss of false support
+- [Friction as Signal](/friction-as-signal) — how to distinguish resistance that signals misalignment from resistance that accompanies real correction
+- [Living Fractalism](/living-fractalism) — how the framework becomes practical in daily life
+- [The 26 Axioms](/axioms) — the doctrinal core of the system
+- [Epistemic Hygiene](/epistemic-hygiene) — how Fractalism distinguishes symbol, experience, hypothesis, and claim
+- [Community](/community) — what kind of social form could sustain truth, reciprocity, and sobriety
+
+## Essays and further explorations
+
+For longer writings and thematic applications:
+
+- [Essays](/essays)
 - [The Wanderer](/the-wanderer)
 - [Team 3](/team-3)
-- [Core Concepts](/concepts)
-- [The 26 Axioms](/axioms)
-- [Community](/community)
-- [About](/about)
-- [Essays](/essays)
 
 ## Closing
 

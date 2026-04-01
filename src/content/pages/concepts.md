@@ -1,11 +1,11 @@
 ---
 title: Core Concepts
-description: The central concepts of Fractalism, including truth, inversion, resonance, polarity, and the Void.
+description: The central concepts of Fractalism, including truth, distortion, inversion, resonance, polarity, and the Void.
 ---
 
 Fractalism is carried by a small set of recurring concepts.
 
-They are the working vocabulary of the framework. Their use is practical: to sharpen orientation in the psyche, in relation, in systems, and in the symbolic and ethical structure of reality.
+They form the working vocabulary of the framework. Their purpose is practical: to sharpen orientation in the psyche, in relationships, in systems, and in the symbolic and ethical structure of reality.
 
 What follows is a first map, not an exhaustive lexicon.
 
@@ -13,7 +13,7 @@ What follows is a first map, not an exhaustive lexicon.
 
 Truth is alignment with living reality.
 
-A statement may be accurate while concealing the real structure of a situation. A person may possess information while remaining fundamentally disoriented. Truth therefore includes coherence, depth, and contact with what is actually alive and structurally real.
+A statement may be accurate while still concealing the real structure of a situation. A person may possess information while remaining fundamentally disoriented. Truth therefore includes coherence, depth, and contact with what is actually alive and structurally real.
 
 Truth clarifies. It steadies orientation. It tends to increase intelligibility across scales.
 
@@ -23,7 +23,7 @@ Distortion is the bending of perception, language, desire, or structure away fro
 
 Some distortions are innocent. Others are defensive, habitual, strategic, or systemic. The danger deepens when distortion is normalized, rewarded, or enthroned as truth.
 
-Fractalism is interested not only in isolated falsehoods, but in the architectures through which people, institutions, and entire cultures lose contact with what is real.
+Fractalism is interested not only in isolated falsehoods, but in the larger architectures through which people, institutions, and cultures lose contact with what is real.
 
 ## Inversion
 
@@ -31,13 +31,13 @@ Inversion is distortion that has become structural. Values, appearances, and mea
 
 This is not ordinary confusion. It is organized misalignment.
 
-Fractalism treats inversion as one of the defining features of late civilizational decline and spiritual disorientation.
+Fractalism treats inversion as one of the defining features of civilizational decline and spiritual disorientation.
 
 ## Resonance
 
-Resonance is the capacity of something to register as fitting, coherent, or alive beneath surface agreement.
+Resonance is the sense that something registers as fitting, coherent, or alive beneath surface agreement.
 
-It does not mean personal preference. It marks a quality of alignment in which perception, meaning, and deeper structure begin to converge.
+It does not mean personal preference. It points to a quality of alignment in which perception, meaning, and deeper structure begin to converge.
 
 A text, place, person, symbol, or idea may resonate because it carries coherence. It may also fail to resonate because it is shallow, distorted, or severed from reality.
 
@@ -133,6 +133,13 @@ Fractalism is ultimately interested in cultivating discernment that is:
 - symbolically literate
 - resistant to glamour, manipulation, and inversion
 - capable of recognizing living coherence
+
+## Related reading
+
+- [Truth](/truth) — on truth as living coherence, correction, and increasing resolution
+- [Friction as Signal](/friction-as-signal) — a practical distinction between noise friction and corrective friction
+- [Living Fractalism](/living-fractalism) — how these distinctions appear in ordinary life
+- [The Void](/the-void) — on silence, interruption, and the collapse of false support
 
 ## Closing
 

@@ -1,0 +1,35 @@
+---
+import MainLayout from '../layouts/MainLayout.astro';
+import { formatDispatchDate, getDispatches } from '../lib/dispatches';
+
+const dispatches = await getDispatches(12);
+---
+
+<MainLayout
+	title="Dispatches | Fractalism"
+	description="Recent dispatches from Nostr, gathered into a quiet text-first stream."
+>
+	<section class="content-shell">
+		<div class="section-heading">
+			<p class="eyebrow">Dispatches</p>
+			<h1 class="content-title">Latest from Nostr</h1>
+			<p class="section-copy">
+				A living stream of shorter Fractalism notes from Nostr. Essays remain the canonical layer.
+				Dispatches carry the signal as it moves.
+			</p>
+		</div>
+
+		<div class="dispatches-shell">
+			{dispatches.map((dispatch) => (
+				<article class="dispatch-card">
+					<p class="dispatch-card__meta">{formatDispatchDate(dispatch.published)}</p>
+					<h2 class="dispatch-card__title">{dispatch.title}</h2>
+					<p>{dispatch.excerpt}</p>
+					<a class="dispatch-card__link" href={dispatch.url} target="_blank" rel="noreferrer">
+						Read on Nostr
+					</a>
+				</article>
+			))}
+		</div>
+	</section>
+</MainLayout>

@@ -1,11 +1,11 @@
 ---
 title: How to Read Fractalism
-description: "How to approach Fractalism without flattening it into dogma, pure metaphor, or a closed belief system."
+description: How to approach Fractalism without flattening it into dogma, pure metaphor, or a closed belief system.
 ---
 
 Fractalism is not just one kind of thing.
 
-It is not only philosophy, not only spirituality, not only social criticism, and not only symbolism. It moves between these layers because it starts from a simple premise: reality has structure, and that structure often repeats across scales.
+It is not only philosophy, not only spirituality, not only social criticism, and not only symbolism. It moves between these layers because it begins from a simple premise: reality has structure, and that structure often repeats across scales.
 
 That means Fractalism should not be read as a closed doctrine where every sentence has to be taken in exactly the same way.
 
@@ -22,7 +22,7 @@ Some Fractalist texts are mainly:
 - diagnostic
 - metaphysical
 
-A symbolic text may be trying to make a pattern visible through image or compression. A practical one may be naming a behavioral loop. A metaphysical piece may be offering a hypothesis rather than a final claim. A social text may be trying to show how distortion takes form in systems and institutions.
+A symbolic text may be trying to make a pattern visible through image or compression. A practical one may be naming a behavioural loop. A metaphysical piece may be offering a hypothesis rather than a final claim. A social text may be showing how distortion takes form in systems and institutions.
 
 If all of these are read in exactly the same way, the framework becomes flatter than it really is.
 
@@ -62,7 +62,7 @@ Fractalism becomes more serious when it can distinguish between what is clear, w
 
 ## There is an ethical center
 
-Fractalism is not pattern-recognition for its own sake.
+Fractalism is not pattern recognition for its own sake.
 
 Its deeper concern is whether something strengthens or weakens:
 

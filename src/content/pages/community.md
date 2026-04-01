@@ -143,6 +143,14 @@ The difficulty is not finding people who want belonging. Many people want belong
 
 The difficulty is finding people willing to become the kind of presence from which living community can actually be built.
 
+## Open source and shared tools
+
+Fractalism leans toward open source software where possible.
+
+Not because every open system is automatically good, but because transparency, inspectability, shared stewardship, and freedom from unnecessary dependence fit the kind of culture this project wants to encourage.
+
+Closed tools may still have their place. But as a general direction, open source is closer to the values of accountability, participation, and non-extractive building.
+
 ## Closing
 
 Community is where philosophy either begins to incarnate or exposes its own emptiness.
