@@ -44,6 +44,9 @@ The first published essays are available here:
 - [Why STS Drifts Toward Sadism](/why-sts-drifts-toward-sadism)  
   An essay on why radical service-to-self tends to turn other people into objects, why asymmetry becomes intoxicating, and why domination can harden into sadism.
 
+- [Why Calm Feels Like an Attack to an STS Soul](/why-calm-feels-like-an-attack)  
+  An essay on why real calm can provoke hostility in an STS structure, why some people experience peace as pressure, and how inner noise reacts to undisturbed presence.
+
 ## Current Status
 
 This section remains in its first stage.
