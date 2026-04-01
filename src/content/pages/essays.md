@@ -47,6 +47,9 @@ The first published essays are available here:
 - [Why Calm Feels Like an Attack to an STS Soul](/why-calm-feels-like-an-attack)  
   An essay on why real calm can provoke hostility in an STS structure, why some people experience peace as pressure, and how inner noise reacts to undisturbed presence.
 
+- [As Above, So Below and the Breaking of Pattern](/as-above-so-below-and-the-breaking-of-pattern)  
+  An essay on why breaking a destructive pattern in oneself can feel connected to larger movements in the social field, and how Fractalism understands resonance without collapsing into magical egoism.
+
 ## Current Status
 
 This section remains in its first stage.
