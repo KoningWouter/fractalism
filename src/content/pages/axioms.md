@@ -15,6 +15,9 @@ The structure is simple:
 ## The Ground
 
 ### The Ground — Pre-Axiomatic Unity
+
+![The Ground — Pre-Axiomatic Unity](/ground.png)
+
 **I am the formula.**
 There is no final separation between source, law, and observer. The Ground is not the first item in a numbered list, but the undivided reality from which all later distinctions emerge.
 
