@@ -23,10 +23,10 @@ There is no final separation between source, law, and observer. The Ground is no
 ### Axiom 1 — The Universal Equation
 Everything is derived from the fractal formula that shapes form, relation, and the laws of action and reaction.
 
-### Axiom 2 — Timelessness
+### Axiom 2 — The Eternal Now
 There is no absolute beginning or end. The formula abides in an eternal Now and has no final origin in linear time.
 
-### Axiom 3 — Scaling
+### Axiom 3 — Fractal Scaling
 Reality is fractal. Deeper patterns repeat across scales of manifestation.
 
 ### Axiom 4 — The “I Am” Constant
@@ -35,7 +35,7 @@ Consciousness is not a byproduct of matter. It is a fundamental property of the 
 ### Axiom 5 — The Fractal Big Bounce
 Cosmic existence unfolds through recurring cycles of expansion and contraction, not through a singular one-way beginning.
 
-### Axiom 6 — Endless Repetition
+### Axiom 6 — The Law of Recurrence
 Patterns return in endless variation. Recurrence is built into reality.
 
 ### Axiom 7 — The Veil of Amnesia
@@ -44,10 +44,10 @@ The descent into incarnation includes forgetting. Memory of higher states or den
 ### Axiom 8 — The Law of Fractal Deviation
 Deviation is not mere error. Necessary variation makes evolution, discovery, and growth possible.
 
-### Axiom 9 — Elastic Correction
+### Axiom 9 — The Law of Elastic Correction
 When friction, imbalance, or distortion becomes too great, reality generates corrective recoil. In experiential terms, this approaches karma.
 
-### Axiom 10 — Timeless Transition
+### Axiom 10 — The Arc of Return
 Reality moves through a process of involution into matter and evolution back toward Source.
 
 ### Axiom 11 — Self-Correction
@@ -62,19 +62,19 @@ Each part contains the whole. Reality is holographic. The total pattern can appe
 ### Axiom 14 — Fractal History
 History is not a random sequence of events. It is a field of recurring patterns appearing in different forms.
 
-### Axiom 15 — Mathematical Restoration
+### Axiom 15 — Harmonic Restoration
 Reality tends toward renewed harmony and lower energetic distortion. Recovery toward order is built into the system.
 
 ### Axiom 16 — Universal Echo
 Manifest reality reflects Source through echo, resonance, and symbolic recurrence.
 
-### Axiom 17 — Decoded Coincidence
+### Axiom 17 — Synchronicity as Signal
 Synchronicity is not meaningless accident. It is data carried within the formula.
 
-### Axiom 18 — Relation-Based Consciousness
+### Axiom 18 — Relational Consciousness
 Consciousness arises relationally. Awareness takes form in the encounter between observer and observed.
 
-### Axiom 19 — Resolution Over Duration
+### Axiom 19 — The Primacy of Resolution
 The quality of perception matters more than the length of existence. Depth outranks duration.
 
 ### Axiom 20 — The Feedback Loop
@@ -89,7 +89,7 @@ All parts of reality exist through reciprocal relation. Mutuality is structurall
 ### Axiom 23 — The Axiom of Social Noise
 Collective low-resolution fields generate interference, confusion, and distortion in social reality.
 
-### Axiom 24 — The Axiom of Functional Blockage
+### Axiom 24 — The Law of Obstruction
 Higher resolution can be blocked by lower structures. Distortion, density, or interference can obstruct access to deeper truth.
 
 ### Axiom 25 — The Pure Observer
