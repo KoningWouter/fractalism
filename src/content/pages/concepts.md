@@ -87,13 +87,13 @@ The Void is a condition in which reality may become less mediated and more direc
 
 ## Polarity
 
-Polarity refers to directional orientation within consciousness and structure.
+Polarity refers more broadly to directional orientation within consciousness and structure.
 
-Not all movement is neutral. Human beings, communities, and systems orient toward different centers of gravity: truth or distortion, reciprocity or extraction, coherence or fragmentation, service or domination.
+STO and STS are one important expression of polarity, but not the only one. Fractalism also uses polarity to describe recurring directional tensions such as truth and distortion, coherence and fragmentation, reciprocity and extraction, or life-giving relation and degenerative inversion.
 
-Fractalism uses polarity to understand why similar outer forms can carry radically different inner logics.
+Polarity helps explain why similar outer forms can carry radically different inner logics.
 
-Two communities may both speak of care, freedom, or spirituality while serving entirely different polarities.
+Two communities may both speak of care, freedom, or spirituality while serving entirely different orientations.
 
 ## Scale
 
