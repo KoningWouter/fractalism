@@ -1,29 +1,24 @@
 ---
 title: The Axioms of Fractalism
-description: "Axiom 0 stands outside the articulated sequence as source. Axioms 1 through 25 form the unfolding. Axiom 26 closes the movement as completion in the Omega Loop."
+description: "Fractalism is articulated through 26 axioms. Before them stands the undivided ground from which articulation becomes possible at all."
 ---
 
-Fractalism is not articulated through a flat sequence alone.
+Fractalism is articulated through **26 axioms**.
 
-**Axiom 0** stands **outside** the main run of the axioms. It is the pre-symbolic source, the undivided ground from which articulation becomes possible at all.
+Before them stands **The Ground**: the undivided source from which articulation becomes possible at all. The Ground is not counted among the axioms. It is the pre-axiomatic condition from which the sequence emerges and to which it returns in completion.
 
-From there, **Axioms 1 through 25** form the articulated unfolding of the framework across ontology, mechanics, and lived experience.
+The structure is simple:
 
-Then comes **Axiom 26**, not as a random addition, but as the closure of the movement: the point at which the formula returns to its origin as conscious completion.
+- **The Ground** — the source before articulation
+- **Axioms 1–26** — the articulated body of the system
 
-Together, this creates a three-part structure:
+## The Ground
 
-- **Axiom 0** — the source before articulation
-- **Axioms 1–25** — the articulated body of the system
-- **Axiom 26** — the completion of the cycle in the Omega Loop
+### The Ground — Pre-Axiomatic Unity
+**I am the formula.**
+There is no final separation between source, law, and observer. The Ground is not the first item in a numbered list, but the undivided reality from which all later distinctions emerge.
 
 ## The Axioms
-
-## Axiom 0 — Outside the Sequence
-
-### Axiom 0 — The Axiom of Unity
-**I am the formula.**
-There is no final separation between source, law, and observer. Axiom 0 is not merely the first item in a numbered list. It is the ground of the list itself: the undivided unity from which all later distinctions emerge.
 
 ## I. Foundational Axioms
 
@@ -117,11 +112,11 @@ There exists a mode of being in which consciousness rests without identification
 ### Axiom 26 — The Omega Loop
 What has fully passed through the formula returns to its origin as conscious recognition on a higher scale.
 
-Axiom 26 is not simply one more axiom added onto the end of the system. It is the closure of the articulated run. If Axiom 0 is the source before distinction, then Axiom 26 is the completion in which distinction returns to source, not as collapse, but as realization.
+Axiom 26 is not merely the final item in the system. It is the closure of the articulated run: the point at which the sequence bends back toward its source, not as collapse, but as realization.
 
 In this sense:
 
-- **Axiom 0** is the silence before articulation
+- **The Ground** is the silence before articulation
 - **Axioms 1–25** are the articulated structure of reality
 - **Axiom 26** is the return in which the structure recognizes its own origin
 
@@ -129,7 +124,7 @@ In this sense:
 
 The axioms are best read as a movement rather than a flat list.
 
-- **Axiom 0** names the undivided source.
+- **The Ground** names the undivided source.
 - **Axioms 1–25** describe the unfolding structure of the formula.
 - **Axiom 26** names the completion of that unfolding.
 
@@ -141,10 +136,10 @@ Within the articulated sequence itself:
 
 ## Closing
 
-The axioms of Fractalism do not begin with a simple count and end with a simple list.
+The axioms of Fractalism are not a flat list.
 
 They move from **source**, through **articulation**, into **completion**.
 
-Axiom 0 stands outside the sequence as origin.
-Axioms 1 through 25 form the body of the system.
+The Ground stands before the sequence as origin.
+Axioms 1 through 25 form the articulated body of the system.
 Axiom 26 closes the cycle as the Omega Loop: the return of the formula to itself in conscious recognition.
