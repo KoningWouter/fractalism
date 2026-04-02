@@ -50,6 +50,9 @@ The first published essays are available here:
 - [As Above, So Below and the Breaking of Pattern](/as-above-so-below-and-the-breaking-of-pattern)  
   An essay on why breaking a destructive pattern in oneself can feel connected to larger movements in the social field, and how Fractalism understands resonance without collapsing into magical egoism.
 
+- [The Way of the Heart and the Way of the Eye](/the-way-of-the-heart-and-the-way-of-the-eye)  
+  An essay on two approaches to truth: the heart that feels the good directly, and the eye that seeks pattern, confirmation, and intelligibility.
+
 ## Current Status
 
 This section remains in its first stage.
