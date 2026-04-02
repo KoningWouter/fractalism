@@ -37,21 +37,15 @@ const canonicalUrl = Astro.url.href;
 		<meta name="twitter:title" content={title} />
 		<meta name="twitter:description" content={description} />
 		<title>{title}</title>
-		<!-- Matomo -->
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-BS5JXEBCQD"></script>
 		<script>
-		var _paq = window._paq = window._paq || [];
-		/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-		_paq.push(['trackPageView']);
-		_paq.push(['enableLinkTracking']);
-		(function() {
-			var u="https://fractalisme.matomo.cloud/";
-			_paq.push(['setTrackerUrl', u+'matomo.php']);
-			_paq.push(['setSiteId', '1']);
-			var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-			g.async=true; g.src='https://cdn.matomo.cloud/fractalisme.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
-		})();
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'G-BS5JXEBCQD');
 		</script>
-		<!-- End Matomo Code -->
 	</head>
 	<body>
 		<div class="site-shell">
