@@ -84,6 +84,9 @@ Consciousness arises relationally. Awareness takes form in the encounter between
 The quality of perception matters more than the length of existence. Depth outranks duration.
 
 ### Axiom 20 — The Feedback Loop
+
+![The Feedback Loop](/feedback_loop.png)
+
 Action and response form a continuous loop throughout reality. Nothing exists in complete isolation from consequence.
 
 ### Axiom 21 — The Eye of Resolution
