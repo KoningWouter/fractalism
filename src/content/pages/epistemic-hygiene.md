@@ -85,6 +85,24 @@ A metaphysical framework becomes dangerous when it loses the ability to distingu
 
 Once these boundaries collapse, a system can start rewarding exactly the distortions it claims to diagnose.
 
+## Even a true framework can be misused
+
+No framework becomes trustworthy merely by speaking the language of truth, distortion, resonance, or depth. Those same words can be imitated, weaponized, or used to create dependence.
+
+That means Fractalism is not exempt from the dangers it describes.
+
+Its language could be used:
+
+- to create false authority
+- to pathologize disagreement too quickly
+- to confuse symbolic fluency with actual clarity
+- to turn diagnosis into superiority
+- to make people dependent on interpreters rather than more capable of seeing for themselves
+
+This is why epistemic hygiene must apply inside the framework, not only outside it.
+
+If Fractalism cannot tolerate clarification, correction, or self-critique, it becomes easier for distortion to wear Fractalist language as a mask.
+
 ## Common failure modes
 
 ### 1. Using resonance as a shortcut to certainty
