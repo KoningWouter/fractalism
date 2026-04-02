@@ -57,6 +57,9 @@ The system has the capacity to optimize and recalibrate itself from within.
 Reality is capable of sudden jumps in resolution. Growth is not always gradual. Transformation can occur in discontinuous leaps.
 
 ### Axiom 13 — The Holographic Whole
+
+![The Holographic Whole](/holographic_whole.png)
+
 Each part contains the whole. Reality is holographic. The total pattern can appear in any local expression.
 
 ### Axiom 14 — Fractal History
