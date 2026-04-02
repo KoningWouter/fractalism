@@ -69,6 +69,9 @@ Reality tends toward renewed harmony and lower energetic distortion. Recovery to
 Manifest reality reflects Source through echo, resonance, and symbolic recurrence.
 
 ### Axiom 17 — Synchronicity as Signal
+
+![Synchronicity as Signal](/synchronicity.png)
+
 Synchronicity is not meaningless accident. It is data carried within the formula.
 
 ### Axiom 18 — Relational Consciousness
