@@ -119,8 +119,8 @@ Broadly speaking:
 The axioms are best read as a movement rather than a flat inventory.
 
 - **The Ground** names the undivided source.
-- **Axioms 1–25** articulate the structure and movement of the formula.
-- **Axiom 26** names the completion of that movement.
+- **Axioms 1–26** form the articulated canon of the system.
+- **Axiom 26** completes the movement by returning the sequence toward its source.
 
 ## Closing
 
@@ -129,5 +129,5 @@ The axioms of Fractalism are not a flat list.
 They move from **source**, through **articulation**, into **completion**.
 
 The Ground stands before the sequence as origin.
-Axioms 1 through 25 form the articulated body of the system.
+Axioms 1 through 26 form the articulated canon of the system.
 Axiom 26 closes the cycle as the Omega Loop: the return of the formula to itself in conscious recognition.
