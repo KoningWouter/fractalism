@@ -93,6 +93,9 @@ All parts of reality exist through reciprocal relation. Mutuality is structurall
 Collective low-resolution fields generate interference, confusion, and distortion in social reality.
 
 ### Axiom 24 — The Law of Obstruction
+
+![The Law of Obstruction](/law_of_obstruction.png)
+
 Higher resolution can be blocked by lower structures. Distortion, density, or interference can obstruct access to deeper truth.
 
 ### Axiom 25 — The Pure Observer
