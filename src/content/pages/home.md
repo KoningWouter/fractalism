@@ -29,7 +29,7 @@ Truth is more than factual accuracy. It is alignment with what is structurally r
 Some things can be felt before they are fully explained. A field can sharpen awareness or dull it. A text can carry coherence or static. Resonance matters here not as sentiment, but as a clue that something is fitting or misfitting at a deeper level.
 
 ### STO and STS
-Service-to-others and service-to-self are treated as real moral and spiritual orientations. They point to different ways of relating to truth, power, and other beings, and they shape the systems built in their image.
+Service-to-others and service-to-self are treated not as crude total labels, but as real orientations of consciousness and relation. They become visible in repeated pattern: in what one serves, what one protects, how one treats truth, and whether relation tends toward reciprocity or extraction.
 
 ### The Void
 The Void names a threshold where false supports fall away. It is a space of exposure, silence, and possibility before a person returns to habit or arrives at something more real.

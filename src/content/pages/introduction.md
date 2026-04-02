@@ -49,11 +49,13 @@ Reality is encountered atmospherically as well as conceptually.
 
 ## Ethical Polarity: STO and STS
 
-A recurring distinction within Fractalism is that between **service-to-others (STO)** and **service-to-self (STS)**. These are deep orientations of consciousness, relation, and structure.
+A recurring distinction within Fractalism is that between **service-to-others (STO)** and **service-to-self (STS)**. These are not best understood as total labels, but as enduring orientations within consciousness and relation.
 
-STO is associated with truthfulness, reciprocity, living coherence, and the strengthening of shared reality without domination.
+STO names the movement toward truth, reciprocity, service, and alignment with reality beyond the isolated self.
 
-STS is associated with extraction, manipulation, inversion, control, and the concentration of power through distortion.
+STS names the movement toward control, extraction, self-prioritization, and the reduction of others to function within one’s own structure.
+
+Most beings are not pure embodiments of one pole. They display mixtures, masks, conflicts, and shifts in emphasis. The task, therefore, is not premature total classification, but careful discernment: repeated pattern, structural consequence, and prevailing direction.
 
 These polarities are tracked not only in private conduct, but in institutions, communities, forms of knowledge, and civilizational direction.
 

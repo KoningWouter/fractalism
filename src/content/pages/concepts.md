@@ -55,23 +55,23 @@ Fractalism pays attention to field quality because reality is encountered throug
 
 A central polarity in Fractalism is the distinction between **service-to-others (STO)** and **service-to-self (STS)**.
 
-These are deep orientations of consciousness, relation, and structure.
+These are not best understood as crude verdicts over whole persons, but as enduring orientations within consciousness and relation.
 
 ![Service to Self versus Service to Others](/stsvssto.png)
 
-**STO** is associated with:
+**STO** names the movement toward:
+- truth
 - reciprocity
-- truthful alignment
-- the strengthening of living reality
-- voluntary cooperation
-- service without domination
+- service
+- alignment with reality beyond the isolated self
 
-**STS** is associated with:
-- extraction
-- manipulation
+**STS** names the movement toward:
 - control
-- strategic distortion
-- the concentration of power through asymmetry
+- extraction
+- self-prioritization
+- the reduction of others to function within one’s own structure
+
+Most beings are not pure embodiments of one pole. They contain mixtures, masks, conflicts, and shifts in emphasis. The task, therefore, is not premature total classification, but careful discernment: to observe repeated pattern, structural consequence, and prevailing direction. What matters is not a single trait, but what a being consistently protects, what it serves, how it responds to truth when truth has a cost, and whether its relations tend toward reciprocity or extraction.
 
 Fractalism follows this polarity into systems, communities, technologies, and habits of life. It is not left floating above the world as abstract metaphysics.
 
