@@ -3,11 +3,11 @@ title: What Fractalism Is For
 description: "Fractalism is not only a description of reality. It is a framework for discernment, diagnosis, and design."
 ---
 
-Fractalism is not only a way of describing reality. It is also a way of using what becomes visible.
+Fractalism is not only a way of describing reality. It is a way of using what becomes visible.
 
 If it remains only a metaphysical picture, it stays incomplete. A real framework should help people see more clearly, diagnose distortion more precisely, and build forms of life that do not collapse so easily into noise.
 
-Fractalism is therefore not only for interpretation. It is for discernment, diagnosis, and design.
+Fractalism is therefore not only for interpretation, but for discernment, diagnosis, and design.
 
 ## For seeing patterns more clearly
 
