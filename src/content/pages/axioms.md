@@ -87,6 +87,9 @@ The quality of perception matters more than the length of existence. Depth outra
 Action and response form a continuous loop throughout reality. Nothing exists in complete isolation from consequence.
 
 ### Axiom 21 — The Eye of Resolution
+
+![The Eye of Resolution](/eye_of_resolution.png)
+
 Consciousness can deepen its capacity to perceive and understand pattern. Resolution is the power of the Eye: the ability to see more truly.
 
 ### Axiom 22 — The Axiom of Symbiosis
