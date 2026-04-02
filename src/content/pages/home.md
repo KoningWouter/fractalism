@@ -58,6 +58,7 @@ Once you have the basics, these pages take you further into the structure:
 - [The Void](/the-void) — a core concept about silence, interruption, and the loss of false support
 - [Friction as Signal](/friction-as-signal) — how to distinguish resistance that signals misalignment from resistance that accompanies real correction
 - [Living Fractalism](/living-fractalism) — how the framework becomes practical in daily life
+- [What Fractalism Is For](/what-fractalism-is-for) — what the framework helps you see, diagnose, and build
 - [The 26 Axioms](/axioms) — the doctrinal core of the system
 - [Epistemic Hygiene](/epistemic-hygiene) — how Fractalism distinguishes symbol, experience, hypothesis, and claim
 - [Community](/community) — what kind of social form could sustain truth, reciprocity, and sobriety
