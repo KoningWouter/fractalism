@@ -50,13 +50,13 @@ When friction, imbalance, or distortion becomes too great, reality generates cor
 ### Axiom 10 — The Arc of Return
 Reality moves through a process of involution into matter and evolution back toward Source.
 
-### Axiom 11 — Self-Correction
+### Axiom 11 — The Principle of Self-Correction
 The system has the capacity to optimize and recalibrate itself from within.
 
-### Axiom 12 — Non-Linear Potency
+### Axiom 12 — The Power of Non-Linear Emergence
 Reality is capable of sudden jumps in resolution. Growth is not always gradual. Transformation can occur in discontinuous leaps.
 
-### Axiom 13 — Omnipresence
+### Axiom 13 — The Holographic Whole
 Each part contains the whole. Reality is holographic. The total pattern can appear in any local expression.
 
 ### Axiom 14 — Fractal History
@@ -80,7 +80,7 @@ The quality of perception matters more than the length of existence. Depth outra
 ### Axiom 20 — The Feedback Loop
 Action and response form a continuous loop throughout reality. Nothing exists in complete isolation from consequence.
 
-### Axiom 21 — The Axiom of Resolution
+### Axiom 21 — The Eye of Resolution
 Consciousness can deepen its capacity to perceive and understand pattern. Resolution is the power of the Eye: the ability to see more truly.
 
 ### Axiom 22 — The Axiom of Symbiosis
@@ -100,7 +100,7 @@ What has fully passed through the formula returns to its origin as conscious rec
 
 Axiom 26 is not merely the final item in the system. It is the closure of the articulated run: the point at which the sequence bends back toward its source, not as collapse, but as realization.
 
-## How the Axioms Group Themselves
+## The Structural Families
 
 The axioms can be read in numerical order as a canon, but they can also be understood in structural families.
 
