@@ -90,6 +90,9 @@ Action and response form a continuous loop throughout reality. Nothing exists in
 Consciousness can deepen its capacity to perceive and understand pattern. Resolution is the power of the Eye: the ability to see more truly.
 
 ### Axiom 22 — The Axiom of Symbiosis
+
+![The Axiom of Symbiosis](/symbiosis.png)
+
 All parts of reality exist through reciprocal relation. Mutuality is structurally necessary, not optional.
 
 ### Axiom 23 — The Axiom of Social Noise
