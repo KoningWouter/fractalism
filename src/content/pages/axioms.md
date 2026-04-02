@@ -24,6 +24,9 @@ There is no final separation between source, law, and observer. The Ground is no
 ## The 26 Axioms
 
 ### Axiom 1 — The Universal Equation
+
+![The Universal Equation](/formula.png)
+
 Everything is derived from the fractal formula that shapes form, relation, and the laws of action and reaction.
 
 ### Axiom 2 — The Eternal Now
