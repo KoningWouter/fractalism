@@ -41,7 +41,7 @@ Reality is fractal. Deeper patterns repeat across scales of manifestation.
 ### Axiom 4 — The “I Am” Constant
 Consciousness is not a byproduct of matter. It is a fundamental property of the formula, realizing itself at every node.
 
-If consciousness were not intrinsic, it could not be universal. What recurs across scales cannot be merely local accident. If consciousness belongs everywhere, then it belongs to the inner structure of reality itself: not an after-effect of the formula, but one of the signs that the formula is inwardly lit.
+If consciousness were wholly extrinsic to reality, its repeated emergence would remain deeply unexplained. What recurs across scales is unlikely to be mere accident. If consciousness is a persistent feature of existence, then it is more coherent to regard it as intrinsic to reality than as a byproduct of dead structure.
 
 ### Axiom 5 — The Fractal Big Bounce
 Cosmic existence unfolds through recurring cycles of expansion and contraction, not through a singular one-way beginning.
