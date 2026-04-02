@@ -120,7 +120,7 @@ The axioms are best read as a movement rather than a flat inventory.
 
 - **The Ground** names the undivided source.
 - **Axioms 1–26** form the articulated canon of the system.
-- **Axiom 26** completes the movement by returning the sequence toward its source.
+- **Within that canon, Axiom 26** serves as the closing return toward the source.
 
 ## Closing
 
