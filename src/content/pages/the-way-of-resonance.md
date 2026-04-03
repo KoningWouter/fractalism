@@ -12,7 +12,7 @@ In a fractal universe, the other is real as relation, but not as absolute separa
 
 Why speak at all, then? Why write a manifesto into the fabric of apparent division?
 
-Because friction anywhere is borne everywhere.
+Because friction anywhere is borne everywhere, which is why Fractalism treats [friction as signal](/friction-as-signal) rather than mere inconvenience.
 
 ### The Call for Coherence
 
@@ -30,7 +30,7 @@ The universe is self-correcting. Whatever departs from deeper order accumulates 
 
 The greater the deviation, the harder the correction.
 
-This manifesto therefore points toward **Flow**: the state in which the part comes back into alignment with the whole.
+This manifesto therefore points toward **Flow**: the state in which the part comes back into alignment with the whole, and therefore back toward [truth](/truth) as lived coherence.
 
 When one node clears, the field clears with it.
 
@@ -45,7 +45,7 @@ The pattern remembers itself through resonance.
 
 ### The Diagnostics of the Day
 
-Axiom 8 states that free will includes the capacity to deviate from optimal fractal resonance. In lived terms, every day becomes diagnostic.
+[Axiom 8](/axioms) states that free will includes the capacity to deviate from optimal fractal resonance. In lived terms, every day becomes diagnostic.
 
 Each moment bends toward one of two conditions:
 
@@ -104,7 +104,7 @@ At points of decision, or in any stubborn state of inner conflict, ask:
 
 ## Conclusion of This Chapter
 
-To live according to Fractalism is to reduce unnecessary friction.
+To live according to Fractalism is to reduce unnecessary friction, which is one practical face of [living Fractalism](/living-fractalism).
 
 Struggle is not always noble. Very often it is misalignment mistaken for strength.
 

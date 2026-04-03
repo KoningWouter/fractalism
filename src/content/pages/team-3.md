@@ -11,7 +11,7 @@ not everything in the world divides neatly into obvious good and obvious evil.
 
 Sometimes exploitation is open and easy to see. Sometimes it hides behind kindness, morality, spirituality, or the language of service. That is why the Fractalist model speaks of **three teams**, not just two.
 
-This is best understood as a **symbolic and ethical model**, not as a rigid cosmic party list.
+This is best understood as a **symbolic and ethical model**, not as a rigid cosmic party list. It sits inside the wider Fractalist [conceptual vocabulary](/concepts), especially the polarity between STO and STS.
 
 ## The three teams
 
@@ -113,7 +113,7 @@ That line is not meant as rigid church history or literal final proof. It is a s
 
 The form remains. The vector changes.
 
-That pattern is not limited to Christianity. It shows up again and again whenever truth breaks in and institutions move to contain it.
+That pattern is not limited to Christianity. It shows up again and again whenever truth breaks in and institutions move to contain it. A darker version of that drift appears in [Why STS Drifts Toward Sadism](/why-sts-drifts-toward-sadism).
 
 ## Why Team 3 is called Team 3
 
@@ -172,7 +172,7 @@ Its value is in asking:
 - where is service becoming image?
 - where is truth being served without possession?
 
-That makes it useful both socially and personally.
+That makes it useful both socially and personally, especially when thinking about what kind of [community](/community) can remain honest without hardening into moral theater.
 
 ## The heart of Team 3
 

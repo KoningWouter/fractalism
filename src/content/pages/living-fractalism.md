@@ -5,7 +5,7 @@ description: "How Fractalism becomes practical in daily life: attention, sobriet
 
 Fractalism is not only something to think about. It is also something to live.
 
-If it stays at the level of concepts, it risks becoming decorative. The deeper question is whether it helps a person live with more clarity, more truthfulness, more steadiness, and less dependence on distortion.
+If it stays at the level of [concepts](/concepts), it risks becoming decorative. The deeper question is whether it helps a person live with more clarity, more [truthfulness](/truth), more steadiness, and less dependence on distortion.
 
 Living Fractalism means trying to bring discernment into ordinary life.
 
@@ -49,7 +49,7 @@ The deeper question is:
 
 ## Real rest is not the same as sedation
 
-This is one of the most important practical distinctions in the whole framework.
+This is one of the most important practical distinctions in the whole framework, and it becomes sharper when read alongside [Friction as Signal](/friction-as-signal).
 
 Sedation can feel like relief. But often it comes with a price: fog, passivity, dependence, and the return of hunger later.
 
@@ -87,7 +87,7 @@ Fractalism gets weaker when it forgets the body. A living framework has to survi
 
 ## The Void is also a practice
 
-The Void is not only an idea. It can be lived.
+The [Void](/the-void) is not only an idea. It can be lived.
 
 In practice, this means allowing periods where you do not instantly fill space with stimulation, reaction, correction, or noise.
 
@@ -136,7 +136,7 @@ A real Fractalist community cannot be built from language alone.
 
 It starts with the quality of life people are actually able to sustain. If someone cannot tolerate silence, cannot recognize distortion in themselves, or cannot step back from compulsion, then it becomes very hard to help build a field of truth and reciprocity.
 
-This is not a demand for perfection. It is a demand for sincerity.
+This is not a demand for perfection. It is a demand for sincerity, which is part of [what Fractalism is for](/what-fractalism-is-for) in the first place.
 
 A living community needs people willing to build:
 

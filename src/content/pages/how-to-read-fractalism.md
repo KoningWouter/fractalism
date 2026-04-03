@@ -9,7 +9,7 @@ It is not only philosophy, not only spirituality, not only social criticism, and
 
 That means Fractalism should not be read as a closed doctrine where every sentence has to be taken in exactly the same way.
 
-It is better approached as a living framework for orientation.
+It is better approached as a living framework for orientation rather than a fixed inventory of [concepts](/concepts).
 
 ## Not every text is trying to do the same thing
 
@@ -33,7 +33,7 @@ A good way to read Fractalism is to notice that it often works on three levels a
 ### Metaphor
 Some language is symbolic because symbols can sometimes reveal structure better than flat literal prose can.
 
-Terms like *the Void*, *inversion*, *distortion*, *field quality*, or *the wanderer* are not always meant as mechanical labels. Often they point to something lived, structural, and existential at the same time.
+Terms like [*the Void*](/the-void), *inversion*, *distortion*, *field quality*, or *the wanderer* are not always meant as mechanical labels. Often they point to something lived, structural, and existential at the same time.
 
 ### Hypothesis
 Some ideas are best read as working hypotheses.
@@ -49,7 +49,7 @@ For example: modern systems fragment attention, normalize distortion, reward app
 
 The framework gets weaker the moment it turns into a system where every symbol must be literalized and every intuition must be overclaimed.
 
-Its strength lies in discernment, not inflation.
+Its strength lies in discernment, not inflation, which is one reason [epistemic hygiene](/epistemic-hygiene) matters so much here.
 
 That means:
 
@@ -118,7 +118,7 @@ Better is something like:
 - moral clarity without simplification
 - discernment without deadness
 
-You do not need to agree with every formulation to understand the central intuition:
+You do not need to agree with every formulation to understand the central intuition articulated across pages like [Truth](/truth) and the [axioms](/axioms):
 
 **reality has structure, distortion has structure too, and truth leaves echoes across scales.**
 

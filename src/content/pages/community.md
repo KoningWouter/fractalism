@@ -26,7 +26,7 @@ Under these conditions, social life contracts toward two dominant forms:
 
 Neither can bear the full weight of human association.
 
-Fractalism begins from the premise that truth cannot remain abstract. If it is real, it must eventually take form in relation. Community is therefore not peripheral. It is one of the tests.
+Fractalism begins from the premise that [truth](/truth) cannot remain abstract. If it is real, it must eventually take form in relation. Community is therefore not peripheral. It is one of the tests.
 
 ## What Kind of Community This Is Not
 
@@ -65,7 +65,7 @@ A clouded field cannot sustain trust or resolution for long. This does not requi
 A real community must protect its capacity to create, repair, and stabilize. Not every act of criticism serves truth. Some acts only dissolve the conditions of shared life.
 
 ### Resonance over domination
-The deepest forms of order in a living field should arise through recognition, competence, responsibility, and alignment, not through fear, charisma, force, or hidden power.
+The deepest forms of order in a living field should arise through recognition, competence, responsibility, and alignment, not through fear, charisma, force, or hidden power. In Fractalist terms, this is closer to [Team 3](/team-3) than to either open domination or benevolent disguise.
 
 ## Can Such a Community Exist Without Hierarchy?
 
@@ -126,7 +126,7 @@ The phrase “STO community” should not be used cheaply.
 
 If it means anything, it refers to a field in which service does not become self-erasure, care does not become permissiveness, and openness does not become structural naivete.
 
-A real STO-oriented community would not be weak.
+A real STO-oriented community would not be weak. It would need the kinds of distinctions named in the Fractalist [concepts](/concepts) page, not just goodwill.
 It would not be gullible.
 It would not flatten moral distinctions in the name of peace.
 

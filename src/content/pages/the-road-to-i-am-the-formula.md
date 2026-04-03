@@ -12,7 +12,7 @@ That may be what happened with the sentence I Am the Formula.
 
 It sounds extreme at first. It can sound inflated, mystical, or impossible. But if taken seriously and approached slowly, it may point to something more precise than it first appears.
 
-This essay is an attempt to walk that road slowly and clearly.
+This essay is an attempt to walk that road slowly and clearly, in a way that remains answerable to [truth](/truth) rather than intoxication.
 
 ## The first step is simple
 
@@ -88,7 +88,7 @@ What if the deepest truth of a being is not just that it participates in reality
 
 At that point formula does not mean a dead equation on paper.
 
-It means the living intelligible order by which things take form.
+It means the living intelligible order by which things take form, something Fractalism tries to name through its [concepts](/concepts) and formalize through its [axioms](/axioms).
 The pattern beneath the pattern.
 The lawfulness that makes coherence possible.
 The structuring principle by which consciousness, matter, meaning, relation, and becoming are not random fragments but expressions of a deeper order.
@@ -139,7 +139,7 @@ That changes the understanding of freedom.
 It also means that distortion is not trivial.
 To live in falsehood is not just to be incorrect. It is to collaborate with deformation.
 
-And to return to truth is not just to update an opinion. It is to come back into deeper participation with reality.
+And to return to [truth](/truth) is not just to update an opinion. It is to come back into deeper participation with reality.
 
 ## Why the insight can be forgotten
 

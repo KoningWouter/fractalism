@@ -20,7 +20,7 @@ It is the place where one is no longer fully carried by stimulation, identity ma
 
 In that sense, the Void is not deadness. It is exposure.
 
-It is the clearing in which false structure starts to show itself as false.
+It is the clearing in which false structure starts to show itself as false, which is why the Void has to be read with [epistemic hygiene](/epistemic-hygiene) rather than romantic projection.
 
 ## Why the Void matters
 
@@ -40,7 +40,7 @@ When that happens, a person may begin to notice:
 - which beliefs collapse when they are no longer constantly reinforced
 - which parts of life are alive, and which are being artificially sustained
 
-The Void is difficult precisely because it makes these things harder to avoid.
+The Void is difficult precisely because it makes these things harder to avoid. In that sense it often becomes part of [living Fractalism](/living-fractalism), not merely thinking about it.
 
 ## The Void and distortion
 
@@ -113,7 +113,7 @@ That is why the Void can become a site of:
 - moral seriousness
 - renewed contact with what is alive
 
-The Void does not guarantee truth. But it can remove some of what keeps truth at a distance.
+The Void does not guarantee [truth](/truth). But it can remove some of what keeps truth at a distance.
 
 ## Closing
 

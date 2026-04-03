@@ -38,7 +38,7 @@ Other design does the opposite. It overwhelms, flatters, pressures, dazzles, and
 
 That approach works well if your real goal is sales, habit formation, capture, or emotional steering.
 
-It works less well if your real goal is truth.
+It works less well if your real goal is [truth](/truth).
 
 Truth usually needs a different atmosphere.
 
@@ -68,7 +68,7 @@ Even when the product is harmless, the relation has already shifted.
 
 The reader is no longer simply being addressed. They are being managed.
 
-A truth project should resist that drift as much as possible.
+A truth project should resist that drift as much as possible, especially if it hopes to contribute to real [community](/community) rather than audience capture.
 
 Not because influence is avoidable in an absolute sense. Everything influences. Every form speaks. Every choice of tone, color, pacing, and framing affects perception.
 
@@ -119,7 +119,7 @@ People do not only distort their ideas by lying. They distort them by packaging 
 
 ## Fractalism and the problem of coherence
 
-For a project like Fractalism, this issue is not secondary.
+For a project like Fractalism, this issue is not secondary. It is partly a matter of [epistemic hygiene](/epistemic-hygiene) at the level of form.
 
 If Fractalism is serious about truth, inversion, resonance, and the restoration of intelligible form, then the website cannot simply imitate the design logic of the very systems it critiques.
 
@@ -139,7 +139,7 @@ Enough sobriety that the words can carry the weight.
 
 This is not anti design.
 
-It is design under discipline.
+It is design under discipline, in service of [what Fractalism is for](/what-fractalism-is-for) rather than in competition with it.
 
 ## The deeper question
 

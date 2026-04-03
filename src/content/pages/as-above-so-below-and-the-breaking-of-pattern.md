@@ -11,7 +11,7 @@ The modern mind is trained to treat this as either delusion or coincidence.
 
 Fractalism suggests a third possibility.
 
-Not that the individual ego directly causes world events in some childish omnipotent sense, but that patterns recur across scale, and that changes in how one participates in a pattern can alter one's relation to the larger field in which that pattern also exists.
+Not that the individual ego directly causes world events in some childish omnipotent sense, but that patterns recur across scale, and that changes in how one participates in a pattern can alter one's relation to the larger field in which that pattern also exists. That claim sits close to the Fractalist [axioms](/axioms), not far from them.
 
 This is what "as above, so below" means when stripped of mystification and returned to structural seriousness.
 
@@ -38,7 +38,7 @@ Domination exists in families, but also in empires.
 The scale changes.
 The structure often does not.
 
-This is why Fractalism insists that what is true tends to echo across levels. The same movement can appear as appetite in one place, propaganda in another, bureaucratic inversion in another, and geopolitical theater in another. Different costumes, same logic.
+This is why Fractalism insists that what is [true](/truth) tends to echo across levels. The same movement can appear as appetite in one place, propaganda in another, bureaucratic inversion in another, and geopolitical theater in another. Different costumes, same logic.
 
 ## What changes when a personal pattern breaks
 
@@ -52,7 +52,7 @@ Third, they gain more contrast with the same structure when it appears outside t
 
 This third point matters a great deal.
 
-A person trapped inside a loop often experiences it as normal. A person who has just interrupted the loop suddenly sees its shape everywhere. What was previously invisible becomes legible. The pattern has not necessarily become stronger in the world. The person's resolution has increased.
+A person trapped inside a loop often experiences it as normal. A person who has just interrupted the loop suddenly sees its shape everywhere. What was previously invisible becomes legible. The pattern has not necessarily become stronger in the world. The person's resolution has increased, which is one reason [friction as signal](/friction-as-signal) matters.
 
 This can make outer events feel uncannily synchronized with the inner break.
 
@@ -148,7 +148,7 @@ Not every symbolic rhyme should be inflated into cosmic certainty.
 
 Fractalism must stay allergic to vanity.
 
-The right posture is neither dismissal nor inflation, but disciplined notice.
+The right posture is neither dismissal nor inflation, but disciplined notice, which is also a question of [epistemic hygiene](/epistemic-hygiene).
 
 Something like:
 

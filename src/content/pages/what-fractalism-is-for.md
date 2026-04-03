@@ -3,7 +3,7 @@ title: What Fractalism Is For
 description: "Fractalism is not only a description of reality. It is a framework for discernment, diagnosis, and design."
 ---
 
-Fractalism is not only a way of describing reality. It is a way of using what becomes visible.
+Fractalism is not only a way of describing reality. It is a way of using what becomes visible through its [core concepts](/concepts).
 
 If it remains only a metaphysical picture, it stays incomplete. A real framework should help people see more clearly, diagnose distortion more precisely, and build forms of life that do not collapse so easily into noise.
 
@@ -36,7 +36,7 @@ Fractalism becomes useful when it helps distinguish:
 
 A framework that cannot help diagnose distortion will eventually become one more distortion itself.
 
-That is why Fractalism has to remain usable in contact with real life, not only with abstract ideas.
+That is why Fractalism has to remain usable in contact with real life, not only with abstract ideas. If it cannot survive contact with [truth](/truth), it cannot orient anyone for long.
 
 ## For relationships
 
@@ -78,7 +78,7 @@ That means asking:
 - where am I tempted to use symbol instead of substance?
 - what would greater resolution require of me now?
 
-Truth in this sense is not only a conclusion. It is a discipline of contact.
+Truth in this sense is not only a conclusion. It is a discipline of contact, and [the axioms](/axioms) matter only insofar as they support that discipline rather than replace it.
 
 ## For building better structures
 
@@ -92,7 +92,7 @@ It should help us ask how to build:
 - spaces that reduce noise instead of multiplying it
 - rhythms of life that strengthen agency instead of draining it
 
-This is where a framework proves whether it has practical force. Not only in what it explains, but in what it helps make possible.
+This is where a framework proves whether it has practical force. Not only in what it explains, but in what it helps make possible. That is also where [Living Fractalism](/living-fractalism) begins.
 
 ## Not a total answer, but a better instrument
 

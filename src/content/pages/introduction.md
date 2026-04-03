@@ -3,7 +3,7 @@ title: Introduction
 description: "The first orientation to Fractalism: its central premise, key themes, and way of reading reality."
 ---
 
-Fractalism is a way of reading reality through pattern, distortion, polarity, ethics, and scale.
+Fractalism is a way of reading reality through pattern, distortion, polarity, ethics, and scale, using a set of [core concepts](/concepts) that become clearer the deeper one moves into the framework.
 
 Its basic premise is simple:
 
@@ -27,7 +27,7 @@ Fractalism is not a neutral inventory. It is an orienting discipline. The questi
 
 ## Truth, Distortion, and Inversion
 
-Truth is not exhausted by correct information. A sentence may be accurate and still conceal the real structure of a situation. In Fractalism, truth means coherence with living reality.
+Truth is not exhausted by correct information. A sentence may be accurate and still conceal the real structure of a situation. In Fractalism, [truth](/truth) means coherence with living reality.
 
 Distortion is misalignment. It bends perception, language, desire, structure, or will away from reality. Some distortions remain local. Others harden into systems. When that hardening becomes advanced, distortion passes into **inversion**: what is hollow appears superior, what is parasitic appears virtuous, what is dead acquires prestige, and what is true becomes harder to recognize.
 
@@ -61,15 +61,15 @@ These polarities are tracked not only in private conduct, but in institutions, c
 
 ## The Void
 
-The Void is one of the central tests within the framework. It is not simple emptiness, and not a theatrical name for despair. It is depth stripped of distraction. It is the clearing in which false structure loses support.
+The [Void](/the-void) is one of the central tests within the framework. It is not simple emptiness, and not a theatrical name for despair. It is depth stripped of distraction. It is the clearing in which false structure loses support.
 
 For that reason the Void can feel annihilating or restorative. It exposes what depends on noise, stimulation, performance, or inversion in order to persist.
 
-It is treated here as a serious experiential and metaphysical category.
+It is treated here as a serious experiential and metaphysical category, not as a decorative metaphor.
 
 ## Fractal Reality
 
-Reality is not only complex. It is recursive.
+Reality is not only complex. It is recursive, and the [axioms](/axioms) give one of the clearest formal statements of that claim.
 
 What appears at one scale often reappears at another:
 

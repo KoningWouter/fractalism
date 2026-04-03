@@ -11,7 +11,7 @@ What follows is a first map, not an exhaustive lexicon.
 
 ## Truth
 
-Truth is alignment with living reality.
+[Truth](/truth) is alignment with living reality.
 
 A statement may be accurate while still concealing the real structure of a situation. A person may possess information while remaining fundamentally disoriented. Truth therefore includes coherence, depth, and contact with what is actually alive and structurally real.
 
@@ -77,7 +77,7 @@ Fractalism follows this polarity into systems, communities, technologies, and ha
 
 ## The Void
 
-The Void is one of the decisive concepts within Fractalism.
+The [Void](/the-void) is one of the decisive concepts within Fractalism.
 
 It is not simple emptiness. It can be encountered as living depth, uncollapsed potential, silence before distortion, and the clearing in which false structures lose support.
 
@@ -89,7 +89,7 @@ The Void is a condition in which reality may become less mediated and more direc
 
 Polarity refers more broadly to directional orientation within consciousness and structure.
 
-STO and STS are one important expression of polarity, but not the only one. Fractalism also uses polarity to describe recurring directional tensions such as truth and distortion, coherence and fragmentation, reciprocity and extraction, or life-giving relation and degenerative inversion.
+STO and STS are one important expression of polarity, but not the only one. Fractalism also uses polarity to describe recurring directional tensions such as truth and distortion, coherence and fragmentation, reciprocity and extraction, or life-giving relation and degenerative inversion. One social expression of that distinction appears in [Team 3](/team-3).
 
 Polarity helps explain why similar outer forms can carry radically different inner logics.
 
@@ -101,7 +101,7 @@ Scale matters deeply in Fractalism.
 
 A pattern that appears in the individual may reappear in the family, the institution, the culture, or the metaphysical imagination of an age. This does not mean that all levels are identical. It means they may express the same structural tendencies in different forms.
 
-Fractalism therefore pays close attention to scale transitions:
+Fractalism therefore pays close attention to scale transitions, a pattern given formal articulation in the [axioms](/axioms):
 
 - from inner life to social structure
 - from symbol to institution

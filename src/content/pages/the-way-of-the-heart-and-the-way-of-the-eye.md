@@ -11,7 +11,7 @@ Others are not satisfied with this alone.
 
 They want to know why something is true, what structure supports it, how it relates to larger patterns, and whether its apparent goodness can survive scrutiny. They do not only want moral orientation. They want intelligibility.
 
-This distinction matters for Fractalism, because the framework can easily appear more natural to one kind of person than the other.
+This distinction matters for Fractalism, because the framework can easily appear more natural to one kind of person than the other, even though both are finally ordered toward [truth](/truth).
 
 One might call these two orientations **the way of the heart** and **the way of the eye**.
 
@@ -77,7 +77,7 @@ At its best, the way of the eye carries:
 - hunger for structure
 - the wish to know whether goodness is merely asserted, or actually grounded in reality
 
-This is one of the deepest motives behind Fractalism itself.
+This is one of the deepest motives behind Fractalism itself, and one reason it developed a body of [concepts](/concepts) rather than remaining only intuition.
 
 Fractalism is not only a longing for the good. It is also a demand to understand why the good is not arbitrary, why distortion is not merely a personal dislike, and why reciprocity, truth, and correction may be structurally real.
 
@@ -139,7 +139,7 @@ If the heart and the eye remain enemies, one gets sentiment without structure or
 
 If they learn to trust each other, a stronger path appears.
 
-Then truth is not only felt.
+Then [truth](/truth) is not only felt.
 It is not only analyzed.
 It becomes both recognized and understood.
 
@@ -155,4 +155,4 @@ They may be different entrances.
 
 The way of the heart and the way of the eye do not cancel each other.
 
-They complete each other.
+They complete each other, and together they make a more livable form of [Fractalism](/living-fractalism).

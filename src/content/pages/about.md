@@ -3,7 +3,7 @@ title: About
 description: What this project is, why it exists, and how Fractalism should be approached.
 ---
 
-Fractalism is a philosophical and metaphysical project concerned with truth, distortion, polarity, ethics, and the structures through which reality becomes legible across scales.
+Fractalism is a philosophical and metaphysical project concerned with [truth](/truth), distortion, polarity, ethics, and the structures through which reality becomes legible across scales.
 
 This site gives that project a public form. It is not a finished doctrine. It is a body of thought under construction and refinement.
 
@@ -21,7 +21,7 @@ This is not a news feed, not a lifestyle blog, and not a platform designed for e
 
 It is a long-form project of articulation. Its aim is to clarify, refine, and publish a framework capable of tracing continuity across psychological, civilizational, and metaphysical layers of experience.
 
-Some parts of Fractalism take the form of essays. Others take the form of axioms, concepts, distinctions, and compressed formulations. Together they form an architecture, not a content stream.
+Some parts of Fractalism take the form of essays. Others take the form of [axioms](/axioms), [concepts](/concepts), distinctions, and compressed formulations. Together they form an architecture, not a content stream.
 
 ## What This Is Not
 
@@ -50,7 +50,7 @@ Not everything here is equal in status. Some pages are foundational. Some are ex
 
 ## How to Read It
 
-The best way to approach Fractalism is with discernment.
+The best way to approach Fractalism is with discernment, which is why [Introduction](/introduction) and [How to Read Fractalism](/how-to-read-fractalism) are often the best entry points.
 
 Read slowly. Compare concepts. Notice recurring structures. Test whether an idea clarifies something real or merely produces fascination. Do not confuse intensity with truth. Do not confuse symbolic richness with coherence.
 

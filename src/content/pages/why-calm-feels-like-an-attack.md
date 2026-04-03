@@ -43,7 +43,7 @@ For someone organized around subtle control, this can feel intolerable. Calm bec
 
 This is one of the deeper reasons calm can feel hostile.
 
-When someone carries a quieter interior field, it can reveal the amount of noise in the person standing next to them. Not because the calm person is judging, and not because they are "mirroring" in any dramatic New Age sense, but because contrast reveals structure.
+When someone carries a quieter interior field, it can reveal the amount of noise in the person standing next to them. Not because the calm person is judging, and not because they are "mirroring" in any dramatic New Age sense, but because contrast reveals structure. In Fractalist terms, this is part of what [truth](/truth) does.
 
 Silence reveals noise.
 Stillness reveals agitation.
@@ -79,11 +79,11 @@ This is why some people repeatedly seek:
 
 These are not always chosen because they are pleasurable. Often they are chosen because they are familiar, and familiarity feels safer than stillness.
 
-In that sense, calm can feel like an attack because it threatens the structure by which a person maintains continuity.
+In that sense, calm can feel like an attack because it threatens the structure by which a person maintains continuity, not unlike an unwanted approach toward [the Void](/the-void).
 
 ## The STS dimension
 
-From a Fractalist perspective, this dynamic deepens when moral orientation enters the picture.
+From a Fractalist perspective, this dynamic deepens when moral orientation enters the picture, especially around the distinction between STS and [Team 3](/team-3).
 
 A strongly STS structure does not merely struggle with calm. It often struggles with anything that cannot be easily recruited into control, validation, extraction, or asymmetry.
 
@@ -138,7 +138,7 @@ You may have. Self-examination remains necessary.
 But it is also possible that your calm has interrupted a pattern they normally rely on. It may have frustrated their access to control. It may have exposed the turbulence they use to avoid themselves. It may have confronted them with a form of interior order they do not know how to metabolize.
 
 In such moments, the task is not arrogance.
-The task is steadiness.
+The task is steadiness, which is one of the quieter disciplines of [living Fractalism](/living-fractalism).
 
 Do not become theatrical about your peace.
 Do not turn calm into a superiority ritual.

@@ -26,7 +26,7 @@ Truth clarifies. It makes reality more legible. It tends to increase resolution 
 
 ## Truth is approached, not possessed
 
-Fractalism is strongest when it is not treated as a final doctrine, but as a dynamic truth system.
+Fractalism is strongest when it is not treated as a final doctrine, but as a dynamic truth system grounded in usable [concepts](/concepts).
 
 That means truth is not something a person fully captures once and for all. It is approached through increasing discernment, correction, and refinement.
 
@@ -69,7 +69,7 @@ That means:
 - experience must be re-read in the light of later clarity
 - the status of ideas must remain distinguishable
 
-A system that cannot be corrected quickly turns into self protection.
+A system that cannot be corrected quickly turns into self protection. That is why [epistemic hygiene](/epistemic-hygiene) is not optional.
 
 A system that cannot hold any shape at all dissolves into impressionism.
 
@@ -83,7 +83,7 @@ It requires practices such as:
 
 - noticing distortion
 - making better distinctions
-- reading friction carefully
+- reading [friction](/friction-as-signal) carefully
 - testing interpretations against life
 - allowing correction
 - returning to sobriety, behaviour, and integration

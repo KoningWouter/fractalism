@@ -57,7 +57,7 @@ The more a person lives by compulsion, reassurance, urgency, and looped reaction
 
 This is where technology, appetite, and moral orientation begin to overlap.
 
-## Where the Void enters
+## Where the [Void](/the-void) enters
 
 The Void matters because it interrupts continuity.
 
@@ -90,7 +90,7 @@ In that pause, several things become possible:
 - urgency can be distinguished from manipulation
 - choice can be distinguished from compulsion
 
-The Void restores authorship.
+The Void restores authorship, but only if it is read with something like [epistemic hygiene](/epistemic-hygiene) rather than turned into mystique.
 
 It gives back the possibility of choosing from presence rather than from managed reaction.
 
@@ -118,7 +118,7 @@ They sense that predictive systems do not just describe human life. They shape i
 
 The answer is not panic.
 
-The answer is deeper interior space.
+The answer is deeper interior space, and therefore a stronger relation to [truth](/truth) than predictive systems want from us.
 
 The answer is learning how to sit in a moment without instantly being consumed by it.
 

@@ -9,7 +9,7 @@ The idea of the wanderer points to a simple human experience:
 
 For some people this feeling is mild. For others it runs deep. They move through the world with a strange mix of recognition and distance. They can function, but something in them keeps noticing that much of ordinary life feels thinner, louder, flatter, or more artificial than it seems to feel for others.
 
-Fractalism uses the word *wanderer* for this kind of person.
+Fractalism uses the word *wanderer* for this kind of person, as one expression of its wider [conceptual vocabulary](/concepts).
 
 Not as a badge of superiority, but as a way of naming a certain kind of sensitivity.
 
@@ -59,7 +59,7 @@ A wanderer who does not know how to live with their sensitivity may start reachi
 - overstimulation
 - grand explanations that replace grounding
 
-These things may help for a moment. But they often come with a cost. Instead of creating real rest, they create fog, dependence, and more distance from what the person was actually looking for.
+These things may help for a moment. But they often come with a cost. Instead of creating real rest, they create fog, dependence, and more distance from what the person was actually looking for, which is why the distinction between relief and clarity matters so much in [Living Fractalism](/living-fractalism).
 
 That is why many wanderers are not only seekers. They are also at risk of becoming self-numbing.
 
@@ -82,6 +82,8 @@ Sedation can imitate peace.
 Intensity can imitate meaning.
 Spiritual inflation can imitate destiny.
 Isolation can imitate purity.
+
+The [Void](/the-void), by contrast, does not imitate nourishment. It exposes what can actually remain without noise.
 
 But imitation is not the same as nourishment.
 
@@ -142,4 +144,4 @@ the feeling of not fully belonging to the logic of a world shaped by noise, dist
 
 That friction can break a person. It can also refine them.
 
-The difference often lies in whether sensitivity is turned into self-destruction, or slowly shaped into clarity, sobriety, and a more truthful way of living.
+The difference often lies in whether sensitivity is turned into self-destruction, or slowly shaped into clarity, sobriety, and a more [truthful](/truth) way of living.

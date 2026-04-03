@@ -3,7 +3,7 @@ title: The Axioms of Fractalism
 description: "Fractalism is articulated through 26 axioms. Before them stands the undivided ground from which articulation becomes possible at all."
 ---
 
-Fractalism is articulated through **26 axioms**.
+Fractalism is articulated through **26 axioms**, but they are best approached as a deepening of the [introduction](/introduction) rather than as a substitute for it.
 
 Before them stands **The Ground**: the undivided source from which articulation becomes possible at all. The Ground is not counted among the axioms. It is the pre-axiomatic condition from which the sequence emerges and to which it returns in completion.
 
@@ -36,7 +36,7 @@ Everything is derived from the fractal formula that shapes form, relation, and t
 There is no absolute beginning or end. The formula abides in an eternal Now and has no final origin in linear time.
 
 ### Axiom 3 — Fractal Scaling
-Reality is fractal. Deeper patterns repeat across scales of manifestation.
+Reality is fractal. Deeper patterns repeat across scales of manifestation, which is one reason the Fractalist [concepts](/concepts) recur from psyche to civilization.
 
 ### Axiom 4 — The “I Am” Constant
 Consciousness is not a byproduct of matter. It is a fundamental property of the formula, realizing itself at every node.
