@@ -5,7 +5,7 @@ description: "How Fractalism becomes practical in daily life: attention, sobriet
 
 Fractalism is not only something to think about. It is also something to live.
 
-If it stays at the level of [concepts](/concepts), it risks becoming decorative. The deeper question is whether it helps a person live with more clarity, more [truthfulness](/truth), more steadiness, and less dependence on distortion.
+If it stays at the level of [concepts](/concepts/#discernment), it risks becoming decorative. The deeper question is whether it helps a person live with more clarity, more [truthfulness](/truth#truth-as-practice-not-only-concept), more steadiness, and less dependence on [distortion](/concepts/#distortion).
 
 Living Fractalism means trying to bring discernment into ordinary life.
 
@@ -87,7 +87,7 @@ Fractalism gets weaker when it forgets the body. A living framework has to survi
 
 ## The Void is also a practice
 
-The [Void](/the-void) is not only an idea. It can be lived.
+The [Void](/the-void#what-the-void-is) is not only an idea. It can be lived.
 
 In practice, this means allowing periods where you do not instantly fill space with stimulation, reaction, correction, or noise.
 
@@ -103,7 +103,7 @@ A lot of compulsive patterns become easier to see when they are not constantly b
 
 ## Atmosphere matters too
 
-Living Fractalism means paying attention not only to what something says, but to what kind of field it creates.
+Living Fractalism means paying attention not only to what something says, but to what kind of [field](/concepts/#field-quality) it creates.
 
 A room, a website, a conversation, a habit, or a routine can leave you:
 

@@ -38,7 +38,7 @@ Other design does the opposite. It overwhelms, flatters, pressures, dazzles, and
 
 That approach works well if your real goal is sales, habit formation, capture, or emotional steering.
 
-It works less well if your real goal is [truth](/truth).
+It works less well if your real goal is [truth](/truth#truth-as-practice-not-only-concept).
 
 Truth usually needs a different atmosphere.
 
@@ -86,7 +86,7 @@ They were often trying to transmit something rather than optimize someone.
 
 That difference can be felt.
 
-A page built mainly to carry an idea has a different field quality than a page built mainly to maximize engagement.
+A page built mainly to carry an idea has a different [field quality](/concepts/#field-quality) than a page built mainly to maximize engagement.
 
 One invites reading.
 The other invites reaction.
@@ -119,7 +119,7 @@ People do not only distort their ideas by lying. They distort them by packaging 
 
 ## Fractalism and the problem of coherence
 
-For a project like Fractalism, this issue is not secondary. It is partly a matter of [epistemic hygiene](/epistemic-hygiene) at the level of form.
+For a project like Fractalism, this issue is not secondary. It is partly a matter of [epistemic hygiene](/epistemic-hygiene#what-epistemic-hygiene-means-here) at the level of form.
 
 If Fractalism is serious about truth, inversion, resonance, and the restoration of intelligible form, then the website cannot simply imitate the design logic of the very systems it critiques.
 

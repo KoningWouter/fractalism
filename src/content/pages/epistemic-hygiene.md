@@ -4,7 +4,7 @@ description: How Fractalism distinguishes symbol, experience, hypothesis, and cl
 eyebrow: Reading Carefully
 ---
 
-Fractalism deals with [truth](/truth), distortion, resonance, polarity, and metaphysical orientation. That makes epistemic hygiene essential.
+Fractalism deals with [truth](/concepts/#truth), [distortion](/concepts/#distortion), [resonance](/concepts/#resonance), [polarity](/concepts/#polarity), and metaphysical orientation. That makes epistemic hygiene essential.
 
 Without it, a framework meant to sharpen discernment can quickly become a theatre of projection: intense language mistaken for truth, personal experience inflated into universal law, symbolic insight hardened into dogma, or charisma substituting for clarity.
 
@@ -41,10 +41,10 @@ Experience matters. It should not be dismissed. But it does not automatically be
 A symbol can illuminate structure without functioning as a literal description.
 
 Examples:
-- [the Void](/the-void)
-- resonance
-- distortion
-- the image of descent, inversion, or restoration
+- [the Void](/concepts/#the-void)
+- [resonance](/concepts/#resonance)
+- [distortion](/concepts/#distortion)
+- the image of descent, [inversion](/concepts/#inversion), or restoration
 
 Symbols can be true in a real sense without being mechanically literal. Problems begin when symbolic language is either flattened into banality or over-literalized into pseudo-certainty.
 
@@ -99,7 +99,7 @@ Its language could be used:
 - to turn diagnosis into superiority
 - to make people dependent on interpreters rather than more capable of seeing for themselves
 
-This is why epistemic hygiene must apply inside the framework, not only outside it. It is part of how Fractalism keeps its own [concepts](/concepts) from decaying into atmosphere.
+This is why epistemic hygiene must apply inside the framework, not only outside it. It is part of how Fractalism keeps its own [concepts](/concepts/#discernment) from decaying into atmosphere.
 
 If Fractalism cannot tolerate clarification, correction, or self-critique, it becomes easier for distortion to wear Fractalist language as a mask.
 

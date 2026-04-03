@@ -3,7 +3,7 @@ title: What Fractalism Is For
 description: "Fractalism is not only a description of reality. It is a framework for discernment, diagnosis, and design."
 ---
 
-Fractalism is not only a way of describing reality. It is a way of using what becomes visible through its [core concepts](/concepts).
+Fractalism is not only a way of describing reality. It is a way of using what becomes visible through its [core concepts](/concepts#discernment).
 
 If it remains only a metaphysical picture, it stays incomplete. A real framework should help people see more clearly, diagnose distortion more precisely, and build forms of life that do not collapse so easily into noise.
 
@@ -16,9 +16,9 @@ One of the first practical uses of Fractalism is that it helps make recurring st
 Instead of asking only what is happening, it asks:
 
 - what pattern is repeating here?
-- what scale is this appearing on?
+- what [scale](/concepts/#scale) is this appearing on?
 - what is signal, and what is noise?
-- what is correction, and what is distortion?
+- what is correction, and what is [distortion](/concepts/#distortion)?
 - what is actually being revealed by this conflict, symptom, or repetition?
 
 This matters because many situations remain confusing until they are seen as patterned rather than isolated.
@@ -32,11 +32,11 @@ Fractalism becomes useful when it helps distinguish:
 - reciprocity from extraction
 - sobriety from deadness
 - symbolic depth from projection
-- resonance from compulsion
+- [resonance](/concepts/#resonance) from compulsion
 
 A framework that cannot help diagnose distortion will eventually become one more distortion itself.
 
-That is why Fractalism has to remain usable in contact with real life, not only with abstract ideas. If it cannot survive contact with [truth](/truth), it cannot orient anyone for long.
+That is why Fractalism has to remain usable in contact with real life, not only with abstract ideas. If it cannot survive contact with [truth](/truth#truth-as-practice-not-only-concept), it cannot orient anyone for long.
 
 ## For relationships
 
@@ -78,7 +78,7 @@ That means asking:
 - where am I tempted to use symbol instead of substance?
 - what would greater resolution require of me now?
 
-Truth in this sense is not only a conclusion. It is a discipline of contact, and [the axioms](/axioms) matter only insofar as they support that discipline rather than replace it.
+Truth in this sense is not only a conclusion. It is a discipline of contact, and [the axioms](/axioms#the-26-axioms) matter only insofar as they support that discipline rather than replace it.
 
 ## For building better structures
 
