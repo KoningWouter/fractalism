@@ -79,11 +79,11 @@ This is why some people repeatedly seek:
 
 These are not always chosen because they are pleasurable. Often they are chosen because they are familiar, and familiarity feels safer than stillness.
 
-In that sense, calm can feel like an attack because it threatens the structure by which a person maintains continuity, not unlike an unwanted approach toward [the Void](/the-void).
+In that sense, calm can feel like an attack because it threatens the structure by which a person maintains continuity, not unlike an unwanted approach toward [the Void](/the-void#what-the-void-is).
 
 ## The STS dimension
 
-From a Fractalist perspective, this dynamic deepens when moral orientation enters the picture, especially around the distinction between STS and [Team 3](/team-3).
+From a Fractalist perspective, this dynamic deepens when moral orientation enters the picture, especially around the distinction between STS and [Team 3](/team-3#team-3-real-sto).
 
 A strongly STS structure does not merely struggle with calm. It often struggles with anything that cannot be easily recruited into control, validation, extraction, or asymmetry.
 

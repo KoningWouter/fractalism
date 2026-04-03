@@ -16,7 +16,7 @@ Because friction anywhere is borne everywhere, which is why Fractalism treats [f
 
 ### The Call for Coherence
 
-Separation is experienced. Choice is exercised within it. Through free will, deviation becomes possible. Fractalism names that deviation directly: a movement away from optimal resonance within the larger pattern of reality.
+Separation is experienced. Choice is exercised within it. Through free will, deviation becomes possible. Fractalism names that deviation directly: a movement away from optimal [resonance](/concepts/#resonance) within the larger pattern of reality.
 
 Deviation introduces interference into the shared field. It thickens noise. It multiplies unnecessary suffering.
 
@@ -30,7 +30,7 @@ The universe is self-correcting. Whatever departs from deeper order accumulates 
 
 The greater the deviation, the harder the correction.
 
-This manifesto therefore points toward **Flow**: the state in which the part comes back into alignment with the whole, and therefore back toward [truth](/truth) as lived coherence.
+This manifesto therefore points toward **Flow**: the state in which the part comes back into alignment with the whole, and therefore back toward [truth](/truth#truth-as-practice-not-only-concept) as lived coherence.
 
 When one node clears, the field clears with it.
 
@@ -45,7 +45,7 @@ The pattern remembers itself through resonance.
 
 ### The Diagnostics of the Day
 
-[Axiom 8](/axioms) states that free will includes the capacity to deviate from optimal fractal resonance. In lived terms, every day becomes diagnostic.
+[Axiom 8](/axioms#axiom-8--the-law-of-fractal-deviation) states that free will includes the capacity to deviate from optimal fractal resonance. In lived terms, every day becomes diagnostic.
 
 Each moment bends toward one of two conditions:
 

@@ -20,8 +20,8 @@ To read that intelligibility, one must learn to see relations as well as facts:
 - how inner states shape perception
 - how systems reward distortion or clarity
 - how symbolic structures carry ethical orientation
-- how truth and inversion propagate across levels of reality
-- how resonance can reveal hidden coherence
+- how truth and [inversion](/concepts/#inversion) propagate across levels of reality
+- how [resonance](/concepts/#resonance) can reveal hidden coherence
 
 Fractalism is not a neutral inventory. It is an orienting discipline. The question is not only *what is happening*, but also *what kind of order or disorder is declaring itself here*.
 
@@ -39,7 +39,7 @@ Not everything real is first known through argument. Some structures are felt be
 
 Fractalism therefore treats resonance as one instrument of discernment. A person, text, place, institution, or idea can strengthen clarity and inner steadiness. It can also generate confusion, depletion, vanity, or split attention. That difference matters.
 
-This is why Fractalism attends to **field quality** as well as explicit propositions:
+This is why Fractalism attends to [**field quality**](/concepts/#field-quality) as well as explicit propositions:
 - does something increase clarity or confusion?
 - does it deepen trust or generate fragmentation?
 - does it strengthen life-force or deplete it?
@@ -49,7 +49,7 @@ Reality is encountered atmospherically as well as conceptually.
 
 ## Ethical Polarity: STO and STS
 
-A recurring distinction within Fractalism is that between **service-to-others (STO)** and **service-to-self (STS)**. These are not best understood as total labels, but as enduring orientations within consciousness and relation.
+A recurring distinction within Fractalism is that between [**service-to-others (STO)** and **service-to-self (STS)**](/concepts/#sto-and-sts). These are not best understood as total labels, but as enduring orientations within consciousness and relation.
 
 STO names the movement toward truth, reciprocity, service, and alignment with reality beyond the isolated self.
 
@@ -69,7 +69,7 @@ It is treated here as a serious experiential and metaphysical category, not as a
 
 ## Fractal Reality
 
-Reality is not only complex. It is recursive, and the [axioms](/axioms) give one of the clearest formal statements of that claim.
+Reality is not only complex. It is recursive, and the [axioms](/axioms#axiom-3--fractal-scaling) give one of the clearest formal statements of that claim.
 
 What appears at one scale often reappears at another:
 

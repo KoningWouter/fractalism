@@ -3,7 +3,7 @@ title: About
 description: What this project is, why it exists, and how Fractalism should be approached.
 ---
 
-Fractalism is a philosophical and metaphysical project concerned with [truth](/truth), distortion, polarity, ethics, and the structures through which reality becomes legible across scales.
+Fractalism is a philosophical and metaphysical project concerned with [truth](/concepts/#truth), distortion, polarity, ethics, and the structures through which reality becomes legible across scales.
 
 This site gives that project a public form. It is not a finished doctrine. It is a body of thought under construction and refinement.
 
