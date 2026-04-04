@@ -137,7 +137,7 @@ const hasStructuredHomepage = hero && intro && themes && relevance;
 							show the movement in between.
 						</p>
 					</div>
-					<div class="dispatches-shell dispatches-shell--compact">
+					<div class="dispatches-shell dispatches-shell--compact" id="homepage-dispatches">
 						{latestDispatches.map((dispatch) => (
 							<article class="dispatch-card">
 								<p class="dispatch-card__meta">{formatDispatchDate(dispatch.published)}</p>
@@ -154,6 +154,43 @@ const hasStructuredHomepage = hero && intro && themes && relevance;
 							View all dispatches
 						</a>
 					</div>
+					<script>
+						const dispatchMount = document.getElementById('homepage-dispatches');
+						const escapeHtml = (value) => value
+							.replace(/&/g, '&amp;')
+							.replace(/</g, '&lt;')
+							.replace(/>/g, '&gt;')
+							.replace(/"/g, '&quot;');
+						const formatHomepageDispatchDate = (value) => {
+							try {
+								return new Intl.DateTimeFormat('en', { dateStyle: 'long' }).format(new Date(value));
+							} catch {
+								return value;
+							}
+						};
+
+						if (dispatchMount) {
+							fetch('/api/dispatches.json?limit=3')
+								.then((response) => (response.ok ? response.json() : Promise.reject(response.statusText)))
+								.then(({ dispatches }) => {
+									if (!Array.isArray(dispatches) || dispatches.length === 0) return;
+									dispatchMount.innerHTML = dispatches
+										.map(
+											(dispatch) => `
+												<article class="dispatch-card">
+													<p class="dispatch-card__meta">${formatHomepageDispatchDate(dispatch.published)}</p>
+													<h3 class="dispatch-card__title">${escapeHtml(dispatch.title)}</h3>
+													<p>${escapeHtml(dispatch.excerpt)}</p>
+													<a class="dispatch-card__link" href="${dispatch.url}" target="_blank" rel="noreferrer">Read on Nostr</a>
+												</article>`,
+										)
+										.join('');
+								})
+								.catch(() => {
+									// Keep server-rendered fallback cards.
+								});
+						}
+					</script>
 				</section>
 			</>
 		)
