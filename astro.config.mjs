@@ -1,13 +1,13 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 
-import vercel from '@astrojs/vercel';
+import cloudflare from '@astrojs/cloudflare';
 
 import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://fractalisme.nl',
-  adapter: vercel(),
+  adapter: cloudflare(),
   integrations: [sitemap()]
 });
