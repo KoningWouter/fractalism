@@ -62,7 +62,7 @@ The Ground prevents Fractalism from becoming only a theory of patterns. It names
 
 ## The 26 Axioms
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 1 — The Universal Equation
 
@@ -79,7 +79,7 @@ A person may first interpret life as a series of unrelated events: a conflict he
 **Why it matters**  
 The Universal Equation establishes Fractalism as a framework of coherence. It suggests that pattern is not accidental, but structural.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 2 — The Eternal Now
 
@@ -96,7 +96,7 @@ A person may live as if meaning only exists in the future or in the past: what h
 **Why it matters**  
 The Eternal Now loosens the assumption that reality is only a line moving from origin to ending. It allows Fractalism to speak about presence as ontological depth rather than mere mindfulness.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 3 — Fractal Scaling
 Reality is fractal. Deeper patterns repeat across scales of manifestation, which is one reason the Fractalist [concepts](/concepts) recur from psyche to civilization.
@@ -112,7 +112,7 @@ A person avoids uncomfortable truth in private life by distracting themselves, n
 **Why it matters**  
 Fractal Scaling helps explain why inner work and social critique are not separate domains. The same distortions that appear in individual life can scale outward into systems and culture.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 4 — The “I Am” Constant
 Consciousness is not a byproduct of matter. It is a fundamental property of the formula, realizing itself at every node.
@@ -128,7 +128,7 @@ A person may treat awareness as if it were merely produced by physical processes
 **Why it matters**  
 The “I Am” Constant gives Fractalism its ontological seriousness. It places consciousness near the center of reality rather than at its accidental edge.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 5 — The Fractal Big Bounce
 Cosmic existence unfolds through recurring cycles of expansion and contraction, not through a singular one-way beginning.
@@ -142,7 +142,7 @@ The same rhythm appears in ordinary life: effort and withdrawal, expression and 
 **Why it matters**  
 The Fractal Big Bounce offers a cyclic reading of reality that can also illuminate human life. It helps Fractalism resist the modern fixation on one-way progress or irreversible collapse.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 6 — The Law of Recurrence
 Patterns return in endless variation. Recurrence is built into reality.
@@ -156,7 +156,7 @@ A person keeps ending up in different relationships that all seem different on t
 **Why it matters**  
 The Law of Recurrence helps explain why life can feel cyclical without being meaningless. Repetition is often not random. It may be the return of a pattern asking to be seen more deeply.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 7 — The Veil of Amnesia
 The descent into incarnation includes forgetting. Memory of higher states or densities is veiled so that embodied experience can occur.
@@ -170,7 +170,7 @@ A person may carry a strong sense that something essential has been forgotten, e
 **Why it matters**  
 The Veil of Amnesia helps Fractalism speak to the pervasive human sense of estrangement, longing, and half-recognition. It frames forgetfulness not only as failure, but as part of the condition of incarnation.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 8 — The Law of Fractal Deviation
 Deviation is not mere error. Necessary variation makes evolution, discovery, and growth possible.
@@ -184,7 +184,7 @@ A person grows up inside a family or culture with strong expectations about who 
 **Why it matters**  
 The Law of Fractal Deviation protects Fractalism from becoming a doctrine of rigid repetition. It makes room for living difference, discovery, and the unexpected forms through which truth can emerge.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 9 — The Law of Elastic Correction
 When friction, imbalance, or distortion becomes too great, reality generates corrective recoil. In experiential terms, this approaches karma.
@@ -198,7 +198,7 @@ A person ignores exhaustion, suppresses emotion, and keeps overriding their own 
 **Why it matters**  
 The Law of Elastic Correction helps explain why consequences are often delayed but not absent. Distortion can accumulate quietly before reality pushes back.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 10 — The Arc of Return
 Reality moves through a process of involution into matter and evolution back toward Source.
@@ -212,7 +212,7 @@ A person may spend years lost in distraction, ambition, addiction, simulation, o
 **Why it matters**  
 The Arc of Return helps Fractalism speak about loss and recovery as parts of one deeper movement. It frames return not as regression, but as a reorientation toward what is more real.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 11 — The Principle of Self-Correction
 The system has the capacity to optimize and recalibrate itself from within.
@@ -226,7 +226,7 @@ A person lives for years in confusion, overcompensation, or false adaptation. Ye
 **Why it matters**  
 The Principle of Self-Correction gives Fractalism an account of recovery, not only breakdown. It suggests that reality contains not just error and drift, but also tendencies toward reorganization and return.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 12 — The Power of Non-Linear Emergence
 Reality is capable of sudden jumps in resolution. Growth is not always gradual. Transformation can occur in discontinuous leaps.
@@ -240,7 +240,7 @@ A person may spend months or years circling the same question, struggle, or thre
 **Why it matters**  
 This axiom protects against the illusion that real development must always be smooth and linear. Some of the most important changes in life arrive as breakthrough rather than steady progression.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 13 — The Holographic Whole
 
@@ -257,7 +257,7 @@ A brief interaction can reveal the deeper logic of a person. A single institutio
 **Why it matters**  
 The Holographic Whole explains why close attention to the local can disclose the universal. It supports Fractalist reading by showing how larger structure can appear in small, concentrated forms.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 14 — Fractal History
 History is not a random sequence of events. It is a field of recurring patterns appearing in different forms.
@@ -271,7 +271,7 @@ A society may believe it has advanced beyond older forms of domination, only to 
 **Why it matters**  
 Fractal History helps explain why the past is not dead. Structural patterns can reappear across eras, which means historical discernment is not only about facts, but about recognizing form.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 15 — Harmonic Restoration
 Reality tends toward renewed harmony and lower energetic distortion. Recovery toward order is built into the system.
@@ -285,7 +285,7 @@ A person who has lived in stress, overstimulation, or inner fragmentation may be
 **Why it matters**  
 Harmonic Restoration gives Fractalism a way to speak about healing without sentimentality. It suggests that recovery is not fantasy, but a real movement available within reality itself.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 16 — Universal Echo
 Manifest reality reflects Source through echo, resonance, and symbolic recurrence.
@@ -299,7 +299,7 @@ A person may encounter the same underlying lesson through different channels: a 
 **Why it matters**  
 Universal Echo gives Fractalism a way to talk about resonance and symbolic recurrence without reducing them to fantasy. It suggests that meaning can repeat across forms and that reality may disclose itself through recurrence.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 17 — Synchronicity as Signal
 
@@ -316,7 +316,7 @@ A person stands at a real life threshold and begins encountering the same symbol
 **Why it matters**  
 Synchronicity as Signal allows Fractalism to take meaningful coincidence seriously without collapsing into superstition. It invites discernment rather than reflex dismissal or overclaim.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 18 — Relational Consciousness
 Consciousness arises relationally. Awareness takes form in the encounter between observer and observed.
@@ -330,7 +330,7 @@ A person may think they understand themselves in solitude, yet only discover cer
 **Why it matters**  
 Relational Consciousness helps prevent Fractalism from becoming a framework of isolated inwardness. It reminds us that awareness is shaped through encounter, not only introspection.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 19 — The Primacy of Resolution
 The quality of perception matters more than the length of existence. Depth outranks duration.
@@ -344,7 +344,7 @@ A person can spend years moving through life mechanically, avoiding depth, repea
 **Why it matters**  
 The Primacy of Resolution shifts value away from mere continuation and toward the quality of awareness. It asks not only how much life there is, but how truly it is being perceived.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 20 — The Feedback Loop
 
@@ -361,7 +361,7 @@ A person expects rejection, so they become guarded and cold. Others respond with
 **Why it matters**  
 This axiom shows that patterns are not static. They become self-reinforcing through repetition, response, and consequence.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 21 — The Eye of Resolution
 
@@ -378,7 +378,7 @@ At first, a person may only see isolated events: a conflict, a mood, a social tr
 **Why it matters**  
 The Eye of Resolution is central to Fractalist practice. It implies that discernment can grow, and that reality becomes more intelligible as perception becomes more refined.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 22 — The Axiom of Symbiosis
 
@@ -395,7 +395,7 @@ A healthy friendship is not sustained by one person constantly giving while the 
 **Why it matters**  
 This axiom shows that mutuality is not just a moral preference. It is part of the structural logic of life. When reciprocity fails, coherence tends to fail with it.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 23 — The Axiom of Social Noise
 Collective low-resolution fields generate interference, confusion, and distortion in social reality.
@@ -409,7 +409,7 @@ An online environment rewards outrage, speed, performance, and constant reaction
 **Why it matters**  
 This axiom shows that distortion is not only individual. Sometimes the social environment itself is producing confusion and lowering resolution.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 24 — The Law of Obstruction
 
@@ -426,7 +426,7 @@ A person is given clear, accurate feedback, but cannot take it in. Shame blocks 
 **Why it matters**  
 The Law of Obstruction explains why truth alone is not always enough. Clarity depends not only on what is said, but on the condition of the channel receiving it.
 
-[To top](#contents)
+[Top](#contents)
 
 ### Axiom 25 — The Pure Observer
 
@@ -460,7 +460,7 @@ A person may revisit a truth they once knew only vaguely: love, sobriety, simpli
 **Why it matters**  
 The Omega Loop gives Fractalism a strong sense of completion. It suggests that the deepest return is not regression to origin, but the conscious recovery of origin on a higher scale.
 
-[To top](#contents)
+[Top](#contents)
 
 ## The Structural Families
 
