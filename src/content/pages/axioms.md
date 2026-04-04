@@ -123,8 +123,26 @@ Each part contains the whole. Reality is holographic. The total pattern can appe
 ### Axiom 14 — Fractal History
 History is not a random sequence of events. It is a field of recurring patterns appearing in different forms.
 
+**Plain language**  
+History does not merely repeat the same events. It repeats the same structures in new costumes.
+
+**Example**  
+A society may believe it has advanced beyond older forms of domination, only to reproduce the same logic through new language, new technologies, and more sophisticated institutions. What once appeared as overt control may return as bureaucratic management, algorithmic shaping, or moralized conformity. The outer form changes, but the deeper pattern remains recognizable.
+
+**Why it matters**  
+Fractal History helps explain why the past is not dead. Structural patterns can reappear across eras, which means historical discernment is not only about facts, but about recognizing form.
+
 ### Axiom 15 — Harmonic Restoration
 Reality tends toward renewed harmony and lower energetic distortion. Recovery toward order is built into the system.
+
+**Plain language**  
+Distortion can be powerful, but it is not the only force in reality. There is also a tendency toward rebalancing and repair.
+
+**Example**  
+A person who has lived in stress, overstimulation, or inner fragmentation may begin removing noise, telling the truth, and making simpler choices. At first this can feel strangely empty or even difficult. But over time, the system starts reorganizing around greater steadiness, clarity, and coherence. What returns is not perfection, but a more living order.
+
+**Why it matters**  
+Harmonic Restoration gives Fractalism a way to speak about healing without sentimentality. It suggests that recovery is not fantasy, but a real movement available within reality itself.
 
 ### Axiom 16 — Universal Echo
 Manifest reality reflects Source through echo, resonance, and symbolic recurrence.
@@ -147,8 +165,26 @@ Synchronicity as Signal allows Fractalism to take meaningful coincidence serious
 ### Axiom 18 — Relational Consciousness
 Consciousness arises relationally. Awareness takes form in the encounter between observer and observed.
 
+**Plain language**  
+Consciousness is not only something sealed inside an isolated self. It becomes clearer through relationship, encounter, and response.
+
+**Example**  
+A person may think they understand themselves in solitude, yet only discover certain fears, defenses, tenderness, or capacities when they come into real contact with another person. Relationship reveals what isolation can conceal. The same is true in perception more broadly: we often come to awareness through what meets us, resists us, mirrors us, or calls something forth in us.
+
+**Why it matters**  
+Relational Consciousness helps prevent Fractalism from becoming a framework of isolated inwardness. It reminds us that awareness is shaped through encounter, not only introspection.
+
 ### Axiom 19 — The Primacy of Resolution
 The quality of perception matters more than the length of existence. Depth outranks duration.
+
+**Plain language**  
+It matters less how long something lasts than how clearly it is seen and lived.
+
+**Example**  
+A person can spend years moving through life mechanically, avoiding depth, repeating habits, and never really seeing themselves or others. Another person may pass through a shorter but more truthful period of life in which perception deepens, illusions fall away, and reality becomes more legible. The difference is not mainly duration, but resolution.
+
+**Why it matters**  
+The Primacy of Resolution shifts value away from mere continuation and toward the quality of awareness. It asks not only how much life there is, but how truly it is being perceived.
 
 ### Axiom 20 — The Feedback Loop
 
@@ -170,6 +206,15 @@ This axiom shows that patterns are not static. They become self-reinforcing thro
 ![The Eye of Resolution](/eye_of_resolution.png)
 
 Consciousness can deepen its capacity to perceive and understand pattern. Resolution is the power of the Eye: the ability to see more truly.
+
+**Plain language**  
+The ability to see clearly can be cultivated. Perception is not fixed.
+
+**Example**  
+At first, a person may only see isolated events: a conflict, a mood, a social trend, a piece of language. With time, discipline, honesty, and attention, they begin to see the deeper pattern underneath: recurring motives, distortions, symbolic echoes, field effects, and structural consequences. Nothing magical has happened. The eye has simply gained resolution.
+
+**Why it matters**  
+The Eye of Resolution is central to Fractalist practice. It implies that discernment can grow, and that reality becomes more intelligible as perception becomes more refined.
 
 ### Axiom 22 — The Axiom of Symbiosis
 
