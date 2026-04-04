@@ -52,6 +52,7 @@ If you are new to Fractalism, these are the best places to begin:
 - [Introduction](/introduction) — the first orientation to the framework
 - [How to Read Fractalism](/how-to-read-fractalism) — how to approach the project without flattening it into dogma or vague metaphor
 - [Core Concepts](/concepts) — the main vocabulary of the framework
+- [FAQ](/faq) — honest answers to the most common questions
 - [About](/about) — what kind of project this is, and why it exists
 
 ## Go deeper
