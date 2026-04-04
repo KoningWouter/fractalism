@@ -12,6 +12,36 @@ The structure is simple:
 - **The Ground** — the source before articulation
 - **Axioms 1–26** — the articulated body of the system
 
+## Contents
+
+- [The Ground](#the-ground--pre-axiomatic-unity)
+- [Axiom 1 — The Universal Equation](#axiom-1--the-universal-equation)
+- [Axiom 2 — The Eternal Now](#axiom-2--the-eternal-now)
+- [Axiom 3 — Fractal Scaling](#axiom-3--fractal-scaling)
+- [Axiom 4 — The “I Am” Constant](#axiom-4--the-i-am-constant)
+- [Axiom 5 — The Fractal Big Bounce](#axiom-5--the-fractal-big-bounce)
+- [Axiom 6 — The Law of Recurrence](#axiom-6--the-law-of-recurrence)
+- [Axiom 7 — The Veil of Amnesia](#axiom-7--the-veil-of-amnesia)
+- [Axiom 8 — The Law of Fractal Deviation](#axiom-8--the-law-of-fractal-deviation)
+- [Axiom 9 — The Law of Elastic Correction](#axiom-9--the-law-of-elastic-correction)
+- [Axiom 10 — The Arc of Return](#axiom-10--the-arc-of-return)
+- [Axiom 11 — The Principle of Self-Correction](#axiom-11--the-principle-of-self-correction)
+- [Axiom 12 — The Power of Non-Linear Emergence](#axiom-12--the-power-of-non-linear-emergence)
+- [Axiom 13 — The Holographic Whole](#axiom-13--the-holographic-whole)
+- [Axiom 14 — Fractal History](#axiom-14--fractal-history)
+- [Axiom 15 — Harmonic Restoration](#axiom-15--harmonic-restoration)
+- [Axiom 16 — Universal Echo](#axiom-16--universal-echo)
+- [Axiom 17 — Synchronicity as Signal](#axiom-17--synchronicity-as-signal)
+- [Axiom 18 — Relational Consciousness](#axiom-18--relational-consciousness)
+- [Axiom 19 — The Primacy of Resolution](#axiom-19--the-primacy-of-resolution)
+- [Axiom 20 — The Feedback Loop](#axiom-20--the-feedback-loop)
+- [Axiom 21 — The Eye of Resolution](#axiom-21--the-eye-of-resolution)
+- [Axiom 22 — The Axiom of Symbiosis](#axiom-22--the-axiom-of-symbiosis)
+- [Axiom 23 — The Axiom of Social Noise](#axiom-23--the-axiom-of-social-noise)
+- [Axiom 24 — The Law of Obstruction](#axiom-24--the-law-of-obstruction)
+- [Axiom 25 — The Pure Observer](#axiom-25--the-pure-observer)
+- [Axiom 26 — The Omega Loop](#axiom-26--the-omega-loop)
+
 ## The Ground
 
 ### The Ground — Pre-Axiomatic Unity
