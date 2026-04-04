@@ -15,10 +15,6 @@ This project explores those patterns and asks what becomes visible when we learn
 
 ## What is Fractalism?
 
-![Service to Self versus Service to Others](/stsvssto.png)
-
-![STS and STO comparison](/sto-sts-comparison.jpg)
-
 Fractalism is a way of understanding reality through recurring patterns. It looks at how the same dynamics appear in consciousness, relationships, society, symbolism, and systems of power.
 
 It brings together metaphysics, moral orientation, symbolic thinking, and social critique in a way that aims to stay readable and grounded.
@@ -34,6 +30,9 @@ It brings together metaphysics, moral orientation, symbolic thinking, and social
 Some things can be felt before they are fully explained. A [field](/concepts#field-quality) can sharpen awareness or dull it. A text can carry coherence or static. [Resonance](/concepts#resonance) matters here not as sentiment, but as a clue that something is fitting or misfitting at a deeper level.
 
 ### STO and STS
+
+![Service to Self versus Service to Others](/stsvssto.png)
+
 [Service-to-others and service-to-self](/concepts#sto-and-sts) are treated not as crude total labels, but as real orientations of consciousness and relation. They become visible in repeated pattern: in what one serves, what one protects, how one treats truth, and whether relation tends toward reciprocity or extraction.
 
 ### The Void
