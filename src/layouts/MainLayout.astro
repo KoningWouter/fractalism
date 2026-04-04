@@ -70,6 +70,20 @@ const canonicalUrl = Astro.url.href;
 			const lightboxCaption = lightbox?.querySelector('.lightbox__caption');
 			const lightboxClose = lightbox?.querySelector('.lightbox__close');
 
+			const addHeadingAnchors = () => {
+				document
+					.querySelectorAll('.markdown-shell h2[id], .markdown-shell h3[id], .markdown-shell h4[id]')
+					.forEach((heading) => {
+						if (heading.querySelector('.heading-anchor')) return;
+						const anchor = document.createElement('a');
+						anchor.className = 'heading-anchor';
+						anchor.href = `#${heading.id}`;
+						anchor.setAttribute('aria-label', `Link to ${heading.textContent}`);
+						anchor.textContent = '#';
+						heading.append(' ', anchor);
+					});
+			};
+
 			const openLightbox = (img) => {
 				if (!lightbox || !lightboxImage) return;
 				lightboxImage.src = img.currentSrc || img.src;
@@ -90,6 +104,8 @@ const canonicalUrl = Astro.url.href;
 				lightbox.close();
 				document.body.classList.remove('lightbox-open');
 			};
+
+			addHeadingAnchors();
 
 			document.addEventListener('click', (event) => {
 				const img = event.target.closest('.page-main img');
