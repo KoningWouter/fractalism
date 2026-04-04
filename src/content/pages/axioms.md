@@ -58,6 +58,15 @@ Cosmic existence unfolds through recurring cycles of expansion and contraction, 
 ### Axiom 6 — The Law of Recurrence
 Patterns return in endless variation. Recurrence is built into reality.
 
+**Plain language**  
+What is unresolved often comes back in new forms until it is recognized more clearly.
+
+**Example**  
+A person keeps ending up in different relationships that all seem different on the surface, yet carry the same deeper pattern: emotional unavailability, unequal reciprocity, or fear of honesty. What returns is not always the same person or circumstance, but the same structure wearing a new face.
+
+**Why it matters**  
+The Law of Recurrence helps explain why life can feel cyclical without being meaningless. Repetition is often not random. It may be the return of a pattern asking to be seen more deeply.
+
 ### Axiom 7 — The Veil of Amnesia
 The descent into incarnation includes forgetting. Memory of higher states or densities is veiled so that embodied experience can occur.
 
@@ -82,8 +91,26 @@ Reality moves through a process of involution into matter and evolution back tow
 ### Axiom 11 — The Principle of Self-Correction
 The system has the capacity to optimize and recalibrate itself from within.
 
+**Plain language**  
+Reality is not only capable of drifting out of alignment. It also contains tendencies toward recalibration and repair.
+
+**Example**  
+A person lives for years in confusion, overcompensation, or false adaptation. Yet under pressure, something in them begins resisting the distortion. They start telling the truth, feeling the cost of their coping, or turning toward sobriety and coherence. The correction does not always come from outside intervention. Sometimes the system itself begins pushing toward truth from within.
+
+**Why it matters**  
+The Principle of Self-Correction gives Fractalism an account of recovery, not only breakdown. It suggests that reality contains not just error and drift, but also tendencies toward reorganization and return.
+
 ### Axiom 12 — The Power of Non-Linear Emergence
 Reality is capable of sudden jumps in resolution. Growth is not always gradual. Transformation can occur in discontinuous leaps.
+
+**Plain language**  
+Change often builds quietly for a long time, then appears all at once.
+
+**Example**  
+A person may spend months or years circling the same question, struggle, or threshold with little visible progress. Then one conversation, one loss, one silence, or one act of honesty suddenly reorganizes everything. What looks sudden from the outside was often prepared invisibly from within.
+
+**Why it matters**  
+This axiom protects against the illusion that real development must always be smooth and linear. Some of the most important changes in life arrive as breakthrough rather than steady progression.
 
 ### Axiom 13 — The Holographic Whole
 
@@ -105,6 +132,15 @@ Manifest reality reflects Source through echo, resonance, and symbolic recurrenc
 ![Synchronicity as Signal](/synchronicity.png)
 
 Synchronicity is not meaningless accident. It is data carried within the formula.
+
+**Plain language**  
+Some coincidences feel charged because they may reveal pattern, timing, or meaning rather than mere randomness.
+
+**Example**  
+A person stands at a real life threshold and begins encountering the same symbol, phrase, or theme across unrelated contexts: a conversation, a dream, a book, an unexpected message, a passing reference. None of these moments proves a cosmic law on its own, but together they may function as signal, drawing attention to a pattern becoming visible.
+
+**Why it matters**  
+Synchronicity as Signal allows Fractalism to take meaningful coincidence seriously without collapsing into superstition. It invites discernment rather than reflex dismissal or overclaim.
 
 ### Axiom 18 — Relational Consciousness
 Consciousness arises relationally. Awareness takes form in the encounter between observer and observed.
@@ -138,6 +174,15 @@ Consciousness can deepen its capacity to perceive and understand pattern. Resolu
 ![The Axiom of Symbiosis](/symbiosis.png)
 
 All parts of reality exist through reciprocal relation. Mutuality is structurally necessary, not optional.
+
+**Plain language**  
+Life holds together through reciprocity. Systems built only on extraction eventually weaken themselves.
+
+**Example**  
+A healthy friendship is not sustained by one person constantly giving while the other only takes. The same applies to workplaces, communities, and ecosystems. Where reciprocity breaks down, depletion follows. What may look efficient in the short term often proves unsustainable because relation itself has been damaged.
+
+**Why it matters**  
+This axiom shows that mutuality is not just a moral preference. It is part of the structural logic of life. When reciprocity fails, coherence tends to fail with it.
 
 ### Axiom 23 — The Axiom of Social Noise
 Collective low-resolution fields generate interference, confusion, and distortion in social reality.
