@@ -665,7 +665,8 @@ p {
 		display: grid;
 	}
 
-	.section-grid {
+	.section-grid,
+	.dispatches-shell--compact {
 		grid-template-columns: 1fr;
 	}
 }
