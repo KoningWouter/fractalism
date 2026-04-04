@@ -38,6 +38,8 @@ There is no absolute beginning or end. The formula abides in an eternal Now and 
 ### Axiom 3 — Fractal Scaling
 Reality is fractal. Deeper patterns repeat across scales of manifestation, which is one reason the Fractalist [concepts](/concepts) recur from psyche to civilization.
 
+![Fractal Scaling](/fractal_scaling.png)
+
 **Plain language**  
 The same pattern can appear in a person, a relationship, an institution, or a civilization.
 
