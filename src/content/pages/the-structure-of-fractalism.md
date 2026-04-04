@@ -10,6 +10,8 @@ Its central intuition is simple: recurring patterns appear in inner life, langua
 
 The framework becomes easier to understand when its main layers are distinguished. These layers are connected, but they are not identical. Each addresses a different aspect of reality and helps prevent Fractalism from collapsing into vagueness or totalization.
 
+![Architecture](/architecture.png)
+
 ## 1. The epistemic layer
 
 This layer concerns how reality is known, misread, clarified, or distorted.
