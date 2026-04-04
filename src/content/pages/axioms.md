@@ -361,6 +361,9 @@ A person feels anger, panic, craving, or shame rise inside them. In one mode, th
 The Pure Observer is essential for discernment. Without some degree of inner witnessing, a person remains trapped inside reaction and cannot clearly distinguish signal from noise.
 
 ### Axiom 26 — The Omega Loop
+
+![The Omega Loop](/omega_loop.png)
+
 What has fully passed through the formula returns to its origin as conscious recognition on a higher scale.
 
 Axiom 26 is not merely the final item in the system. It is the closure of the articulated run: the point at which the sequence bends back toward its source, not as collapse, but as realization.
