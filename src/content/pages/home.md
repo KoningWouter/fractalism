@@ -78,6 +78,7 @@ For longer writings and thematic applications:
 - [Essays](/essays)
 - [The Wanderer](/the-wanderer)
 - [Team 3](/team-3)
+- [Why Determinism Feels True](/why-determinism-feels-true) — why intelligent people land on determinism, where it breaks down, and what opens when the observer is placed back at the centre
 
 ## Closing
 
