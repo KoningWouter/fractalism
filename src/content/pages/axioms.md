@@ -115,6 +115,9 @@ Fractal Scaling helps explain why inner work and social critique are not separat
 [Top](#contents)
 
 ### Axiom 4 — The “I Am” Constant
+
+![The “I Am” Constant](/i_am_constant.png)
+
 Consciousness is not a byproduct of matter. It is a fundamental property of the formula, realizing itself at every node.
 
 If consciousness were wholly extrinsic to reality, its repeated emergence would remain deeply unexplained. What recurs across scales is unlikely to be mere accident. If consciousness is a persistent feature of existence, then it is more coherent to regard it as intrinsic to reality than as a byproduct of dead structure.
