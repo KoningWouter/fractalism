@@ -65,7 +65,7 @@ That means:
 - not every intuition should harden into certainty
 - not every strong perception should become dogma
 
-Fractalism becomes more serious when it can distinguish between what is clear, what is possible, and what remains open.
+Fractalism becomes more serious when it can distinguish between what is clear, what is possible, and what remains open. For a more direct account of the framework's own failure modes, see [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong).
 
 ## There is an ethical center
 
