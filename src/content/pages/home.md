@@ -9,6 +9,7 @@ This project explores those patterns and asks what becomes visible when we learn
 
 [Start Reading](/introduction)
 [Explore the Concepts](/concepts)
+[See the Structure](/the-structure-of-fractalism)
 
 ## What is Fractalism?
 
@@ -54,6 +55,7 @@ If you are new to Fractalism, these are the best places to begin:
 
 Once you have the basics, these pages take you further into the structure:
 
+- [The Structure of Fractalism](/the-structure-of-fractalism) — a layered overview of the framework and how its main domains relate
 - [Truth](/truth) — a Fractalist understanding of truth as living coherence, increasing resolution, and a practice rather than a possession
 - [The Void](/the-void) — a core concept about silence, interruption, and the loss of false support
 - [Friction as Signal](/friction-as-signal) — how to distinguish resistance that signals misalignment from resistance that accompanies real correction
