@@ -1,5 +1,5 @@
 ---
-title: Fractalism | Truth, resonance, STO/STS, and the Void
+title: The Architecture of Reality
 description: Fractalism is a framework for truth, resonance, STO and STS, the Void, and the repeating patterns that shape consciousness, society, and reality.
 ---
 
