@@ -67,6 +67,7 @@ Once you have the basics, these pages take you further into the structure:
 - [The 26 Axioms](/axioms) — the doctrinal core of the system
 - [Epistemic Hygiene](/epistemic-hygiene) — how Fractalism distinguishes symbol, experience, hypothesis, and claim
 - [Tamas, Rajas, and Sattva](/tamas-rajas-and-sattva) — three recurring modes of consciousness, field quality, and lived orientation
+- [Ahriman and Lucifer](/ahriman-and-lucifer) — two distinct modes of distortion: inflationary escape and deadening control
 - [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong) — where the framework can fail through projection, inflation, overreach, or loss of discipline
 - [Community](/community) — what kind of social form could sustain truth, reciprocity, and sobriety
 
