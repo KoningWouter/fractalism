@@ -75,10 +75,18 @@ Once you have the basics, these pages take you further into the structure:
 
 For longer writings and thematic applications:
 
-- [Essays](/essays)
+- [Essays](/essays) — the full essay archive
+- [Why Determinism Feels True](/why-determinism-feels-true) — why intelligent people land on determinism, where it breaks down, and what opens when the observer is placed back at the centre
+- [The Way of Resonance](/the-way-of-resonance) — on resonance, friction, flow, and the return to coherence
+- [The Way of the Heart and the Way of the Eye](/the-way-of-the-heart-and-the-way-of-the-eye) — two approaches to truth: feeling the good directly, and seeking pattern and intelligibility
+- [The Void, Palantir, and Behavioral Legibility](/the-void-and-palantir) — on predictive systems, behavioral loops, and why the Void matters in an age that turns human pattern into operational knowledge
+- [Why Calm Feels Like an Attack](/why-calm-feels-like-an-attack) — why real calm can provoke hostility in an STS structure, and how inner noise reacts to undisturbed presence
+- [Why STS Drifts Toward Sadism](/why-sts-drifts-toward-sadism) — why radical service-to-self tends to turn others into objects, and why domination can harden into sadism
+- [Why Truth Projects Should Not Look Like Marketing](/why-truth-projects-should-not-look-like-marketing) — why projects built around truth should resist the design logic of modern marketing
+- [As Above, So Below and the Breaking of Pattern](/as-above-so-below-and-the-breaking-of-pattern) — on breaking destructive patterns and how Fractalism understands resonance without magical egoism
+- [The Road to I Am the Formula](/the-road-to-i-am-the-formula) — on co-creation, consciousness, and participation in reality
 - [The Wanderer](/the-wanderer)
 - [Team 3](/team-3)
-- [Why Determinism Feels True](/why-determinism-feels-true) — why intelligent people land on determinism, where it breaks down, and what opens when the observer is placed back at the centre
 
 ## Closing
 
