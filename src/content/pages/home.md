@@ -3,6 +3,8 @@ title: The Architecture of Reality
 description: Fractalism is a framework for truth, resonance, STO and STS, the Void, and the repeating patterns that shape consciousness, society, and reality.
 ---
 
+![The Architecture of Reality](/hero.png)
+
 Fractalism begins with a simple conviction: reality is not random, and truth is not arbitrary. Patterns echo across scales. What appears in the inner life also appears in language, culture, power, and the structures we live inside.
 
 This project explores those patterns and asks what becomes visible when we learn to read them clearly.
