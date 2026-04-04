@@ -98,6 +98,8 @@ const currentPath = Astro.url.pathname;
 	const siteNav = document.querySelector('.site-nav');
 
 	if (navToggle && siteNav) {
+		const groups = Array.from(siteNav.querySelectorAll('.site-nav__group'));
+
 		const closeNav = () => {
 			siteNav.dataset.open = 'false';
 			navToggle.setAttribute('aria-expanded', 'false');
@@ -107,6 +109,15 @@ const currentPath = Astro.url.pathname;
 			const isOpen = siteNav.dataset.open === 'true';
 			siteNav.dataset.open = isOpen ? 'false' : 'true';
 			navToggle.setAttribute('aria-expanded', isOpen ? 'false' : 'true');
+		});
+
+		groups.forEach((group) => {
+			group.addEventListener('toggle', () => {
+				if (window.innerWidth > 900 || !group.open) return;
+				groups.forEach((otherGroup) => {
+					if (otherGroup !== group) otherGroup.open = false;
+				});
+			});
 		});
 
 		siteNav.querySelectorAll('a').forEach((link) => {

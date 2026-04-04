@@ -651,7 +651,7 @@ p {
 	}
 
 	.site-nav__dropdown {
-		display: grid;
+		display: none;
 		position: static;
 		min-width: 0;
 		margin-top: 0.35rem;
@@ -659,6 +659,10 @@ p {
 		background: transparent;
 		border: 0;
 		box-shadow: none;
+	}
+
+	.site-nav__group[open] > .site-nav__dropdown {
+		display: grid;
 	}
 
 	.section-grid {
