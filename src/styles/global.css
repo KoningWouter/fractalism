@@ -118,13 +118,19 @@ body.lightbox-open {
 .site-nav__toggle {
 	display: none;
 	align-items: center;
-	gap: 0.5rem;
+	gap: 0.65rem;
 	padding: 0.65rem 0.9rem;
 	border: 1px solid var(--border);
 	border-radius: 999px;
 	background: rgba(255, 255, 255, 0.04);
 	color: var(--text);
 	cursor: pointer;
+}
+
+.site-nav__toggle-bars {
+	display: inline-flex;
+	flex-direction: column;
+	gap: 0.22rem;
 }
 
 .site-nav__toggle-line {
@@ -550,6 +556,7 @@ p {
 	.site-header__inner {
 		flex-wrap: wrap;
 		align-items: center;
+		row-gap: 0.9rem;
 	}
 
 	.site-footer__inner {
@@ -594,7 +601,36 @@ p {
 	}
 
 	.site-header__inner {
-		padding: 1rem;
+		padding: 0.9rem 1rem;
+	}
+
+	.site-brand {
+		gap: 0.6rem;
+		font-size: 0.9rem;
+		letter-spacing: 0.06em;
+	}
+
+	.site-brand__mark {
+		width: 1.8rem;
+		height: 1.8rem;
+	}
+
+	.site-nav__toggle {
+		padding: 0.7rem;
+		border-radius: 0.95rem;
+		gap: 0;
+	}
+
+	.site-nav__toggle-label {
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		padding: 0;
+		margin: -1px;
+		overflow: hidden;
+		clip: rect(0, 0, 0, 0);
+		white-space: nowrap;
+		border: 0;
 	}
 
 	.prose-block,

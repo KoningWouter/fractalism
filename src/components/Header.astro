@@ -30,10 +30,12 @@ const currentPath = Astro.url.pathname;
 			<span>Fractalism</span>
 		</a>
 
-		<button class="site-nav__toggle" type="button" aria-expanded="false" aria-controls="site-nav">
-			<span class="site-nav__toggle-line" aria-hidden="true"></span>
-			<span class="site-nav__toggle-line" aria-hidden="true"></span>
-			<span class="site-nav__toggle-line" aria-hidden="true"></span>
+		<button class="site-nav__toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open menu">
+			<span class="site-nav__toggle-bars" aria-hidden="true">
+				<span class="site-nav__toggle-line"></span>
+				<span class="site-nav__toggle-line"></span>
+				<span class="site-nav__toggle-line"></span>
+			</span>
 			<span class="site-nav__toggle-label">Menu</span>
 		</button>
 
