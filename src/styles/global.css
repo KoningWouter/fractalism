@@ -154,8 +154,10 @@ body.lightbox-open {
 	list-style: none;
 }
 
-.site-nav__link {
+.site-nav__link,
+.site-nav__summary {
 	display: inline-flex;
+	align-items: center;
 	padding: 0.6rem 0.85rem;
 	border-radius: 999px;
 	text-decoration: none;
@@ -168,12 +170,65 @@ body.lightbox-open {
 	border: 1px solid transparent;
 }
 
+.site-nav__group {
+	position: relative;
+}
+
+.site-nav__summary {
+	cursor: pointer;
+	list-style: none;
+}
+
+.site-nav__summary::-webkit-details-marker {
+	display: none;
+}
+
 .site-nav__link:hover,
 .site-nav__link:focus-visible,
-.site-nav__link.is-active {
+.site-nav__link.is-active,
+.site-nav__summary:hover,
+.site-nav__summary:focus-visible,
+.site-nav__summary.is-active,
+.site-nav__group[open] > .site-nav__summary {
 	color: var(--text);
 	background: rgba(255, 255, 255, 0.04);
 	border-color: var(--border);
+	outline: none;
+}
+
+.site-nav__dropdown {
+	display: none;
+	position: absolute;
+	top: calc(100% + 0.5rem);
+	right: 0;
+	min-width: 15rem;
+	margin: 0;
+	padding: 0.5rem;
+	list-style: none;
+	background: rgba(10, 14, 20, 0.96);
+	border: 1px solid var(--border);
+	border-radius: var(--radius-md);
+	box-shadow: var(--shadow);
+}
+
+.site-nav__group[open] > .site-nav__dropdown {
+	display: grid;
+	gap: 0.25rem;
+}
+
+.site-nav__dropdown-link {
+	display: block;
+	padding: 0.65rem 0.8rem;
+	border-radius: 0.8rem;
+	color: var(--text-soft);
+	text-decoration: none;
+}
+
+.site-nav__dropdown-link:hover,
+.site-nav__dropdown-link:focus-visible,
+.site-nav__dropdown-link.is-active {
+	background: rgba(255, 255, 255, 0.04);
+	color: var(--text);
 	outline: none;
 }
 
@@ -585,9 +640,25 @@ p {
 		padding-top: 0.5rem;
 	}
 
-	.site-nav__link {
+	.site-nav__group {
+		width: 100%;
+	}
+
+	.site-nav__link,
+	.site-nav__summary {
 		width: 100%;
 		justify-content: flex-start;
+	}
+
+	.site-nav__dropdown {
+		display: grid;
+		position: static;
+		min-width: 0;
+		margin-top: 0.35rem;
+		padding: 0.25rem 0 0 0.75rem;
+		background: transparent;
+		border: 0;
+		box-shadow: none;
 	}
 
 	.section-grid {

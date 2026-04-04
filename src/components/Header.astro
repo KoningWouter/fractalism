@@ -1,23 +1,38 @@
 ---
 const navItems = [
 	{ href: '/', label: 'Home' },
-	{ href: '/introduction', label: 'Introduction' },
-	{ href: '/how-to-read-fractalism', label: 'How to Read' },
-	{ href: '/concepts', label: 'Core Concepts' },
-	{ href: '/the-structure-of-fractalism', label: 'Architecture' },
-	{ href: '/truth', label: 'Truth' },
-	{ href: '/axioms', label: 'Axioms' },
-	{ href: '/the-void', label: 'The Void' },
-	{ href: '/friction-as-signal', label: 'Friction as Signal' },
-	{ href: '/living-fractalism', label: 'Living Fractalism' },
-	{ href: '/what-fractalism-is-for', label: 'What Fractalism Is For' },
-	{ href: '/the-wanderer', label: 'The Wanderer' },
-	{ href: '/team-3', label: 'Team 3' },
-	{ href: '/dispatches', label: 'Dispatches' },
-	{ href: '/essays', label: 'Essays' },
-	{ href: '/epistemic-hygiene', label: 'Epistemic Hygiene' },
-	{ href: '/community', label: 'Community' },
-	{ href: '/about', label: 'About' },
+	{
+		label: 'Start',
+		items: [
+			{ href: '/introduction', label: 'Introduction' },
+			{ href: '/how-to-read-fractalism', label: 'How to Read' },
+			{ href: '/concepts', label: 'Core Concepts' },
+			{ href: '/the-structure-of-fractalism', label: 'Architecture' },
+			{ href: '/about', label: 'About' },
+		],
+	},
+	{
+		label: 'Core',
+		items: [
+			{ href: '/truth', label: 'Truth' },
+			{ href: '/the-void', label: 'The Void' },
+			{ href: '/friction-as-signal', label: 'Friction as Signal' },
+			{ href: '/living-fractalism', label: 'Living Fractalism' },
+			{ href: '/what-fractalism-is-for', label: 'What It Is For' },
+			{ href: '/epistemic-hygiene', label: 'Epistemic Hygiene' },
+			{ href: '/community', label: 'Community' },
+		],
+	},
+	{
+		label: 'Explore',
+		items: [
+			{ href: '/axioms', label: 'Axioms' },
+			{ href: '/essays', label: 'Essays' },
+			{ href: '/the-wanderer', label: 'The Wanderer' },
+			{ href: '/team-3', label: 'Team 3' },
+			{ href: '/dispatches', label: 'Dispatches' },
+		],
+	},
 ];
 
 const currentPath = Astro.url.pathname;
@@ -41,22 +56,38 @@ const currentPath = Astro.url.pathname;
 
 		<nav class="site-nav" id="site-nav" aria-label="Primary" data-open="false">
 			<ul class="site-nav__list">
-				{
-					navItems.map((item) => (
-						<li>
+				{navItems.map((item) => (
+					<li>
+						{'href' in item ? (
 							<a
 								href={item.href}
-								class:list={[
-									'site-nav__link',
-									{ 'is-active': currentPath === item.href },
-								]}
+								class:list={['site-nav__link', { 'is-active': currentPath === item.href }]}
 								aria-current={currentPath === item.href ? 'page' : undefined}
 							>
 								{item.label}
 							</a>
-						</li>
-					))
-				}
+						) : (
+							<details class="site-nav__group" open={item.items.some((child) => child.href === currentPath)}>
+								<summary class:list={['site-nav__summary', { 'is-active': item.items.some((child) => child.href === currentPath) }]}>
+									{item.label}
+								</summary>
+								<ul class="site-nav__dropdown">
+									{item.items.map((child) => (
+										<li>
+											<a
+												href={child.href}
+												class:list={['site-nav__dropdown-link', { 'is-active': currentPath === child.href }]}
+												aria-current={currentPath === child.href ? 'page' : undefined}
+											>
+												{child.label}
+											</a>
+										</li>
+									))}
+								</ul>
+							</details>
+						)}
+					</li>
+				))}
 			</ul>
 		</nav>
 	</div>
