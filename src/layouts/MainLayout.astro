@@ -92,8 +92,9 @@ const canonicalUrl = Astro.url.href;
 			};
 
 			document.addEventListener('click', (event) => {
-				const img = event.target.closest('.markdown-shell img, .prose-block img');
+				const img = event.target.closest('.page-main img');
 				if (!img || img.dataset.lightboxIgnore === 'true') return;
+				if (img.closest('a')) event.preventDefault();
 				openLightbox(img);
 			});
 
