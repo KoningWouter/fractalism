@@ -115,6 +115,29 @@ body.lightbox-open {
 	font-size: 0.9rem;
 }
 
+.site-nav__toggle {
+	display: none;
+	align-items: center;
+	gap: 0.5rem;
+	padding: 0.65rem 0.9rem;
+	border: 1px solid var(--border);
+	border-radius: 999px;
+	background: rgba(255, 255, 255, 0.04);
+	color: var(--text);
+	cursor: pointer;
+}
+
+.site-nav__toggle-line {
+	display: block;
+	width: 1rem;
+	height: 1px;
+	background: currentColor;
+}
+
+.site-nav__toggle-label {
+	font-size: 0.95rem;
+}
+
 .site-nav__list {
 	display: flex;
 	flex-wrap: wrap;
@@ -524,10 +547,40 @@ p {
 		position: static;
 	}
 
-	.site-header__inner,
+	.site-header__inner {
+		flex-wrap: wrap;
+		align-items: center;
+	}
+
 	.site-footer__inner {
 		flex-direction: column;
 		align-items: flex-start;
+	}
+
+	.site-nav__toggle {
+		display: inline-flex;
+		margin-left: auto;
+	}
+
+	.site-nav {
+		display: none;
+		width: 100%;
+	}
+
+	.site-nav[data-open='true'] {
+		display: block;
+	}
+
+	.site-nav__list {
+		flex-direction: column;
+		align-items: stretch;
+		width: 100%;
+		padding-top: 0.5rem;
+	}
+
+	.site-nav__link {
+		width: 100%;
+		justify-content: flex-start;
 	}
 
 	.section-grid {

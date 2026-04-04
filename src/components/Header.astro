@@ -30,7 +30,14 @@ const currentPath = Astro.url.pathname;
 			<span>Fractalism</span>
 		</a>
 
-		<nav class="site-nav" aria-label="Primary">
+		<button class="site-nav__toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+			<span class="site-nav__toggle-line" aria-hidden="true"></span>
+			<span class="site-nav__toggle-line" aria-hidden="true"></span>
+			<span class="site-nav__toggle-line" aria-hidden="true"></span>
+			<span class="site-nav__toggle-label">Menu</span>
+		</button>
+
+		<nav class="site-nav" id="site-nav" aria-label="Primary" data-open="false">
 			<ul class="site-nav__list">
 				{
 					navItems.map((item) => (
@@ -52,3 +59,29 @@ const currentPath = Astro.url.pathname;
 		</nav>
 	</div>
 </header>
+
+<script>
+	const navToggle = document.querySelector('.site-nav__toggle');
+	const siteNav = document.querySelector('.site-nav');
+
+	if (navToggle && siteNav) {
+		const closeNav = () => {
+			siteNav.dataset.open = 'false';
+			navToggle.setAttribute('aria-expanded', 'false');
+		};
+
+		navToggle.addEventListener('click', () => {
+			const isOpen = siteNav.dataset.open === 'true';
+			siteNav.dataset.open = isOpen ? 'false' : 'true';
+			navToggle.setAttribute('aria-expanded', isOpen ? 'false' : 'true');
+		});
+
+		siteNav.querySelectorAll('a').forEach((link) => {
+			link.addEventListener('click', closeNav);
+		});
+
+		window.addEventListener('resize', () => {
+			if (window.innerWidth > 900) closeNav();
+		});
+	}
+</script>
