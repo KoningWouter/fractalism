@@ -200,7 +200,7 @@ body.lightbox-open {
 	display: none;
 	position: absolute;
 	top: calc(100% + 0.5rem);
-	right: 0;
+	left: 0;
 	min-width: 15rem;
 	margin: 0;
 	padding: 0.5rem;
