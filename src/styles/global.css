@@ -49,6 +49,10 @@ img {
 	display: block;
 }
 
+body.lightbox-open {
+	overflow: hidden;
+}
+
 .site-shell {
 	min-height: 100vh;
 	display: flex;
@@ -379,6 +383,13 @@ p {
 	color: var(--text-soft);
 }
 
+.markdown-shell img,
+.prose-block img {
+	margin: 1.5rem 0;
+	border-radius: calc(var(--radius-md) - 0.25rem);
+	cursor: zoom-in;
+}
+
 .markdown-shell strong {
 	color: var(--text);
 }
@@ -394,6 +405,58 @@ p {
 .markdown-shell code {
 	overflow-wrap: anywhere;
 	word-break: break-word;
+}
+
+.lightbox {
+	padding: 0;
+	border: 0;
+	background: transparent;
+	max-width: min(94vw, 1100px);
+	width: 100%;
+}
+
+.lightbox::backdrop {
+	background: rgba(5, 8, 12, 0.86);
+	backdrop-filter: blur(8px);
+}
+
+.lightbox__panel {
+	position: relative;
+	padding: 1rem;
+	background: rgba(10, 14, 20, 0.94);
+	border: 1px solid var(--border);
+	border-radius: var(--radius-lg);
+	box-shadow: var(--shadow);
+}
+
+.lightbox__image {
+	width: 100%;
+	max-height: 80vh;
+	object-fit: contain;
+	margin: 0;
+	border-radius: calc(var(--radius-md) - 0.2rem);
+	cursor: zoom-out;
+}
+
+.lightbox__close {
+	position: absolute;
+	top: 0.75rem;
+	right: 0.75rem;
+	width: 2.5rem;
+	height: 2.5rem;
+	border: 1px solid var(--border);
+	border-radius: 999px;
+	background: rgba(10, 14, 20, 0.88);
+	color: var(--text);
+	font-size: 1.5rem;
+	line-height: 1;
+	cursor: pointer;
+}
+
+.lightbox__caption {
+	margin: 0.85rem 0 0;
+	color: var(--text-soft);
+	text-align: center;
 }
 
 .site-footer {
