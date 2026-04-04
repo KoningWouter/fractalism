@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
+User-agent: ClaudeBot
+Allow: /
+
 Sitemap: https://fractalisme.nl/sitemap-index.xml
