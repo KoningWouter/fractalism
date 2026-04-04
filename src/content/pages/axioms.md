@@ -38,6 +38,15 @@ There is no absolute beginning or end. The formula abides in an eternal Now and 
 ### Axiom 3 — Fractal Scaling
 Reality is fractal. Deeper patterns repeat across scales of manifestation, which is one reason the Fractalist [concepts](/concepts) recur from psyche to civilization.
 
+**Plain language**  
+The same pattern can appear in a person, a relationship, an institution, or a civilization.
+
+**Example**  
+A person avoids uncomfortable truth in private life by distracting themselves, numbing out, or rationalizing. In a relationship, that same pattern becomes indirect communication and conflict avoidance. In an institution, it becomes bureaucracy, image management, and a culture where no one says what is really wrong.
+
+**Why it matters**  
+Fractal Scaling helps explain why inner work and social critique are not separate domains. The same distortions that appear in individual life can scale outward into systems and culture.
+
 ### Axiom 4 — The “I Am” Constant
 Consciousness is not a byproduct of matter. It is a fundamental property of the formula, realizing itself at every node.
 
@@ -57,6 +66,15 @@ Deviation is not mere error. Necessary variation makes evolution, discovery, and
 
 ### Axiom 9 — The Law of Elastic Correction
 When friction, imbalance, or distortion becomes too great, reality generates corrective recoil. In experiential terms, this approaches karma.
+
+**Plain language**  
+When something stays out of alignment for too long, correction eventually arrives.
+
+**Example**  
+A person ignores exhaustion, suppresses emotion, and keeps overriding their own limits. For a while, everything appears functional. Then the correction comes: burnout, collapse, illness, panic, or a crisis that can no longer be deferred. On a larger scale, societies built on denial and distortion eventually face correction as well.
+
+**Why it matters**  
+The Law of Elastic Correction helps explain why consequences are often delayed but not absent. Distortion can accumulate quietly before reality pushes back.
 
 ### Axiom 10 — The Arc of Return
 Reality moves through a process of involution into matter and evolution back toward Source.
@@ -100,6 +118,15 @@ The quality of perception matters more than the length of existence. Depth outra
 
 Action and response form a continuous loop throughout reality. Nothing exists in complete isolation from consequence.
 
+**Plain language**  
+What you do shapes what comes back to you, and what comes back to you shapes what you do next.
+
+**Example**  
+A person expects rejection, so they become guarded and cold. Others respond with distance, which confirms the person’s original belief that people cannot be trusted. The pattern repeats and strengthens itself. The same kind of loop can emerge in media systems, politics, and communities.
+
+**Why it matters**  
+This axiom shows that patterns are not static. They become self-reinforcing through repetition, response, and consequence.
+
 ### Axiom 21 — The Eye of Resolution
 
 ![The Eye of Resolution](/eye_of_resolution.png)
@@ -115,11 +142,29 @@ All parts of reality exist through reciprocal relation. Mutuality is structurall
 ### Axiom 23 — The Axiom of Social Noise
 Collective low-resolution fields generate interference, confusion, and distortion in social reality.
 
+**Plain language**  
+When a social field is noisy, fragmented, and low in clarity, people start seeing less clearly inside it.
+
+**Example**  
+An online environment rewards outrage, speed, performance, and constant reaction. Over time, people lose patience for nuance, depth, and disciplined thought. Everything becomes slogan, impulse, identity display, or tribal signal. What feels like private confusion is often being amplified by the field itself.
+
+**Why it matters**  
+This axiom shows that distortion is not only individual. Sometimes the social environment itself is producing confusion and lowering resolution.
+
 ### Axiom 24 — The Law of Obstruction
 
 ![The Law of Obstruction](/law_of_obstruction.png)
 
 Higher resolution can be blocked by lower structures. Distortion, density, or interference can obstruct access to deeper truth.
+
+**Plain language**  
+Truth may be present, but something in the person or environment can prevent it from being received.
+
+**Example**  
+A person is given clear, accurate feedback, but cannot take it in. Shame blocks it. Addiction blocks it. Ideology blocks it. Fear blocks it. The truth does not fail because it is false, but because something denser obstructs its passage. The same thing happens in societies where propaganda, vested interests, or chronic distraction block access to reality.
+
+**Why it matters**  
+The Law of Obstruction explains why truth alone is not always enough. Clarity depends not only on what is said, but on the condition of the channel receiving it.
 
 ### Axiom 25 — The Pure Observer
 There exists a mode of being in which consciousness rests without identification with noise, distortion, or reactive turbulence.
