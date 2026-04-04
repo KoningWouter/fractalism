@@ -379,6 +379,9 @@ A person is given clear, accurate feedback, but cannot take it in. Shame blocks 
 The Law of Obstruction explains why truth alone is not always enough. Clarity depends not only on what is said, but on the condition of the channel receiving it.
 
 ### Axiom 25 — The Pure Observer
+
+![The Pure Observer](/pure_observer.png)
+
 There exists a mode of being in which consciousness rests without identification with noise, distortion, or reactive turbulence.
 
 **Plain language**  
