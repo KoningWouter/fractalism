@@ -134,6 +134,9 @@ The “I Am” Constant gives Fractalism its ontological seriousness. It places 
 [Top](#contents)
 
 ### Axiom 5 — The Fractal Big Bounce
+
+![The Fractal Big Bounce](/big_bounce.png)
+
 Cosmic existence unfolds through recurring cycles of expansion and contraction, not through a singular one-way beginning.
 
 **Plain language**  
