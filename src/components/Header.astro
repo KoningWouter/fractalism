@@ -67,7 +67,7 @@ const currentPath = Astro.url.pathname;
 								{item.label}
 							</a>
 						) : (
-							<details class="site-nav__group" open={item.items.some((child) => child.href === currentPath)}>
+							<details class="site-nav__group">
 								<summary class:list={['site-nav__summary', { 'is-active': item.items.some((child) => child.href === currentPath) }]}>
 									{item.label}
 								</summary>
@@ -113,11 +113,19 @@ const currentPath = Astro.url.pathname;
 
 		groups.forEach((group) => {
 			group.addEventListener('toggle', () => {
-				if (window.innerWidth > 900 || !group.open) return;
+				if (!group.open) return;
 				groups.forEach((otherGroup) => {
 					if (otherGroup !== group) otherGroup.open = false;
 				});
 			});
+		});
+
+		document.addEventListener('click', (event) => {
+			if (!siteNav.contains(event.target) && !navToggle.contains(event.target)) {
+				groups.forEach((group) => {
+					group.open = false;
+				});
+			}
 		});
 
 		siteNav.querySelectorAll('a').forEach((link) => {
