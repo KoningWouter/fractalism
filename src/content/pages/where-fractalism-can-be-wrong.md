@@ -39,7 +39,7 @@ A healthier position is this: resonance may be a clue, but it is not final proof
 
 Fractalism often uses language that is symbolic, existential, and structural at the same time.
 
-Terms such as the [Void](/the-void), [distortion](/concepts/#distortion), [inversion](/concepts/#inversion), and [field quality](/concepts/#field-quality) can reveal real structure. But if symbolic language is handled carelessly, it can harden into pseudo-mechanical explanation.
+Terms such as the [Void](/the-void), [distortion](/concepts#distortion), [inversion](/concepts#inversion), and [field quality](/concepts#field-quality) can reveal real structure. But if symbolic language is handled carelessly, it can harden into pseudo-mechanical explanation.
 
 A symbol may be true without functioning as a literal mechanism. Once this distinction is lost, the framework can begin sounding more certain than it really is.
 

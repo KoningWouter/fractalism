@@ -126,7 +126,7 @@ The phrase “STO community” should not be used cheaply.
 
 If it means anything, it refers to a field in which service does not become self-erasure, care does not become permissiveness, and openness does not become structural naivete.
 
-A real STO-oriented community would not be weak. It would need the kinds of distinctions named in the Fractalist [concepts](/concepts/#sto-and-sts) page, not just goodwill.
+A real STO-oriented community would not be weak. It would need the kinds of distinctions named in the Fractalist [concepts](/concepts#sto-and-sts) page, not just goodwill.
 It would not be gullible.
 It would not flatten moral distinctions in the name of peace.
 

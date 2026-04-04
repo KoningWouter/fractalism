@@ -16,9 +16,9 @@ One of the first practical uses of Fractalism is that it helps make recurring st
 Instead of asking only what is happening, it asks:
 
 - what pattern is repeating here?
-- what [scale](/concepts/#scale) is this appearing on?
+- what [scale](/concepts#scale) is this appearing on?
 - what is signal, and what is noise?
-- what is correction, and what is [distortion](/concepts/#distortion)?
+- what is correction, and what is [distortion](/concepts#distortion)?
 - what is actually being revealed by this conflict, symptom, or repetition?
 
 This matters because many situations remain confusing until they are seen as patterned rather than isolated.
@@ -32,7 +32,7 @@ Fractalism becomes useful when it helps distinguish:
 - reciprocity from extraction
 - sobriety from deadness
 - symbolic depth from projection
-- [resonance](/concepts/#resonance) from compulsion
+- [resonance](/concepts#resonance) from compulsion
 
 A framework that cannot help diagnose distortion will eventually become one more distortion itself.
 

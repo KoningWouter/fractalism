@@ -11,7 +11,7 @@ not everything in the world divides neatly into obvious good and obvious evil.
 
 Sometimes exploitation is open and easy to see. Sometimes it hides behind kindness, morality, spirituality, or the language of service. That is why the Fractalist model speaks of **three teams**, not just two.
 
-This is best understood as a **symbolic and ethical model**, not as a rigid cosmic party list. It sits inside the wider Fractalist [conceptual vocabulary](/concepts/#sto-and-sts), especially the polarity between STO and STS.
+This is best understood as a **symbolic and ethical model**, not as a rigid cosmic party list. It sits inside the wider Fractalist [conceptual vocabulary](/concepts#sto-and-sts), especially the polarity between STO and STS.
 
 ## The three teams
 

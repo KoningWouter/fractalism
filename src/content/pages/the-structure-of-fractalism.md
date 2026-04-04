@@ -15,10 +15,10 @@ The framework becomes easier to understand when its main layers are distinguishe
 This layer concerns how reality is known, misread, clarified, or distorted.
 
 Key themes:
-- truth
-- distortion
-- discernment
-- epistemic hygiene
+- [truth](/truth)
+- [distortion](/concepts#distortion)
+- [discernment](/concepts#discernment)
+- [epistemic hygiene](/epistemic-hygiene)
 
 At this level, Fractalism asks what it means to perceive clearly. Truth is not treated as mere preference or social agreement, but as increasing alignment with what is structurally real. Distortion is not only error in the ordinary sense, but whatever bends perception, language, desire, or interpretation away from that alignment.
 
@@ -29,10 +29,10 @@ This layer matters because every higher layer depends on it. If one cannot disti
 This layer concerns how reality is encountered in lived experience before it is fully theorized.
 
 Key themes:
-- resonance
-- friction
-- field quality
-- the Void
+- [resonance](/concepts#resonance)
+- [friction](/friction-as-signal)
+- [field quality](/concepts#field-quality)
+- [the Void](/the-void)
 
 Fractalism does not reduce experience to private feeling, but it also does not dismiss felt reality as irrelevant. Some forms of contact, speech, relation, and space carry a different quality than others. A field can sharpen awareness or dull it. Friction can signal misalignment, but it can also accompany real correction. The Void names a threshold in which false support falls away and deeper reality becomes harder to evade.
 
@@ -43,8 +43,8 @@ This layer gives Fractalism phenomenological depth. It asks not only what is tru
 This layer concerns orientation, reciprocity, and the direction in which consciousness and relation move.
 
 Key themes:
-- STO
-- STS
+- [STO](/concepts#sto-and-sts)
+- [STS](/concepts#sto-and-sts)
 - reciprocity
 - extraction
 - responsibility
@@ -64,7 +64,7 @@ Key themes:
 - domination
 - simulation
 - culture
-- community
+- [community](/community)
 
 What appears inwardly does not stay inward. Distortion becomes social structure. Appetite becomes economy. Simulation becomes culture. Reciprocity becomes the basis for real community, or its absence produces systems of domination and managed dependency.
 

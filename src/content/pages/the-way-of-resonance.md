@@ -16,7 +16,7 @@ Because friction anywhere is borne everywhere, which is why Fractalism treats [f
 
 ### The Call for Coherence
 
-Separation is experienced. Choice is exercised within it. Through free will, deviation becomes possible. Fractalism names that deviation directly: a movement away from optimal [resonance](/concepts/#resonance) within the larger pattern of reality.
+Separation is experienced. Choice is exercised within it. Through free will, deviation becomes possible. Fractalism names that deviation directly: a movement away from optimal [resonance](/concepts#resonance) within the larger pattern of reality.
 
 Deviation introduces interference into the shared field. It thickens noise. It multiplies unnecessary suffering.
 

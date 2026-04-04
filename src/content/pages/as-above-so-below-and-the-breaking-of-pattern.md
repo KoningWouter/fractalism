@@ -38,7 +38,7 @@ Domination exists in families, but also in empires.
 The scale changes.
 The structure often does not.
 
-This is why Fractalism insists that what is [true](/concepts/#truth) tends to echo across levels. The same movement can appear as appetite in one place, propaganda in another, bureaucratic [inversion](/concepts/#inversion) in another, and geopolitical theater in another. Different costumes, same logic.
+This is why Fractalism insists that what is [true](/concepts#truth) tends to echo across levels. The same movement can appear as appetite in one place, propaganda in another, bureaucratic [inversion](/concepts#inversion) in another, and geopolitical theater in another. Different costumes, same logic.
 
 ## What changes when a personal pattern breaks
 
@@ -57,7 +57,7 @@ A person trapped inside a loop often experiences it as normal. A person who has 
 This can make outer events feel uncannily synchronized with the inner break.
 
 Sometimes that is because the same structure was always present and is only now becoming visible.
-Sometimes it is because [resonance](/concepts/#resonance) has changed and different phenomena now stand out.
+Sometimes it is because [resonance](/concepts#resonance) has changed and different phenomena now stand out.
 Sometimes it may genuinely be that one's changed participation alters the local field and therefore the quality of what gathers around them.
 
 Fractalism leaves room for all three without reducing the situation to superstition.
@@ -87,7 +87,7 @@ Fractalism takes neither route.
 
 Instead it asks:
 - What pattern did the relapse reopen?
-- What [field quality](/concepts/#field-quality) did it restore?
+- What [field quality](/concepts#field-quality) did it restore?
 - What became easier to notice afterward?
 - What inner coherence was lost, and what outer forms correspond to that same loss of coherence?
 

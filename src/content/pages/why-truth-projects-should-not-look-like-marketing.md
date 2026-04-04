@@ -86,7 +86,7 @@ They were often trying to transmit something rather than optimize someone.
 
 That difference can be felt.
 
-A page built mainly to carry an idea has a different [field quality](/concepts/#field-quality) than a page built mainly to maximize engagement.
+A page built mainly to carry an idea has a different [field quality](/concepts#field-quality) than a page built mainly to maximize engagement.
 
 One invites reading.
 The other invites reaction.

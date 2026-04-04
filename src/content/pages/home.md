@@ -24,16 +24,16 @@ It brings together metaphysics, moral orientation, symbolic thinking, and social
 ## Core Themes
 
 ### Truth and distortion
-[Truth](/concepts/#truth) is more than factual accuracy. It is alignment with what is structurally real. [Distortion](/concepts/#distortion) is what bends perception, language, desire, or systems away from that reality. Fractalism studies both, because confusion is often as revealing as clarity.
+[Truth](/concepts#truth) is more than factual accuracy. It is alignment with what is structurally real. [Distortion](/concepts#distortion) is what bends perception, language, desire, or systems away from that reality. Fractalism studies both, because confusion is often as revealing as clarity.
 
 ### Resonance and field quality
-Some things can be felt before they are fully explained. A [field](/concepts/#field-quality) can sharpen awareness or dull it. A text can carry coherence or static. [Resonance](/concepts/#resonance) matters here not as sentiment, but as a clue that something is fitting or misfitting at a deeper level.
+Some things can be felt before they are fully explained. A [field](/concepts#field-quality) can sharpen awareness or dull it. A text can carry coherence or static. [Resonance](/concepts#resonance) matters here not as sentiment, but as a clue that something is fitting or misfitting at a deeper level.
 
 ### STO and STS
-[Service-to-others and service-to-self](/concepts/#sto-and-sts) are treated not as crude total labels, but as real orientations of consciousness and relation. They become visible in repeated pattern: in what one serves, what one protects, how one treats truth, and whether relation tends toward reciprocity or extraction.
+[Service-to-others and service-to-self](/concepts#sto-and-sts) are treated not as crude total labels, but as real orientations of consciousness and relation. They become visible in repeated pattern: in what one serves, what one protects, how one treats truth, and whether relation tends toward reciprocity or extraction.
 
 ### The Void
-[The Void](/concepts/#the-void) names a threshold where false supports fall away. It is a space of exposure, silence, and possibility before a person returns to habit or arrives at something more real.
+[The Void](/concepts#the-void) names a threshold where false supports fall away. It is a space of exposure, silence, and possibility before a person returns to habit or arrives at something more real.
 
 ### Community beyond inversion
 If truth has force, it eventually needs social form. Fractalism therefore asks what kind of community could sustain reciprocity, sobriety, and discernment without collapsing into domination, simulation, or extraction.

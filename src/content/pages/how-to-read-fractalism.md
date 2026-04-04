@@ -5,7 +5,7 @@ description: How to approach Fractalism without flattening it into dogma, pure m
 
 Fractalism is not just one kind of thing.
 
-It is not only philosophy, not only spirituality, not only social criticism, and not only symbolism. It moves between these layers because it begins from a simple premise: reality has structure, and that structure often repeats across [scales](/concepts/#scale).
+It is not only philosophy, not only spirituality, not only social criticism, and not only symbolism. It moves between these layers because it begins from a simple premise: reality has structure, and that structure often repeats across [scales](/concepts#scale).
 
 That means Fractalism should not be read as a closed doctrine where every sentence has to be taken in exactly the same way.
 
@@ -40,7 +40,7 @@ A good way to read Fractalism is to notice that it often works on three levels a
 ### Metaphor
 Some language is symbolic because symbols can sometimes reveal structure better than flat literal prose can.
 
-Terms like [*the Void*](/concepts/#the-void), [*inversion*](/concepts/#inversion), [*distortion*](/concepts/#distortion), [*field quality*](/concepts/#field-quality), or *the wanderer* are not always meant as mechanical labels. Often they point to something lived, structural, and existential at the same time.
+Terms like [*the Void*](/concepts#the-void), [*inversion*](/concepts#inversion), [*distortion*](/concepts#distortion), [*field quality*](/concepts#field-quality), or *the wanderer* are not always meant as mechanical labels. Often they point to something lived, structural, and existential at the same time.
 
 ### Hypothesis
 Some ideas are best read as working hypotheses.
@@ -60,7 +60,7 @@ Its strength lies in discernment, not inflation, which is one reason [epistemic 
 
 That means:
 
-- not every [resonance](/concepts/#resonance) is proof
+- not every [resonance](/concepts#resonance) is proof
 - not every pattern is a mechanism
 - not every intuition should harden into certainty
 - not every strong perception should become dogma
@@ -80,7 +80,7 @@ Its deeper concern is whether something strengthens or weakens:
 - inner coherence
 - freedom from domination
 
-This is why the distinction between [**STO** and **STS**](/concepts/#sto-and-sts) matters here. The framework is not only asking what a thing is. It is also asking what kind of consciousness and relation it serves.
+This is why the distinction between [**STO** and **STS**](/concepts#sto-and-sts) matters here. The framework is not only asking what a thing is. It is also asking what kind of consciousness and relation it serves.
 
 Once that ethical center is lost, the whole thing can easily slide into spectacle, paranoia, or fascination with darkness for its own sake.
 

@@ -23,7 +23,7 @@ That does not mean flow is the same as comfort or ease. It is better understood 
 - attention leaks less into sabotage or avoidance
 - the direction needs less forcing to be sustained
 
-Flow does not automatically prove that something is [true](/concepts/#truth) in the deepest sense. But it can suggest that there is less [distortion](/concepts/#distortion) between intention and execution.
+Flow does not automatically prove that something is [true](/concepts#truth) in the deepest sense. But it can suggest that there is less [distortion](/concepts#distortion) between intention and execution.
 
 ## Friction as data
 
@@ -118,7 +118,7 @@ To read friction well, the instrument has to be reasonably clear.
 
 Habits or substances that numb, agitate, fragment, or artificially colour perception make it harder to distinguish noise friction from corrective friction.
 
-That is why sobriety matters here not only as a moral question, but as a condition for more reliable discernment within the wider Fractalist [vocabulary of concepts](/concepts/#discernment).
+That is why sobriety matters here not only as a moral question, but as a condition for more reliable discernment within the wider Fractalist [vocabulary of concepts](/concepts#discernment).
 
 If the system is too clouded, everything can start to feel either like a threat or like a justification. Friction is no longer read. It is distorted.
 

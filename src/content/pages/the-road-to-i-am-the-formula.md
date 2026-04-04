@@ -88,7 +88,7 @@ What if the deepest truth of a being is not just that it participates in reality
 
 At that point formula does not mean a dead equation on paper.
 
-It means the living intelligible order by which things take form, something Fractalism tries to name through its [concepts](/concepts/#fractality) and formalize through its [axioms](/axioms#the-26-axioms).
+It means the living intelligible order by which things take form, something Fractalism tries to name through its [concepts](/concepts#fractality) and formalize through its [axioms](/axioms#the-26-axioms).
 The pattern beneath the pattern.
 The lawfulness that makes coherence possible.
 The structuring principle by which consciousness, matter, meaning, relation, and becoming are not random fragments but expressions of a deeper order.

@@ -80,7 +80,7 @@ A graphic can create atmosphere. A paragraph can explain what a thing is.
 
 A visual can suggest meaning. A page of real writing can establish relevance, depth, and relationship between ideas.
 
-That means a text driven site has a better chance of being found by people who are actually searching for concepts like [truth](/concepts/#truth), [distortion](/concepts/#distortion), [resonance](/concepts/#resonance), [the Void](/concepts/#the-void), behavioral prediction, or inner sovereignty.
+That means a text driven site has a better chance of being found by people who are actually searching for concepts like [truth](/concepts#truth), [distortion](/concepts#distortion), [resonance](/concepts#resonance), [the Void](/concepts#the-void), behavioral prediction, or inner sovereignty.
 
 In other words, the same choice that makes the site feel more honest also makes it more legible to search engines.
 
