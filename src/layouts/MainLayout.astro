@@ -84,6 +84,19 @@ const canonicalUrl = Astro.url.href;
 					});
 			};
 
+			const addAxiomTopLinks = () => {
+				if (window.location.pathname !== '/axioms') return;
+				document.querySelectorAll('.markdown-shell h3[id^="axiom-"]')
+					.forEach((heading) => {
+						const next = heading.nextElementSibling;
+						if (next?.classList.contains('axiom-top-link')) return;
+						const topLink = document.createElement('p');
+						topLink.className = 'axiom-top-link';
+						topLink.innerHTML = '<a href="#contents">To top</a>';
+						heading.parentNode?.insertBefore(topLink, heading.nextSibling);
+					});
+			};
+
 			const openLightbox = (img) => {
 				if (!lightbox || !lightboxImage) return;
 				lightboxImage.src = img.currentSrc || img.src;
@@ -106,6 +119,7 @@ const canonicalUrl = Astro.url.href;
 			};
 
 			addHeadingAnchors();
+			addAxiomTopLinks();
 
 			document.addEventListener('click', (event) => {
 				const img = event.target.closest('.page-main img');

@@ -397,6 +397,22 @@ p {
 	outline: none;
 }
 
+.axiom-top-link {
+	margin: -0.35rem 0 1.2rem;
+	font-size: 0.95rem;
+}
+
+.axiom-top-link a {
+	color: var(--accent);
+	text-decoration: none;
+}
+
+.axiom-top-link a:hover,
+.axiom-top-link a:focus-visible {
+	text-decoration: underline;
+	outline: none;
+}
+
 .markdown-shell p,
 .markdown-shell ul,
 .markdown-shell ol {
