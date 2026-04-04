@@ -11,6 +11,13 @@ That means Fractalism should not be read as a closed doctrine where every senten
 
 It is better approached as a living framework for orientation rather than a fixed inventory of [concepts](/concepts).
 
+> **A basic reading guide**  
+> Fractalism tries to distinguish between four different things:  
+> - **symbol** — language that reveals structure without always functioning as literal description  
+> - **experience** — what has actually been lived or perceived  
+> - **hypothesis** — a serious but still revisable proposal about how something works  
+> - **empirical claim** — a claim that should be publicly defensible and open to evidence, correction, or disconfirmation
+
 ## Not every text is trying to do the same thing
 
 Some Fractalist texts are mainly:

@@ -9,6 +9,9 @@ They form the working vocabulary of the framework. Their purpose is practical: t
 
 What follows is a first map, not an exhaustive lexicon.
 
+> **A note on reading levels**  
+> Fractalism does not treat every concept in the same way. Some terms function mainly as **symbol**. Some name **experience**. Some are best read as **hypothesis**. Others approach the level of **empirical claim** and therefore require greater public defensibility and restraint.
+
 ## Truth
 
 [Truth](/truth) is alignment with living reality.

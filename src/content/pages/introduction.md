@@ -11,6 +11,9 @@ Its basic premise is simple:
 
 The same formative patterns can appear in the psyche, in relationships, in institutions, in symbols, in history, and in the metaphysical imagination of an age. Reality is not treated here as a set of sealed compartments. It is layered, recursive, and morally charged.
 
+> **A note on method**  
+> Fractalism distinguishes between **symbol**, **experience**, **hypothesis**, and **empirical claim**. Not every concept on the site carries the same epistemic weight, and part of reading the framework well is noticing what kind of statement is being made.
+
 ## A Framework of Coherence
 
 Fractalism rejects the flattening reflex of modern thought. Existence is not assumed to be random, spiritually inert, or exhausted by mechanism alone. It has pattern. It has direction. It can become more or less intelligible depending on the quality of perception brought to it.

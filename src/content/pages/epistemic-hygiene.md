@@ -10,6 +10,12 @@ Without it, a framework meant to sharpen discernment can quickly become a theatr
 
 Fractalism therefore insists that seriousness of subject matter must be matched by seriousness of method.
 
+> **Fractalism tries to keep these distinct:**  
+> - **symbol** — meaning-bearing language that is not always literal  
+> - **experience** — what has actually been lived or perceived  
+> - **hypothesis** — a serious but revisable proposal  
+> - **empirical claim** — something that should be publicly defensible and evidence-responsive
+
 ## What epistemic hygiene means here
 
 Epistemic hygiene is the disciplined practice of keeping different kinds of knowing distinct.
