@@ -614,6 +614,7 @@ p {
 }
 
 .cite-block {
+	max-width: var(--measure);
 	margin-top: 3rem;
 	padding: 1.25rem 1.5rem;
 	border: 1px solid var(--border);
