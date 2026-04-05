@@ -647,8 +647,11 @@ p {
 
 .cite-block__copy {
 	flex-shrink: 0;
-	padding: 0.35rem 0.85rem;
-	font-size: 0.85rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 2rem;
+	height: 2rem;
 	border: 1px solid var(--border);
 	border-radius: 0.35rem;
 	background: transparent;
