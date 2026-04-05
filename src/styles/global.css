@@ -603,6 +603,62 @@ p {
 	font-size: 0.95rem;
 }
 
+.site-footer__rss {
+	color: var(--text-muted);
+	text-decoration: underline;
+	text-underline-offset: 3px;
+}
+
+.site-footer__rss:hover {
+	color: var(--text);
+}
+
+.cite-block {
+	margin-top: 3rem;
+	padding: 1.25rem 1.5rem;
+	border: 1px solid var(--border);
+	border-radius: 0.5rem;
+	background: var(--surface, transparent);
+}
+
+.cite-block__label {
+	font-size: 0.85rem;
+	color: var(--text-muted);
+	margin-bottom: 0.6rem;
+}
+
+.cite-block__row {
+	display: flex;
+	align-items: center;
+	gap: 0.75rem;
+	flex-wrap: wrap;
+}
+
+.cite-block__url {
+	flex: 1;
+	min-width: 0;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	font-size: 0.875rem;
+	color: var(--text-muted);
+}
+
+.cite-block__copy {
+	flex-shrink: 0;
+	padding: 0.35rem 0.85rem;
+	font-size: 0.85rem;
+	border: 1px solid var(--border);
+	border-radius: 0.35rem;
+	background: transparent;
+	color: var(--text);
+	cursor: pointer;
+}
+
+.cite-block__copy:hover {
+	background: var(--border);
+}
+
 @media (max-width: 900px) {
 	.site-header {
 		position: static;

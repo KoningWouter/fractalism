@@ -14,6 +14,30 @@ const {
 } = Astro.props;
 
 const canonicalUrl = Astro.url.href;
+
+const jsonLd = JSON.stringify({
+	'@context': 'https://schema.org',
+	'@graph': [
+		{
+			'@type': 'WebSite',
+			'@id': 'https://fractalisme.nl/#website',
+			url: 'https://fractalisme.nl/',
+			name: 'Fractalism',
+			description:
+				'A living framework for truth, resonance, STO and STS, inner sovereignty, and the rebuilding of human community beyond inversion.',
+			inLanguage: 'en',
+		},
+		{
+			'@type': 'WebPage',
+			'@id': `${canonicalUrl}#webpage`,
+			url: canonicalUrl,
+			name: title,
+			description,
+			isPartOf: { '@id': 'https://fractalisme.nl/#website' },
+			inLanguage: 'en',
+		},
+	],
+});
 ---
 
 <!doctype html>
@@ -28,6 +52,8 @@ const canonicalUrl = Astro.url.href;
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<link rel="icon" href="/favicon.ico" />
 		<link rel="sitemap" href="/sitemap-index.xml" />
+		<link rel="alternate" type="application/rss+xml" title="Fractalism RSS Feed" href="/rss.xml" />
+		<script type="application/ld+json" set:html={jsonLd} />
 		<meta property="og:type" content="website" />
 		<meta property="og:title" content={title} />
 		<meta property="og:description" content={description} />

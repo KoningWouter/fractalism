@@ -6,6 +6,7 @@ interface Props {
 }
 
 const { eyebrow = 'Fractalism', title, description } = Astro.props;
+const pageUrl = Astro.url.href;
 ---
 
 <section class="content-shell">
@@ -18,4 +19,27 @@ const { eyebrow = 'Fractalism', title, description } = Astro.props;
 	<div class="markdown-shell">
 		<slot />
 	</div>
+
+	<div class="cite-block">
+		<p class="cite-block__label">Link naar deze pagina</p>
+		<div class="cite-block__row">
+			<code class="cite-block__url" id="cite-url">{pageUrl}</code>
+			<button class="cite-block__copy" type="button" data-url={pageUrl} aria-label="Kopieer link">
+				Kopieer
+			</button>
+		</div>
+	</div>
 </section>
+
+<script>
+	document.querySelectorAll<HTMLButtonElement>('.cite-block__copy').forEach((btn) => {
+		btn.addEventListener('click', async () => {
+			const url = btn.dataset.url ?? '';
+			await navigator.clipboard.writeText(url);
+			btn.textContent = 'Gekopieerd';
+			setTimeout(() => {
+				btn.textContent = 'Kopieer';
+			}, 2000);
+		});
+	});
+</script>
