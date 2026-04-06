@@ -56,6 +56,12 @@ Read slowly. Compare concepts. Notice recurring structures. Test whether an idea
 
 This site does not ask for belief. It offers an instrument: something to think with, test against reality, and use for orientation.
 
+## On Writing and AI
+
+AI can assist with wording. It cannot substitute for lived inquiry, sustained reflection, or philosophical responsibility.
+
+The thinking behind Fractalism is my own. AI is used only as a tool for expression, not as the source of the ideas.
+
 ## Reach Me
 
 For those who wish to follow the work or make contact, a Nostr profile is available here: 
