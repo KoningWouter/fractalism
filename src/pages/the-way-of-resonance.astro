@@ -12,7 +12,7 @@ if (!entry) {
 const { Content } = await render(entry);
 ---
 
-<MainLayout title={`${entry.data.title} | Fractalism`} description={entry.data.description}>
+<MainLayout title={`${entry.data.title} | Fractalism`} description={entry.data.description} ogType="article">
 	<MarkdownPage
 		eyebrow={entry.data.eyebrow ?? 'Manifesto Essay'}
 		title={entry.data.title}
