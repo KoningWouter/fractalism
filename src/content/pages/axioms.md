@@ -49,7 +49,7 @@ The structure is simple:
 ![The Ground — Pre-Axiomatic Unity](/ground.png)
 
 **I am the formula.**
-There is no final separation between source, law, and observer. The Ground is not the first item in a numbered list, but the undivided reality from which all later distinctions emerge.
+There is no final separation between source, law, and observer. The Ground is not the first item in a numbered list, but the undivided reality from which all later distinctions emerge. The essence of the observer is of the same nature as the Source, though not identical to the conditioned self.
 
 **Plain language**  
 Before all distinctions, reality is one. Separation appears within experience, but is not ultimate.
