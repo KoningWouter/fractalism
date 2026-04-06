@@ -13,6 +13,18 @@ This project explores those patterns and asks what becomes visible when we learn
 [Explore the Concepts](/concepts)
 [See the Structure](/the-structure-of-fractalism)
 
+## Start Here
+
+If you are new to Fractalism, do not try to read everything at once.
+
+Begin with one of these paths:
+
+- **For a first orientation:** [Introduction](/introduction)
+- **For how to read the project well:** [How to Read Fractalism](/how-to-read-fractalism)
+- **For the conceptual map:** [The Structure of Fractalism](/the-structure-of-fractalism)
+
+Fractalism is not meant to be consumed like a content stream. It is a framework to enter, test, and return to.
+
 ## What is Fractalism?
 
 Fractalism is a way of understanding reality through recurring patterns. It looks at how the same dynamics appear in consciousness, relationships, society, symbolism, and systems of power.
@@ -45,9 +57,9 @@ If truth has force, it eventually needs social form. Fractalism therefore asks w
 
 Modern life trains fragmentation. It rewards noise, dependency, managed appetite, and counterfeit meaning. Fractalism begins where that arrangement stops looking natural and starts becoming legible.
 
-## Start here
+## Recommended first pages
 
-If you are new to Fractalism, these are the best places to begin:
+If you want a broader first pass through the site, these are the best places to begin:
 
 - [Introduction](/introduction) — the first orientation to the framework
 - [How to Read Fractalism](/how-to-read-fractalism) — how to approach the project without flattening it into dogma or vague metaphor
