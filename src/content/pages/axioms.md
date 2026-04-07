@@ -490,6 +490,12 @@ The axioms are best read as a movement rather than a flat inventory.
 - **Axioms 1–26** form the articulated canon of the system.
 - **Within that canon, Axiom 26** serves as the closing return toward the source.
 
+## A Note on Sobriety and Gnosis
+
+The relationship between sobriety and gnosis is iterative, not one-directional. Sobriety makes gnosis possible, but gnosis also deepens sobriety. Seeing more clearly tends to produce greater clarity about what clarity requires. The two reinforce each other in an upward spiral.
+
+This means sobriety is better understood as a *facilitator* of gnosis than as its sole prerequisite. The old formulation, "sobriety is required before gnosis," captures part of the truth but misses the recursive nature of the relationship.
+
 ## Closing
 
 The axioms of Fractalism are not a flat list.

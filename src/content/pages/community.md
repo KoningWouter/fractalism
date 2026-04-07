@@ -13,6 +13,8 @@ The real question is harder:
 
 **What would be required to form human spaces in which truth, reciprocity, sobriety, and voluntary alignment can actually hold?**
 
+Note on sobriety and gnosis: the relationship is iterative. Sobriety makes deeper perception possible, and deeper perception tends to produce greater sobriety over time. They reinforce each other in an upward spiral.
+
 ## Why Community Matters
 
 Modern life corrodes the conditions under which real community can arise.
@@ -156,6 +158,8 @@ Closed tools may still have their place. But as a general direction, open source
 Community is where philosophy either begins to incarnate or exposes its own emptiness.
 
 If Fractalism is serious, it cannot remain a structure of thought alone. It must eventually clarify what kind of human field can sustain truth, reciprocity, inner sobriety, and forms of life less ruled by inversion.
+
+The relationship between sobriety and gnosis is iterative: they strengthen each other in an upward spiral. Sobriety enables gnosis, and gnosis deepens sobriety.
 
 Whether such communities can be built remains open.
 

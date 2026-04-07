@@ -79,6 +79,8 @@ More than it might seem at first. Fractalism is not just an abstract theory. It 
 
 [Living Fractalism](/living-fractalism) is the page that makes this most concrete. It talks about attention, rhythm, sobriety, and how to recognize when a field around you is sharpening or dulling your awareness.
 
+Note: the relationship between sobriety and gnosis is iterative. Sobriety enables clearer perception, and clearer perception deepens sobriety over time.
+
 The framework becomes real when you start using it to read your own life more clearly.
 
 ## Why does the site look so plain?

@@ -34,6 +34,8 @@ Fractalism becomes useful when it helps distinguish:
 - symbolic depth from projection
 - [resonance](/concepts#resonance) from compulsion
 
+Note: the relationship between sobriety and gnosis is iterative. Sobriety makes gnosis possible, but gnosis also deepens sobriety. The two reinforce each other in an upward spiral. Sobriety is a facilitator of clarity, not merely a prerequisite.
+
 A framework that cannot help diagnose distortion will eventually become one more distortion itself.
 
 That is why Fractalism has to remain usable in contact with real life, not only with abstract ideas. If it cannot survive contact with [truth](/truth#truth-as-practice-not-only-concept), it cannot orient anyone for long.
