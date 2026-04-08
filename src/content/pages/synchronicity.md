@@ -12,6 +12,8 @@ That is the territory of synchronicity.
 
 ## What synchronicity is
 
+![Synchronicity as Signal](/synchronicity.png)
+
 In Fractalist terms, synchronicity is a meaningful pattern that appears across perception and event without immediately granting certainty about cause.
 
 A synchronicity may feel significant. It may sharpen attention. It may reveal that something in your life is becoming newly visible. It may even act as a kind of signal. But it does not automatically prove a hidden cosmic mechanism, a metaphysical message, or a final interpretation.
