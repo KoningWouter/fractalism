@@ -1,75 +1,66 @@
 ---
 title: About
-description: What this project is, why it exists, and how Fractalism should be approached.
+description: What Fractalism is, why this site exists, and how the project should be approached.
 ---
 
-Fractalism is a philosophical and metaphysical project concerned with [truth](/concepts#truth), distortion, polarity, ethics, and the structures through which reality becomes legible across scales.
+Fractalism is an attempt to understand how truth, distortion, ethics, attention, and social form relate to one another.
 
-This site gives that project a public form. It is not a finished doctrine. It is a body of thought under construction and refinement.
+This site exists to give that attempt a public shape.
 
-## Why This Site Exists
+It is not a finished doctrine. It is a developing body of work, written in public, tested against experience, and refined over time.
 
-Modern life fragments attention, weakens discernment, and floods perception with simulation. Many people can still sense the wrongness of this order, but lack the language to track its shape, depth, and consequences.
+## Why this site exists
 
-Fractalism exists as a serious response to that condition.
+Fractalism began from a simple recognition. Much of modern life trains distraction, weakens discernment, and makes distortion feel normal. People often sense that something is wrong, but they do not always have the language to describe what they are seeing or living through.
 
-Its starting point is that truth leaves patterns, distortion leaves patterns as well, and inner life, social order, symbolic reality, and ethics cannot be understood in isolation from one another.
+This site exists as a response to that condition.
 
-## What Kind of Project This Is
+Its purpose is not to overwhelm the reader with theory. Its purpose is to offer distinctions that make reality easier to read. If the project works, it works because it helps people notice pattern more clearly, recognize distortion earlier, and orient themselves with greater honesty.
 
-This is not a news feed, not a lifestyle blog, and not a platform designed for endless churn.
+## What kind of project this is
 
-It is a long-form project of articulation. Its aim is to clarify, refine, and publish a framework capable of tracing continuity across psychological, civilizational, and metaphysical layers of experience.
+Fractalism is not a content stream. It is not built for endless churn.
 
-Some parts of Fractalism take the form of essays. Others take the form of [axioms](/axioms), [concepts](/concepts), distinctions, and compressed formulations. Together they form an architecture, not a content stream.
+It is a long form philosophical project. Some parts take the form of essays. Some take the form of axioms, concepts, and sharper distinctions. Together they form an evolving architecture.
 
-## What This Is Not
+The aim is not to explain everything. The aim is to make certain recurring patterns more legible, especially where inner life, ethics, culture, and power begin to overlap.
 
-Fractalism is not:
+## What this is not
 
-- a brand
-- a self-help product
-- a conventional political ideology
-- a rigid dogma
-- a personality cult
-- a final theory pretending to explain everything
+Fractalism is not a brand, a self help product, a rigid dogma, or a final theory pretending to close reality into a system.
 
-It should not be approached as an authority to submit to. It should be examined, tested, compared against reality, and sharpened where needed.
+It should not be approached as an authority to submit to. It should be examined, tested, compared against experience, and sharpened where needed.
 
-If it has value, that value will lie in increased clarity, stronger discernment, greater internal consistency, and a better capacity to recognize what is living and structurally sound.
+If it has value, that value will not come from image or certainty. It will come from whether it makes reality more legible.
 
-## A Living Framework
+## A living framework
 
 Fractalism is still under refinement.
 
-This is not a weakness. Any framework concerned with truth in a living sense must remain corrigible. It must be structured enough to say something real and open enough to survive revision.
+That is not a weakness. Any framework concerned with truth has to remain corrigible. It has to be structured enough to say something real, and open enough to survive revision.
 
-This site should therefore be read as a serious but evolving body of work.
+Not every page on this site has the same status. Some pages are foundational. Some are exploratory. Some are attempts at synthesis. The project develops through articulation, testing, correction, and reworking.
 
-Not everything here is equal in status. Some pages are foundational. Some are exploratory. Some are attempts at synthesis. The framework develops through articulation, testing, clarification, and revision.
+## How to read it
 
-## How to Read It
+The best way to approach Fractalism is slowly and with discernment.
 
-The best way to approach Fractalism is with discernment, which is why [Introduction](/introduction) and [How to Read Fractalism](/how-to-read-fractalism) are often the best entry points.
+Start with the [Introduction](/introduction) if you want orientation. Read [How to Read Fractalism](/how-to-read-fractalism) if you want to understand the spirit in which the project is written. Move through the concepts and essays with patience. Compare ideas. Test whether a distinction clarifies something real or only creates fascination.
 
-Read slowly. Compare concepts. Notice recurring structures. Test whether an idea clarifies something real or merely produces fascination. Do not confuse intensity with truth. Do not confuse symbolic richness with coherence.
+Do not confuse intensity with truth. Do not confuse symbolic richness with coherence.
 
-This site does not ask for belief. It offers an instrument: something to think with, test against reality, and use for orientation.
+This site does not ask for belief. It offers something to think with, test against reality, and use for orientation.
 
-## On Writing and AI
+## On writing and AI
 
 AI can assist with wording. It cannot substitute for lived inquiry, sustained reflection, or philosophical responsibility.
 
-The thinking behind Fractalism is my own. AI is used only as a tool for expression, not as the source of the ideas.
-
-## Reach Me
-
-For those who wish to follow the work or make contact, a Nostr profile is available here: 
-
-[npub1dh4734l2gqvh35ctpx2tlhswksayx0czk6fhkldwcuupu4xtzm4sw26l6j](https://njump.me/npub1dh4734l2gqvh35ctpx2tlhswksayx0czk6fhkldwcuupu4xtzm4sw26l6j)
+The thinking behind Fractalism is my own. AI is used as a tool for expression and revision, not as the source of the ideas.
 
 ## Closing
 
-Fractalism exists to restore pattern-recognition, ethical seriousness, and metaphysical depth under conditions of inversion and fragmentation.
+Fractalism exists because reality can become hard to read when distortion is rewarded, attention is captured, and confusion becomes normal.
 
-The question is not whether it appears unusual at first contact. The question is whether it makes reality more legible.
+If this project helps, it helps by making some of that structure visible again.
+
+The question is not whether Fractalism sounds unusual at first. The question is whether it helps you see more clearly.
