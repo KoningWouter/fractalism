@@ -45,15 +45,15 @@ This layer gives Fractalism phenomenological depth. It asks not only what is tru
 This layer concerns orientation, reciprocity, and the direction in which consciousness and relation move.
 
 Key themes:
-- [STO](/concepts#sto-and-sts)
-- [STS](/concepts#sto-and-sts)
+- [Service-to-Others (STO)](/concepts#sto-and-sts)
+- [Service-to-Self (STS)](/concepts#sto-and-sts)
 - reciprocity
 - extraction
 - responsibility
 
 At this level, Fractalism argues that orientation matters. Consciousness is not neutral in its effects. People, groups, and systems tend over time toward forms of relation that are either more reciprocal and reality-aligned, or more extractive and manipulative.
 
-STO and STS are not meant as crude total labels, but as directional patterns. They become visible in what one serves, what one protects, how one treats truth, and whether relation tends toward mutuality or exploitation.
+Service-to-Others (STO) and Service-to-Self (STS) are not meant as crude total labels, but as directional patterns. They become visible in what one serves, what one protects, how one treats truth, and whether relation tends toward mutuality or exploitation.
 
 This layer prevents Fractalism from becoming a merely descriptive system. It insists that discernment has ethical weight.
 
