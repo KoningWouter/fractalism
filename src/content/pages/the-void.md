@@ -1,6 +1,8 @@
+---
 title: The Void
 description: "The Void as a core Fractalist concept: the moment where choice is still free, before the attention loop starts."
 eyebrow: The Void
+---
 
 The Void is one of the central concepts in Fractalism.
 
