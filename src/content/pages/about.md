@@ -57,6 +57,10 @@ AI can assist with wording. It cannot substitute for lived inquiry, sustained re
 
 The thinking behind Fractalism is my own. AI is used as a tool for expression and revision, not as the source of the ideas.
 
+## Contact
+
+If you want to reach me, you can do so at [fractalisme@proton.me](mailto:fractalisme@proton.me).
+
 ## Closing
 
 Fractalism exists because reality can become hard to read when distortion is rewarded, attention is captured, and confusion becomes normal.
