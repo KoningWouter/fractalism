@@ -14,7 +14,7 @@ The Void is a threshold space.
 
 It appears when an attention loop has not yet begun. In that moment, before reflex takes over, your will is genuinely free. You can recognize a starting pattern before it becomes compulsion.
 
-This is different from ordinary stillness or rest. The Void is not passive quietness. It is active sensitivity — a heightened state where the observer sees clearly before the loop commits to a direction.
+This is different from ordinary stillness or rest. The Void is not passive quietness. It is active sensitivity, a heightened state where the observer sees clearly before the loop commits to a direction.
 
 Once an attention loop has started, the dynamic changes. Then it becomes willfulness and fighting. The Void is specifically the moment before that happens.
 
@@ -34,9 +34,9 @@ The relationship to nuchterheid and gnosis
 
 The relationship between nuchterheid, the Void, and gnosis is iterative:
 
-Nuchterheid opens the channel — a quiet field allows the Void to become accessible
-The Void is the moment of free choice — before the loop starts
-Gnosis is what you bring back from the Void — clearer recognition of pattern
+Nuchterheid opens the channel, a quiet field allows the Void to become accessible
+The Void is the moment of free choice, before the loop starts
+Gnosis is what you bring back from the Void, clearer recognition of pattern
 
 Nuchterheid makes the Void possible. The Void makes gnosis possible. And gnosis deepens nuchterheid. None precedes the other in a strict hierarchy.
 
@@ -94,7 +94,7 @@ Closing
 
 The Void is one of the places where Fractalism becomes most practical.
 
-It is not a metaphysical claim about reality. It is a description of a specific experiential moment — the gap before the loop, the pause before reflex, the instant where the will is still free.
+It is not a metaphysical claim about reality. It is a description of a specific experiential moment, the gap before the loop, the pause before reflex, the instant where the will is still free.
 
 That moment can be recognized. It can be noticed. With practice, it can be entered more deliberately.
 
