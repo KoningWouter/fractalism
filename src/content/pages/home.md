@@ -57,7 +57,7 @@ Fractalism matters because it tries to make those patterns legible again. It giv
 
 After the introduction, the most important pages are [Truth](/truth), which explains truth as a discipline rather than a conclusion, [Friction as Signal](/friction-as-signal), which explores the difference between misalignment and necessary correction, [The Void](/the-void), which describes the threshold where choice becomes more available, [Living Fractalism](/living-fractalism), which shows how the framework becomes practical in daily life, and [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong), which looks honestly at where the framework can fail.
 
-If you want the full structure, go to [The Structure of Fractalism](/the-structure-of-fractalism).
+If you want the full structure, go to [The Structure of Fractalism](/the-structure-of-fractalism). If you want a more advanced essay on how depth itself can be used in the service of control, read [Inverse Gnosis](/inverse-gnosis).
 
 ## Closing
 

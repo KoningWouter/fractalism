@@ -53,6 +53,9 @@ The first published essays are available here:
 - [The Way of the Heart and the Way of the Eye](/the-way-of-the-heart-and-the-way-of-the-eye)  
   An essay on two approaches to truth: the heart that feels the good directly, and the eye that seeks pattern, confirmation, and intelligibility.
 
+- [When Depth Becomes Control](/inverse-gnosis)  
+  An essay on inverse gnosis, and on what happens when intelligence, symbolism, and psychological insight are used not to clarify reality, but to capture attention and make distortion more persuasive.
+
 ## Current Status
 
 This section remains in its first stage.

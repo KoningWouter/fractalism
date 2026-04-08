@@ -40,6 +40,8 @@ This is where Fractalism places reciprocity and extraction, responsibility and e
 
 At this level, the framework stops being neutral description. It asks what is being served. It asks whether relation is becoming more mutual or more instrumental, whether truth is being honored or used selectively, whether a person is making more room for reality or reducing everything to the needs of the isolated self.
 
+This is also where Fractalism begins to approach what might be called inverse gnosis: the use of intelligence, symbolism, or psychological insight in the direction of control, fixation, or extraction rather than clarification.
+
 This matters because discernment is never only intellectual. It has ethical weight.
 
 ## The social layer
