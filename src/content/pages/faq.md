@@ -39,19 +39,23 @@ Truth here is understood as something living. It requires ongoing attention, cor
 
 ## What are STO and STS in plain language?
 
-STO means service to others. STS means service to self. These are not crude labels for good and bad people. They describe orientations, recurring patterns in how someone relates to truth, to other people, and to power.
+STO means Service to Others. STS means Service to Self.
 
-An STO orientation tends toward reciprocity, honesty, and genuine concern for others. An STS orientation tends toward extraction, control, and treating others as instruments.
+In plain language, the distinction is simple. Some people mainly relate to others as persons. Others mainly relate to others as means.
 
-Most people are not purely one or the other. But over time, patterns become visible. Fractalism watches those patterns without rushing to judge.
+Service to Others does not mean being nice all the time, erasing yourself, or pleasing everyone around you. It means refusing to reduce the other person to function. It leans toward reciprocity, honesty, responsibility, and relation that is not there only to feed the isolated self.
+
+Service to Self does not only mean obvious cruelty or domination. It can also appear through status management, strategic charm, selective honesty, self protection, and the habit of treating other people mainly as reinforcement, utility, obstacle, or advantage.
+
+These are not final labels for whole people. They are recurring orientations. Most people are mixed, conflicted, and inconsistent. But over time, patterns become visible, and Fractalism tries to read those patterns without rushing to flatten a person into a verdict.
 
 ## What is the Void?
 
-The Void is what happens when your usual supports fall away. When the story you told yourself stops working. When the noise quiets and nothing has replaced it yet.
+The Void is the moment before an attention loop fully starts, when choice is still more available.
 
-It is not depression, although it can look like it from the outside. It is a clearing. A space where something more real can arrive, but only if you do not rush to fill it with the next distraction.
+It is not just emptiness, and it is not simply depression or collapse. It is a threshold. In that moment, before reflex takes over, a person may notice the pattern beginning before it hardens into compulsion.
 
-Fractalism treats the Void as one of the most important experiences a person can go through. Not because it is pleasant, but because it is honest.
+That matters because once the loop is already running, everything becomes harder. Fractalism treats the Void as important because it is one of the places where interruption becomes possible.
 
 ## Can Fractalism be wrong?
 

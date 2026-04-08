@@ -39,13 +39,17 @@ This is one of the central aims of Fractalism. Not to hand people a finished wor
 
 ## Service to Others and Service to Self
 
-A central polarity in Fractalism is the distinction between [Service to Others and Service to Self](/concepts#service-to-others-and-service-to-self).
+Some people mainly relate to others as persons. Others mainly relate to others as means.
 
-Service to Others is the movement in which the other is not reduced to function. It leans toward reciprocity, truth, responsibility, and relation that does not exist only to feed the isolated self.
+Fractalism uses the shorthand **Service to Others** and **Service to Self** for those two recurring orientations.
 
-Service to Self is the movement in which the other appears mainly as instrument, obstacle, mirror, possession, or source of advantage. It leans toward control, extraction, self protection, and the reduction of relation to utility.
+Service to Others does not mean being nice all the time, erasing yourself, or pleasing everyone around you. It means refusing to reduce the other to function. It leans toward reciprocity, truth, responsibility, and relation that does not exist only to feed the isolated self.
 
-These are not crude final verdicts over whole persons. They are recurring orientations that can be seen in what someone consistently protects, what they serve, how they respond when truth has a cost, and whether their relations tend toward reciprocity or extraction.
+Service to Self does not only mean obvious domination or cruelty. It can also appear in subtler ways, through status management, self protection, strategic charm, selective honesty, or the habit of treating other people mainly as reinforcement, utility, obstacle, or advantage.
+
+These are not final labels for whole persons. They are not a purity test and they are not a way of dividing humanity into saints and monsters. They are recurring orientations that can be seen in what someone consistently protects, what they serve, how they respond when truth has a cost, and whether their relations tend toward reciprocity or extraction.
+
+A simple everyday distinction helps here. If a person listens in order to understand, that leans one way. If a person listens mainly to regain control, defend position, or extract advantage, that leans another.
 
 ![Service to Self versus Service to Others](/stsvssto.png)
 
