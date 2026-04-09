@@ -3,13 +3,15 @@ title: Team 3
 description: "What Team 3 means in Fractalism: not a faction, but a line of integrity that refuses both open extraction and spiritually packaged inversion."
 ---
 
-In Fractalism, **Team 3** is a name for something that can otherwise be difficult to describe.
+Some people eventually notice that the world does not divide neatly into obvious selfishness on one side and obvious goodness on the other.
+
+There is often a third pattern that matters just as much: goodness used as a mask for control.
+
+**Team 3** is the Fractalist name for what remains visible once both open extraction and disguised goodness have been seen more clearly.
 
 It is not a party, a secret order, or a claim to moral purity.
 
-It is a way of naming a third orientation that becomes visible when two easier patterns have already been seen through: open extraction on one side, and goodness used as a mask for control on the other.
-
-That is why Team 3 is best understood as a **symbolic and ethical model**, not as a rigid metaphysical census. It belongs to the wider Fractalist effort to distinguish [truth](/truth), [distortion](/concepts#distortion), reciprocity, and inversion more carefully.
+It is best understood as a **symbolic and ethical model**, not as a rigid metaphysical census. It belongs to the wider Fractalist effort to distinguish [truth](/truth), [distortion](/concepts#distortion), reciprocity, and inversion more carefully.
 
 ## Why a third category is needed
 
@@ -86,7 +88,7 @@ That is why Team 3 often looks less impressive than the other two. It is less in
 
 One of the strongest ways to understand Team 3 is not as an organized block, but as a scattered line of integrity.
 
-It may appear in people who feel they do not belong either to open predation or to spiritually packaged manipulation. They do not feel at home in cynical extraction, but they also cannot fully submit to systems that speak the language of light while reproducing control.
+It may appear in people who feel they do not belong either to open predation or to more polished forms of manipulation. They do not feel at home in cynical extraction, but they also cannot fully submit to systems that speak the language of care, growth, healing, or light while reproducing control.
 
 This can make Team 3 hard to find socially.
 It is often quiet.
@@ -110,7 +112,7 @@ Not a refusal to see cruelty.
 But a sober refusal to copy what is false.
 
 In this sense, Team 3 can be understood as what remains of love after illusion has fallen away.
-Not sweetness without discernment, but the refusal to let falseness decide the final shape of consciousness.
+Not sweetness without discernment, but the refusal to let falseness decide the final shape of a person.
 
 ## Why Team 3 should not become identity
 

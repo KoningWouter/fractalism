@@ -4,13 +4,15 @@ description: "A practical Fractalist distinction between noise friction and corr
 eyebrow: Friction as Signal
 ---
 
-Friction is one of the most important forms of feedback in a human life.
+Everyone knows the feeling of resistance.
 
-When something starts to feel heavy, resistant, irritating, draining, or internally divided, it is tempting to simplify the situation too quickly. Many people assume that friction means something is wrong and that flow means something is right.
+A task starts to feel heavy. A relationship becomes draining. A habit feels harder to interrupt than it should. A change that seems obviously necessary still meets strange inner pushback.
+
+It is tempting to simplify these moments too quickly. Many people assume that friction means something is wrong and that ease means something is right.
 
 That is too simple.
 
-In Fractalist terms, friction is not always bad. But it is very often meaningful, especially if one is serious about living Fractalism rather than merely describing it.
+In Fractalist terms, friction is not always bad. But it is often meaningful. The practical question is not how to eliminate all resistance, but how to tell the difference between resistance that signals misalignment and resistance that appears because something old is being challenged.
 
 ## Flow as relative alignment
 
@@ -30,7 +32,7 @@ Some tension is present between what you are doing, what you are avoiding, what 
 
 ## The two main forms of friction
 
-One useful distinction is the difference between noise friction and corrective friction.
+One useful distinction here is between **noise friction** and **corrective friction**.
 
 Noise friction appears when an action, direction, or context is not truly right, yet is still being artificially maintained. Examples include continuing something that now mainly numbs you, staying in a social situation that steadily drains energy, chasing something that serves status more than truth, trying to do subtle inner work while intoxicated, or performing a role that no longer fits. Here, friction may be a sign of misalignment. Energy is being lost because something is no longer genuinely supported.
 
@@ -56,11 +58,18 @@ When you notice friction, use it as information. If the choice that follows brin
 
 To read friction well, the instrument has to be reasonably clear. Habits or substances that numb, agitate, fragment, or artificially colour perception make it harder to distinguish noise friction from corrective friction.
 
-That is why sobriety matters here not only as a moral question, but as a condition for more reliable discernment. If the system is too clouded, everything can start to feel either like a threat or like a justification. Friction is no longer read. It is distorted.
+That is why sobriety matters here not as a badge of purity or moral superiority, but as a condition for more reliable discernment. If the system is too clouded, everything can start to feel either like a threat or like a justification. Friction is no longer read clearly. It is distorted.
 
 ## Practical questions
 
-When friction appears, these questions can help. Am I forcing something that no longer truly fits? Is this resistance to truth, or resistance to change? Is this draining because it is noise, or because it requires correction? Does this make me clearer, or more clouded? What happens if I do not immediately numb, flee, or rationalize? What remains after rest, sleep, or sober re-reading?
+When friction appears, these questions can help:
+
+- Am I forcing something that no longer truly fits?
+- Is this resistance to truth, or resistance to change?
+- Is this draining because it is noise, or because it requires correction?
+- Does this make me clearer, or more clouded?
+- What happens if I do not immediately numb, flee, or rationalize?
+- What remains after rest, sleep, or sober re-reading?
 
 This is how friction stops being an enemy and starts becoming feedback.
 

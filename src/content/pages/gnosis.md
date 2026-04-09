@@ -4,9 +4,13 @@ description: A Fractalist understanding of gnosis as a growing capacity to disti
 eyebrow: Gnosis
 ---
 
-Gnosis is one of the central words in Fractalism.
+Most people know the difference between merely collecting ideas and actually seeing something more clearly.
 
-But it does not mean secret information, private revelation, or possession of a final truth that others lack.
+Sometimes a person reads more, hears more, learns more vocabulary, and still remains confused. At other times, something simpler happens. A pattern becomes easier to recognize. A distortion becomes harder to ignore. A situation becomes more legible than it was before.
+
+That difference is close to what Fractalism means by **gnosis**.
+
+It does not mean secret information, private revelation, or possession of a final truth that others lack.
 
 In Fractalist terms, gnosis is better understood as a growing capacity to distinguish distortion from reality, to notice what is more coherent and what is less so, and to live in a way that becomes gradually less confused, less divided, and more answerable to what is true.
 
@@ -27,7 +31,7 @@ It changes the difference between an interpretation that only feels charged and 
 
 ## Gnosis as increasing resolution
 
-A useful way to think about gnosis is as increasing resolution.
+A useful way to think about gnosis is as increasing resolution, or simply as better discernment.
 
 At low resolution, many things blur together. Noise, compulsion, projection, genuine insight, symbolic intensity, and emotional reaction can all be mistaken for one another.
 
@@ -98,7 +102,7 @@ It has to return as clearer seeing, better correction, and less divided living.
 
 ## Different levels of reading
 
-Fractalist language allows gnosis to be read at different levels.
+Fractalist language allows gnosis to be read at different levels, and that matters because not every reader needs to accept the widest possible version of the term in order for it to remain useful.
 
 At a practical level, it means better discernment and less confusion.
 At a psychological level, it means becoming less ruled by compulsion, projection, and unexamined pattern.

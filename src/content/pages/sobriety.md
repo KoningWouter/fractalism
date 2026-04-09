@@ -4,7 +4,11 @@ description: How Fractalism understands sobriety not as moral purity, but as the
 eyebrow: Sobriety
 ---
 
-Sobriety matters in Fractalism because attention cannot be read clearly when the instrument is heavily clouded.
+Most people know the difference between trying to think clearly and trying to think clearly while exhausted, overstimulated, intoxicated, emotionally flooded, or caught in compulsion.
+
+That difference matters.
+
+Sobriety matters in Fractalism because attention becomes harder to read when the instrument is heavily clouded.
 
 This does not mean sobriety should be treated as moral superiority, spiritual prestige, or a purity identity. It means something simpler. The clearer the instrument, the easier it becomes to notice what is actually happening.
 
@@ -12,9 +16,9 @@ In that sense, sobriety is not mainly a badge. It is a condition of calibration.
 
 ## What sobriety means here
 
-In Fractalism, sobriety does not only refer to abstinence from substances, though substances are part of the picture.
+In Fractalist terms, sobriety does not only refer to abstinence from substances, though substances are part of the picture.
 
-It refers more broadly to the reduction of what clouds, fragments, sedates, inflates, or distorts attention. A person can be chemically sober and still live in distraction, compulsion, atmosphere management, and self obscuring habits. They can also be trying to become more sober in the deeper sense while still struggling with particular loops.
+It refers more broadly to the reduction of what clouds, fragments, sedates, inflates, or distorts attention. A person can be chemically sober and still live in distraction, compulsion, atmosphere management, and self-obscuring habits. They can also be trying to become more sober in the deeper sense while still struggling with particular loops.
 
 That is why sobriety here should be read as a direction as much as a condition.
 
@@ -64,7 +68,15 @@ That means sobriety is not only an individual struggle. It is also a struggle ag
 
 Sobriety can show up in very ordinary ways.
 
-It can mean not reaching for the next distraction. It can mean going to sleep instead of prolonging agitation. It can mean not smoking when craving appears. It can mean reducing noise, choosing steadier rhythms, leaving atmospheres that make you less real, or refusing the first move of a loop before it gains force.
+It can mean:
+
+- not reaching for the next distraction
+- going to sleep instead of prolonging agitation
+- not smoking when craving appears
+- reducing noise
+- choosing steadier rhythms
+- leaving atmospheres that make you less real
+- refusing the first move of a loop before it gains force
 
 In this sense, sobriety is not a single dramatic act. It is often a repeated return.
 
