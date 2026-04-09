@@ -15,6 +15,8 @@ Modern systems do not only fight for opinion. They fight for attention.
 
 They compete for your focus, your nervous system, your mood, and the atmosphere in which your choices get made. That is why attention is not a small issue. It is one of the main places where distortion enters.
 
+If you want the larger structural picture behind this, see [The Matrix as a Machine for Capturing Attention](/the-matrix-as-a-machine-for-capturing-attention).
+
 A practical Fractalist life means learning to notice:
 
 - what scatters you

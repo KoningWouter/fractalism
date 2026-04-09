@@ -47,6 +47,8 @@ These are the four domains Fractalism works across.
 
 **Field and resonance.** Some environments sharpen awareness. Others dull it. Some conversations leave you clearer. Others leave you more divided, more suggestible, or more performative. Fractalism uses resonance as a practical clue about coherence, not as a mystical excuse to believe whatever feels intense.
 
+**Attention and capture.** Modern systems do not only govern through force. They also shape salience, fragment attention, and condition what feels urgent, desirable, or real. Fractalism treats the capture of attention as one of the deepest modern mechanisms of distortion.
+
 ## Why it matters
 
 Modern life does not only distract people. It trains them to lose contact with what they are actually doing. It rewards speed over reflection, stimulation over depth, image over substance, and reaction over discernment. Over time, patterns that are draining, manipulative, or distorting begin to feel normal simply because they are repeated often enough.

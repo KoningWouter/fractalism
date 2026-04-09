@@ -52,6 +52,8 @@ What begins inwardly does not stay inward. Distortion becomes culture. Appetite 
 
 At this level, Fractalism moves beyond private introspection. It begins asking what happens when patterns harden into media, institutions, habits of life, and public forms of relation.
 
+This is also the level at which attention capture becomes politically and culturally central. Modern power often works not only through force or law, but through the shaping of salience, distraction, and what becomes psychologically real. That is explored more directly in [The Matrix as a Machine for Capturing Attention](/the-matrix-as-a-machine-for-capturing-attention).
+
 This is what gives the framework social relevance. It is not only trying to understand private experience. It is asking what kind of world repeated patterns create.
 
 ## How the layers relate

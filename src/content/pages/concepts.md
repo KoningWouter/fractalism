@@ -111,7 +111,7 @@ Polarity matters because similar outer forms can serve very different inner logi
 
 ## Related reading
 
-If you want to go further, start with [Truth](/truth), [Friction as Signal](/friction-as-signal), [Living Fractalism](/living-fractalism), and [The Void](/the-void).
+If you want to go further, start with [Truth](/truth), [Friction as Signal](/friction-as-signal), [Living Fractalism](/living-fractalism), [The Void](/the-void), and [The Matrix as a Machine for Capturing Attention](/the-matrix-as-a-machine-for-capturing-attention).
 
 ## Closing
 
