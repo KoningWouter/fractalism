@@ -56,6 +56,9 @@ The first published essays are available here:
 - [When Depth Becomes Control](/inverse-gnosis)  
   An essay on inverse gnosis, and on what happens when intelligence, symbolism, and psychological insight are used not to clarify reality, but to capture attention and make distortion more persuasive.
 
+- [From Creation to Consumption](/from-creation-to-consumption)  
+  An essay on how attention systems do not only distract people, but gradually retrain them away from creation and toward passive consumption.
+
 ## Current Status
 
 This section remains in its first stage.
