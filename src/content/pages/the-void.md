@@ -12,6 +12,8 @@ It is not simple emptiness, and it is not just another dramatic word for despair
 
 The Void is a threshold space. It appears when an attention loop has not yet taken over. In that moment, before reflex fully commits, a person may still have access to real choice. A starting pattern can be noticed before it hardens into compulsion.
 
+In Fractalist terms, the Void is the threshold in which the observer has not yet fully collapsed into one pattern of reaction. More than one line of response is still available. That is why the Void matters so much for freedom, discernment, and the interruption of habit.
+
 This is different from ordinary stillness or rest. The Void is not passive quietness. It is active sensitivity, a heightened state in which the observer can see more clearly before the loop commits to a direction. Once an attention loop has started, the dynamic changes. Then it becomes willfulness and struggle. The Void is specifically the moment before that happens.
 
 ## Why the Void matters
