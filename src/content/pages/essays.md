@@ -59,6 +59,9 @@ The first published essays are available here:
 - [From Creation to Consumption](/from-creation-to-consumption)  
   An essay on how attention systems do not only distract people, but gradually retrain them away from creation and toward passive consumption.
 
+- [The Role of Attention in the Collapse of Possibility](/the-role-of-attention-in-the-collapse-of-possibility)  
+  An essay on attention as something that does not only observe, but also selects, reinforces, and helps give psychological and social weight to certain possibilities over others.
+
 ## Current Status
 
 This section remains in its first stage.

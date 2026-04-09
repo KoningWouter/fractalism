@@ -20,7 +20,7 @@ This is different from ordinary stillness or rest. The Void is not passive quiet
 
 Most people live inside completed attention loops. An attention loop is a pattern that starts, builds momentum, and eventually runs without the person noticing they could have stopped it earlier. Smoking a joint, checking social media, following a craving. The loop becomes automatic before awareness fully kicks in.
 
-The Void matters because it offers the clearest opening in that process. In the Void state, you can see the loop starting. You can recognize the pattern before it commits. This is not guaranteed, and recognizing it does not by itself break the loop. But it is often the clearest opportunity to interrupt what is beginning before it becomes much harder to change.
+The Void matters because it offers the clearest opening in that process. In the Void state, you can see the loop starting. You can recognize the pattern before it commits. This is not guaranteed, and recognizing it does not by itself break the loop. But it is often the clearest opportunity to interrupt what is beginning before it becomes much harder to change. The wider role of attention in making some lines of response denser than others is explored further in [The Role of Attention in the Collapse of Possibility](/the-role-of-attention-in-the-collapse-of-possibility).
 
 That is why the Void matters. It is where prevention becomes possible, not where cure happens.
 
