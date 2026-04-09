@@ -60,7 +60,7 @@ This is one reason modern power can look soft while remaining deeply invasive. I
 One of the deepest consequences of captured attention is that a person loses access to their own inner workbench.
 
 The pause becomes harder to find.
-The Void becomes less available.
+[The Void](/the-void) becomes less available.
 Reflection becomes thinner.
 Self-correction becomes more difficult.
 
@@ -80,9 +80,9 @@ That is why Fractalism treats distortion as more dangerous than simple falsehood
 
 ## The relation to inverse gnosis
 
-This is also where inverse gnosis becomes easier to understand.
+This is also where [inverse gnosis](/inverse-gnosis) becomes easier to understand.
 
-Gnosis tries to make reality more legible. It helps a person see distortion more clearly and recover a less divided relation to truth.
+Gnosis tries to make reality more legible. It helps a person see distortion more clearly and recover a less divided relation to [truth](/truth).
 
 Inverse gnosis uses many of the same tools in the opposite direction. It works with symbolism, psychology, emotional charge, attention, and patterning not to free the observer, but to fix the observer more deeply inside what captures them.
 
@@ -110,7 +110,7 @@ Recovery may begin with very simple things:
 - fewer stimuli
 - more deliberate reading
 - less compulsive checking
-- clearer naming of loops
+- clearer naming of [loops](/attention-loops)
 - stronger tolerance for pauses
 - rebuilding the capacity to remain with reality before reflex takes over
 
