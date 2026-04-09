@@ -6,6 +6,8 @@ eyebrow: Reading Carefully
 
 Fractalism deals with [truth](/concepts#truth), [distortion](/concepts#distortion), [resonance](/concepts#resonance), [polarity](/concepts#polarity), and metaphysical orientation. That makes epistemic hygiene essential.
 
+For a more explicit statement of the internal standards meant to protect the project from drift, see [The Seven Purity Principles of Fractalism](/the-seven-purity-principles-of-fractalism).
+
 Without it, a framework meant to sharpen discernment can quickly become a theatre of projection: intense language mistaken for truth, personal experience inflated into universal law, symbolic insight hardened into dogma, or charisma substituting for clarity.
 
 Fractalism therefore insists that seriousness of subject matter must be matched by seriousness of method.
