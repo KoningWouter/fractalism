@@ -19,7 +19,7 @@ Some language functions as symbol. Some language describes experience. Some part
 
 That difference matters. A symbol should not automatically be treated as literal mechanism. A hypothesis should not be mistaken for final proof. An experience should not be inflated into universal law.
 
-Part of reading Fractalism well is learning to notice what kind of statement is being made.
+Part of reading Fractalism well is learning to notice what kind of statement is being made. For a more explicit guide to this, see [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim).
 
 ## Not every page is trying to do the same thing
 

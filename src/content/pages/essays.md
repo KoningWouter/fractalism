@@ -65,6 +65,9 @@ The first published essays are available here:
 - [The Seven Purity Principles of Fractalism](/the-seven-purity-principles-of-fractalism)  
   A page on the internal standards Fractalism uses to resist charisma, confusion, dependency, prestige games, and uncorrectable drift.
 
+- [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim)  
+  A guide to how Fractalism distinguishes between symbol, hypothesis, experience, practical insight, and factual claim so the framework remains sober and readable.
+
 ## Current Status
 
 This section remains in its first stage.
