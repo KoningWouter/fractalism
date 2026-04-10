@@ -14,7 +14,7 @@ The essay is where the framework has to endure duration. A concept can survive i
 Over time, this section will gather longer writings on themes such as:
 
 - truth and inversion
-- STO and STS as ethical polarity
+- reciprocity and extraction as ethical polarity
 - the Void as reset-space and living depth
 - predictive systems, behavioral legibility, and human freedom
 - resonance, field quality, and discernment
@@ -50,11 +50,11 @@ The full published list is below, including those starting points:
 - [Why Truth Projects Should Not Look Like Marketing](/why-truth-projects-should-not-look-like-marketing)  
   An essay on why projects built around truth should resist seduction, behavioral manipulation, and the design logic of modern marketing.
 
-- [Why STS Drifts Toward Sadism](/why-sts-drifts-toward-sadism)  
+- [Why Extraction Drifts Toward Sadism](/why-sts-drifts-toward-sadism)  
   An essay on why radical service-to-self tends to turn other people into objects, why asymmetry becomes intoxicating, and why domination can harden into sadism.
 
-- [Why Calm Feels Like an Attack to an STS Soul](/why-calm-feels-like-an-attack)  
-  An essay on why real calm can provoke hostility in an STS structure, why some people experience peace as pressure, and how inner noise reacts to undisturbed presence.
+- [Why Calm Feels Like an Attack to an Extractive Soul](/why-calm-feels-like-an-attack)  
+  An essay on why real calm can provoke hostility in an extractive structure, why some people experience peace as pressure, and how inner noise reacts to undisturbed presence.
 
 - [As Above, So Below and the Breaking of Pattern](/as-above-so-below-and-the-breaking-of-pattern)  
   An essay on why breaking a destructive pattern in oneself can feel connected to larger movements in the social field, and how Fractalism understands resonance without collapsing into magical egoism.

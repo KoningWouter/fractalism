@@ -22,7 +22,7 @@ export async function GET(context: APIContext) {
 	return rss({
 		title: 'Fractalism',
 		description:
-			'A living framework for truth, resonance, STO and STS, inner sovereignty, and the rebuilding of human community beyond inversion.',
+			'A living framework for truth, resonance, reciprocity and extraction, inner sovereignty, and the rebuilding of human community beyond inversion.',
 		site: context.site!,
 		items: articles.map((page) => ({
 			title: page.data.title,

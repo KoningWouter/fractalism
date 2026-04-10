@@ -97,7 +97,7 @@ The gunas matter because they help give more texture to several Fractalist conce
 - [field quality](/concepts#field-quality)
 - [distortion](/concepts#distortion)
 - [discernment](/concepts#discernment)
-- [STO and STS](/concepts#sto-and-sts)
+- [reciprocity and extraction](/concepts#reciprocity-and-extraction)
 - the difference between signal and noise
 
 Not every low state is tamasic. Not every high-energy state is rajasic. Not every calm state is sattvic. But these distinctions often clarify what kind of force is actually operating.
@@ -143,7 +143,7 @@ Sattva can create the conditions in which truth is more easily recognized and li
 
 That means the gunas are relevant to Fractalism’s moral concerns without replacing them.
 
-They do not tell us everything about [STO and STS](/concepts#sto-and-sts), but they do help explain the energetic and psychological terrain in which those orientations take form.
+They do not tell us everything about [reciprocity and extraction](/concepts#reciprocity-and-extraction), but they do help explain the energetic and psychological terrain in which those orientations take form.
 
 ## A simple practical use
 

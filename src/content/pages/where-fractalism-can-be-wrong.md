@@ -50,7 +50,7 @@ Something can be existentially real for a person without yet justifying a univer
 
 Fractalism has an ethical center. That is one of its strengths. But ethical seriousness can become moral inflation.
 
-A framework that speaks about reciprocity and extraction, truth and distortion, Service to Others and Service to Self, can begin to pathologize too quickly. It can start reading disagreement as corruption, confusion as bad faith, or limitation as evidence of deeper moral failure.
+A framework that speaks about reciprocity and extraction, truth and distortion, can begin to pathologize too quickly. It can start reading disagreement as corruption, confusion as bad faith, or limitation as evidence of deeper moral failure.
 
 That is one of the easiest ways for a living framework to become unjust.
 

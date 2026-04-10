@@ -43,21 +43,21 @@ Without discernment, concepts become decoration. With discernment, they become u
 
 This is one of the central aims of Fractalism. Not to hand people a finished worldview, but to strengthen the faculty by which they can read what is actually happening.
 
-## Service to Others and Service to Self
+## Reciprocity and Extraction
 
 Some people mainly relate to others as persons. Others mainly relate to others as means.
 
-Fractalism uses the shorthand **Service to Others** and **Service to Self** for those two recurring orientations.
+Fractalism uses the shorthand **reciprocity** and **extraction** for those two recurring orientations.
 
-Service to Others does not mean being nice all the time, erasing yourself, or pleasing everyone around you. It means refusing to reduce the other to function. It leans toward reciprocity, truth, responsibility, and relation that does not exist only to feed the isolated self.
+A reciprocal orientation does not mean being nice all the time, erasing yourself, or pleasing everyone around you. It means refusing to reduce the other to function. It leans toward truth, responsibility, and relation that does not exist only to feed the isolated self.
 
-Service to Self does not only mean obvious domination or cruelty. It can also appear in subtler ways, through status management, self protection, strategic charm, selective honesty, or the habit of treating other people mainly as reinforcement, utility, obstacle, or advantage.
+An extractive orientation does not only mean obvious domination or cruelty. It can also appear in subtler ways, through status management, self protection, strategic charm, selective honesty, or the habit of treating other people mainly as reinforcement, utility, obstacle, or advantage.
 
 These are not final labels for whole persons. They are not a purity test and they are not a way of dividing humanity into saints and monsters. They are recurring orientations that can be seen in what someone consistently protects, what they serve, how they respond when truth has a cost, and whether their relations tend toward reciprocity or extraction.
 
 A simple everyday distinction helps here. If a person listens in order to understand, that leans one way. If a person listens mainly to regain control, defend position, or extract advantage, that leans another.
 
-![Service to Self versus Service to Others](/stsvssto.png)
+![Extraction versus reciprocity](/stsvssto.png)
 
 ## The Void
 
@@ -111,7 +111,7 @@ That is what fractality means here. Not decorative complexity, but recurring pat
 
 Polarity refers to directional tensions that show up again and again.
 
-Service to Others and Service to Self are one expression of polarity. So are truth and distortion, coherence and fragmentation, reciprocity and extraction, life giving relation and degenerative inversion.
+Reciprocity and extraction are one expression of polarity. So are truth and distortion, coherence and fragmentation, life giving relation and degenerative inversion.
 
 Polarity matters because similar outer forms can serve very different inner logics.
 

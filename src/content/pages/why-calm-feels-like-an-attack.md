@@ -1,6 +1,6 @@
 ---
-title: Why Calm Feels Like an Attack to an STS Soul
-description: An essay on why real calm can provoke hostility in an STS structure, why some people experience peace as pressure, and how inner noise reacts to undisturbed presence.
+title: Why Calm Feels Like an Attack to an Extractive Soul
+description: An essay on why real calm can provoke hostility in an extractive structure, why some people experience peace as pressure, and how inner noise reacts to undisturbed presence.
 ---
 
 Most people assume calm is universally comforting.
@@ -81,11 +81,11 @@ These are not always chosen because they are pleasurable. Often they are chosen 
 
 In that sense, calm can feel like an attack because it threatens the structure by which a person maintains continuity, not unlike an unwanted approach toward [the Void](/the-void#what-the-void-is).
 
-## The STS dimension
+## The extractive dimension
 
-From a Fractalist perspective, this dynamic deepens when moral orientation enters the picture, especially around the distinction between STS and [Team 3](/team-3#team-3-real-sto).
+From a Fractalist perspective, this dynamic deepens when moral orientation enters the picture, especially around the distinction between extraction and [Team 3](/team-3).
 
-A strongly STS structure does not merely struggle with calm. It often struggles with anything that cannot be easily recruited into control, validation, extraction, or asymmetry.
+A strongly extractive structure does not merely struggle with calm. It often struggles with anything that cannot be easily recruited into control, validation, extraction, or asymmetry.
 
 A person with genuine inner stillness is difficult to dominate through the usual channels. They are harder to rush, flatter, bait, destabilize, or herd through appetite. Their center is not fully available to the field of manipulation.
 
@@ -93,7 +93,7 @@ That can create a specific form of hostility.
 
 The calm person becomes offensive not because they are aggressive, but because they remain inwardly uncolonized.
 
-Worse still, they may display a kind of peace that the STS structure cannot generate naturally. What must otherwise be approximated through intensity, possession, superiority, intoxication, or domination appears here as something native.
+Worse still, they may display a kind of peace that the extractive structure cannot generate naturally. What must otherwise be approximated through intensity, possession, superiority, intoxication, or domination appears here as something native.
 
 That contrast is unbearable to some people.
 

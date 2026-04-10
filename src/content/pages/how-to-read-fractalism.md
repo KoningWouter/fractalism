@@ -57,7 +57,7 @@ Fractalism is not interested in pattern recognition for its own sake.
 
 Its deeper concern is whether something makes a person clearer or more confused, more truthful or more performative, more reciprocal or more extractive, more sober or more captured.
 
-That is why the distinction between [Service to Others and Service to Self](/concepts#service-to-others-and-service-to-self) matters here. The framework is not only asking what a thing is. It is also asking what kind of relation and orientation it serves.
+That is why the distinction between [reciprocity and extraction](/concepts#reciprocity-and-extraction) matters here. The framework is not only asking what a thing is. It is also asking what kind of relation and orientation it serves.
 
 Without that ethical center, the whole project can slide into spectacle, paranoia, or fascination with darkness for its own sake.
 

@@ -35,15 +35,15 @@ Some things become visible through what they do to awareness. A person, room, te
 
 Resonance is one clue within that process. It is not the same as preference. It is a sign that something may fit more deeply than it first appears. But resonance is not enough by itself. It can guide discernment, but it cannot replace it.
 
-## Service to Others and Service to Self
+## Reciprocity and Extraction
 
-Another central distinction in Fractalism is between Service to Others and Service to Self.
+Another central distinction in Fractalism is between reciprocity and extraction.
 
 In simple terms, some people mainly relate to others as persons. Others mainly relate to others as means.
 
-Service to Others is the movement in which the other is not reduced to function. It leans toward reciprocity, honesty, responsibility, and relation that is not there only to feed the isolated self.
+Reciprocity is the movement in which the other is not reduced to function. It leans toward honesty, responsibility, and relation that is not there only to feed the isolated self.
 
-Service to Self does not only mean obvious domination or cruelty. It can also appear through self protection, status management, selective honesty, strategic charm, and the habit of treating other people mainly as reinforcement, utility, obstacle, or advantage.
+Extraction does not only mean obvious domination or cruelty. It can also appear through self protection, status management, selective honesty, strategic charm, and the habit of treating other people mainly as reinforcement, utility, obstacle, or advantage.
 
 These are not final labels for whole persons. They are recurring orientations that become visible over time.
 

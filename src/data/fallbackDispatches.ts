@@ -17,9 +17,9 @@ export const fallbackDispatches: DispatchItem[] = [
 	},
 	{
 		id: 'dispatch-2',
-		title: 'The effects of a Service to Self versus a Service to Others system',
+		title: 'The effects of an extractive versus reciprocal system',
 		excerpt:
-			'The effects of a Service to Self versus a Service to Others system. A Fractalism dispatch on polarity, social form, and the structures we build around consciousness.',
+			'The effects of an extractive versus reciprocal system. A Fractalism dispatch on polarity, social form, and the structures we build around consciousness.',
 		url: 'https://njump.me/nevent1qqs075jsqc49yjwaq60ep3sawrugfjurqq46k3pl02e06y4ddqlyykczypk7h6xhafqpj7xnpvyef077p66r5selq2mfx7ma4mrns8j5evtwkgzqg9c',
 		published: '2026-03-25T02:12:27Z',
 	},

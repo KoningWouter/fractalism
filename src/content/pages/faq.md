@@ -47,13 +47,13 @@ A statement can be correct and still conceal the deeper structure of a situation
 
 It is not treated as a possession. It is something approached through discernment, correction, and a more coherent relationship to reality.
 
-## What are Service to Others and Service to Self in plain language?
+## What do reciprocity and extraction mean in plain language?
 
 In simple language, the distinction is this: some people mainly relate to others as persons, and others mainly relate to others as means.
 
-Service to Others does not mean being endlessly nice or erasing yourself. It means refusing to reduce the other person to function. It leans toward reciprocity, honesty, responsibility, and relation that does not exist only to feed the isolated self.
+Reciprocity does not mean being endlessly nice or erasing yourself. It means refusing to reduce the other person to function. It leans toward honesty, responsibility, and relation that does not exist only to feed the isolated self.
 
-Service to Self does not only mean obvious cruelty or domination. It can also appear through strategic charm, self protection, status management, selective honesty, and the habit of treating other people mainly as reinforcement, utility, obstacle, or advantage.
+Extraction does not only mean obvious cruelty or domination. It can also appear through strategic charm, self protection, status management, selective honesty, and the habit of treating other people mainly as reinforcement, utility, obstacle, or advantage.
 
 These are not final labels for whole people. They are recurring orientations that become visible over time.
 

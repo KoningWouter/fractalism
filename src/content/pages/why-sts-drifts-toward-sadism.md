@@ -1,10 +1,10 @@
 ---
-title: Why STS Drifts Toward Sadism
-description: An essay on why radical service-to-self tends to turn other people into objects, why asymmetry becomes intoxicating, and why domination can harden into sadism.
+title: Why Extraction Drifts Toward Sadism
+description: An essay on why radical extractive orientation tends to turn other people into objects, why asymmetry becomes intoxicating, and why domination can harden into sadism.
 eyebrow: Essays
 ---
 
-One of the darker questions inside Fractalism is why advanced service-to-self can so often slide toward cruelty.
+One of the darker questions inside Fractalism is why advanced extractive orientation can so often slide toward cruelty.
 
 Not just selfishness.
 Not just greed.
@@ -19,13 +19,13 @@ In ordinary language, that is where the question of sadism enters.
 From a Fractalist point of view, this drift is not accidental.
 It is one of the risk trajectories of a consciousness that severs power from reciprocity, truth, and living relation.
 
-## STS begins by changing the meaning of the other
+## Extraction begins by changing the meaning of the other
 
-In a real service-to-others orientation, another being remains a center of experience.
+In a real reciprocal orientation, another being remains a center of experience.
 They are not an object in your field, but a reality in their own right.
 That does not erase conflict, hierarchy, or difference, but it places a limit on what the relation can become.
 
-In service-to-self, that limit starts to weaken.
+In extraction, that limit starts to weaken.
 
 The other becomes easier to treat as:
 
@@ -43,14 +43,14 @@ This is the first movement.
 Sadism comes later.
 But the path opens here.
 
-## STS seeks asymmetry
+## Extraction seeks asymmetry
 
-Service-to-self does not merely want to exist.
+Extraction does not merely want to exist.
 In its stronger forms, it wants advantage.
 It wants one-way flow.
 It wants disproportion.
 
-That is why STS so often seeks asymmetrical relations:
+That is why extraction so often seeks asymmetrical relations:
 
 - one commands, the other obeys
 - one consumes, the other is consumed
@@ -116,7 +116,7 @@ It confirms that one will is able to penetrate, override, or shatter another.
 
 ## Ontological downgrading
 
-In advanced STS formations, the other person often cannot remain fully real for long.
+In advanced extractive formations, the other person often cannot remain fully real for long.
 
 If they remain real, then empathy remains possible.
 If empathy remains possible, then conscience remains active.
@@ -157,7 +157,7 @@ The logic remains.
 
 ## Why elite systems are especially vulnerable to this drift
 
-When large amounts of power, secrecy, insulation, and mutual protection gather together, STS tendencies can intensify rapidly.
+When large amounts of power, secrecy, insulation, and mutual protection gather together, extractive tendencies can intensify rapidly.
 
 A system with weak correction makes escalation easier.
 A system built on access makes human beings feel available.
@@ -172,9 +172,9 @@ control seeking deeper confirmation through degradation.
 
 ## The Fractalist warning
 
-This is one reason Fractalism refuses to treat STS as harmless self interest or decorative metaphysics.
+This is one reason Fractalism refuses to treat extraction as harmless self interest or decorative metaphysics.
 
-At low levels, service-to-self may look like vanity, appetite, opportunism, or strategic self-protection.
+At low levels, extraction may look like vanity, appetite, opportunism, or strategic self-protection.
 At higher levels, if left unchecked, it can become a full architecture of reduction.
 
 Once the other exists only as function, extraction feels normal.
@@ -183,7 +183,7 @@ Once violation becomes available, sadism is no longer far away.
 
 ## Closing
 
-STS begins with the self at the center.
+Extraction begins with the self at the center.
 But it rarely ends there.
 
 If pursued far enough, it reorganizes the whole field of relation.
@@ -193,5 +193,5 @@ At that point, harm is no longer experienced first as a moral boundary.
 It becomes a usable technique.
 And when the proof of power starts to matter more than truth, reciprocity, or reality, cruelty can become not only permissible, but pleasurable.
 
-That is why the drift from STS to sadism is not mysterious within this framework.
+That is why the drift from extraction to sadism is not mysterious within this framework.
 It is one dark consistency of asymmetry carried far enough.
