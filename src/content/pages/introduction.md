@@ -9,9 +9,7 @@ What happens in an inner life can later appear in a relationship, a group, an in
 
 That is the basic wager of the project. Reality is not a pile of unrelated fragments. It has structure, and some of that structure can be read.
 
-Fractalism is an attempt to read that structure more carefully, especially where truth, distortion, attention, ethics, and power begin to overlap.
-
-## A note on method
+This page gives a first orientation. It explains the basic premise, the main distinctions, and the kind of reality the project is trying to read.
 
 Not every statement on this site is doing the same kind of work.
 

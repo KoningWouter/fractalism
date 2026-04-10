@@ -15,11 +15,11 @@ It is better read as a framework for orientation, something that offers distinct
 
 ## A simple reading guide
 
-One of the most important things to notice is that not every statement on this site is doing the same kind of work.
+Not every statement on this site is doing the same kind of work.
 
-Some language functions as symbol. Some language describes experience. Some parts are hypotheses. Some parts move closer to public claim.
+Some language functions as symbol. Some describes experience. Some parts are hypotheses. Some move closer to public claim.
 
-That difference matters. A symbol should not automatically be treated as literal mechanism. A hypothesis should not be mistaken for final proof. An experience should not be inflated into universal law.
+That difference matters. A symbol should not automatically be treated as literal mechanism. A hypothesis should not be mistaken for final proof.
 
 Part of reading Fractalism well is learning to notice what kind of statement is being made. For a more explicit guide to this, see [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim).
 
@@ -79,7 +79,7 @@ That is not a flaw. It is part of the honesty of the project. Some distinctions 
 
 A framework concerned with truth should be able to survive that process.
 
-## The best posture
+## Best posture
 
 The healthiest way to read Fractalism is neither blind belief nor reflexive dismissal.
 
@@ -87,11 +87,11 @@ Better is seriousness without rigidity, openness without gullibility, and discer
 
 You do not need to agree with every formulation to understand the central intuition. Reality has pattern, distortion has pattern too, and part of the work is learning how to tell the difference.
 
-## Suggested reading paths
+## After this page
 
-If you are new, a good next move is [Truth](/truth) and [Friction as Signal](/friction-as-signal).
+You now have enough orientation to begin with the core practice pages.
 
-If you want the lived and practical side, continue with [The Void](/the-void), [Sobriety](/sobriety), and [Living Fractalism](/living-fractalism).
+A good next step is [Truth](/truth) and [Friction as Signal](/friction-as-signal). If you want the lived and practical side, continue with [The Void](/the-void), [Sobriety](/sobriety), and [Living Fractalism](/living-fractalism).
 
 If you want the vocabulary layer, go to [Core Concepts](/concepts).
 If you want the framework's self-critique, go to [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong).
