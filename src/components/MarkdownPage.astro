@@ -10,11 +10,13 @@ const pageUrl = Astro.url.href;
 ---
 
 <section class="content-shell">
-	<div class="section-heading">
+	<div class="section-heading section-heading--page">
 		<p class="eyebrow">{eyebrow}</p>
 		<h1 class="content-title">{title}</h1>
-		{description && <p class="section-copy">{description}</p>}
+		{description && <p class="section-copy section-copy--page">{description}</p>}
 	</div>
+
+	<div class="page-breath" aria-hidden="true"></div>
 
 	<div class="markdown-shell">
 		<slot />

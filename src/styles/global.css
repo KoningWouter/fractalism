@@ -11,6 +11,8 @@
 	--text-muted: #9a9489;
 	--accent: #d8c19d;
 	--accent-soft: rgba(216, 193, 157, 0.14);
+	--gold-glow: rgba(216, 193, 157, 0.16);
+	--rose-glow: rgba(176, 125, 123, 0.12);
 	--shadow: 0 24px 80px rgba(0, 0, 0, 0.28);
 	--radius-sm: 0.75rem;
 	--radius-md: 1.125rem;
@@ -33,11 +35,24 @@ body {
 	margin: 0;
 	min-height: 100vh;
 	background:
-		radial-gradient(circle at top, rgba(216, 193, 157, 0.08), transparent 30%),
+		radial-gradient(circle at top, var(--gold-glow), transparent 30%),
+		radial-gradient(circle at 80% 20%, var(--rose-glow), transparent 26%),
 		linear-gradient(180deg, #0a0e14 0%, #0d1117 45%, #0c1015 100%);
 	color: var(--text);
 	font-family: Georgia, 'Times New Roman', Times, serif;
-	line-height: 1.6;
+	line-height: 1.7;
+	letter-spacing: 0.01em;
+}
+
+body::before {
+	content: '';
+	position: fixed;
+	inset: 0;
+	pointer-events: none;
+	background:
+		linear-gradient(180deg, rgba(255, 255, 255, 0.02), transparent 18%),
+		radial-gradient(circle at 50% 0%, rgba(255, 248, 234, 0.03), transparent 42%);
+	opacity: 0.9;
 }
 
 a {
@@ -86,11 +101,11 @@ body.lightbox-open {
 	justify-content: space-between;
 	gap: 1.5rem;
 	padding: 1rem 1.25rem;
-	background: rgba(10, 14, 20, 0.82);
+	background: linear-gradient(180deg, rgba(13, 17, 23, 0.88), rgba(13, 17, 23, 0.76));
 	border: 1px solid var(--border);
 	border-radius: var(--radius-lg);
-	backdrop-filter: blur(14px);
-	box-shadow: var(--shadow);
+	backdrop-filter: blur(16px);
+	box-shadow: 0 24px 80px rgba(0, 0, 0, 0.28), inset 0 1px 0 rgba(255, 248, 234, 0.05);
 }
 
 .site-brand {
@@ -234,14 +249,14 @@ body.lightbox-open {
 
 .hero {
 	display: grid;
-	gap: 2rem;
-	padding: 6rem 0 4rem;
+	gap: 2.4rem;
+	padding: 7rem 0 5rem;
 }
 
 .hero__inner {
 	display: grid;
-	gap: 1.75rem;
-	max-width: 52rem;
+	gap: 2rem;
+	max-width: 54rem;
 }
 
 .eyebrow {
@@ -282,10 +297,10 @@ p {
 }
 
 .hero__subtitle {
-	max-width: 38rem;
+	max-width: 40rem;
 	font-size: clamp(1.2rem, 2vw, 1.6rem);
 	color: var(--text);
-	line-height: 1.35;
+	line-height: 1.45;
 }
 
 .hero__intro,
@@ -347,13 +362,30 @@ p {
 
 .section-stack {
 	display: grid;
-	gap: 1.5rem;
-	padding: 2rem 0 4rem;
+	gap: 1.8rem;
+	padding: 2.5rem 0 5rem;
 }
 
 .section-heading {
 	display: grid;
 	gap: 0.9rem;
+}
+
+.section-heading--page {
+	gap: 1.2rem;
+	padding-top: 1rem;
+}
+
+.section-copy--page {
+	font-size: 1.12rem;
+	line-height: 1.75;
+}
+
+.page-breath {
+	width: min(7rem, 18vw);
+	height: 1px;
+	background: linear-gradient(90deg, transparent, rgba(216, 193, 157, 0.8), transparent);
+	opacity: 0.8;
 }
 
 .section-grid {
@@ -416,16 +448,17 @@ p {
 .prose-block {
 	display: grid;
 	gap: 1rem;
-	padding: 1.75rem;
-	background: rgba(20, 28, 39, 0.48);
+	padding: 1.9rem;
+	background: linear-gradient(180deg, rgba(26, 34, 46, 0.58), rgba(17, 23, 31, 0.42));
 	border: 1px solid var(--border);
 	border-radius: var(--radius-md);
+	box-shadow: inset 0 1px 0 rgba(255, 248, 234, 0.04);
 }
 
 .content-shell {
 	display: grid;
-	gap: 2rem;
-	padding: 5rem 0;
+	gap: 2.4rem;
+	padding: 6rem 0 6.5rem;
 }
 
 .content-title {
@@ -434,11 +467,11 @@ p {
 
 .markdown-shell {
 	max-width: var(--measure);
-	padding: 2rem;
-	background: rgba(20, 28, 39, 0.48);
-	border: 1px solid var(--border);
-	border-radius: var(--radius-md);
-	box-shadow: var(--shadow);
+	padding: 2.6rem 2.35rem;
+	background: linear-gradient(180deg, rgba(22, 29, 39, 0.7), rgba(14, 20, 28, 0.54));
+	border: 1px solid rgba(216, 193, 157, 0.12);
+	border-radius: calc(var(--radius-md) + 0.15rem);
+	box-shadow: var(--shadow), inset 0 1px 0 rgba(255, 248, 234, 0.04);
 }
 
 .markdown-shell > :first-child {
@@ -453,7 +486,7 @@ p {
 .markdown-shell h3,
 .markdown-shell h4 {
 	max-width: none;
-	margin: 2rem 0 0.85rem;
+	margin: 2.8rem 0 1rem;
 }
 
 .heading-anchor {
@@ -500,7 +533,7 @@ p {
 .markdown-shell p,
 .markdown-shell ul,
 .markdown-shell ol {
-	margin: 0 0 1rem;
+	margin: 0 0 1.2rem;
 }
 
 .markdown-shell li {
@@ -514,8 +547,9 @@ p {
 
 .markdown-shell img,
 .prose-block img {
-	margin: 1.5rem 0;
+	margin: 2rem 0;
 	border-radius: calc(var(--radius-md) - 0.25rem);
+	box-shadow: 0 18px 42px rgba(0, 0, 0, 0.22);
 }
 
 .markdown-shell strong {
@@ -733,7 +767,7 @@ p {
 
 @media (max-width: 640px) {
 	.hero {
-		padding-top: 4rem;
+		padding-top: 4.5rem;
 	}
 
 	.site-header__inner {
@@ -770,7 +804,12 @@ p {
 	}
 
 	.prose-block,
-	.theme-card {
-		padding: 1.25rem;
+	.theme-card,
+	.markdown-shell {
+		padding: 1.35rem;
+	}
+
+	.content-shell {
+		padding: 4.25rem 0 4.75rem;
 	}
 }
