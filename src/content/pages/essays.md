@@ -50,6 +50,9 @@ The full published list is below, including those starting points:
 - [Why Truth Projects Should Not Look Like Marketing](/why-truth-projects-should-not-look-like-marketing)  
   An essay on why projects built around truth should resist seduction, behavioral manipulation, and the design logic of modern marketing.
 
+- [The Elite and the Logic of Extraction](/the-elite-and-the-logic-of-extraction)  
+  Why people in positions of extreme power become destructive, and why Fractalism explains that pattern through extraction logic and moral numbness rather than cosmic evil.
+
 - [Why Extraction Drifts Toward Sadism](/why-extraction-drifts-toward-sadism)  
   An essay on why radical extraction tends to turn other people into objects, why asymmetry becomes intoxicating, and why domination can harden into sadism.
 
