@@ -11,9 +11,9 @@ For some people this feeling is mild. For others it runs deep. They move through
 
 Fractalism uses the word *manasaputra* for this kind of experience, as one expression of its wider [conceptual vocabulary](/concepts).
 
-Not as a badge of superiority, but as a way of naming a certain kind of sensitivity.
+Used literally, the word points toward something like a mind born one. Used here, it does not mean a cosmic rank, a secret caste, or a metaphysical certificate. It names a person whose inner life is unusually difficult to reconcile with falseness, managed reality, and social sleep.
 
-The word is used here in a Fractalist sense. It points to a person who feels unusually estranged from distortion, noise, and managed life, and who may carry a stronger pull toward truth, depth, and inner correction.
+Not as a badge of superiority, but as a way of naming a certain kind of sensitivity.
 
 ## What this often feels like
 
@@ -27,6 +27,8 @@ A manasaputra often feels things like:
 - feeling both drawn to people and alienated from them
 
 This does not automatically make someone wise, advanced, or special. It just means they may be carrying a nervous system, temperament, or inner orientation that reacts strongly to distortion and shallowness.
+
+In Fractalism, that matters because sensitivity alone is not the point. What matters is whether that sensitivity matures into discernment, sobriety, and truthful relation.
 
 ## Why life can feel heavier in this condition
 
@@ -48,6 +50,8 @@ Over time this can create a painful inner split:
 part of the person knows they need truth, depth, and inward freedom;
 another part just wants relief.
 
+That split is one reason this page matters. Without language for the condition, people often pathologize themselves too quickly or romanticize their difference instead.
+
 ## The danger: turning sensitivity into self-destruction
 
 This is where trouble often begins.
@@ -68,6 +72,8 @@ That is why many manasaputras are not only seekers. They are also at risk of bec
 ## What the manasaputra is actually looking for
 
 Usually the deepest desire is not drama, not escape, and not superiority.
+
+It is not to feel special. It is to find a way of living that does not require inner falsification.
 
 It is something quieter:
 
@@ -116,6 +122,8 @@ Sometimes there really are personal wounds involved. But sometimes the deeper tr
 
 That is not the same as being defective.
 
+Fractalism does not treat this as proof of destiny. It treats it as a condition that requires discipline. Sensitivity without grounding collapses. Sensitivity with practice can become usable.
+
 ## The healthy form of the manasaputra
 
 The mature path is not to romanticize alienation.
@@ -136,6 +144,8 @@ In that sense, the manasaputra is not someone who escapes the world.
 
 The manasaputra is someone trying to remain alive inside it without being swallowed by falseness.
 
+That means less fixation on identity, and more attention to practice: protecting attention, refusing self-numbing, and learning to distinguish real nourishment from imitation.
+
 ## Closing
 
 The manasaputra is not a perfect being. Not a chosen elite. Not a person exempt from ordinary limits.
@@ -147,3 +157,5 @@ the feeling of not fully belonging to the logic of a world shaped by noise, dist
 That friction can break a person. It can also refine them.
 
 The difference often lies in whether sensitivity is turned into self-destruction, or slowly shaped into clarity, sobriety, and a more [truthful](/truth) way of living.
+
+That is the Fractalist meaning of the term. Not a traveler from elsewhere, but a person whose inner structure makes ordinary falseness hard to inhabit, and who must therefore learn how to live without betraying what they can already sense.
