@@ -4,9 +4,9 @@ description: "A Fractalist reading of the three gunas as modes of consciousness,
 eyebrow: Three Modes
 ---
 
-The classical Indian distinction between **tamas**, **rajas**, and **sattva** offers one of the clearest old maps for understanding the changing quality of consciousness.
+The classical Indian distinction between **tamas**, **rajas**, and **sattva** offers one of the clearest older maps for understanding changes in the quality of consciousness.
 
-Fractalism does not need to adopt every part of the traditional metaphysical system in which these terms appear in order to recognize their practical value. As distinctions, they remain powerful. They help name recurrent modes of perception, behaviour, desire, and field quality that still shape people, relationships, systems, and culture.
+A reader does not need to adopt the whole traditional metaphysical system behind these terms in order to find them useful. Fractalism borrows them because they help name recurrent modes of perception, behavior, desire, and field quality that still shape people, relationships, systems, and culture.
 
 They are best understood not as fixed identities, but as **modes**: tendencies that can dominate a person, a room, a text, an institution, or a phase of life.
 

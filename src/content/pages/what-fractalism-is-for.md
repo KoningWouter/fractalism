@@ -3,9 +3,9 @@ title: What Fractalism Is For
 description: "Fractalism is not only a description of reality. It is a framework for discernment, diagnosis, and design."
 ---
 
-Fractalism is not only a way of describing reality. It is a way of using what becomes visible through its [core concepts](/concepts#discernment).
+Fractalism is not only a way of describing reality. It is also a way of using what becomes visible through its [core concepts](/concepts#discernment).
 
-If it remains only a metaphysical picture, it stays incomplete. A real framework should help people see more clearly, diagnose distortion more precisely, and build forms of life that do not collapse so easily into noise.
+If it remains only a metaphysical picture, it stays incomplete. A serious framework should help people see more clearly, diagnose distortion more precisely, and build forms of life that do not collapse so easily into noise.
 
 Fractalism is therefore not only for interpretation, but for discernment, diagnosis, and design.
 
@@ -34,7 +34,7 @@ Fractalism becomes useful when it helps distinguish:
 - symbolic depth from projection
 - [resonance](/concepts#resonance) from compulsion
 
-Note: the relationship between sobriety and gnosis is iterative. Sobriety makes gnosis possible, but gnosis also deepens sobriety. The two reinforce each other in an upward spiral. Sobriety is a facilitator of clarity, not merely a prerequisite.
+The relationship between sobriety and gnosis is iterative. Sobriety makes gnosis more available, but gnosis can also deepen sobriety. The two can reinforce each other. Sobriety is a facilitator of clarity, not merely a prerequisite.
 
 A framework that cannot help diagnose distortion will eventually become one more distortion itself.
 
@@ -94,7 +94,7 @@ It should help us ask how to build:
 - spaces that reduce noise instead of multiplying it
 - rhythms of life that strengthen agency instead of draining it
 
-This is where a framework proves whether it has practical force. Not only in what it explains, but in what it helps make possible. That is also where [Living Fractalism](/living-fractalism) begins.
+This is where a framework shows whether it has practical force. Not only in what it explains, but in what it helps make possible. That is also where [Living Fractalism](/living-fractalism) begins.
 
 ## Not a total answer, but a better instrument
 
@@ -110,4 +110,4 @@ Fractalism is not only for naming reality.
 
 It is for learning how to see, how to discern, how to relate, and how to build.
 
-A framework becomes real when it does more than describe the world. It becomes real when it helps generate a truer way of moving inside it.
+A framework becomes real when it does more than describe the world. It becomes real when it helps support a truer way of moving inside it.

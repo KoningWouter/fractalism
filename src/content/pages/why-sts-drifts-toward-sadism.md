@@ -4,7 +4,7 @@ description: An essay on why radical service-to-self tends to turn other people 
 eyebrow: Essays
 ---
 
-One of the darker questions inside Fractalism is why advanced service-to-self so often appears to slide toward cruelty.
+One of the darker questions inside Fractalism is why advanced service-to-self can so often slide toward cruelty.
 
 Not just selfishness.
 Not just greed.
@@ -17,7 +17,7 @@ Something in which the suffering, humiliation, or reduction of another person st
 In ordinary language, that is where the question of sadism enters.
 
 From a Fractalist point of view, this drift is not accidental.
-It is one of the logical end points of a consciousness that severs power from reciprocity, truth, and living relation.
+It is one of the risk trajectories of a consciousness that severs power from reciprocity, truth, and living relation.
 
 ## STS begins by changing the meaning of the other
 
@@ -46,8 +46,8 @@ But the path opens here.
 ## STS seeks asymmetry
 
 Service-to-self does not merely want to exist.
-It wants advantage.
-It wants one way flow.
+In its stronger forms, it wants advantage.
+It wants one-way flow.
 It wants disproportion.
 
 That is why STS so often seeks asymmetrical relations:
@@ -116,7 +116,7 @@ It confirms that one will is able to penetrate, override, or shatter another.
 
 ## Ontological downgrading
 
-For advanced STS, the other person cannot remain fully real for long.
+In advanced STS formations, the other person often cannot remain fully real for long.
 
 If they remain real, then empathy remains possible.
 If empathy remains possible, then conscience remains active.
@@ -136,7 +136,7 @@ A thing that exists to be used.
 This downgrading is not always spoken aloud. Often it is implicit.
 But without some version of it, sustained cruelty is hard to maintain.
 
-That is why sadistic systems almost always involve dehumanization, even when dressed in elegance, professionalism, spirituality, or civilization.
+That is why sadistic systems so often involve dehumanization, even when dressed in elegance, professionalism, spirituality, or civilization.
 
 ## Pain becomes proof of power
 
@@ -193,5 +193,5 @@ At that point, harm is no longer experienced first as a moral boundary.
 It becomes a usable technique.
 And when the proof of power starts to matter more than truth, reciprocity, or reality, cruelty can become not only permissible, but pleasurable.
 
-That is why the drift from STS to sadism is not mysterious.
-It is the dark consistency of asymmetry carried to its logical end.
+That is why the drift from STS to sadism is not mysterious within this framework.
+It is one dark consistency of asymmetry carried far enough.

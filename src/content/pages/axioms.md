@@ -5,6 +5,8 @@ description: "Fractalism is articulated through 26 axioms. Before them stands th
 
 Fractalism is articulated through **26 axioms**, but they are best approached as a deepening of the [introduction](/introduction) rather than as a substitute for it.
 
+They should not be read as unquestionable decrees. They are better understood as compact statements of the framework's deepest assumptions, written in a style that is sometimes philosophical, sometimes symbolic, and sometimes metaphysical.
+
 Before them stands **The Ground**: the undivided source from which articulation becomes possible at all. The Ground is not counted among the axioms. It is the pre-axiomatic condition from which the sequence emerges and to which it returns in completion.
 
 The structure is simple:
@@ -59,6 +61,14 @@ A person may spend years experiencing life as if they are a disconnected self mo
 
 **Why it matters**  
 The Ground prevents Fractalism from becoming only a theory of patterns. It names the undivided source from which pattern, form, relation, and consciousness arise.
+
+## How to read the axioms
+
+Some of these axioms are more bounded than others.
+
+Some should be read primarily as structural claims. Others are better read as working metaphysical propositions. Others are closer to orienting language than to empirical statements in a narrow scientific sense.
+
+That does not make them useless. It means they should be read with the same [epistemic hygiene](/epistemic-hygiene) Fractalism asks of everything else.
 
 ## The 26 Axioms
 
@@ -118,9 +128,9 @@ Fractal Scaling helps explain why inner work and social critique are not separat
 
 ![The “I Am” Constant](/i_am_constant.png)
 
-Consciousness is not a byproduct of matter. It is a fundamental property of the formula, realizing itself at every node.
+Consciousness is not treated here as a byproduct of matter. It is understood as a fundamental property of the formula, realizing itself at every node.
 
-If consciousness were wholly extrinsic to reality, its repeated emergence would remain deeply unexplained. What recurs across scales is unlikely to be mere accident. If consciousness is a persistent feature of existence, then it is more coherent to regard it as intrinsic to reality than as a byproduct of dead structure.
+If consciousness were wholly extrinsic to reality, its repeated emergence would remain deeply unexplained. What recurs across scales is unlikely to be mere accident. If consciousness is a persistent feature of existence, then Fractalism argues it is more coherent to regard it as intrinsic to reality than as a byproduct of dead structure.
 
 **Plain language**  
 Consciousness is not an accidental side effect. It belongs to reality more deeply than materialist models usually allow.

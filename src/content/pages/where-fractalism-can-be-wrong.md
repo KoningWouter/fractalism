@@ -96,7 +96,7 @@ Self-critique is not meant to dissolve the framework. It is meant to clean it.
 
 Fractalism does not become more serious by becoming cynical about itself. It becomes more serious by becoming more exacting with itself.
 
-A framework that wants to name distortion in the world has to be especially careful not to turn its own preferred language into shelter, theatre, or power.
+A framework that wants to name distortion in the world has to be especially careful not to turn its own preferred language into shelter, theater, or power.
 
 ## Closing
 
