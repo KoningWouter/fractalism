@@ -15,7 +15,7 @@ Fractalism began from a simple recognition. Much of modern life trains distracti
 
 This site exists as a response to that condition.
 
-Its purpose is not to overwhelm the reader with theory. Its purpose is to offer distinctions that make reality easier to read. If the project works, it works because it helps people notice pattern more clearly, recognize distortion earlier, and orient themselves with greater honesty.
+Its purpose is not to overwhelm the reader with theory. It is to offer distinctions that make reality easier to read. If the project works, it works because it helps people notice pattern more clearly, recognize distortion earlier, and orient themselves with greater honesty.
 
 ## What kind of project this is
 
@@ -27,7 +27,7 @@ The aim is not to explain everything. The aim is to make certain recurring patte
 
 ## What this is not
 
-Fractalism is not a brand, a self help product, a rigid dogma, or a final theory pretending to close reality into a system.
+Fractalism is not a brand, a self-help product, a rigid dogma, or a final theory pretending to close reality into a system.
 
 It should not be approached as an authority to submit to. It should be examined, tested, compared against experience, and sharpened where needed.
 

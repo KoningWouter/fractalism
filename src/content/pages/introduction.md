@@ -3,27 +3,31 @@ title: Introduction
 description: "A first orientation to Fractalism, its basic premise, its main distinctions, and the kind of reality it is trying to read."
 ---
 
-Fractalism is a way of reading reality through pattern, distortion, orientation, and scale.
+Fractalism begins with a simple idea: patterns repeat.
 
-Its starting point is simple. What is true often leaves a pattern, and distortion does too. The same basic structure can appear in a person, in a relationship, in an institution, or in a culture. The forms are different, but the underlying logic can still be recognisable.
+What happens in an inner life can later appear in a relationship, a group, an institution, or a culture. The forms are different, but the underlying logic can still be recognisable.
 
-That is the wager of Fractalism. Reality is not a pile of unrelated fragments. It has structure, and some of that structure can be read.
+That is the basic wager of the project. Reality is not a pile of unrelated fragments. It has structure, and some of that structure can be read.
+
+Fractalism is an attempt to read that structure more carefully, especially where truth, distortion, attention, ethics, and power begin to overlap.
 
 ## A note on method
 
-Fractalism does not treat every statement on the site in the same way. Some things are best read as symbol. Some are descriptions of experience. Some are hypotheses. Some move closer to public claim.
+Not every statement on this site is doing the same kind of work.
 
-Part of reading the framework well is noticing what kind of statement is being made.
+Some things are best read as symbol. Some are descriptions of experience. Some are hypotheses. Some move closer to public claim.
+
+Part of reading Fractalism well is noticing what kind of statement is being made.
 
 ## Truth and distortion
 
 One of the first distinctions in Fractalism is the difference between truth and distortion.
 
-Truth is not only factual accuracy. A statement can be correct and still conceal the real structure of a situation. In Fractalism, truth has to do with becoming less divided, less confused, and more aligned with what is structurally real.
+Truth is not only factual accuracy. A statement can be correct and still conceal the real structure of a situation. Here, truth has to do with becoming less divided, less confused, and more aligned with what is structurally real.
 
 Distortion is what bends perception, language, desire, or structure away from that reality. Sometimes distortion is local and ordinary. Sometimes it hardens into patterns that become social, cultural, or systemic.
 
-That is why Fractalism pays so much attention to distortion. People rarely lose reality all at once. They lose it gradually, through repeated habits of attention, speech, self protection, and compromise.
+That is why Fractalism pays close attention to distortion. People rarely lose reality all at once. They lose it gradually, through repeated habits of attention, speech, self-protection, and compromise.
 
 ## Resonance and field quality
 

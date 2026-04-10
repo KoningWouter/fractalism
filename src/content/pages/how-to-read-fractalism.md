@@ -5,11 +5,11 @@ description: How to approach Fractalism without turning it into dogma, vague sym
 
 Fractalism is not just one kind of thing.
 
-It is not only philosophy, not only spirituality, not only social criticism, and not only symbolism. It moves across these domains because it begins from a simple conviction: reality has structure, and some of that structure can be read.
+It moves between philosophy, spirituality, social criticism, symbolism, and practical self-observation because it begins from a simple conviction: reality has structure, and some of that structure can be read.
 
-That means Fractalism should not be approached like a closed doctrine where every sentence has to carry the same kind of weight.
+That means it should not be approached like a closed doctrine where every sentence carries the same kind of weight.
 
-It is better read as a framework for orientation, something that offers distinctions, tests, and ways of seeing, rather than a final system that has already explained everything.
+It is better read as a framework for orientation, something that offers distinctions, tests, and ways of seeing rather than a final system that has already explained everything.
 
 ## A simple reading guide
 
@@ -41,7 +41,7 @@ Other parts are more direct claims about ordinary conditions of life. For exampl
 
 ## Do not turn the framework into a belief cage
 
-Fractalism gets weaker the moment every symbol must be literalized and every intuition must be defended as certainty.
+Fractalism gets weaker the moment every symbol is literalized and every intuition is defended as certainty.
 
 Its strength lies in discernment, not inflation. That is why [epistemic hygiene](/epistemic-hygiene#what-epistemic-hygiene-means-here) matters so much here.
 

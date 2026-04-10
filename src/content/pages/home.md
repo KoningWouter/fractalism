@@ -5,7 +5,9 @@ description: "Fractalism helps you notice captured attention, read distortion mo
 
 ![The Architecture of Reality](/hero.png)
 
-Fractalism begins with a simple conviction: reality is not random, and truth is not arbitrary. Patterns echo across scales. What appears in the inner life also appears in language, culture, power, and the structures we live inside.
+Fractalism begins with a simple conviction: patterns repeat.
+
+What appears in an inner life can also appear in language, culture, power, and the structures people live inside. Reality is not random in the shallow sense, and truth is not arbitrary.
 
 This project is not mainly about building a theory. It is about becoming more able to notice when your attention is captured, when a pattern is distorting your choices, and when a more coherent path is trying to emerge.
 
@@ -58,6 +60,8 @@ Fractalism matters because it tries to make those patterns legible again. It giv
 ## If you want to go further
 
 After the introduction, the most important pages are [Truth](/truth), which explains truth as a discipline rather than a conclusion, [Friction as Signal](/friction-as-signal), which explores the difference between misalignment and necessary correction, [The Void](/the-void), which describes the threshold where choice becomes more available, [Living Fractalism](/living-fractalism), which shows how the framework becomes practical in daily life, and [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong), which looks honestly at where the framework can fail.
+
+If you want a deeper grounding, read [Gnosis](/gnosis), [The Matrix as a Machine for Capturing Attention](/the-matrix-as-a-machine-for-capturing-attention), and [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim).
 
 If you want the full structure, go to [The Structure of Fractalism](/the-structure-of-fractalism). If you want a more advanced essay on how depth itself can be used in the service of control, read [Inverse Gnosis](/inverse-gnosis).
 

@@ -3,15 +3,19 @@ title: Core Concepts
 description: Fractalism becomes usable through a small set of concepts that help distinguish truth from distortion, reciprocity from extraction, and clarity from confusion.
 ---
 
-Fractalism works through a small set of recurring concepts.
+Fractalism uses a small set of recurring concepts.
 
-These concepts are not there to make the framework sound impressive. They are there to make reality easier to read. Each one is meant to sharpen orientation in the psyche, in relationships, in systems, and in the moral texture of everyday life.
+They are not there to make the framework sound impressive. They are there to make reality easier to read.
+
+Each concept is meant to sharpen orientation in ordinary life, in relationships, in systems, and in the moral texture of experience.
 
 This is not a complete lexicon. It is a practical map.
 
 ## A note on reading levels
 
 Not every concept on this page has the same status. Some terms function mainly as symbol. Some name experience. Some work best as hypothesis. Others come closer to empirical claim and therefore need greater restraint and stronger public defensibility.
+
+That difference matters. A useful concept page should not force every term into the same kind of certainty.
 
 ## Truth
 
@@ -75,7 +79,7 @@ Field quality names what a person, room, group, text, or environment does to awa
 
 Some fields leave you clearer, steadier, more honest, and more alive. Others leave you more performative, more fragmented, more depleted, or subtly less real.
 
-Fractalism uses field quality as a practical clue. Not everything important is said explicitly. Sometimes the truth of a thing is felt in what it does to your attention, your trust, and your inner bearing.
+Fractalism uses field quality as a practical clue. Not everything important is said explicitly. Sometimes part of the truth of a thing is visible in what it does to your attention, your trust, and your inner bearing.
 
 ## Resonance
 
