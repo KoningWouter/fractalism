@@ -35,11 +35,20 @@ This is where the work begins. Not with a grand theory, but with a more careful 
 
 If you are new to Fractalism, do not try to read everything at once.
 
-Begin with one of these paths. If you want a first orientation, start with the [Introduction](/introduction). If you want to understand how to approach the project without flattening it into dogma or vague metaphor, go to [How to Read Fractalism](/how-to-read-fractalism). If you want the main vocabulary first, begin with [Core Concepts](/concepts).
+A good first path is:
+
+1. [Introduction](/introduction) for first orientation
+2. [How to Read Fractalism](/how-to-read-fractalism) for the right reading posture
+3. [Truth](/truth) and [Friction as Signal](/friction-as-signal) for the practical core
+4. [The Void](/the-void) and [Living Fractalism](/living-fractalism) for lived application
+
+If you want the vocabulary first, go to [Core Concepts](/concepts).
+If you want the larger architecture, go to [The Structure of Fractalism](/the-structure-of-fractalism).
+If you want longer writings, go to [Essays](/essays).
 
 ## Core Themes
 
-These are the four domains Fractalism works across.
+These are five recurring domains Fractalism works across.
 
 **Truth and distortion.** Truth is not only factual accuracy. It is alignment with what is structurally real. Distortion is what bends perception, language, desire, or systems away from that reality. Fractalism studies both, because confusion is often as revealing as clarity.
 
@@ -59,11 +68,13 @@ Fractalism matters because it tries to make those patterns legible again. It giv
 
 ## If you want to go further
 
-After the introduction, the most important pages are [Truth](/truth), which explains truth as a discipline rather than a conclusion, [Friction as Signal](/friction-as-signal), which explores the difference between misalignment and necessary correction, [The Void](/the-void), which describes the threshold where choice becomes more available, [Living Fractalism](/living-fractalism), which shows how the framework becomes practical in daily life, and [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong), which looks honestly at where the framework can fail.
+After the first path, the most important next pages are [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong), which looks honestly at where the framework can fail, [Gnosis](/gnosis), which deepens the question of discernment, and [Sobriety](/sobriety), which clarifies the conditions under which attention becomes more readable.
 
-If you want a deeper grounding, read [Gnosis](/gnosis), [The Matrix as a Machine for Capturing Attention](/the-matrix-as-a-machine-for-capturing-attention), and [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim).
+If you want a deeper social and cultural diagnosis, read [The Matrix as a Machine for Capturing Attention](/the-matrix-as-a-machine-for-capturing-attention) and [From Creation to Consumption](/from-creation-to-consumption).
 
-If you want the full structure, go to [The Structure of Fractalism](/the-structure-of-fractalism). If you want a more advanced essay on how depth itself can be used in the service of control, read [Inverse Gnosis](/inverse-gnosis).
+If you want the larger architecture, go to [The Structure of Fractalism](/the-structure-of-fractalism) and [Axioms](/axioms).
+
+If you want a guide to claim-types and interpretation, read [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim).
 
 ## Closing
 

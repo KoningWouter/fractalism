@@ -87,6 +87,16 @@ Better is seriousness without rigidity, openness without gullibility, and discer
 
 You do not need to agree with every formulation to understand the central intuition. Reality has pattern, distortion has pattern too, and part of the work is learning how to tell the difference.
 
+## Suggested reading paths
+
+If you are new, a good next move is [Truth](/truth) and [Friction as Signal](/friction-as-signal).
+
+If you want the lived and practical side, continue with [The Void](/the-void), [Sobriety](/sobriety), and [Living Fractalism](/living-fractalism).
+
+If you want the vocabulary layer, go to [Core Concepts](/concepts).
+If you want the framework's self-critique, go to [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong).
+If you want the larger architecture, go to [The Structure of Fractalism](/the-structure-of-fractalism).
+
 ## Closing
 
 Fractalism should be read as an instrument of orientation.

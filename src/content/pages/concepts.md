@@ -11,6 +11,8 @@ Each concept is meant to sharpen orientation in ordinary life, in relationships,
 
 This is not a complete lexicon. It is a practical map.
 
+If you are completely new to the project, it may help to read the [Introduction](/introduction) first and then return here. This page works best as a vocabulary layer after the basic orientation is already in place.
+
 ## A note on reading levels
 
 Not every concept on this page has the same status. Some terms function mainly as symbol. Some name experience. Some work best as hypothesis. Others come closer to empirical claim and therefore need greater restraint and stronger public defensibility.
@@ -115,7 +117,11 @@ Polarity matters because similar outer forms can serve very different inner logi
 
 ## Related reading
 
-If you want to go further, start with [Truth](/truth), [Friction as Signal](/friction-as-signal), [Living Fractalism](/living-fractalism), [The Void](/the-void), and [The Matrix as a Machine for Capturing Attention](/the-matrix-as-a-machine-for-capturing-attention).
+If you want to go further from here, start with [Truth](/truth), [Friction as Signal](/friction-as-signal), [The Void](/the-void), and [Living Fractalism](/living-fractalism).
+
+If you want the larger architecture behind the vocabulary, continue with [The Structure of Fractalism](/the-structure-of-fractalism).
+
+If you want a deeper social diagnosis, read [The Matrix as a Machine for Capturing Attention](/the-matrix-as-a-machine-for-capturing-attention).
 
 ## Closing
 

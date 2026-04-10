@@ -5,6 +5,8 @@ description: Long-form writings from the Fractalism framework. This section is c
 
 This section gathers Fractalism in extended form.
 
+If you are new to the site, it is usually better to begin with the [Introduction](/introduction), [How to Read Fractalism](/how-to-read-fractalism), and [Core Concepts](/concepts) before moving into the essays.
+
 The essay is where the framework has to endure duration. A concept can survive in outline. A deeper body of thought has to prove that it can hold pressure, consequence, and depth without collapsing into slogan or haze.
 
 ## What Will Appear Here
@@ -24,7 +26,14 @@ Some essays will be conceptual. Others diagnostic. Others synthetic. Category ma
 
 ## Published Essays
 
-The first published essays are available here:
+A few good starting points are:
+
+- [When Depth Becomes Control](/inverse-gnosis)
+- [From Creation to Consumption](/from-creation-to-consumption)
+- [The Role of Attention in the Collapse of Possibility](/the-role-of-attention-in-the-collapse-of-possibility)
+- [Why Truth Projects Should Not Look Like Marketing](/why-truth-projects-should-not-look-like-marketing)
+
+The full published list is below, including those starting points:
 
 - [The Way of Resonance](/the-way-of-resonance)  
   A foundational Fractalism essay on resonance, friction, flow, and the return to coherence.

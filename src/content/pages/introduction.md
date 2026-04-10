@@ -73,6 +73,19 @@ If reality has structure, then orientation is possible. If distortion has struct
 
 That is why Fractalism points beyond critique. It asks whether a person can become more coherent, more discerning, more sober, and more capable of relation that is not governed by extraction or simulation.
 
+## Where to go next
+
+If this page makes sense to you, a good next sequence is:
+
+1. [How to Read Fractalism](/how-to-read-fractalism)
+2. [Truth](/truth)
+3. [Friction as Signal](/friction-as-signal)
+4. [The Void](/the-void)
+5. [Living Fractalism](/living-fractalism)
+
+If you want the vocabulary map, go to [Core Concepts](/concepts).
+If you want the project's self-critique, go to [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong).
+
 ## Closing
 
 Fractalism is an attempt to read reality more carefully.
