@@ -36,7 +36,7 @@ This layer matters because a framework that cannot be lived will eventually beco
 
 The third layer asks what direction a person, relation, or system is actually moving in.
 
-This is where Fractalism places reciprocity and extraction, responsibility and evasion, and the broader distinction between reality serving relation and self serving relation.
+This is where Fractalism places reciprocity and extraction, responsibility and evasion, and the broader distinction between mutual relation and instrumental relation.
 
 At this level, the framework stops being neutral description. It asks what is being served. It asks whether relation is becoming more mutual or more instrumental, whether truth is being honored or used selectively, whether a person is making more room for reality or reducing everything to the needs of the isolated self.
 
