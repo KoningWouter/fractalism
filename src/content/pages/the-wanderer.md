@@ -9,11 +9,11 @@ The idea of the wanderer points to a simple human experience:
 
 For some people this feeling is mild. For others it runs deep. They move through the world with a strange mix of recognition and distance. They can function, but something in them keeps noticing that much of ordinary life feels thinner, louder, flatter, or more artificial than it seems to feel for others.
 
-Fractalism uses the word *wanderer* for this kind of person, as one expression of its wider [conceptual vocabulary](/concepts).
+Fractalism uses the word *wanderer* for this kind of experience, as one expression of its wider [conceptual vocabulary](/concepts).
 
 Not as a badge of superiority, but as a way of naming a certain kind of sensitivity.
 
-## What a wanderer often feels
+## What this often feels like
 
 A wanderer often feels things like:
 
@@ -26,9 +26,9 @@ A wanderer often feels things like:
 
 This does not automatically make someone wise, advanced, or special. It just means they may be carrying a nervous system, temperament, or inner orientation that reacts strongly to distortion and shallowness.
 
-## Why life can feel heavier for this type of person
+## Why life can feel heavier in this condition
 
-If you feel more than average, you are not only more open to beauty. You are also more exposed to noise, falseness, fragmentation, and emotional atmosphere.
+If you are unusually sensitive in this way, you are not only more open to beauty. You are also more exposed to noise, falseness, fragmentation, and emotional atmosphere.
 
 That can make ordinary life feel strangely exhausting.
 
@@ -50,7 +50,7 @@ another part just wants relief.
 
 This is where trouble often begins.
 
-A wanderer who does not know how to live with their sensitivity may start reaching for anything that lowers the pressure:
+A person who does not know how to live with this sensitivity may start reaching for anything that lowers the pressure:
 
 - intoxication
 - compulsive habits
@@ -89,7 +89,7 @@ But imitation is not the same as nourishment.
 
 ## Why the wanderer can feel shut out
 
-People with this kind of sensitivity often end up feeling not just socially out of place, but almost spiritually out of place.
+People with this kind of sensitivity often end up feeling not just socially out of place, but almost existentially out of place.
 
 They may be told, directly or indirectly:
 

@@ -7,11 +7,11 @@ One of the most delicate questions in any serious metaphysical framework is how 
 
 People often feel that inner events and outer events are linked. They relapse, and the next day something in the wider field seems to echo that same structure: a public lie, a geopolitical escalation, a media frenzy, a social rupture, a symbolic inversion. They hold their center, and the world around them suddenly appears more ordered, more transparent, or more responsive.
 
-The modern mind is trained to treat this as either delusion or coincidence.
+The modern mind is often trained to treat this as either delusion or coincidence.
 
 Fractalism suggests a third possibility.
 
-Not that the individual ego directly causes world events in some childish omnipotent sense, but that patterns recur across scale, and that changes in how one participates in a pattern can alter one's relation to the larger field in which that pattern also exists. That claim sits close to the Fractalist [axioms](/axioms#axiom-3--fractal-scaling), not far from them.
+Not that the individual ego directly causes world events in some childish omnipotent sense, but that patterns recur across scale, and that changes in how one participates in a pattern can alter one's relation to the larger field in which that pattern also exists. That claim sits close to the Fractalist [axioms](/axioms#axiom-3--fractal-scaling).
 
 This is what "as above, so below" means when stripped of mystification and returned to structural seriousness.
 
@@ -73,8 +73,8 @@ A tuning fork does not create music by command, but it can respond to frequencie
 
 What changes in the soul can therefore change what becomes perceptible, what becomes attractive, what becomes repulsive, and what forms of reality begin to constellate around a life.
 
-That is not absurd.
-It is only absurd if one insists that material linearity is the only permitted logic.
+That is not a claim of control.
+It is a claim that correspondence may be real even when linear causation is not the right model.
 
 ## Why relapse can feel followed by drama
 
@@ -108,7 +108,7 @@ The opposite is equally important.
 
 When a person does not give in to compulsion, they may feel that something larger is also being refused. This is not merely self-control in the narrow behavioral sense. It can feel like withdrawal from a field of predictability, appetite, and distortion.
 
-That feeling may be accurate.
+That feeling may contain something real.
 
 If an addictive loop is one local expression of a larger architecture of compulsion, then breaking it is not only personally beneficial. It is also a refusal of that architecture within the domain where one actually has agency.
 
@@ -122,16 +122,14 @@ Less inwardly allied with the same forces they condemn in public.
 
 That matters.
 
-## Why this strengthens Fractalism
+## Why this matters for Fractalism
 
-A framework proves itself not only by explaining public systems but also by illuminating private experience without degrading it.
+A framework is more useful when it can illuminate private experience without degrading it.
 
-Fractalism becomes more accurate, not less, when it can account for why breaking a pattern in oneself can coincide with a sharpened perception of that same pattern in politics, media, institutions, and symbolic life.
+Part of what Fractalism is trying to account for is why breaking a pattern in oneself can coincide with a sharpened perception of that same pattern in politics, media, institutions, and symbolic life.
 
 The framework does not need childish omnipotence to do this.
 It only needs structural continuity across scale.
-
-That continuity is already one of its core claims.
 
 If what appears in consciousness can also appear in language, power, and collective organization, then it follows that a transformation in one layer may expose homologous structures in another.
 
@@ -169,5 +167,5 @@ When a destructive loop breaks in a person, they may not be causing geopolitical
 
 And once they leave it, they may finally begin to see it clearly.
 
-That is not delusion.
-It is one of the strongest indications that Fractalism is tracking something real.
+That need not be delusion.
+It may be one sign that Fractalism is tracking something real.

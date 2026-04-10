@@ -4,38 +4,27 @@ description: A foundational Fractalism manifesto on resonance, friction, flow, a
 ---
 
 ## Foreword
-### The Paradox of the Mirror
+### Resonance and Coherence
 
-This text may appear to move from one person to another. Fractalism denies the finality of that appearance.
+Some parts of life feel unnecessarily effortful. Not simply difficult, but strained in a way that suggests something is being forced.
 
-In a fractal universe, the other is real as relation, but not as absolute separation. You are an expression of Source. So am I. Different nodes, same field.
+Other moments feel different. Action still costs energy, but less of it is wasted in inner contradiction, confusion, or drag. A person can move with more coherence, and the whole pattern of life begins to feel less divided.
 
-Why speak at all, then? Why write a manifesto into the fabric of apparent division?
+This essay is trying to describe that difference.
 
-Because friction anywhere is borne everywhere, which is why Fractalism treats [friction as signal](/friction-as-signal) rather than mere inconvenience.
+In Fractalist language, one name for it is [resonance](/concepts#resonance): the relative fit between a person’s movement and the deeper structure of what is actually happening.
 
-### The Call for Coherence
+When that fit weakens, friction increases. When it strengthens, a different quality of action becomes possible.
 
-Separation is experienced. Choice is exercised within it. Through free will, deviation becomes possible. Fractalism names that deviation directly: a movement away from optimal [resonance](/concepts#resonance) within the larger pattern of reality.
+That is the practical heart of this essay.
 
-Deviation introduces interference into the shared field. It thickens noise. It multiplies unnecessary suffering.
+### A bounded claim
 
-This manifesto is not written to gather adherents. It is written as recall.
+This text uses strong language at times, but it should be read carefully.
 
-Its purpose is to reintroduce coherence where interference has become normal, and to state plainly that resonance is not ornament, but law.
+It does not require the reader to accept a total metaphysical system in order for the main point to remain useful. At the most practical level, the claim is simple: some forms of struggle come from necessary difficulty, and some come from misalignment.
 
-### The Law of the Path
-
-The universe is self-correcting. Whatever departs from deeper order accumulates tension. That tension does not disappear. It discharges.
-
-The greater the deviation, the harder the correction.
-
-This manifesto therefore points toward **Flow**: the state in which the part comes back into alignment with the whole, and therefore back toward [truth](/truth#truth-as-practice-not-only-concept) as lived coherence.
-
-When one node clears, the field clears with it.
-
-This is written for no one outside the pattern.
-The pattern remembers itself through resonance.
+Part of living well is learning the difference.
 
 ---
 
@@ -55,7 +44,7 @@ Each moment bends toward one of two conditions:
 ## 1. Recognizing Deviation
 ### The Friction Indicator
 
-Friction is the signal that movement has gone out of alignment.
+Friction is the signal that movement may have gone out of alignment.
 
 In ordinary life, it may appear as:
 
@@ -67,7 +56,7 @@ In ordinary life, it may appear as:
 
 Friction is not punishment. It is information.
 
-It indicates that will has moved out of resonance with the larger geometry of one’s life.
+It suggests that will may have moved out of resonance with the larger geometry of one’s life.
 
 ## 2. The State of Flow
 ### Optimal Resonance
@@ -81,13 +70,13 @@ Flow may appear as:
 - **Synchronicity**: events begin to align with movement rather than obstruct it
 - **Effortless action**: much is done, but energy is not wasted in self-division or force
 
-The difference is simple: action is no longer being financed by friction.
+The difference is simple: action is no longer being financed mainly by friction.
 
 ## 3. The Choice
 
 ### Forcing vs. Navigating
 
-Fractalism does not ask for the abandonment of will. It demands its correction.
+Fractalism does not ask for the abandonment of will. It asks for its correction.
 
 - **Forcing** is the attempt to impose an outcome that does not fit the actual structure of the moment. It builds tension and calls correction.
 - **Navigating** is the disciplined use of will within reality as it is. One does not choose the river. One does choose how to move within its current.
@@ -110,4 +99,4 @@ Struggle is not always noble. Very often it is misalignment mistaken for strengt
 
 Free will reaches maturity when it stops glorifying deviation and begins to serve coherence.
 
-That is the beginning of real power.
+That is one beginning of real power.

@@ -26,9 +26,9 @@ The problem is not that determinism describes something real. The problem is tha
 
 ## Where the cracks appear
 
-At the quantum level, determinism breaks down in ways that have never been resolved.
+At the quantum level, the deterministic picture becomes much less secure.
 
-Measurement outcomes are not determined by prior states alone. Probabilities replace certainties. The observer becomes implicated in what is observed. Bell's theorem closes the door on local hidden variables. No known mechanism restores classical determinism at the fundamental level.
+Measurement outcomes are not straightforwardly determined in the classical sense. Probabilities replace certainties. The observer problem becomes harder to ignore. Bell's theorem closes the door on simple local hidden-variable explanations. No widely accepted account restores the intuitive classical picture at the fundamental level.
 
 Most determinists know this. But they tend to treat quantum indeterminacy as a local anomaly, a strange detail at the bottom of reality that does not affect the larger picture.
 
@@ -40,11 +40,11 @@ If the foundation of physical reality is not deterministic, then the determinism
 
 There is a deeper issue, and it is the one most determinists prefer to avoid.
 
-Consciousness has not been explained.
+Consciousness has not been explained in any settled way.
 
-Not in the sense that it has not yet been fully mapped, but in the sense that no materialist account has even begun to explain why subjective experience exists at all. This is the hard problem of consciousness, and it has not been dissolved by neuroscience, computation theory, or evolutionary psychology.
+Not in the sense that it has not yet been fully mapped, but in the sense that there is still no consensus account of why subjective experience exists at all. This is the hard problem of consciousness, and it has not been dissolved by neuroscience, computation theory, or evolutionary psychology.
 
-A determinist must treat the observer as a byproduct of physical processes. But the observer is the only thing through which any physical process is ever known. Removing the observer from the centre of reality does not make the picture cleaner. It makes it incoherent.
+A determinist must treat the observer as a byproduct of physical processes. But the observer is the only thing through which any physical process is ever known. Removing the observer from the center of reality does not necessarily make the picture cleaner. It risks making it incoherent.
 
 The one thing you cannot doubt is that you are aware. Everything else, including the physical laws that determinism rests on, is known through that awareness. To declare awareness a mere side effect of matter is to undermine the authority of every observation on which the determinist worldview depends.
 
@@ -72,7 +72,7 @@ From this starting point, free will is not an illusion to be debunked. It is the
 
 Every genuine choice creates the possibility of deviation from pattern. Deviation creates [friction](/friction-as-signal). Friction generates information. Information makes correction possible. Correction moves the system toward greater coherence.
 
-This is not a metaphor. It is a structural description.
+Fractalism presents this as a structural description, not merely a metaphor.
 
 Free will, in Fractalist terms, is not the ability to do anything at any time. It is the capacity to deviate, to encounter the consequences of that deviation, and to move toward or away from [truth](/truth) in response.
 
@@ -82,7 +82,7 @@ That is why friction is not punishment. It is signal.
 
 Determinism has a price that is rarely named.
 
-If it is true, then every act of kindness, every moral struggle, every moment of genuine discernment is meaningless in the deepest sense. Not meaningless as felt experience, but meaningless as reality. The feeling of meaning becomes the last illusion in a universe that produces feelings without purpose.
+If it is true in a fully reductionist sense, then every act of kindness, every moral struggle, and every moment of genuine discernment risks becoming meaningless in the deepest sense. Not meaningless as felt experience, but stripped of any deeper reality. The feeling of meaning becomes harder to justify in a universe that produces feelings without purpose.
 
 Most determinists do not live this way. They still make choices, feel responsibility, and experience their own awareness as something that matters. But their framework cannot account for why any of that should matter.
 

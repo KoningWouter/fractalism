@@ -11,9 +11,9 @@ Others are not satisfied with this alone.
 
 They want to know why something is true, what structure supports it, how it relates to larger patterns, and whether its apparent goodness can survive scrutiny. They do not only want moral orientation. They want intelligibility.
 
-This distinction matters for Fractalism, because the framework can easily appear more natural to one kind of person than the other, even though both are finally ordered toward [truth](/concepts#truth).
+This distinction matters for Fractalism, because the framework can easily appear more natural to one kind of person than another, even though both may be trying to orient themselves toward [truth](/concepts#truth).
 
-One might call these two orientations **the way of the heart** and **the way of the eye**.
+One way to name these two tendencies is **the way of the heart** and **the way of the eye**.
 
 Neither is sufficient by itself. But each reveals something real.
 
@@ -151,7 +151,7 @@ Some need to feel the good before they can name it.
 Others need to name the structure before they can fully trust what they feel.
 
 These are not necessarily different destinations.
-They may be different entrances.
+They may be different entrances into the same work.
 
 The way of the heart and the way of the eye do not cancel each other.
 
