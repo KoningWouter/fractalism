@@ -53,9 +53,6 @@ The full published list is below, including those starting points:
 - [The Elite and the Logic of Extraction](/the-elite-and-the-logic-of-extraction)  
   Why people in positions of extreme power become destructive, and why Fractalism explains that pattern through extraction logic and moral numbness rather than cosmic evil.
 
-- [Why Extraction Drifts Toward Sadism](/why-extraction-drifts-toward-sadism)  
-  An essay on why radical extraction tends to turn other people into objects, why asymmetry becomes intoxicating, and why domination can harden into sadism.
-
 - [Why Calm Feels Like an Attack to an Extractive Soul](/why-calm-feels-like-an-attack-to-an-extractive-soul)  
   An essay on why real calm can provoke hostility in an extractive structure, why some people experience peace as pressure, and how inner noise reacts to undisturbed presence.
 
