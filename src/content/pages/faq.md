@@ -35,9 +35,9 @@ Saying that something resonates is not the same as saying it is true.
 
 No.
 
-Fractalism is not looking for believers. It is looking for readers who are willing to think clearly, test ideas against reality, and notice when something helps them see more clearly or less clearly.
+Fractalism is not asking for total agreement or passive belief. It is asking for seriousness, honesty, and the willingness to notice what helps you see more clearly, what distorts your reading, and what remains uncertain.
 
-Some parts of the site may feel strong. Others may feel exploratory or incomplete. That is fine. A framework that demands total agreement has already lost contact with truth.
+Some parts of the site may feel strong. Others may feel exploratory, symbolic, or incomplete. That is fine. A framework that demands total agreement has already lost contact with truth.
 
 ## What do you mean by truth?
 
