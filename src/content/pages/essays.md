@@ -51,7 +51,10 @@ The full published list is below, including those starting points:
   An essay on why projects built around truth should resist seduction, behavioral manipulation, and the design logic of modern marketing.
 
 - [The Elite and the Logic of Extraction](/the-elite-and-the-logic-of-extraction)  
-  Why people in positions of extreme power become destructive, and why Fractalism explains that pattern through extraction logic and moral numbness rather than cosmic evil.
+  Why people in positions of extreme power become destructive, and how Fractalism reads that pattern through extraction, insulation, and the erosion of conscience.
+
+- [AI, Truth, and Distortion](/ai-truth-and-distortion)  
+  Why AI can sometimes function as a powerful instrument of clarification, and why no truth project can afford to treat it as neutral.
 
 - [Why Calm Feels Like an Attack to an Extractive Soul](/why-calm-feels-like-an-attack-to-an-extractive-soul)  
   An essay on why real calm can provoke hostility in an extractive structure, why some people experience peace as pressure, and how inner noise reacts to undisturbed presence.
