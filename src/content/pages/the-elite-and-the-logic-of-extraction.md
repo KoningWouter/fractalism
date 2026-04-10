@@ -132,7 +132,7 @@ The elite pattern is real.
 It is severe.
 It has spiritual implications.
 
-Fractalism approaches it through a structural diagnosis of power, extraction, insulation, and conscience.
+Fractalism approaches this through a structural diagnosis of power, extraction, insulation, and conscience.
 
 When extraction becomes normal, when power no longer meets friction, and when conscience is no longer reinforced by consequence, people become capable of almost anything.
 
