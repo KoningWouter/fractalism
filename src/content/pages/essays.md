@@ -50,10 +50,10 @@ The full published list is below, including those starting points:
 - [Why Truth Projects Should Not Look Like Marketing](/why-truth-projects-should-not-look-like-marketing)  
   An essay on why projects built around truth should resist seduction, behavioral manipulation, and the design logic of modern marketing.
 
-- [Why Extraction Drifts Toward Sadism](/why-sts-drifts-toward-sadism)  
+- [Why Extraction Drifts Toward Sadism](/why-extraction-drifts-toward-sadism)  
   An essay on why radical service-to-self tends to turn other people into objects, why asymmetry becomes intoxicating, and why domination can harden into sadism.
 
-- [Why Calm Feels Like an Attack to an Extractive Soul](/why-calm-feels-like-an-attack)  
+- [Why Calm Feels Like an Attack to an Extractive Soul](/why-calm-feels-like-an-attack-to-an-extractive-soul)  
   An essay on why real calm can provoke hostility in an extractive structure, why some people experience peace as pressure, and how inner noise reacts to undisturbed presence.
 
 - [As Above, So Below and the Breaking of Pattern](/as-above-so-below-and-the-breaking-of-pattern)  

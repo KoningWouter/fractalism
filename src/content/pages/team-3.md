@@ -35,7 +35,7 @@ Team 3 exists as a distinction because both open selfishness and goodness-as-cos
 
 ### Team 1: open extraction
 
-This is the more visible form of [service-to-self](/concepts#service-to-others-and-service-to-self).
+This is the more visible form of [extraction](/concepts#reciprocity-and-extraction).
 
 Power takes.
 Appetite takes.
