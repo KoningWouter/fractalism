@@ -15,6 +15,8 @@ Fractalism began from a simple recognition. Much of modern life trains distracti
 
 This site exists as a response to that condition.
 
+I make Fractalism because honesty and truth matter deeply to me, and I feel how much of both is missing in the world right now. I believe the world would be more beautiful if work like this had a real place in it, and if more people could feel the difference between what distorts and what clarifies. Fractalism is my attempt to offer something in that direction.
+
 Its purpose is not to overwhelm the reader with theory. It is to offer distinctions that make reality easier to read. If the project works, it works because it helps people notice pattern more clearly, recognize distortion earlier, and orient themselves with greater honesty.
 
 ## What kind of project this is
