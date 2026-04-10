@@ -15,11 +15,11 @@ It is not a theory that claims to explain everything. It is a framework for orie
 
 No.
 
-Fractalism does not ask for worship, devotion, or faith. There is no deity, no ritual structure, and no promise of salvation.
+Fractalism does not ask for worship, devotion, or submission. It is not organized around ritual obligation, institutional authority, or a promise of salvation.
 
-It does take metaphysical questions seriously. It talks about consciousness, truth, and moral orientation in ways that may overlap with spiritual traditions. But it treats these as things to examine, not doctrines to submit to.
+It does take metaphysical and spiritual questions seriously. Some people may approach parts of it in a way that overlaps with religious or contemplative traditions. But the framework itself is offered as a way of reading reality more carefully, not as a creed that demands belief.
 
-If anything, it asks you to believe less and pay closer attention.
+If anything, it asks you to become more honest about what you see, what you infer, and what remains unclear.
 
 ## Is this new age?
 
