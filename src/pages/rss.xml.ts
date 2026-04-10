@@ -11,7 +11,7 @@ const EXCLUDED = new Set([
 	'about',
 	'how-to-read-fractalism',
 	'team-3',
-	'the-wanderer',
+	'the-manasaputra',
 	'the-road-to-i-am-the-formula',
 ]);
 
