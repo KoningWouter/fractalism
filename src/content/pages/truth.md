@@ -4,11 +4,13 @@ description: A Fractalist understanding of truth as something approached through
 eyebrow: Truth
 ---
 
-Truth is one of the central concerns of Fractalism.
+Most people know the difference between something that merely sounds convincing and something that leaves them clearer.
 
-But Fractalism does not treat truth as a trophy, a slogan, or a possession that a person or system can finally hold without remainder.
+A sentence can be impressive and still distort reality. A person can be factually correct and still conceal what is most important in a situation. Something can feel intense, smart, or morally charged and still leave the mind more divided than before.
 
-Truth is better understood as something approached. It becomes more visible as distortion weakens, discernment sharpens, and the distance between perception, speech, conduct, and reality grows smaller.
+That is the territory Fractalism is trying to name when it talks about truth.
+
+Truth is not treated here as a trophy, a slogan, or a possession that a person or system can finally hold without remainder. It is better understood as something approached. It becomes more visible as distortion weakens, discernment sharpens, and the distance between perception, speech, conduct, and reality grows smaller.
 
 One simple way to say it is this: truth tends to leave you less divided after contact with it.
 
@@ -46,7 +48,7 @@ This matters because people often confuse the failure of a form with the disappe
 
 Anything genuinely oriented toward truth has to remain open to correction.
 
-Otherwise it hardens into self protection. It starts defending itself instead of learning. At that point the search for truth quietly becomes a search for safety, prestige, or control.
+Otherwise it hardens into self-protection. It starts defending itself instead of learning. At that point the search for truth quietly becomes a search for safety, prestige, or control.
 
 Fractalism has to resist that. Stronger formulations should replace weaker ones. Experience should be re read in light of later clarity. Symbolic language should not harden into untouchable claim. The status of an idea should remain visible, whether it is symbol, experience, hypothesis, or something closer to public claim.
 
@@ -54,7 +56,7 @@ Fractalism has to resist that. Stronger formulations should replace weaker ones.
 
 Truth in Fractalism is not only a concept. It is also a discipline.
 
-It asks a person to notice distortion, make better distinctions, read friction carefully, test interpretations against life, allow correction, return to sobriety and behaviour, and resist the urge to inflate intensity into certainty.
+It asks a person to notice distortion, make better distinctions, read friction carefully, test interpretations against life, allow correction, return to sobriety and behavior, and resist the urge to inflate intensity into certainty.
 
 That means truth is not only something to think about. It is something to become more answerable to.
 

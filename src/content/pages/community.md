@@ -5,7 +5,7 @@ description: On the kind of human field Fractalism would need if it is ever to b
 
 If Fractalism means anything beyond thought, it must eventually take social form.
 
-That does not mean building an audience, a brand, or a soft looking hierarchy around a set of ideas. It means asking a harder question. What kind of human field could actually hold truth, reciprocity, sobriety, correction, and real responsibility without collapsing into performance, dependency, manipulation, or status play?
+That does not mean building an audience, a brand, or a soft-looking hierarchy around a set of ideas. It means asking a harder question: what kind of human field could actually hold truth, reciprocity, sobriety, correction, and real responsibility without collapsing into performance, dependency, manipulation, or status play?
 
 That is the real community question.
 
@@ -19,7 +19,7 @@ Fractalism cannot remain only a philosophy if it takes itself seriously. If trut
 
 A serious community does not come into being because people repeat the same vocabulary.
 
-It is not a cult. It is not a personality structure. It is not a refuge for spiritual theatre. It is not a network built around subtle guilt, hidden extraction, or elevated language masking ordinary appetite.
+It is not a cult. It is not a personality structure. It is not a refuge for spiritual theater. It is not a network built around subtle guilt, hidden extraction, or elevated language masking ordinary appetite.
 
 But that is only the negative side. The real task is not just refusing corruption. It is discovering whether people can sustain a shared field that does not immediately collapse into manipulation, covert hierarchy, intoxicated drift, or performance.
 
@@ -61,7 +61,7 @@ The right question is not how to grow as fast as possible. The right question is
 
 The difficulty is not finding people who want belonging. Many people want belonging.
 
-The difficulty is finding people willing to become the kind of presence from which living community can actually be built. That means self examination, boundaries, patience, ethical seriousness, and the refusal to use community as a hiding place for hunger, dependency, or self importance.
+The difficulty is finding people willing to become the kind of presence from which living community can actually be built. That means self-examination, boundaries, patience, ethical seriousness, and the refusal to use community as a hiding place for hunger, dependency, or self-importance.
 
 That is why this question matters so much. Community is where philosophy stops being protected by abstraction.
 

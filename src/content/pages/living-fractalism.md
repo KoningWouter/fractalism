@@ -5,7 +5,7 @@ description: "How Fractalism becomes practical in daily life: attention, sobriet
 
 Fractalism is not only something to think about. It is also something to live.
 
-If it stays at the level of [concepts](/concepts#discernment), it risks becoming decorative. The deeper question is whether it helps a person live with more clarity, more [truthfulness](/truth#truth-as-practice-not-only-concept), more steadiness, and less dependence on [distortion](/concepts#distortion).
+If it stays only at the level of [concepts](/concepts#discernment), it risks becoming decorative. The deeper question is whether it helps a person live with more clarity, more [truthfulness](/truth#truth-as-practice-not-only-concept), more steadiness, and less dependence on [distortion](/concepts#distortion).
 
 Living Fractalism means trying to bring discernment into ordinary life.
 
@@ -31,7 +31,7 @@ Not everything that grabs your attention deserves it. Some things do not just di
 
 Fractalism does not treat sobriety as a purity performance.
 
-It matters because perception matters. If your awareness is constantly clouded, overcorrected, stimulated, or numbed, then your relationship to reality changes with it.
+It matters because perception matters. If your awareness is constantly clouded, overstimulated, numbed, or distorted, then your relationship to reality changes with it.
 
 This is not about moral perfection. It is about honesty.
 

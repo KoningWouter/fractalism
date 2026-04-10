@@ -4,11 +4,13 @@ description: How Fractalism distinguishes symbol, experience, hypothesis, and cl
 eyebrow: Reading Carefully
 ---
 
-Fractalism deals with [truth](/concepts#truth), [distortion](/concepts#distortion), [resonance](/concepts#resonance), [polarity](/concepts#polarity), and metaphysical orientation. That makes epistemic hygiene essential.
+When a framework deals with truth, distortion, resonance, symbolism, and metaphysical questions, it needs a way to keep different kinds of claims from blurring together.
+
+That is what epistemic hygiene means here.
 
 For a more explicit statement of the internal standards meant to protect the project from drift, see [The Seven Purity Principles of Fractalism](/the-seven-purity-principles-of-fractalism).
 
-Without it, a framework meant to sharpen discernment can quickly become a theatre of projection: intense language mistaken for truth, personal experience inflated into universal law, symbolic insight hardened into dogma, or charisma substituting for clarity.
+Without this kind of discipline, a framework meant to sharpen discernment can quickly become a theater of projection: intense language mistaken for truth, personal experience inflated into universal law, symbolic insight hardened into dogma, or charisma substituting for clarity.
 
 Fractalism therefore insists that seriousness of subject matter must be matched by seriousness of method.
 
@@ -30,7 +32,7 @@ It asks, at minimum:
 - How far should the claim extend?
 - What would count as correction, limitation, or disconfirmation?
 
-The goal is not sterile reductionism. It is fidelity.
+The goal is not sterile reductionism. It is fidelity to what is actually being claimed.
 
 A living framework must be able to speak about reality without constantly blurring the line between what is seen, what is inferred, what is symbolically intuited, and what is objectively established.
 
@@ -83,7 +85,7 @@ These claims require the greatest restraint. Not every metaphysical intuition sh
 
 ## Why this matters
 
-A metaphysical framework becomes dangerous when it loses the ability to distinguish:
+A framework becomes dangerous when it loses the ability to distinguish:
 
 - intensity from truth
 - resonance from proof
