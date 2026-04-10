@@ -57,8 +57,6 @@ These are not final labels for whole persons. They are not a purity test and the
 
 A simple everyday distinction helps here. If a person listens in order to understand, that leans one way. If a person listens mainly to regain control, defend position, or extract advantage, that leans another.
 
-![Extraction versus reciprocity](/stsvssto.png)
-
 ## The Void
 
 The [Void](/the-void) is the moment before an attention loop fully starts, when choice is still more available.
