@@ -5,6 +5,8 @@ description: How to approach Fractalism without turning it into dogma, vague sym
 
 Fractalism is not just one kind of thing.
 
+That can make it rewarding to read, but it can also make it easier to misread.
+
 It moves between philosophy, spirituality, social criticism, symbolism, and practical self-observation because it begins from a simple conviction: reality has structure, and some of that structure can be read.
 
 That means it should not be approached like a closed doctrine where every sentence carries the same kind of weight.

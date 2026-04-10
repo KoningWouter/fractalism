@@ -8,7 +8,7 @@ Most people know the difference between trying to think clearly and trying to th
 
 That difference matters.
 
-Sobriety matters in Fractalism because attention becomes harder to read when the instrument is heavily clouded.
+Sobriety matters in Fractalism because attention becomes harder to read when the instrument is clouded.
 
 This does not mean sobriety should be treated as moral superiority, spiritual prestige, or a purity identity. It means something simpler. The clearer the instrument, the easier it becomes to notice what is actually happening.
 
@@ -18,7 +18,7 @@ In that sense, sobriety is not mainly a badge. It is a condition of calibration.
 
 In Fractalist terms, sobriety does not only refer to abstinence from substances, though substances are part of the picture.
 
-It refers more broadly to the reduction of what clouds, fragments, sedates, inflates, or distorts attention. A person can be chemically sober and still live in distraction, compulsion, atmosphere management, and self-obscuring habits. They can also be trying to become more sober in the deeper sense while still struggling with particular loops.
+It refers more broadly to the reduction of what clouds, fragments, sedates, inflates, or distorts attention. A person can be chemically sober and still live in distraction, compulsion, atmosphere management, and self-obscuring habits. They can also be moving toward greater sobriety in the deeper sense while still struggling with particular loops.
 
 That is why sobriety here should be read as a direction as much as a condition.
 
@@ -28,7 +28,7 @@ Much of Fractalism depends on discernment. It asks a person to notice friction, 
 
 All of that becomes harder when attention is heavily clouded.
 
-Under those conditions, everything can start to feel significant, or nothing does. A person may become more suggestible, more reactive, more theatrical, or more dependent on intensity to feel that something is real.
+Under those conditions, everything can start to feel significant, or nothing does. A person may become more suggestible, more reactive, more theatrical, or more dependent on intensity in order to feel that something is real.
 
 Sobriety matters because it makes finer distinctions possible.
 
@@ -62,7 +62,7 @@ Modern life is not neutral here.
 
 Many systems are built to capture attention, stimulate appetite, reward compulsion, and keep people oscillating between sedation and agitation. A person does not have to be addicted to a substance to live in an environment structured against sobriety.
 
-That means sobriety is not only an individual struggle. It is also a struggle against a surrounding field that constantly trains distraction, dependency, and self fragmentation.
+That means sobriety is not only an individual struggle. It is also a struggle against a surrounding field that constantly trains distraction, dependency, and self-fragmentation.
 
 ## Sobriety in ordinary life
 

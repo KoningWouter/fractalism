@@ -88,12 +88,12 @@ That does not mean one must become mechanically pure before anything can be seen
 
 A useful distinction in Fractalism is that gnosis should not be judged only by how profound it sounds, but by what it changes.
 
-Does it make a person more reality-based.
-More coherent.
-More corrigible.
-More able to read [friction](/friction-as-signal) without collapsing into avoidance or compulsion.
-More able to resist attention capture.
-Less dependent on self-deception.
+Does it make a person more reality-based?
+More coherent?
+More corrigible?
+More able to read [friction](/friction-as-signal) without collapsing into avoidance or compulsion?
+More able to resist attention capture?
+Less dependent on self-deception?
 
 If not, then what is present may be intensity, but not yet gnosis.
 
