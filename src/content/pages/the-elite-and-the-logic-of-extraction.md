@@ -10,7 +10,7 @@ Not occasionally. Predictably.
 
 The pattern shows up across history, across cultures, across political systems. It is not a coincidence, and it is not a mystery.
 
-Fractalism does not explain this through cosmic villains or fallen gods. It explains it through a single dynamic that becomes visible wherever extraction logic operates without counterweight.
+Fractalism does not begin here with cosmic explanations. It begins with a dynamic that becomes visible wherever extraction logic operates without counterweight.
 
 ## Power without friction distorts perception
 
