@@ -1,6 +1,6 @@
 ---
 title: The Architecture of Reality
-description: "Fractalism helps you notice captured attention, read distortion more clearly, and recover a more coherent way of moving through life."
+description: "Fractalism helps you notice captured attention, read distortion more clearly, and recover a steadier, more coherent way of moving through life."
 ---
 
 ![The Architecture of Reality](/hero.png)
@@ -12,6 +12,7 @@ What appears in an inner life can also appear in language, culture, power, and t
 This project is not mainly about building a theory. It is about becoming more able to notice when your attention is captured, when a pattern is distorting your choices, and when a more coherent path is trying to emerge.
 
 It is also an attempt to stay close to something modern life easily loses: the felt difference between what leaves a person more divided and what leaves them more real.
+That difference is often quiet, but once felt, it becomes hard to forget.
 
 ## What does Fractalism do?
 
