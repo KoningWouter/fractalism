@@ -4,11 +4,13 @@ description: How Fractalism understands field quality as what a person, room, gr
 eyebrow: Field Quality
 ---
 
-Field quality names what something does to awareness.
+Most people know that some environments make them more themselves and others make them less so.
 
-A person can have a field. A room can have a field. A conversation can have a field. A text, a group, a platform, a workplace, or a system can have one too.
+A conversation can leave you clearer. A room can make you tense without obvious reason. A group can sound warm while quietly making everyone more performative. A website or platform can promise connection while leaving you more scattered than before.
 
-The question is not whether something merely says the right words. The question is what happens to you in contact with it.
+That is close to what Fractalism means by **field quality**.
+
+The question is not only whether something says the right words. The question is what happens to you in contact with it.
 
 Do you become clearer or more confused? More present or more performative? More steady or more agitated? More honest or more divided?
 

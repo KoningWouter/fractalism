@@ -4,13 +4,15 @@ description: How Fractalism understands attention loops as self-reinforcing patt
 eyebrow: Attention Loops
 ---
 
-Attention loops are one of the most practical ideas in Fractalism.
+Most people know what it feels like to do something almost before they have really chosen it.
 
-They describe what happens when attention gets captured, reinforced, and redirected in ways that begin to run automatically.
+You check your phone again. You open the same app. You revisit the same fantasy, irritation, or craving. Something small starts moving, and a few minutes later you realize the pattern was already running.
+
+That is close to what Fractalism means by an **attention loop**.
+
+An attention loop describes what happens when attention gets captured, reinforced, and redirected in ways that begin to run automatically.
 
 A person does not usually fall into a loop all at once. The loop starts small. A glance becomes a habit. A habit becomes a pull. A pull becomes a pattern. Before long, something is happening that feels natural even though it is no longer freely chosen.
-
-That is an attention loop.
 
 ## What an attention loop is
 

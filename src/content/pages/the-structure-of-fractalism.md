@@ -14,7 +14,7 @@ That is why Fractalism needs structure. Without it, the framework can feel diffu
 
 ## The epistemic layer
 
-The first layer asks a basic question: what is real, and how do we know when we are misreading it?
+The first layer asks a basic question: what is real, and how do we notice when we are misreading it?
 
 This is where Fractalism places truth, distortion, discernment, and epistemic hygiene. It is the layer concerned with clarity. Not certainty in the arrogant sense, but better contact with what is actually there.
 

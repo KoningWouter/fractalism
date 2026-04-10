@@ -3,9 +3,9 @@ title: Essays
 description: Long-form writings from the Fractalism framework. This section is currently in development.
 ---
 
-This section is reserved for Fractalism in extended form.
+This section gathers Fractalism in extended form.
 
-The essay is where the framework is forced to endure duration. A concept can survive in outline. A doctrine cannot. It must prove that it can hold pressure, consequence, and depth without collapsing into slogan or haze.
+The essay is where the framework has to endure duration. A concept can survive in outline. A deeper body of thought has to prove that it can hold pressure, consequence, and depth without collapsing into slogan or haze.
 
 ## What Will Appear Here
 
@@ -70,22 +70,22 @@ The first published essays are available here:
 
 ## Current Status
 
-This section remains in its first stage.
+This section is still developing, but it is no longer only a placeholder.
 
-Fractalism is being articulated first through the core pages, concepts, axioms, and primary distinctions. The long-form layer follows once the structure is clear enough to bear extension.
+Fractalism began by articulating its core pages, concepts, axioms, and primary distinctions. The essay layer has grown out of that structure and is now becoming a substantial part of the project.
 
-Sparseness is deliberate.
+The aim is still restraint. The point is not volume, but durable language.
 
-## Why Wait
+## Why Restraint Still Matters
 
 There is no interest here in producing essays merely to fill an archive.
 
 The purpose of long-form writing is not volume. It is clarification. An essay should be published only when it sharpens the framework, deepens intelligibility, or gives durable language to what has already taken shape.
 
-A thin archive with pressure behind it is better than a swollen archive built from premature publication.
+A smaller archive with pressure behind it is better than a swollen archive built from premature publication.
 
 ## Closing
 
-The essays are coming, but they will not be rushed into existence.
+This part of the site will continue to grow, but it will not be rushed.
 
-This part of the site will grow as Fractalism takes stronger public form.
+The point is not to publish constantly. The point is to publish essays that can carry real weight.

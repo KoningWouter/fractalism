@@ -7,7 +7,7 @@ description: Honest answers to the most common questions about Fractalism, what 
 
 Fractalism is a way of reading reality more carefully.
 
-It is based on a simple idea: patterns repeat. What appears in inner life can later appear in relationships, culture, institutions, and systems. Fractalism tries to make those patterns easier to see, especially where truth, distortion, attention, ethics, and power begin to overlap.
+It begins from a simple idea: patterns repeat. What appears in inner life can later appear in relationships, culture, institutions, and systems. Fractalism tries to make those patterns easier to see, especially where truth, distortion, attention, ethics, and power begin to overlap.
 
 It is not a theory that claims to explain everything. It is a framework for orientation.
 
