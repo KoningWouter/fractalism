@@ -11,6 +11,8 @@ What appears in an inner life can also appear in language, culture, power, and t
 
 This project is not mainly about building a theory. It is about becoming more able to notice when your attention is captured, when a pattern is distorting your choices, and when a more coherent path is trying to emerge.
 
+It is also an attempt to stay close to something modern life easily loses: the felt difference between what leaves a person more divided and what leaves them more real.
+
 ## What does Fractalism do?
 
 It gives you a way to notice pattern before you are fully trapped inside it.
@@ -30,6 +32,7 @@ The next time you notice friction, pause before you explain it away. Do not assu
 Is this the strain of forcing something that no longer fits, or is it the resistance that appears when an old pattern is losing its grip? If you are already inside a destructive loop, do not use friction as permission to continue it. Use it as a reason to slow down, step back, and look more honestly at what is driving you.
 
 This is where the work begins. Not with a grand theory, but with a more careful reading of your own attention.
+A quieter kind of honesty becomes possible there.
 
 ## Start Here
 
@@ -81,5 +84,6 @@ If you want a guide to claim-types and interpretation, read [Metaphor, Work Hypo
 Fractalism is not offered as a finished doctrine. It is an architecture under pressure, something that has to keep proving itself in lived experience.
 
 If it helps you see more clearly, notice distortion earlier, and choose with less inner division, then it is doing real work.
+If it also helps you recover some contact with what is still living, still true, and still worth serving, then it is doing more than analysis.
 
 That is where it begins.

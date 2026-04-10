@@ -10,6 +10,7 @@ What happens in an inner life can later appear in a relationship, a group, an in
 That is the basic wager of the project. Reality is not a pile of unrelated fragments. It has structure, and some of that structure can be read.
 
 This page gives a first orientation. It explains the basic premise, the main distinctions, and the kind of reality the project is trying to read.
+It also points toward a quieter intuition beneath the framework: that some ways of seeing leave a person more divided, and others leave them closer to what is real.
 
 Not every statement on this site is doing the same kind of work.
 
@@ -70,6 +71,7 @@ Fractalism does not exist only to diagnose confusion, inversion, or collapse.
 If reality has structure, then orientation is possible. If distortion has structure, then it can be recognized. If truth leaves patterns, then those patterns can be followed.
 
 That is why Fractalism points beyond critique. It asks whether a person can become more coherent, more discerning, more sober, and more capable of relation that is not governed by extraction or simulation.
+It asks whether clarity can become lived rather than merely understood.
 
 ## Where to go next
 
@@ -93,3 +95,4 @@ It asks whether truth can still be tracked across scales, whether distortion can
 It does not offer a final answer.
 
 It offers a way of paying closer attention.
+And sometimes that is where a different quality of life begins.
