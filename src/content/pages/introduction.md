@@ -1,79 +1,71 @@
 ---
 title: Introduction
-description: "A first orientation to Fractalism, its basic premise, its main distinctions, and the kind of reality it is trying to read."
+description: "A first orientation to Fractalism, its basic premise, its main distinctions, and the kind of attention it asks for."
 ---
 
 ![Introduction](/hero3.png)
 
-Fractalism begins with a simple idea: patterns repeat.
+Fractalism begins with a simple observation: patterns repeat.
 
-What happens in an inner life can later appear in a relationship, a group, an institution, or a culture. The forms are different, but the underlying logic can still be recognisable.
+What happens in a person can also appear in habits, relationships, language, institutions, and culture. The forms may change, but the underlying logic can still be recognized.
 
-That is the basic wager of the project. Reality is not a pile of unrelated fragments. It has structure, and some of that structure can be read.
+That is the basic wager of the project. Reality is not a pile of unrelated fragments. Some of its structure can be read.
 
-This page gives a first orientation. It explains the basic premise, the main distinctions, and the kind of reality the project is trying to read.
-It also points toward a quieter intuition beneath the framework: that some ways of seeing leave a person more divided, and others leave them closer to what is real.
-
-Not every statement on this site is doing the same kind of work.
-
-Some things are best read as symbol. Some are descriptions of experience. Some are hypotheses. Some move closer to public claim.
-
-Part of reading Fractalism well is noticing what kind of statement is being made.
+Fractalism is not offered as a complete theory or a finished doctrine. It is a way of paying closer attention to recurring patterns, and to what those patterns do to a life.
 
 ## Truth and distortion
 
-One of the first distinctions in Fractalism is the difference between truth and distortion.
+One of the first distinctions in Fractalism is between truth and distortion.
 
-Truth is not only factual accuracy. A statement can be correct and still conceal the real structure of a situation. Here, truth has to do with becoming less divided, less confused, and more aligned with what is structurally real.
+Truth here is not only about factual correctness. A statement can be technically correct and still hide what is actually going on. In Fractalism, truth also has to do with whether a way of seeing leaves a person less confused, less divided, and more able to face what is really there.
 
-Distortion is what bends perception, language, desire, or structure away from that reality. Sometimes distortion is local and ordinary. Sometimes it hardens into patterns that become social, cultural, or systemic.
+Distortion is what bends perception, language, desire, or judgment away from that clarity. People rarely lose reality all at once. They lose it gradually, through repeated habits of attention, speech, compromise, and self-protection.
 
-That is why Fractalism pays close attention to distortion. People rarely lose reality all at once. They lose it gradually, through repeated habits of attention, speech, self-protection, and compromise.
+## Field quality and resonance
 
-## Resonance and field quality
+Some things are not first understood through argument, but through their effect on attention.
 
-Not everything important is first known through argument.
+A person, room, text, or environment can leave you clearer or more confused, steadier or more scattered, more honest or more performative. Fractalism calls that **field quality**.
 
-Some things become visible through what they do to awareness. A person, room, text, or environment can leave you clearer or more confused, steadier or more performative, more honest or more divided. Fractalism calls this field quality.
+Resonance is one clue within that process. It is not the same as preference, and it is not proof. It may indicate that something fits more deeply than it first appears. But resonance is not enough by itself. It can guide discernment, but it cannot replace it.
 
-Resonance is one clue within that process. It is not the same as preference. It is a sign that something may fit more deeply than it first appears. But resonance is not enough by itself. It can guide discernment, but it cannot replace it.
-
-## Reciprocity and Extraction
+## Reciprocity and extraction
 
 Another central distinction in Fractalism is between reciprocity and extraction.
 
-In simple terms, some people mainly relate to others as persons. Others mainly relate to others as means.
+In simple terms, reciprocity relates to others as persons. Extraction relates to others mainly as means.
 
-Reciprocity is the movement in which the other is not reduced to function. It leans toward honesty, responsibility, and relation that is not there only to feed the isolated self.
+Reciprocity leans toward honesty, responsibility, and relation that is not there only to feed the isolated self.
 
-Extraction does not only mean obvious domination or cruelty. It can also appear through self protection, status management, selective honesty, strategic charm, and the habit of treating other people mainly as reinforcement, utility, obstacle, or advantage.
+Extraction does not only appear as obvious domination or cruelty. It can also show itself through manipulation, selective honesty, status-seeking, strategic charm, and the habit of treating other people mainly as reinforcement, utility, obstacle, or advantage.
 
 These are not final labels for whole persons. They are recurring orientations that become visible over time.
 
 ## The Void
 
-The Void is the moment before an attention loop fully starts, when choice is still more available.
+The Void is the small interval before an attention loop fully takes over.
 
-It is not just emptiness and it is not a dramatic name for despair. It is a threshold. In that moment, before reflex fully takes over, a person may notice the pattern beginning before it hardens into compulsion.
+Before the reaction. Before the scroll. Before the excuse. Before the familiar move.
 
-That matters because once the loop is already running, everything becomes harder. The Void is one of the places where interruption becomes possible.
+It is not emptiness, and it is not a dramatic name for despair. It is a threshold. In that moment, before reflex fully hardens into action, a person may notice the pattern beginning.
 
-## Fractal reality
+That matters because once the loop is already running, everything becomes harder. The Void names one of the places where interruption is still possible.
 
-Fractalism argues that patterns can repeat across scales.
+## Reading across scales
 
-A distortion in a person may later appear in a relationship, an institution, or a wider culture. A truthful orientation in one place may echo somewhere else in another form. This does not mean every level is the same. It means similar structures can recur across levels.
+Fractalism argues that patterns can repeat across levels of reality.
 
-This is what Fractalism means by reading reality fractally.
+A distortion in a person may later appear in a relationship, an institution, or a wider culture. A truthful orientation in one place may echo somewhere else in another form. This does not mean every level is identical. It means similar structures can recur.
 
-## Toward living orientation
+That is what Fractalism means by reading reality fractally.
 
-Fractalism does not exist only to diagnose confusion, inversion, or collapse.
+## How to read the framework
 
-If reality has structure, then orientation is possible. If distortion has structure, then it can be recognized. If truth leaves patterns, then those patterns can be followed.
+Not every statement on this site is doing the same kind of work.
 
-That is why Fractalism points beyond critique. It asks whether a person can become more coherent, more discerning, more sober, and more capable of relation that is not governed by extraction or simulation.
-It asks whether clarity can become lived rather than merely understood.
+Some are best read as symbol. Some are descriptions of experience. Some are hypotheses. Some move closer to public claim.
+
+Part of reading Fractalism well is noticing what kind of statement is being made.
 
 ## Where to go next
 
@@ -91,8 +83,6 @@ If you want the project's self-critique, go to [Where Fractalism Can Be Wrong](/
 ## Closing
 
 Fractalism is an attempt to read reality more carefully.
-
-It asks whether truth can still be tracked across scales, whether distortion can be named in recurring form, and whether human beings can recover the clarity needed to live with less confusion and less inversion.
 
 It does not offer a final answer.
 
