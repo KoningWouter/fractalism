@@ -30,7 +30,7 @@ People often trust language too quickly.
 
 A person can say generous things while generating a manipulative field. A group can speak about honesty while making everyone more performative. A platform can promise connection while quietly training addiction, comparison, and depletion.
 
-In those cases, the field tells the truth before the content does.
+In those cases, the atmosphere may expose something before the stated language fully does.
 
 That is why field quality matters. It helps reveal the difference between stated values and lived effect.
 
@@ -52,6 +52,10 @@ A good field can still contain discomfort, correction, and conflict. A bad field
 
 That is why field quality should be read with discernment rather than treated as automatic proof.
 
+Field quality is best treated as a fallible diagnostic sensitivity, not as a final authority.
+
+A field may feel difficult not because it is degrading, but because it confronts something in you that would rather stay protected. A field may feel good not because it is healthy, but because it flatters, soothes, or confirms you.
+
 ## How to read field quality well
 
 A good question is not only, "What do I feel here?"
@@ -59,6 +63,8 @@ A good question is not only, "What do I feel here?"
 A better question is, "What is happening to my awareness in this environment?"
 
 Do I become more honest, or more strategic? More calm, or more tightly managed? More available to thought, or more captured by performance? More able to tell the truth, or more subtly pressured to edit myself?
+
+In practice, field quality often shows up in small signals: whether people can admit uncertainty, whether disagreement freezes the room, whether self-correction becomes easier or more costly, whether people interrupt and posture more, and whether conversation moves toward contact or toward atmosphere management.
 
 That shift matters. It moves the question away from mood and toward effect.
 
@@ -78,6 +84,8 @@ To notice field quality is not only to judge what surrounds you. It is also to a
 
 Do people become more real around you, or less? Do they become more truthful, or more careful? Do they feel invited into clarity, or trained into performance?
 
+To notice field quality is not to stand above the field. The observer is never outside the atmosphere being read. People who speak most confidently about low quality fields may themselves be generating a field of judgment, pressure, or hidden superiority.
+
 That question belongs to Fractalism because the field is never only outside you.
 
 ## Closing
@@ -88,4 +96,4 @@ It asks what a person, room, group, text, or system does to awareness, not only 
 
 That question can reveal a great deal.
 
-Sometimes the field tells the truth first.
+Sometimes the atmosphere exposes a truth that the stated language is still concealing.
