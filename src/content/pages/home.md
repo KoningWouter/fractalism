@@ -16,13 +16,13 @@ That difference is often quiet, but once felt, it becomes hard to forget.
 
 ## What does Fractalism do?
 
-It gives you a way to notice pattern before you are fully trapped inside it.
+It helps you see where your life is becoming less free, less honest, and less real, and where a truer response is still available.
 
-Most people live inside loops that already feel normal. They react, repeat, justify, and continue long after a pattern has stopped serving them. Fractalism is a practice for recognizing those loops sooner. It is a way of reading whether your attention is free or being steered, whether your resistance is warning you or simply protecting something old, and whether your direction is becoming more coherent or more divided.
+Most people live inside loops that already feel normal. They react, repeat, justify, and continue long after a pattern has stopped serving them. Fractalism is a practice for recognizing those loops sooner, before they harden into identity, habit, or helplessness. It helps you notice when your attention is being captured, when a relationship or system is becoming extractive, and when you are cooperating with something that leaves you more divided.
 
-It also gives you a distinction that matters. Some people orient toward reciprocity, truth, and the expansion of what is real. Others orient toward extraction, control, and the reduction of what is other. These orientations repeat. They appear in individuals, in relationships, in communities, and in systems. Fractalism helps you see which orientation is operating, and whether it is yours.
+It also helps you distinguish between forms of friction. Some resistance is a warning that something is wrong. Some resistance appears because an old pattern is losing its grip. Fractalism does not just help you read patterns. It helps you read the difference between distortion and correction, between compulsive reaction and freer choice, between what drains life and what makes a person more coherent.
 
-That is what Fractalism does. Everything else in the project supports that practice.
+That is what Fractalism does. It is not only a way of describing reality. It is a way of recovering discernment inside it.
 
 ## A first step
 
