@@ -34,9 +34,11 @@ Fractalism becomes useful when it helps distinguish:
 - symbolic depth from projection
 - [resonance](/concepts#resonance) from compulsion
 
-The relationship between sobriety and gnosis is iterative. Sobriety makes gnosis more available, but gnosis can also deepen sobriety. The two can reinforce each other. Sobriety is a facilitator of clarity, not merely a prerequisite.
+The relationship between sobriety and gnosis is iterative. Sobriety makes gnosis more available, but gnosis can also deepen sobriety. The two can reinforce each other. Sobriety here does not mean only abstinence. It also means freedom from inner fog, compulsion, and self-deception.
 
 A framework that cannot help diagnose distortion will eventually become one more distortion itself.
+
+That sentence also applies to Fractalism. If it becomes a way of protecting self-image, recasting bias as insight, or explaining away contradiction instead of submitting to correction, then it has started to fail.
 
 That is why Fractalism has to remain usable in contact with real life, not only with abstract ideas. If it cannot survive contact with [truth](/truth#truth-as-practice-not-only-concept), it cannot orient anyone for long.
 
@@ -94,13 +96,39 @@ It should help us ask how to build:
 - spaces that reduce noise instead of multiplying it
 - rhythms of life that strengthen agency instead of draining it
 
+In practice, that means at least this much: reduce hidden asymmetry, keep feedback paths open, avoid dependence-based authority, and build structures that remain correctable when they begin to drift.
+
 This is where a framework shows whether it has practical force. Not only in what it explains, but in what it helps make possible. That is also where [Living Fractalism](/living-fractalism) begins.
+
+## A simple example
+
+Imagine a recurring conflict in a relationship. On the surface it may look like a series of isolated arguments. Fractalism asks different questions. What pattern is repeating? At what scale does it appear? Is the friction exposing distortion, or only recycling harm? Is one person seeking reciprocity while the other is moving toward extraction, confusion, or dependency?
+
+Those questions do not solve the conflict automatically. But they change the reading of it. What first looked like random tension may begin to show itself as a stable pattern: one person naming reality, the other protecting image. Or both people trapped in a loop where correction is being experienced as punishment.
+
+That shift in reading is one of the practical uses of Fractalism. It does not eliminate judgment. It sharpens it.
+
+## How Fractalism can go wrong
+
+Any framework for discernment can itself become distortion.
+
+Fractalism can be misused when it becomes:
+
+- a way of turning personal bias into insight
+- a language for suspicion without proportion
+- a method of explaining everything and questioning too little
+- a shield against correction
+- a way of sounding clear without being in contact with reality
+
+It should be questioned wherever it consistently produces confusion instead of clarity, suspicion instead of discernment, abstraction instead of contact, or self-confirming narratives that no longer submit to revision.
 
 ## Not a total answer, but a better instrument
 
 Fractalism is not a machine that mechanically solves life.
 
 It does not remove ambiguity, risk, grief, or the need for judgment. What it can do is improve orientation. It can sharpen the ability to see pattern, withstand confusion, and choose in a way that serves coherence rather than distortion.
+
+Better orientation is not always comforting. It can bring grief, fatigue, and the loss of simpler explanations. A framework for discernment is only honest if it also acknowledges that clearer sight sometimes hurts.
 
 That is already a great deal.
 
