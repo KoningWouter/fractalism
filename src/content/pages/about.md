@@ -13,27 +13,33 @@ It is not a finished doctrine. It is a developing body of work, written in publi
 
 Fractalism began from a simple recognition. Much of modern life trains distraction, weakens discernment, and makes distortion feel normal. People often sense that something is wrong, but they do not always have the language to describe what they are seeing or living through.
 
-This site exists as a response to that condition.
+I started this project because I kept running into the same problem: people often sense that something is wrong, but lack the distinctions to describe what they are seeing, repeating, or being shaped by.
 
-I make Fractalism because honesty and truth matter deeply to me, and I feel how much of both is missing in the world right now. I believe the world would be more beautiful if work like this had a real place in it, and if more people could feel the difference between what distorts and what clarifies. Fractalism is my attempt to offer something in that direction.
+Its purpose is not to overwhelm the reader with theory. It is to offer distinctions that make some parts of reality easier to read.
 
-Its purpose is not to overwhelm the reader with theory. It is to offer distinctions that make reality easier to read. If the project works, it works because it helps people notice pattern more clearly, recognize distortion earlier, and orient themselves with greater honesty.
+## One small example
+
+A person may notice that the same pattern shaping their private habits is also shaping their relationships and even the systems they keep entering.
+
+Or they may notice that what they were calling rest was often sedation, and what they were calling honesty was still shaped by fear.
+
+Fractalism tries to make those recurrences easier to see.
 
 ## What kind of project this is
 
-Fractalism is not a content stream. It is not built for endless churn.
+Fractalism is a long form philosophical project.
 
-It is a long form philosophical project. Some parts take the form of essays. Some take the form of axioms, concepts, and sharper distinctions. Together they form an evolving architecture.
+Some parts take the form of essays. Some take the form of axioms, concepts, and sharper distinctions. Together they form an evolving architecture.
 
-The aim is not to explain everything. The aim is to make certain recurring patterns more legible, especially where inner life, ethics, culture, and power begin to overlap.
+The aim is not to explain everything. The aim is to make recurring patterns more legible, especially where inner life, ethics, culture, and power begin to overlap.
 
 ## What this is not
 
-Fractalism is not a brand, a self-help product, a rigid dogma, or a final theory pretending to close reality into a system.
+Fractalism is not offered as a doctrine to submit to or a finished system to believe in.
 
-It should not be approached as an authority to submit to. It should be examined, tested, compared against experience, and sharpened where needed.
+It should be examined, tested, compared against experience, and sharpened where needed.
 
-If it has value, that value will not come from image or certainty. It will come from whether it makes reality more legible.
+If it has value, that value will not come from image or certainty. It will come from whether its distinctions hold up in life and survive correction.
 
 ## A living framework
 
@@ -55,9 +61,15 @@ This site does not ask for belief. It offers something to think with, test again
 
 ## On writing and AI
 
-AI can assist with wording. It cannot substitute for lived inquiry, sustained reflection, or philosophical responsibility.
+AI is sometimes used in drafting and revision. It can help with wording.
 
-The thinking behind Fractalism is my own. AI is used as a tool for expression and revision, not as the source of the ideas.
+It does not replace lived inquiry, sustained reflection, or responsibility for the thought itself.
+
+## Who is behind this
+
+Fractalism is written and maintained by Wouter.
+
+It is not backed by an institution, a funding model, or a media operation. It is being developed publicly over time.
 
 ## Contact
 
@@ -71,4 +83,4 @@ Fractalism exists because reality can become hard to read when distortion is rew
 
 If this project helps, it helps by making some of that structure visible again.
 
-The question is not whether Fractalism sounds unusual at first. The question is whether it helps you see more clearly.
+The project should be judged by whether its distinctions hold up in life, survive correction, and help make something real more legible.
