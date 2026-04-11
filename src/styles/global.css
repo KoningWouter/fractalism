@@ -535,6 +535,16 @@ p {
 	justify-content: center;
 	margin: 0;
 	padding: 0;
+	gap: 0;
+}
+
+.page-breath::before,
+.page-breath::after {
+	content: '';
+	flex: 1;
+	height: 1px;
+	background: linear-gradient(90deg, transparent, rgba(216, 193, 157, 0.32), transparent);
+	opacity: 0.8;
 }
 
 .page-breath__icon {
@@ -543,7 +553,7 @@ p {
 	width: 52px;
 	height: 24px;
 	object-fit: contain;
-	opacity: 0.7;
+	opacity: 0.68;
 }
 
 .section-grid {
