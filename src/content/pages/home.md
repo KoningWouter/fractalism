@@ -1,6 +1,6 @@
 ---
 title: The Architecture of Reality
-description: "Fractalism is a way of seeing reality more clearly, and of returning to a steadier, truer form of life."
+description: "Patterns repeat in thoughts, habits, relationships, and systems. Fractalism is a way of noticing them earlier."
 ---
 
 ![The Architecture of Reality](/hero.png)
@@ -21,7 +21,7 @@ Fractalism begins with a simple observation:
 Some patterns make a person clearer, steadier, and more honest.  
 Others pull attention outward, distort judgment, and quietly divide a life against itself.
 
-The work is learning to notice the difference earlier.
+The work is to notice the difference earlier.
 
 ## A first step
 
@@ -31,12 +31,13 @@ Sometimes it means an old pattern is losing its grip.
 
 If you want to feel what Fractalism offers before you read further, begin there.
 
-The next time you notice friction, pause before you explain it away. Ask what kind of friction this is.
+The next time you notice friction, pause before you explain it away.  
+Ask what kind of friction this is.
 
 Is this the strain of forcing something that no longer fits, or the resistance that appears when an old pattern is losing its grip?
 
 Fractalism is not mainly a theory.  
-It is a way of seeing these patterns more clearly, so they do not keep deciding your life for you.
+It is a way of seeing these patterns sooner, so they do not keep deciding your life for you.
 
 ## Start Here
 
@@ -52,6 +53,7 @@ If you want longer writings, go to [Essays](/essays).
 
 ## Closing
 
-Fractalism is not offered as a finished doctrine. It is something that has to keep proving itself in lived experience.
+Fractalism is not offered as a finished doctrine.  
+It has to keep proving itself in lived experience.
 
 If it helps you see more clearly, notice distortion earlier, and choose with less inner division, then it is doing real work.
