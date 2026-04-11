@@ -16,7 +16,9 @@ const pageUrl = Astro.url.href;
 		{description && <p class="section-copy section-copy--page">{description}</p>}
 	</div>
 
-	<div class="page-breath" aria-hidden="true"></div>
+	<div class="page-breath" aria-hidden="true">
+		<img class="page-breath__icon" src="/divider-phi.svg" alt="" />
+	</div>
 
 	<div class="markdown-shell">
 		<slot />

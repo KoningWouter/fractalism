@@ -528,9 +528,34 @@ p {
 .page-breath {
 	width: 100%;
 	max-width: var(--measure);
+	height: 20px;
+	background: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0;
+	padding: 0;
+}
+
+.page-breath::before,
+.page-breath::after {
+	content: '';
+	position: static;
+	flex: 1;
 	height: 1px;
-	background: linear-gradient(90deg, rgba(216, 193, 157, 0.82), rgba(216, 193, 157, 0.22));
+	background: linear-gradient(90deg, transparent, rgba(216, 193, 157, 0.5), transparent);
 	opacity: 0.8;
+}
+
+
+.page-breath__icon {
+	flex-shrink: 0;
+	margin: 0 0.75rem;
+	display: block;
+	width: 48px;
+	height: 16px;
+	object-fit: contain;
+	opacity: 0.75;
 }
 
 .section-grid {
