@@ -809,6 +809,11 @@ p {
 		padding: 1.35rem;
 	}
 
+	.markdown-shell,
+	.cite-block {
+		max-width: none;
+	}
+
 	.content-shell {
 		padding: 4.25rem 0 4.75rem;
 	}
