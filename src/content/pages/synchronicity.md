@@ -14,9 +14,11 @@ That is the territory of synchronicity.
 
 ![Synchronicity as Signal](/synchronicity.png)
 
-In Fractalist terms, synchronicity is a moment in which an event, image, phrase, or convergence appears with unusual salience and feels potentially meaningful without immediately granting certainty about cause.
+In Fractalist terms, synchronicity names a charged convergence between inner attention and outer event that feels unusually patterned or timely, while still leaving the meaning of that convergence open.
 
-A synchronicity may sharpen attention. It may expose a pattern that was already present but not yet clearly seen. It may interrupt numbness, confusion, or repetition. It may feel like something in experience is trying to come forward.
+This page is mainly concerned with the experience of synchronicity and with how to read it carefully. It is not claiming to have a settled theory of what causes such moments.
+
+A synchronicity may sharpen attention. It may expose a pattern that the person was already near, but had not yet consciously registered. It may interrupt numbness, confusion, or repetition. It may feel as if something in experience is pressing for attention.
 
 But none of that means every charged event is a revelation, or that significance automatically proves a cosmic message.
 
@@ -68,15 +70,17 @@ The moment itself may genuinely matter. It may affect attention. It may reveal a
 
 Fractalism therefore treats synchronicity as a clue, not a verdict.
 
-## Pattern overlap as a working hypothesis
+## Pattern overlap as a speculative image
 
-One possible way to think about synchronicity is not as a supernatural message and not as mere projection, but as the moment when patterned structures in reality overlap, echo, or intersect in a way that becomes experientially salient.
+One possible way of thinking about synchronicity is not as a supernatural message and not as mere projection, but as a moment where patterns that are usually experienced separately appear to cross in a way that feels newly salient.
 
-On that reading, synchronicity is not necessarily a violation of reality's order. It may be a brief point of contact between different layers of structure that are usually less visible to one another.
+This is not a settled theory. It is closer to a speculative image than to a demonstrated explanation.
 
-This does not have to be stated too strongly. It may be geometric only in an analogical sense, a way of naming patterned relation, proportion, timing, and recurrence. But the intuition is useful. A synchronicity may feel charged because something structural is crossing something else structural, and consciousness may be sensitive to the point of overlap.
+On that reading, synchronicity is not necessarily a violation of reality's order. It may be a brief point where different layers of experience, timing, and relation seem to touch in a way that stands out.
 
-That hypothesis matters because it avoids two weak extremes. It avoids reducing synchronicity to random noise, but it also avoids treating every charged coincidence as a deliberate message from the universe.
+This does not need to be stated too strongly. It may be geometric only in an analogical sense, a way of naming patterned relation, proportion, timing, and recurrence. The value of this image is interpretive rather than final. It helps name an intuition without pretending to resolve it.
+
+Fractalism does not claim that synchronicity can currently be verified as a distinct mechanism in objective terms. The value of the concept here is phenomenological and interpretive, not explanatory in any final sense.
 
 ## What synchronicity suggests about experience
 
@@ -103,6 +107,10 @@ That question keeps the event open. It does not flatten it into dismissal, but i
 If a synchronicity makes you clearer, steadier, more honest, or more able to see the pattern you are living inside, then it may be doing real work.
 
 If it makes you grandiose, obsessive, or less reality-based, then something in the reading has probably gone wrong.
+
+Even a helpful reading should not be mistaken for proof. A moment can clarify attention without settling the truth of the interpretation attached to it.
+
+Read carefully, synchronicity tends to increase honesty, proportion, and contact with reality. Apophenia tends to multiply meanings without limit, flatten doubt, and make every coincidence feel confirmatory.
 
 ## Closing
 
