@@ -20,13 +20,13 @@
 	--radius-lg: 1.5rem;
 	--space-1: 0.5rem;
 	--space-2: 1rem;
-	--space-3: 1.5rem;
-	--space-4: 2.5rem;
-	--space-5: 4rem;
-	--space-6: 6.5rem;
+	--space-3: 1.625rem;
+	--space-4: 2.625rem;
+	--space-5: 4.25rem;
+	--space-6: 6.875rem;
 	--container: 76rem;
-	--measure: 44rem;
-	--wide-measure: 54rem;
+	--measure: 47rem;
+	--wide-measure: 58rem;
 }
 
 :root[data-theme='light'] {
