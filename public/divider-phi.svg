@@ -1,4 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 20" width="60" height="20" aria-hidden="true" focusable="false">
-  <line x1="0" y1="10" x2="60" y2="10" stroke="rgba(216,193,157,0.7)" stroke-width="0.8"/>
-  <text x="30" y="13.5" font-family="Georgia, serif" font-size="11" fill="rgba(216,193,157,0.75)" text-anchor="middle" letter-spacing="0.05em">φ</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 28" width="60" height="28" aria-hidden="true" focusable="false">
+  <text x="30" y="21" font-family="Georgia, serif" font-size="20" fill="rgba(216,193,157,0.8)" text-anchor="middle" letter-spacing="0.02em">φ</text>
 </svg>
