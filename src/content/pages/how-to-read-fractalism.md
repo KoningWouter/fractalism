@@ -3,6 +3,8 @@ title: How to Read Fractalism
 description: How to approach Fractalism without turning it into dogma, vague symbolism, or a closed belief system.
 ---
 
+![How to read Fractalism](/hero4.png)
+
 Fractalism is not just one kind of thing.
 
 That can make it rewarding to read, but it can also make it easier to misread.
