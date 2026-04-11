@@ -58,6 +58,27 @@ The Void is not passive emptiness. It is not nihilism. It is not an invitation t
 
 Sometimes people use the Void as a dramatic word for despair or emptiness. That is not what is meant here. The Void, as Fractalism uses it, is more specific. It is the moment before the loop. It is active, not passive. It is where choice becomes more available, not where everything disappears.
 
+## Living Void and dead emptiness
+
+Not every experience of emptiness is the same.
+
+One reason the Void can be misunderstood is that people often confuse a healthy form of open space with forms of collapse, dissociation, or emotional deadness. These may look similar from the outside because all of them involve less stimulation. But inwardly they are very different.
+
+A **living Void** feels like open presence. It may bring more space, more simplicity, less inner compulsion, and less need to fill every moment. It does not remove life. It removes some of the pressure to keep feeding attention loops. In that sense, the living Void is often regulating. It makes a person more available to reality, not less.
+
+A **dead emptiness** is different. It feels more like disconnection than freedom, more like flattening than rest. It can show up as numbness, dissociation, depressive blankness, or loss of contact. Where the living Void makes a person more receptive, dead emptiness makes them less alive.
+
+This distinction matters because a healthy reduction of stimulation can be mistaken for something pathological, and a pathological flattening can be romanticized as depth.
+
+A simple way to test the difference is to ask:
+
+- Does this make me feel more spacious or smaller?
+- More receptive or more shut down?
+- Less compulsive or less alive?
+- More present or more absent?
+
+The Void, in the Fractalist sense, belongs with the first category. It is not a dead zone. It is a threshold of clearer availability before the loop takes over.
+
 ## The risk of misunderstanding
 
 The Void should not be romanticized. It is not a guarantee of clarity. It is not a state where everything becomes obvious. It is not a spiritual shortcut.
