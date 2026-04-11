@@ -90,6 +90,25 @@ In culture, sattva may appear as:
 
 Sattva is not passivity. It is ordered aliveness.
 
+## The shadow of Sattva
+
+Sattva is not immune to its own distortions.
+
+The very language of clarity, balance, and lucidity can become a subtle form of spiritual inflation. Sattva can become:
+
+- **Detachment without clarity** — the appearance of calm that is really suppression, dissociation, or inner avoidance
+- **Clarity used to moralize** — the use of "I see clearly" to dignify disagreement, dismiss others, or avoid one's own participation in the dynamic
+- **Refined self-satisfaction** — a subtle sense that one has reached a state that no longer needs correction
+- **Spiritual bypassing** — the use of sattvic language to transcend problems that actually require practical resolution
+
+And one dynamic that is easy to miss: **the pursuit of sattva can itself be deeply rajasic**.
+
+The desire to cultivate a sattvic practice, a sattvic environment, a sattvic community — that striving is itself a form of rajas. Spiritual ambition frequently disguises itself as spiritual clarity. A person who spends years trying to become sattvic may simply be caught in a very refined rajasic loop of self-improvement.
+
+That is why the question "what mode am I in?" has a necessary follow-up: **am I using this framework to inflate myself right now?**
+
+If the answer is yes, that too is information. Not a reason to abandon the distinction, but a reason to stay honest about one's actual position inside it.
+
 ## Why this matters for Fractalism
 
 The gunas matter because they help give more texture to several Fractalist concerns:
@@ -141,11 +160,11 @@ Tamas can make truth too heavy to face.
 Rajas can make truth subordinate to appetite, ambition, or self-importance.
 Sattva can create the conditions in which truth is more easily recognized and lived.
 
-That means the gunas are relevant to Fractalism’s moral concerns without replacing them.
+That means the gunas are relevant to Fractalism's moral concerns without replacing them.
 
 They do not tell us everything about [reciprocity and extraction](/concepts#reciprocity-and-extraction), but they do help explain the energetic and psychological terrain in which those orientations take form.
 
-## A simple practical use
+## A practical use
 
 One useful question is not only:
 
@@ -163,7 +182,11 @@ But also:
 
 **What guna does this environment strengthen?**
 
-Those questions can quickly clarify whether a person, room, habit, media stream, or institution is making reality more visible or less.
+A concrete behavioral cue: when in doubt about which mode is operating, notice what happens to attention. In tamas, attention collapses. In rajas, attention scatters. In sattva, attention settles without forcing.
+
+Another test: does the activity leave you more resourced or more depleted? Tamas depletes through avoidance. Rajas depletes through overstimulation. Sattva resourced through proportion.
+
+And the question that protects against inflation: am I using this distinction to feel more clear, or to avoid something I would rather not see?
 
 ## Closing
 
@@ -174,3 +197,5 @@ They can be read as living distinctions: a way of naming whether consciousness i
 For Fractalism, that makes them useful.
 
 They help us see not only what something claims to be, but what kind of field it generates, what kind of consciousness it reinforces, and whether it moves reality toward obscurity, compulsion, or lucidity.
+
+They are most useful when they turn back on the person using them.
