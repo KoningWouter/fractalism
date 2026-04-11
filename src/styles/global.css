@@ -31,10 +31,10 @@
 
 :root[data-theme='light'] {
 	color-scheme: light;
-	--bg: #f4e9c9;
-	--bg-soft: #efe2bc;
-	--panel: rgba(255, 249, 235, 0.78);
-	--panel-strong: rgba(255, 247, 227, 0.92);
+	--bg: #f7edcf;
+	--bg-soft: #f1e4bc;
+	--panel: rgba(255, 248, 229, 0.88);
+	--panel-strong: rgba(255, 250, 236, 0.96);
 	--border: rgba(121, 95, 48, 0.14);
 	--border-strong: rgba(121, 95, 48, 0.24);
 	--text: #2c2419;
@@ -42,9 +42,9 @@
 	--text-muted: #7b6d55;
 	--accent: #9b6f2f;
 	--accent-soft: rgba(155, 111, 47, 0.1);
-	--gold-glow: rgba(214, 181, 107, 0.18);
-	--rose-glow: rgba(191, 149, 121, 0.1);
-	--shadow: 0 18px 50px rgba(105, 82, 42, 0.12);
+	--gold-glow: rgba(214, 181, 107, 0.14);
+	--rose-glow: rgba(191, 149, 121, 0.08);
+	--shadow: 0 18px 50px rgba(105, 82, 42, 0.08);
 	--body-top-glow: rgba(255, 255, 255, 0.24);
 }
 
@@ -148,6 +148,11 @@ body.lightbox-open {
 	border-radius: 1.1rem;
 	backdrop-filter: blur(14px);
 	box-shadow: 0 18px 48px rgba(0, 0, 0, 0.22), inset 0 1px 0 rgba(255, 248, 234, 0.04);
+}
+
+:root[data-theme='light'] .site-header__inner {
+	background: linear-gradient(180deg, rgba(255, 248, 229, 0.92), rgba(247, 237, 207, 0.88));
+	box-shadow: 0 14px 34px rgba(105, 82, 42, 0.08), inset 0 1px 0 rgba(255, 255, 255, 0.35);
 }
 
 .site-brand {
@@ -300,6 +305,10 @@ body.lightbox-open {
 	color: var(--text-soft);
 	cursor: pointer;
 	transition: background-color 220ms ease, border-color 220ms ease, color 220ms ease;
+}
+
+:root[data-theme='light'] .theme-toggle {
+	background: rgba(155, 111, 47, 0.06);
 }
 
 .theme-toggle:hover,
@@ -568,6 +577,15 @@ p {
 	border: 1px solid rgba(216, 193, 157, 0.1);
 	border-radius: 1rem;
 	box-shadow: 0 18px 48px rgba(0, 0, 0, 0.18), inset 0 1px 0 rgba(255, 248, 234, 0.03);
+}
+
+:root[data-theme='light'] .markdown-shell,
+:root[data-theme='light'] .prose-block,
+:root[data-theme='light'] .theme-card,
+:root[data-theme='light'] .dispatch-card,
+:root[data-theme='light'] .cite-block {
+	background: linear-gradient(180deg, rgba(255, 251, 239, 0.9), rgba(248, 239, 212, 0.74));
+	box-shadow: 0 16px 34px rgba(105, 82, 42, 0.06), inset 0 1px 0 rgba(255, 255, 255, 0.4);
 }
 
 .markdown-shell > :first-child {
