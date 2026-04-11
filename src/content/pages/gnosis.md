@@ -10,13 +10,21 @@ Sometimes a person reads more, hears more, learns more vocabulary, and still rem
 
 That difference is close to what Fractalism means by **gnosis**.
 
-It does not mean secret information, private revelation, or possession of a final truth that others lack.
+Gnosis is not secret information, private revelation, or the feeling of being more initiated than other people.
 
-In Fractalist terms, gnosis is better understood as a growing capacity to distinguish distortion from reality, to notice what is more coherent and what is less so, and to live in a way that becomes gradually less confused, less divided, and more answerable to what is true.
+In Fractalist terms, gnosis means clearer seeing. It is the growing ability to notice distortion earlier, to see what you are invested in not seeing, and to distinguish what clarifies from what only fascinates.
 
 One simple way to say it is this:
 
-gnosis is not mainly about having more ideas. It is about seeing more clearly.
+gnosis is not mainly about having more ideas. It is about becoming less easily fooled.
+
+## A simple example
+
+Someone keeps saying yes to things they resent.
+
+They describe it as generosity, patience, or maturity. But over time they begin to notice that the pattern is driven less by love than by fear of rejection and the need to be needed. The outer behaviour may not change immediately. But the pattern becomes harder to lie about.
+
+That is closer to gnosis than merely having a theory about people pleasing.
 
 ## Gnosis is more than information
 
@@ -29,34 +37,6 @@ It changes how attention moves.
 It changes what a person can no longer honestly ignore.
 It changes the difference between an interpretation that only feels charged and one that actually makes life more legible.
 
-## Gnosis as increasing resolution
-
-A useful way to think about gnosis is as increasing resolution, or simply as better discernment.
-
-At low resolution, many things blur together. Noise, compulsion, projection, genuine insight, symbolic intensity, and emotional reaction can all be mistaken for one another.
-
-At higher resolution, better distinctions become possible.
-A person becomes more able to notice:
-
-- when attention is being captured
-- when a pattern is repeating
-- when friction is corrective rather than merely unpleasant
-- when language is clarifying reality and when it is only creating atmosphere
-- when a comforting story is replacing a more difficult truth
-
-This is one reason gnosis matters. It makes reality easier to read.
-
-## Gnosis is a process, not a trophy
-
-Fractalism is strongest when gnosis is understood as a process of correction rather than as a badge of arrival.
-
-A person can become more discerning. A framework can become sharper. A life can become more coherent. But gnosis does not mean a human being has risen above error once and for all.
-
-That matters because the search for gnosis can corrupt itself if it turns into identity, superiority, or the need to appear initiated.
-
-The point is not to become someone who possesses hidden truth.
-The point is to become less distortable.
-
 ## Gnosis and distortion
 
 Gnosis is easiest to understand when placed next to distortion.
@@ -68,9 +48,35 @@ Sometimes it is psychological.
 Sometimes it is social, habitual, ideological, or biochemical.
 Sometimes it appears as glamour, self-protection, addiction, or the inability to tolerate correction.
 
-Gnosis is not the total elimination of distortion, but the growing capacity to recognize it earlier and submit to it less.
+Gnosis is not the total elimination of distortion. It is the growing ability to recognize distortion earlier and submit to it less.
 
 That is why gnosis often feels less like acquiring something exotic and more like removing fog.
+
+## Gnosis is a process, not a trophy
+
+Fractalism is strongest when gnosis is understood as a process of correction rather than as a badge of arrival.
+
+A person can become more discerning. A framework can become sharper. A life can become more coherent. But gnosis does not mean a human being has risen above error once and for all.
+
+That matters because the search for gnosis can corrupt itself if it turns into identity, superiority, or the need to appear initiated.
+
+It can also become a subtler kind of self-deception. A person can use insight-language to feel elevated, use discernment to dismiss others too quickly, or mistake spiritual ambition for actual clarity.
+
+The point is not to become someone who possesses hidden truth.
+The point is to become less distortable.
+
+## Gnosis versus synthetic depth
+
+One of the most important distinctions on this site is the difference between gnosis and forms of depth that only imitate it.
+
+Something can feel charged, initiatory, symbolic, or psychologically intense without actually making reality more legible.
+
+That is why Fractalism is careful about the problem of [inverse gnosis](/inverse-gnosis). Not everything that feels deep is liberating. Some forms of depth increase dependence, confusion, fixation, or distortion while preserving the atmosphere of insight.
+
+Real gnosis tends to clarify.
+Synthetic depth tends to fascinate.
+
+Sometimes what feels like gnosis at first later turns out to be intensity, exhaustion, or a comforting interpretation in more serious language.
 
 ## Why sobriety matters
 
@@ -82,18 +88,17 @@ Sleep, stimulation, compulsive habits, substances, nervous system overload, and 
 
 When the instrument is clouded, symbolic intensity can be mistaken for truth. Compulsion can be mistaken for calling. Noise can be mistaken for revelation.
 
-That does not mean one must become mechanically pure before anything can be seen. It means that gnosis deepens as the conditions for cleaner perception are protected.
+That does not mean one must become perfect before anything can be seen. It means gnosis deepens as the conditions for cleaner perception are protected.
 
 ## Gnosis is tested in life
 
-A useful distinction in Fractalism is that gnosis should not be judged only by how profound it sounds, but by what it changes.
+Gnosis should not be judged only by how profound it sounds, but by what it changes.
 
-Does it make a person more reality-based?
-More coherent?
-More corrigible?
-More able to read [friction](/friction-as-signal) without collapsing into avoidance or compulsion?
-More able to resist attention capture?
-Less dependent on self-deception?
+Does it hold up after sleep and distance?
+Does it survive correction?
+Does it reduce the need to dramatize yourself?
+Does it make a person more corrigible, less self-deceiving, and less dependent on atmosphere?
+Does it change conduct over time, not just mood in the moment?
 
 If not, then what is present may be intensity, but not yet gnosis.
 
@@ -112,26 +117,13 @@ At a spiritual level, some may experience it as a deepening relation to what is 
 These levels do not need to be forcibly collapsed into one another.
 What matters is whether the language remains honest about what is experience, what is interpretation, and what is still hypothesis.
 
-## Gnosis versus synthetic depth
-
-One of the important distinctions on this site is the difference between gnosis and forms of depth that only imitate it.
-
-Something can feel charged, initiatory, symbolic, or psychologically intense without actually making reality more legible.
-
-That is why Fractalism is careful about the problem of [inverse gnosis](/inverse-gnosis). Not everything that feels deep is liberating. Some forms of depth increase dependence, confusion, fixation, or distortion while preserving the atmosphere of insight.
-
-Real gnosis tends to clarify.
-Synthetic depth tends to fascinate.
-
 ## Closing
 
 Gnosis, in Fractalist terms, is not private prestige and not the possession of a final secret.
 
-It is the gradual sharpening of discernment.
+It is clearer seeing.
 It is the reduction of distortion.
-It is the deepening ability to notice what is more coherent, more reality-based, and more answerable to truth.
+It is the growing ability to notice what you were previously invested in not seeing.
 
-Gnosis does not remove the need for correction.
+It does not remove the need for correction.
 It increases the capacity for it.
-
-And that is why it matters.
