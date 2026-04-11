@@ -222,6 +222,12 @@ body.lightbox-open {
 	margin: 0;
 	padding: 0;
 	list-style: none;
+	align-items: center;
+}
+
+.site-nav__list > li {
+	display: flex;
+	align-items: center;
 }
 
 .site-nav__link,
