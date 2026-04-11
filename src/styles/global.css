@@ -814,20 +814,20 @@ p {
 
 	.section-heading,
 	.section-heading--page,
-	.content-title,
-	.section-copy--page,
 	.page-breath,
 	.markdown-shell,
 	.cite-block {
-		width: 100%;
+		width: auto;
 		max-width: 100%;
 		min-width: 0;
-		margin-left: auto;
-		margin-right: auto;
+		margin-left: 0;
+		margin-right: 0;
 	}
 
 	.content-title,
 	.section-copy--page {
+		max-width: 100%;
+		min-width: 0;
 		overflow-wrap: anywhere;
 		word-break: break-word;
 	}
