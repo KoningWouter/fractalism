@@ -15,7 +15,9 @@ Fractalism uses the word *manasaputra* for this kind of experience, as one expre
 
 Used literally, the word points toward something like a mind born one. Used here, it does not mean a cosmic rank, a secret caste, or a metaphysical certificate. It names a person whose inner life is unusually difficult to reconcile with falseness, managed reality, and social sleep.
 
-Not as a badge of superiority, but as a way of naming a certain kind of sensitivity.
+The term is not meant as praise, rank, or proof of spiritual importance. It names a kind of friction, not a superior identity.
+
+Sometimes this condition overlaps with things that can be described more plainly: trauma, exhaustion, nervous system sensitivity, depression, or the long aftereffects of not being met well. Fractalism does not use the word manasaputra to bypass those realities, but to describe a pattern that may also be present within them.
 
 ## What this often feels like
 
@@ -27,6 +29,8 @@ A manasaputra often feels things like:
 - longing for meaning, truth, or real depth
 - having trouble relaxing into ordinary forms of life
 - feeling both drawn to people and alienated from them
+
+By falseness, Fractalism means forms of life that depend on performance without substance, stimulation without nourishment, or adaptation without inward truth.
 
 This does not automatically make someone wise, advanced, or special. It just means they may be carrying a nervous system, temperament, or inner orientation that reacts strongly to distortion and shallowness.
 
@@ -118,6 +122,8 @@ A manasaputra may start thinking:
 - maybe I am broken
 - maybe I just do not fit anywhere
 
+Repeated invalidation often becomes self-attack. What begins as "you are too much" can harden into an inner voice that says "there is something wrong with me."
+
 Sometimes there really are personal wounds involved. But sometimes the deeper truth is simpler:
 
 **you do not fit easily into environments built on distortion.**
@@ -142,6 +148,8 @@ The healthier path is quieter:
 - stay truthful without becoming brittle
 - let sensitivity become discernment instead of collapse
 
+These are not moral ideals. They matter because sensitivity without structure tends to collapse into overload, and overload then seeks relief in whatever is fastest.
+
 In that sense, the manasaputra is not someone who escapes the world.
 
 The manasaputra is someone trying to remain alive inside it without being swallowed by falseness.
@@ -160,4 +168,4 @@ That friction can break a person. It can also refine them.
 
 The difference often lies in whether sensitivity is turned into self-destruction, or slowly shaped into clarity, sobriety, and a more [truthful](/truth) way of living.
 
-That is the Fractalist meaning of the term. Not a traveler from elsewhere, but a person whose inner structure makes ordinary falseness hard to inhabit, and who must therefore learn how to live without betraying what they can already sense.
+The word matters less than what is done with the condition. If it becomes a badge, the point has already been lost.
