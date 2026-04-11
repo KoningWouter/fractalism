@@ -812,13 +812,23 @@ p {
 		min-width: 0;
 	}
 
+	.section-heading,
 	.section-heading--page,
+	.content-title,
+	.section-copy--page,
 	.page-breath,
 	.markdown-shell,
 	.cite-block {
 		width: 100%;
-		max-width: none;
+		max-width: 100%;
+		min-width: 0;
 		margin-left: auto;
 		margin-right: auto;
+	}
+
+	.content-title,
+	.section-copy--page {
+		overflow-wrap: anywhere;
+		word-break: break-word;
 	}
 }
