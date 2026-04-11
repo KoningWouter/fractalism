@@ -384,9 +384,10 @@ p {
 }
 
 .page-breath {
-	width: min(7rem, 18vw);
+	width: 100%;
+	max-width: var(--measure);
 	height: 1px;
-	background: linear-gradient(90deg, transparent, rgba(216, 193, 157, 0.8), transparent);
+	background: linear-gradient(90deg, rgba(216, 193, 157, 0.8), rgba(216, 193, 157, 0.32));
 	opacity: 0.8;
 }
 
