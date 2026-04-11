@@ -70,6 +70,51 @@ Some should be read primarily as structural claims. Others are better read as wo
 
 That does not make them useless. It means they should be read with the same [epistemic hygiene](/epistemic-hygiene) Fractalism asks of everything else.
 
+## A note on epistemic status
+
+The axioms below vary in how they should be read. A rough map:
+
+| # | Axiom | Type | Notes |
+|---|-------|------|-------|
+| 1 | The Universal Equation | Metaphysical | A grounding assumption, not a tested formula |
+| 2 | The Eternal Now | Metaphysical | Orientation in time, not a physical claim |
+| 3 | Fractal Scaling | Empirical | Most testable: pattern recurs across scales |
+| 4 | The "I Am" Constant | Metaphysical | Philosophical position on consciousness |
+| 5 | The Fractal Big Bounce | Metaphysical | Cosmological metaphor, not a physics claim |
+| 6 | The Law of Recurrence | Empirical | Observable in psychology and systems theory |
+| 7 | The Veil of Amnesia | Metaphysical | Symbolic, not verifiable |
+| 8 | The Law of Fractal Deviation | Orientering | Useful framing; protects against falsification |
+| 9 | The Law of Elastic Correction | Orientering | Approximates karma; vague timing and mechanism |
+| 10 | The Arc of Return | Metaphysical | Poetic; describes a movement, not a fact |
+| 11 | The Principle of Self-Correction | Orientering | Grounded in systems theory; useful not proven |
+| 12 | Non-Linear Emergence | Empirical | Recognized in complexity theory and psychology |
+| 13 | The Holographic Whole | Orientering | Metaphor with partial grounding in physics |
+| 14 | Fractal History | Orientering | Pattern recognition; hard to falsify cleanly |
+| 15 | Harmonic Restoration | Orientering | Recovery tendency; meaningful but not mechanical |
+| 16 | Universal Echo | Metaphysical | Symbolic recurrence; unverifiable |
+| 17 | Synchronicity as Signal | Orientering | Plausible; no falsification condition |
+| 18 | Relational Consciousness | Empirical | Well-grounded in developmental psychology |
+| 19 | The Primacy of Resolution | Orientering | Value claim; about priority, not mechanism |
+| 20 | The Feedback Loop | Empirical | Strongest empirical grounding of all axioms |
+| 21 | The Eye of Resolution | Orientering | Cultivated capacity; not mystical |
+| 22 | The Axiom of Symbiosis | Empirical | Supported by ecology and game theory |
+| 23 | The Axiom of Social Noise | Orientering | Sociological observation; hard to operationalize |
+| 24 | The Law of Obstruction | Metaphysical | Structurally unfalsifiable |
+| 25 | The Pure Observer | Metaphysical | Phenomenological report; not provable |
+| 26 | The Omega Loop | Metaphysical | Poetic theology; return narrative |
+
+This table is not a verdict. It is a map showing where the confidence should be calibrated differently.
+
+## A note on the risks of this kind of framework
+
+Grand narratives meet real psychological needs. They can offer coherence, direction, and a sense of meaning. They can also become refuge from uncertainty, ordinariness, and the uncomfortable work of remaining undefended in the face of not-knowing.
+
+A framework that presents 26 compact statements about reality carries an inherent risk: the reader who is searching may find in it a totalizing system that feels like certainty. That person may use Fractalism not to see more clearly but to avoid the anxiety of remaining open to correction.
+
+This is not an accusation. It is a structural observation. Any framework ambitious enough to speak about consciousness, pattern, and return will attract seekers who need it to be true in the way that resolves their discomfort rather than sharpens it.
+
+The most honest thing a framework like this can do is name that tendency clearly: toward the end of these axioms, you are not reading facts. You are reading working orientations that should be tested against your own experience and held lightly enough to be revised.
+
 ## The 26 Axioms
 
 [Top](#contents)
