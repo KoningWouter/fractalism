@@ -99,6 +99,13 @@ const currentPath = Astro.url.pathname;
 						)}
 					</li>
 				))}
+				<li>
+					<button class="theme-toggle" type="button" aria-pressed="false" aria-label="Switch color mode">
+						<span class="theme-toggle__label theme-toggle__label--dark">Dark</span>
+						<span class="theme-toggle__knob" aria-hidden="true"></span>
+						<span class="theme-toggle__label theme-toggle__label--light">Light</span>
+					</button>
+				</li>
 			</ul>
 		</nav>
 	</div>
@@ -107,6 +114,32 @@ const currentPath = Astro.url.pathname;
 <script>
 	const navToggle = document.querySelector('.site-nav__toggle');
 	const siteNav = document.querySelector('.site-nav');
+	const themeToggle = document.querySelector('.theme-toggle');
+	const themeCookieName = 'fractalisme-theme';
+
+	const setThemeCookie = (theme) => {
+		document.cookie = `${themeCookieName}=${theme}; path=/; max-age=31536000; SameSite=Lax`;
+	};
+
+	const applyThemeState = (theme) => {
+		document.documentElement.dataset.theme = theme;
+		if (themeToggle) {
+			themeToggle.setAttribute('aria-pressed', theme === 'light' ? 'true' : 'false');
+		}
+	};
+
+	if (themeToggle) {
+		themeToggle.addEventListener('click', () => {
+			const currentTheme = document.documentElement.dataset.theme === 'light' ? 'light' : 'dark';
+			const nextTheme = currentTheme === 'light' ? 'dark' : 'light';
+			document.documentElement.classList.add('theme-transition');
+			applyThemeState(nextTheme);
+			setThemeCookie(nextTheme);
+			window.setTimeout(() => {
+				document.documentElement.classList.remove('theme-transition');
+			}, 420);
+		});
+	}
 
 	if (navToggle && siteNav) {
 		const groups = Array.from(siteNav.querySelectorAll('.site-nav__group'));

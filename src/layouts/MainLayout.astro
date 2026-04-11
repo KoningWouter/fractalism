@@ -65,6 +65,13 @@ const jsonLd = JSON.stringify({
 		<meta name="twitter:title" content={title} />
 		<meta name="twitter:description" content={description} />
 		<title>{title}</title>
+		<script is:inline>
+			(() => {
+				const match = document.cookie.match(/(?:^|; )fractalisme-theme=([^;]+)/);
+				const theme = match?.[1] === 'light' ? 'light' : 'dark';
+				document.documentElement.dataset.theme = theme;
+			})();
+		</script>
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-BS5JXEBCQD"></script>
 		<script>
