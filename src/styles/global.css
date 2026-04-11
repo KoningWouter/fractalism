@@ -465,7 +465,7 @@ p {
 }
 
 .content-title {
-	max-width: 16ch;
+	max-width: var(--measure);
 }
 
 .markdown-shell {
