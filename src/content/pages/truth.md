@@ -4,6 +4,8 @@ description: A Fractalist understanding of truth as something approached through
 eyebrow: Truth
 ---
 
+![Truth](/hero5.png)
+
 Most people know the difference between something that merely sounds convincing and something that leaves them clearer.
 
 A sentence can be impressive and still distort reality. A person can be factually correct and still conceal what is most important in a situation. Something can feel intense, smart, or morally charged and still leave the mind more divided than before.
