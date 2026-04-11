@@ -56,6 +56,9 @@ The full published list is below, including those starting points:
 - [AI, Truth, and Distortion](/ai-truth-and-distortion)  
   Why AI can sometimes function as a powerful instrument of clarification, and why no truth project can afford to treat it as neutral.
 
+- [Attention and Free Will](/attention-and-free-will)  
+  Why free will in the strongest sense is probably an illusion, and why the freedom that still matters begins with attention.
+
 - [Why Calm Feels Like an Attack to an Extractive Soul](/why-calm-feels-like-an-attack-to-an-extractive-soul)  
   An essay on why real calm can provoke hostility in an extractive structure, why some people experience peace as pressure, and how inner noise reacts to undisturbed presence.
 
