@@ -3,6 +3,8 @@ title: The Manasaputra
 description: "On feeling out of place in this world, sensing distortion more sharply, and learning to live without turning that sensitivity into self-destruction."
 ---
 
+![The Manasaputra](/hero6.png)
+
 The idea of the manasaputra points to a simple human experience:
 
 **feeling like you are here, but not fully at home here.**
