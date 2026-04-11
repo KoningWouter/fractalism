@@ -1,6 +1,6 @@
 ---
 title: The Architecture of Reality
-description: "Fractalism helps you notice captured attention, read distortion more clearly, and recover a steadier, more coherent way of moving through life."
+description: "Fractalism is a way of seeing reality more clearly, and of returning to a steadier, truer form of life."
 ---
 
 ![The Architecture of Reality](/hero.png)
