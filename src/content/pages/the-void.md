@@ -4,6 +4,8 @@ description: "The Void as a core Fractalist concept: the moment where choice is 
 eyebrow: The Void
 ---
 
+![The Void](/hero2.png)
+
 Most people know there can be a brief moment before a habit fully takes over.
 
 A pause before you reach for your phone. A split second before a reactive answer leaves your mouth. A tiny opening in which you can still feel that more than one response is possible.
