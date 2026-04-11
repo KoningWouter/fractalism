@@ -58,6 +58,8 @@ These are five recurring domains Fractalism works across.
 
 **Service and inversion.** Some people orient toward reciprocity and truth. Others orient toward extraction and control. These are not total labels, but recurring patterns visible in what a person serves, what they protect, how they treat others, and whether their relations tend toward mutuality or extraction.
 
+![Community](/community.png)
+
 **The Void.** The Void is not emptiness. It is the moment before an attention loop fully starts, when choice is still more available. In that moment, a person can notice the pattern beginning before it hardens into reflex. The Void is one of the places where interruption becomes possible.
 
 **Field and resonance.** Some environments sharpen awareness. Others dull it. Some conversations leave you clearer. Others leave you more divided, more suggestible, or more performative. Fractalism uses resonance as a practical clue about coherence, not as a mystical excuse to believe whatever feels intense.

@@ -3,6 +3,8 @@ title: Community
 description: On the kind of human field Fractalism would need if it is ever to become more than thought.
 ---
 
+![Community](/community.png)
+
 If Fractalism means anything beyond thought, it must eventually take social form.
 
 That does not mean building an audience, a brand, or a soft-looking hierarchy around a set of ideas. It means asking a harder question: what kind of human field could actually hold truth, reciprocity, sobriety, correction, and real responsibility without collapsing into performance, dependency, manipulation, or status play?
