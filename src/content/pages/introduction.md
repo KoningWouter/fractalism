@@ -3,6 +3,8 @@ title: Introduction
 description: "A first orientation to Fractalism, its basic premise, its main distinctions, and the kind of reality it is trying to read."
 ---
 
+![Introduction](/hero3.png)
+
 Fractalism begins with a simple idea: patterns repeat.
 
 What happens in an inner life can later appear in a relationship, a group, an institution, or a culture. The forms are different, but the underlying logic can still be recognisable.
