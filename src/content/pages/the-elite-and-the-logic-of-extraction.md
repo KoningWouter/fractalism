@@ -1,21 +1,22 @@
 ---
 title: The Elite and the Logic of Extraction
-description: "Why people in positions of extreme power become destructive, and how Fractalism reads that pattern through extraction, insulation, and the erosion of conscience."
+description: "Why people in positions of extreme power so often become destructive, and how Fractalism reads that pattern through feedback failure, extraction, and the erosion of conscience."
 eyebrow: Essays
 ---
 
 One of the recurring questions inside Fractalism is why people in positions of extreme power so often become destructive.
 
-Not occasionally. Predictably.
+Not always. But often enough, and under recognizably similar conditions, that the pattern should be treated as structural rather than accidental.
 
-The pattern shows up across history, across cultures, and across political systems. It is not a coincidence.
-It has structure.
+Fractalism approaches that structure through the relation between power, extraction, conscience, consequence, and feedback.
 
-Fractalism approaches that structure first through the relation between power, extraction, conscience, and consequence.
+The pattern is not only political. It is fractal.
+
+The same movement can be seen in a person, a relationship, an institution, or a ruling class: reduced friction, weakened feedback, growing entitlement, and the gradual conversion of other beings into instruments.
 
 ## Power without friction distorts perception
 
-When a person accumulates enough power that consequences stop arriving, something predictable happens.
+When a person accumulates enough power that consequences stop arriving, something serious happens.
 
 The feedback mechanism that keeps perception honest starts to weaken.
 
@@ -36,6 +37,14 @@ This is one reason Fractalism treats [field quality](/field-quality) and [distor
 Power does not only change what a person can do.
 It changes what becomes visible to them.
 
+## What extraction means here
+
+Extraction means taking value from others without reciprocal obligation.
+
+That value may be material, emotional, sexual, social, informational, or institutional.
+
+A person, group, or system extracts whenever it takes what sustains itself from others while evading the cost, duty, or mutuality that should accompany that taking.
+
 ## Extraction turns other people into instruments
 
 Once consequence weakens, extraction becomes easier.
@@ -54,11 +63,19 @@ Usually it happens through smaller shifts:
 The person does not need to think of themselves as evil for this to happen.
 They only need to keep moving in an environment that rewards non-feeling, speed, dominance, and asymmetry.
 
+A leader who is no longer contradicted starts mistaking convenience for truth.
+The first extraction may be rationalized as necessary.
+The next becomes easier.
+Wealth, secrecy, and prestige then purchase further insulation, which weakens correction even more.
+The pattern feeds itself.
+
 That is why Fractalism treats elite corruption not as an isolated anomaly but as a pattern that emerges wherever extraction is rewarded and resistance is removed.
 
-## The spiritual crisis is moral numbness
+## The deeper crisis is moral numbness
 
-There is a spiritual dimension here, but it appears most clearly as the erosion of moral perception.
+There is a spiritual dimension here, but it is not mainly mystical.
+
+It appears most clearly as the loss of living contact with the reality of other beings.
 
 A person who keeps extracting from others has to do one of two things.
 They must either keep feeling the cost of what they are doing, or they must go numb to it.
@@ -71,8 +88,9 @@ They reward people who can treat human beings as surfaces, functions, or opportu
 
 Over time, this becomes a way of being.
 
-The deeper crisis is simple.
-Something in the person is gradually trained not to register the humanity of others anymore.
+What is destroyed in such people is not only conscience in the abstract, but the living capacity to register another being as real.
+Extraction does not only injure the exploited.
+It also hollows out the extractor.
 
 ## Elite corruption becomes readable when the pattern is readable
 
@@ -103,7 +121,9 @@ They are human beings placed inside conditions that reward entitlement, remove c
 That does not absolve them.
 It makes the diagnosis sharper.
 
-Power corrupts because systems without counterweight remove the conditions under which conscience stays alive.
+The point is not that every powerful person becomes predatory in the same way.
+The point is that without strong counterweights, the pattern becomes much more likely.
+Where it does not happen, it is worth asking what preserved contact with reality.
 
 In that sense, elite corruption is not only about what is wrong with certain people.
 It is about what certain structures do to almost anyone inside them, if enough insulation, appetite, and asymmetry are allowed to accumulate.
@@ -130,11 +150,9 @@ The point is to understand how severe distortion becomes ordinary enough to repr
 
 The elite pattern is real.
 It is severe.
-It has spiritual implications.
+It has moral and spiritual consequences.
 
-Fractalism approaches this through a structural diagnosis of power, extraction, insulation, and conscience.
+Fractalism approaches it through a structural diagnosis of power, feedback failure, extraction, insulation, and conscience.
 
-When extraction becomes normal, when power no longer meets friction, and when conscience is no longer reinforced by consequence, people become capable of almost anything.
-
-That pattern can be seen.
-And because it can be seen, it can be named, resisted, and disrupted.
+If the pattern is structural, it will not be interrupted by outrage alone.
+It has to be interrupted at the level of feedback, insulation, consequence, and the normalization of extraction itself.
