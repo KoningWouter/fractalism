@@ -22,9 +22,9 @@ This matters because the friction in the phone interaction is not gone from the 
 
 Real people use these devices to monitor heart conditions, to navigate unfamiliar cities, to stay in touch with family. Some people use the same device only for timers and calls and deliberately disable everything else. The watch is not a single thing. It is a platform that can be configured in many ways, and the configuration determines what it does to attention.
 
-Every vibration is also designed. The timing, the intensity, the pattern — these are not accidents. They are engineered by people whose goal is that you respond. Not because they are evil, but because a response is what their business model requires. Your attention is the resource they are collecting. The watch is the delivery mechanism, and the vibration is the prompt. Knowing this does not automatically free you from it, but it changes what you are looking at when you feel the pull.
+Every vibration is also designed. The timing, the intensity, the pattern, these are not accidents. They are engineered by people whose goal is that you respond. Not because they are evil, but because a response is what their business model requires. Your attention is the resource they are collecting. The watch is the delivery mechanism, and the vibration is the prompt. Knowing this does not automatically free you from it, but it changes what you are looking at when you feel the pull.
 
-What makes the watch worth examining is not that it produces trained responses, but that it produces trained responses on behalf of external signals in a way that is more intimate and less avoidable than most other attention capture. A vibration at your wrist triggers a response in your nervous system. Your attention follows — but the watch did not send your attention anywhere. Your own neurology answered the signal. That distinction matters: the watch is a trigger, not an agent. It does not control the response, it occasions it.
+What makes the watch worth examining is not that it produces trained responses, but that it produces trained responses on behalf of external signals in a way that is more intimate and less avoidable than most other attention capture. A vibration at your wrist triggers a response in your nervous system. Your attention follows, but the watch did not send your attention anywhere. Your own neurology answered the signal. That distinction matters: the watch is a trigger, not an agent. It does not control the response, it occasions it.
 
 ## The pull and what it is made of
 
@@ -32,11 +32,11 @@ When your wrist vibrates during a conversation, during a meal, during a moment w
 
 You might return immediately, you might not. But the interruption happened, and it happened physically, not just mentally.
 
-This is what makes the watch more transparent than some other systems. It does not pretend to be neutral about what it is doing. The vibration announces itself. You know when you have been interrupted. None of that makes it innocent — something can be honest about its intrusion and still be an intrusion.
+This is what makes the watch more transparent than some other systems. It does not pretend to be neutral about what it is doing. The vibration announces itself. You know when you have been interrupted. None of that makes it innocent, something can be honest about its intrusion and still be an intrusion.
 
 There is more to notice here. The pull you feel is not a single thing. Curiosity is not the same as habit. Habit is not the same as anxiety. Anxiety about what you might miss is not the same as the desire to escape something in the room you are sitting in. These have different relationships to your freedom, and they respond to different remedies.
 
-Naming what you find is not the same as understanding why it is there. Noticing the pull is the first step. Understanding what activates it and what keeps it running is the next one. And understanding is not the same as solving — but it is also not nothing. Spinoza would say that freedom is not the absence of pressure. It is the moment when you begin to see the chains for what they are and why you accepted them. That is a different kind of clarity than the pause itself. But you need the pause to find it.
+Naming what you find is not the same as understanding why it is there. Noticing the pull is the first step. Understanding what activates it and what keeps it running is the next one. And understanding is not the same as solving, but it is also not nothing. Spinoza would say that freedom is not the absence of pressure. It is the moment when you begin to see the chains for what they are and why you accepted them. That is a different kind of clarity than the pause itself. But you need the pause to find it.
 
 ## What this essay is not saying
 
@@ -50,7 +50,7 @@ Try noticing the next three times your wrist vibrates. Not to change anything, n
 
 Where does your attention go first?
 Is there a pull to check?
-What is that pull made of — curiosity, habit, or something else?
+What is that pull made of, curiosity, habit, or something else?
 
 After the third time, ask one more question: what would happen if you let the vibration pass without following it? Not as an exercise in willpower, but as an experiment in noticing what comes next.
 
