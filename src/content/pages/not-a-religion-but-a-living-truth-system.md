@@ -10,7 +10,7 @@ The short answer is: none that requires belief.
 
 The longer answer involves a distinction that matters a great deal.
 
-Fractalism is not a religion. It is not a doctrine, a creed, or a closed worldview. It does not ask you to have faith in anything. What it offers is a way of seeing — a method for noticing patterns, distinguishing truth from distortion, and remaining honest about the difference.
+Fractalism is not a religion. It is not a doctrine, a creed, or a closed worldview. It does not ask you to have faith in anything. What it offers is a way of seeing, a method for noticing patterns, distinguishing truth from distortion, and remaining honest about the difference.
 
 That distinction matters because the word "religion" often points toward something specific: a central authority, a closed set of beliefs, an identity that binds, a story that answers everything and cannot be questioned. Fractalism is deliberately none of those things. Not because it is skeptical or cold, but because the method itself protects against the corruption that certainty introduces.
 
