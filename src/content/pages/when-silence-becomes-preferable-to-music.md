@@ -44,7 +44,7 @@ This is not the same as depression. It is the body asking for space.
 
 **A void that has become more attractive than fill**
 
-The void — the open, undetermined, unfilled space in consciousness — is not what most people imagine it to be. It is not emptiness as lack. It is emptiness as potential.
+The void, the open, undetermined, unfilled space in consciousness, is not what most people imagine it to be. It is not emptiness as lack. It is emptiness as potential.
 
 When the void becomes more attractive than the comfortable forms of filling that a person has used, it means the void is no longer felt as a threat. It is felt as rich. As available. As something that does not need to be escaped.
 
