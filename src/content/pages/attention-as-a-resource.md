@@ -74,4 +74,4 @@ The Void, as Fractalism describes it, is the open, undetermined space in conscio
 
 The Void is not a solution to this problem. No individual practice can counter systemic attention capture. But it is a place where the pattern can be seen clearly enough to make choices about it. Not to escape the system, but to stop pretending it is not there.
 
-That is why these two essays belong together. Attention as a resource describes the capture layer. The Void and Palantir describes the prediction layer. A third essay at /why-your-music-knows-what-you-want-before-you-do applies the same analysis to music recommendation.
+That is why these two essays belong together. Attention as a resource describes the capture layer. The Void and Palantir describes the prediction layer. A third essay on [Why Your Music Knows What You Want Before You Do](/why-your-music-knows-what-you-want-before-you-do) applies the same analysis to music recommendation.

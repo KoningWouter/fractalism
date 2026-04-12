@@ -10,7 +10,7 @@ You do not choose what plays. Not really. The playlist that greets you, the song
 
 This is not speculation. Spotify's own researchers have published work on how recommendation systems shape listening behavior. Former employees have described the shuffle function as producing results that are not statistically random, clustering repeats of specific artists to create the sensation of variety rather than genuine randomness. The company holds patents that describe selecting content to optimize listening duration and suppress user abandonment. These are documented facts. They are not secrets. The system just does not announce itself.
 
-This essay is about how that works, why it is effective, and what the actual trap is. It connects to a larger argument at fractalisme.nl/attention-as-resource about how attention systems are built. Music is not different from news or social media in the function it serves. It is just a more emotionally powerful bait.
+This essay is about how that works, why it is effective, and what the actual trap is. It connects to a larger argument on [Attention as a Resource](/attention-as-resource) about how attention systems are built. Music is not different from news or social media in the function it serves. It is just a more emotionally powerful bait.
 
 ## How the recommendation system works
 
