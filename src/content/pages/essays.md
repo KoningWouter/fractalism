@@ -34,8 +34,8 @@ The published essays below include the starting points above.
 - [AI, Truth, and Distortion](/ai-truth-and-distortion)
   Why AI can sometimes function as a powerful instrument of clarification, and why no truth project can afford to treat it as neutral.
 
-- [Why Calm Feels Like an Attack to an Extractive Soul](/why-calm-feels-like-an-attack-to-an-extractive-soul)
-  An essay on why undisturbed presence can provoke hostility in an extractive structure, and why some forms of inner noise experience peace as pressure.
+- [Why Calm Feels Like an Attack to an Extractive Pattern](/why-calm-feels-like-an-attack-to-an-extractive-soul)
+  An essay on why undisturbed presence can provoke hostility in extractive or dysregulated patterns, and why some forms of inner noise experience peace as pressure.
 
 - [As Above, So Below and the Breaking of Pattern](/as-above-so-below-and-the-breaking-of-pattern)
   An essay on why breaking a destructive pattern in oneself can feel connected to larger movements in the social field, and how Fractalism understands resonance without collapsing into magical egoism.
