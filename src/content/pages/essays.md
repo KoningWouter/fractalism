@@ -67,9 +67,6 @@ The published essays below include the starting points above.
 - [Why Your Music Knows What You Want Before You Do](/why-your-music-knows-what-you-want-before-you-do)
   An essay on Spotify's recommendation engine, the non-random shuffle, and how music became an emotional regulation apparatus built on engagement metrics rather than genuine discovery.
 
-- [Attention and Free Will](/attention-and-free-will)
-  An essay on why free will in the strongest sense is probably an illusion, how the interrupt actually works as a trained neuroplastic capacity, and why the freedom that still matters begins with attention.
-
 - [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim)
   A guide to how Fractalism distinguishes between symbol, hypothesis, experience, practical insight, and factual claim so the framework remains sober and readable.
 
