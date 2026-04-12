@@ -23,6 +23,9 @@ Then start with one of these essays:
 
 The published essays below include the starting points above.
 
+- [The Source in You](/the-source-in-you)
+  An essay on why consciousness is not a byproduct of matter, why the mechanical view is incomplete, and what it means to carry the whole Source in your particular form.
+
 - [The Void, Palantir, and Behavioral Legibility](/the-void-and-palantir)
   An essay on how predictive systems turn human pattern into operational knowledge, and why the Void matters as a refusal of total legibility.
 
