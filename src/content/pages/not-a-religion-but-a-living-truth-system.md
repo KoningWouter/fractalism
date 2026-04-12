@@ -26,6 +26,8 @@ These are not failures of intention. They are features of the structure. A syste
 
 Fractalism has names for this pattern. It appears in the history of wisdom traditions as guru systems, as closed revelation circles, as traditions that begin in genuine insight and end in personality worship or certainty-driven distortion.
 
+It is worth saying plainly: this system was built by someone. That person is subject to the same dynamics it describes. The risk of private revelation becoming authoritative, of the builder becoming a figure inside the system, of certainty dressing itself in the language of inquiry, is not a distant theoretical possibility. It is the central practical vulnerability of any system like this one. The method described here is an attempt to stay corrigible in spite of that, not because the builder has solved it.
+
 ## What the underlying impulse actually wants
 
 Underneath the desire to build a personal system there is often something worth preserving.
@@ -77,6 +79,18 @@ A method helps you see more clearly.
 The test of a living truth system is not whether it produces certainty. It is whether it makes you more careful, more honest, more able to distinguish, more willing to be corrected. Whether it builds in the conditions for its own revision.
 
 That is what Fractalism attempts. Not because it is humble as a posture, but because the method itself requires it.
+
+## What self-correction looks like in practice
+
+One practical illustration of what this means.
+
+When Fractalism was first written, it used a framework called STO/STS, borrowed from another tradition. The language felt precise and the framework seemed useful. But over time, the borrowed language began generating more confusion than clarity. Readers encountered it with heavy baggage from its original context. The concept it pointed at was sound, but the container was wrong.
+
+The honest response was not to defend the original choice. It was to replace the borrowed language with language built for this framework specifically. The old terminology was revised, new terms were introduced, and the framework became more precise as a result.
+
+That is the method working as intended. Not the absence of error, but the willingness to revise when error becomes visible.
+
+No system that refuses to do this survives long with its integrity intact. The question is never whether you will make mistakes. It is whether you will correct them.
 
 ## A practical orientation
 
