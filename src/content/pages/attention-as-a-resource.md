@@ -1,6 +1,6 @@
 ---
 title: Attention as a Resource, and Why It Is Being Harvested
-description: The economy is not just material. It is built on the systematic capture of human attention, and what that attention is used to build once it is collected.
+description: An essay on the systematic capture of human attention as the foundation of the modern behavioral economy, and how it connects to the predictive systems described in The Void and Palantir.
 eyebrow: Essay
 ---
 
@@ -10,7 +10,7 @@ The most valuable resource in the modern economy is not oil. It is not data in t
 
 Not attention as a philosophical concept. Attention as a literal, quantifiable, monetizable thing. The time you spend looking at a screen. The moment your eyes stop on a headline. The second you linger on a specific piece of content. These are not just experiences. They are inputs. They are harvested, refined, and used to build something with your behavior.
 
-This essay is about the first half of that system. A companion piece at fractalisme.nl/the-void-and-palantir covers the second half. Together they describe how your attention is captured and what it is used to build once it is collected.
+This essay is about the first half of that system. A companion piece on [The Void and Palantir](/the-void-and-palantir) covers the second half. Together they describe how your attention is captured and what it is used to build once it is collected.
 
 ## What attention actually is in this context
 
