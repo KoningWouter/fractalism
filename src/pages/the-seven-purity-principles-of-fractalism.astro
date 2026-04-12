@@ -1,23 +1,17 @@
 ---
-import MainLayout from '../layouts/MainLayout.astro';
-import MarkdownPage from '../components/MarkdownPage.astro';
-import { getEntry, render } from 'astro:content';
+import { redirect } from '@astrojs/node';
 
-const entry = await getEntry('pages', 'the-seven-purity-principles-of-fractalism');
+export const prerender = true;
 
-if (!entry) {
-	throw new Error('Missing content entry: pages/the-seven-purity-principles-of-fractalism.md');
+export function getStaticPaths() {
+  return [{ params: {}, props: {} }];
 }
 
-const { Content } = await render(entry);
+return new Response(null, {
+  status: 301,
+  headers: {
+    'Location': '/how-fractalism-holds-itself-to-account',
+    'Cache-Control': 'public, max-age=31536000',
+  },
+});
 ---
-
-<MainLayout title={`${entry.data.title} | Fractalism`} description={entry.data.description} ogType="article">
-	<MarkdownPage
-		eyebrow={entry.data.eyebrow}
-		title={entry.data.title}
-		description={entry.data.description}
-	>
-		<Content />
-	</MarkdownPage>
-</MainLayout>
