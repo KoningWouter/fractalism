@@ -1,5 +1,5 @@
 ---
-title: Geen eigen religie, maar een levend waarheidssysteem
+title: Not a Religion, but a Living Truth System
 description: Fractalism is not a religion to be joined. It is a method for learning to see more clearly, distinguish more carefully, and remain corrigible.
 eyebrow: Method
 ---

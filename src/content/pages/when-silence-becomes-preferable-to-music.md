@@ -1,5 +1,5 @@
 ---
-title: Als stilte fijner wordt dan muziek
+title: When Silence Becomes Preferable to Music
 description: When silence begins to feel better than music, it may not mean music has lost its value. It may mean something subtler has become audible.
 eyebrow: Reflection
 ---
