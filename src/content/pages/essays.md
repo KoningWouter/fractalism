@@ -64,6 +64,9 @@ The published essays below include the starting points above.
 - [Attention as a Resource](/attention-as-a-resource)
   An essay on the systematic capture of human attention as the foundation of the modern behavioral economy, and how it connects to the predictive systems described in The Void and Palantir.
 
+- [Why Your Music Knows What You Want Before You Do](/why-your-music-knows-what-you-want-before-you-do)
+  An essay on Spotify's recommendation engine, the non-random shuffle, and how music became an emotional regulation apparatus built on engagement metrics rather than genuine discovery.
+
 - [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim)
   A guide to how Fractalism distinguishes between symbol, hypothesis, experience, practical insight, and factual claim so the framework remains sober and readable.
 
