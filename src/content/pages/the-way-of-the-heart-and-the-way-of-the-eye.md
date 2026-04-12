@@ -15,13 +15,15 @@ This distinction matters for Fractalism, because the framework can easily appear
 
 One way to name these two tendencies is **the way of the heart** and **the way of the eye**.
 
+These are not rigid types, and they are not necessarily stages. They are better understood as two recurrent modes of approach. Most people contain both, though often unevenly trained.
+
 Neither is sufficient by itself. But each reveals something real.
 
 ## The way of the heart
 
 The way of the heart recognizes truth first as lived quality.
 
-It knows through resonance, conscience, moral atmosphere, and direct relational sense. It often arrives at a right orientation without needing to construct an elaborate explanation.
+It knows through conscience, moral atmosphere, direct relational sense, and a felt recognition that something is clean or unclean before a full explanation is available. It often arrives at an initial orientation without needing to construct an elaborate explanation.
 
 A person of the heart may say something as simple as:
 
@@ -55,6 +57,8 @@ The heart can recognize value, but it is not always trained to diagnose structur
 
 That is where the heart alone can become vulnerable. It may intuit the good, yet fail to explain why certain systems reliably corrupt it. It may sense that something is wrong, yet not know how to distinguish surface charm from deeper pattern.
 
+In ordinary life this can look like trusting a warm spiritual group that feels loving while missing the manipulative hierarchy inside it, or defending a friend out of loyalty while ignoring the pattern they keep repeating.
+
 ## The way of the eye
 
 The way of the eye seeks truth through perception sharpened into intelligibility.
@@ -68,6 +72,8 @@ It wants pattern, distinction, structure, articulation, and confirmation. It ask
 - what would make this claim clearer, stronger, or more disciplined?
 
 The eye is not content with atmosphere. It wants to see.
+
+It does not exist to supervise the heart from above. At its best, it tests, clarifies, and sometimes corrects what first appeared noble but may have been confused, projected, or socially conditioned.
 
 At its best, the way of the eye carries:
 
@@ -91,6 +97,8 @@ The eye can diagnose without surrender. It can map reality while remaining exist
 
 That is where the eye alone can harden. It may become brilliant without becoming warm, exact without becoming humble, structurally sophisticated while still evading the plain demands of conscience.
 
+In ordinary life this can look like seeing every power game in a workplace while becoming incapable of trust, or winning every online argument while becoming less able to recognize the person in front of you.
+
 ## Why Fractalism needs both
 
 Fractalism becomes weak if it belongs only to the heart.
@@ -103,15 +111,17 @@ Then it risks becoming architecture without tenderness, diagnosis without warmth
 
 The stronger form is a meeting:
 
-- the heart knows the good directly
-- the eye learns to see why the good is real
+- the heart gives first contact with moral reality
+- the eye tests, clarifies, and sometimes corrects that first contact
 - the heart prevents the eye from becoming cold
-- the eye prevents the heart from becoming vague
+- the eye prevents the heart from becoming vague or manipulated
 
 One gives moral contact.
 The other gives intelligibility.
 
 Together they produce a truer form of seriousness.
+
+But this meeting is not always peaceful. Sometimes the heart says yes where the eye sees danger. Sometimes the eye says no where the heart still feels devotion. When that happens, neither side should be treated as automatically sovereign. Both need training, correction, and enough humility to admit error.
 
 ## Two people can live one truth differently
 
@@ -125,6 +135,8 @@ Not everyone who rejects the map rejects the land.
 
 At the same time, some people cannot rest with direct moral intuition alone. They need to see the structure. They need to understand how goodness, distortion, reciprocity, and consequence fit together in a coherent order.
 
+This does not make them less human, and it does not make them closer to truth by default. It only names a different burden of trust.
+
 This should humble the moral temperament too.
 
 Not everyone who seeks the map has lost contact with reality. Some are trying to understand it deeply enough not to betray it.
@@ -137,7 +149,7 @@ It asks whether the truth the heart already feels can be seen more clearly by th
 
 If the heart and the eye remain enemies, one gets sentiment without structure or structure without soul.
 
-If they learn to trust each other, a stronger path appears.
+If they learn to work together, a stronger path appears. Not because all tension disappears, but because each becomes less distorted by isolation.
 
 Then [truth](/truth) is not only felt.
 It is not only analyzed.
