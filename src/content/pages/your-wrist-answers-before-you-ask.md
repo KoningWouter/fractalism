@@ -20,21 +20,23 @@ This matters because the friction in the phone interaction is not gone from the 
 
 ## What the watch actually does
 
-The marketing talks about health and connectivity and convenience. None of that is wrong. Real people use these devices to monitor heart conditions, to navigate unfamiliar cities, to stay in touch with family. That is genuine value and it would be dishonest to pretend otherwise.
+Real people use these devices to monitor heart conditions, to navigate unfamiliar cities, to stay in touch with family. Some people use the same device only for timers and calls and deliberately disable everything else. The watch is not a single thing. It is a platform that can be configured in many ways, and the configuration determines what it does to attention.
 
-But the watch also does something specific to attention. It delivers signals directly to your body and your body responds before you have evaluated whether the response is worth it. Not always. Not for everyone. But often enough that the pattern is real and measurable.
+Every vibration is also designed. The timing, the intensity, the pattern — these are not accidents. They are engineered by people whose goal is that you respond. Not because they are evil, but because a response is what their business model requires. Your attention is the resource they are collecting. The watch is the delivery mechanism, and the vibration is the prompt. Knowing this does not automatically free you from it, but it changes what you are looking at when you feel the pull.
 
-The word trained appears in this discussion a lot and it is worth being precise about what it means here. A trained response is a behavior that your nervous system executes without requiring a new decision each time. This is not automatically bad. Driving a car is a trained response. Having a conversation is a trained response. What matters is whether the training serves you or someone else, and that is a question the individual has to answer for themselves, not a conclusion an essay can declare.
+What makes the watch worth examining is not that it produces trained responses, but that it produces trained responses on behalf of external signals in a way that is more intimate and less avoidable than most other attention capture. A vibration at your wrist triggers a response in your nervous system. Your attention follows — but the watch did not send your attention anywhere. Your own neurology answered the signal. That distinction matters: the watch is a trigger, not an agent. It does not control the response, it occasions it.
 
-What makes the watch worth examining is not that it produces trained responses, but that it produces trained responses on behalf of external signals in a way that is more intimate and less avoidable than most other attention capture. A notification on your phone requires you to reach into your environment. A vibration on your wrist arrives at your body and waits for your attention to follow. That difference is physical and structural, not just metaphorical.
+## The pull and what it is made of
 
-## The body as location
+When your wrist vibrates during a conversation, during a meal, during a moment when you were not expecting an interruption, something leaves the room. Your attention goes to your wrist before you have decided whether it should.
 
-When your wrist vibrates during a conversation, during a meal, during a moment when you were not expecting an interruption, something leaves the room. Your attention goes to your wrist before you have decided whether it should. You might return immediately, you might not. But the interruption happened, and it happened physically, not just mentally.
+You might return immediately, you might not. But the interruption happened, and it happened physically, not just mentally.
 
-This is what makes the watch more honest than some other platforms. It does not pretend to be neutral about what it is doing. The vibration announces itself. You know when you have been interrupted. The phone in your pocket can buzz and you might not notice for a minute or two, and the interruption is more ambiguous. With the watch, the moment of the signal and the moment of your awareness of it are close enough that there is no ambiguity about what happened. You were there, and then something arrived, and your attention followed it.
+This is what makes the watch more transparent than some other systems. It does not pretend to be neutral about what it is doing. The vibration announces itself. You know when you have been interrupted. None of that makes it innocent — something can be honest about its intrusion and still be an intrusion.
 
-That honesty is worth sitting with. The watch does not hide the interruption mechanism. It performs it on your body and lets you feel the result.
+There is more to notice here. The pull you feel is not a single thing. Curiosity is not the same as habit. Habit is not the same as anxiety. Anxiety about what you might miss is not the same as the desire to escape something in the room you are sitting in. These have different relationships to your freedom, and they respond to different remedies.
+
+Naming what you find is not the same as understanding why it is there. Noticing the pull is the first step. Understanding what activates it and what keeps it running is the next one. And understanding is not the same as solving — but it is also not nothing. Spinoza would say that freedom is not the absence of pressure. It is the moment when you begin to see the chains for what they are and why you accepted them. That is a different kind of clarity than the pause itself. But you need the pause to find it.
 
 ## What this essay is not saying
 
@@ -48,11 +50,9 @@ Try noticing the next three times your wrist vibrates. Not to change anything, n
 
 Where does your attention go first?
 Is there a pull to check?
-What is that pull made of?
+What is that pull made of — curiosity, habit, or something else?
 
-You may find that the pull is curiosity. You may find it is habit. You may find it is anxiety about what you might miss. These are not the same thing and they do not have the same relationship to your freedom. Naming what you find is not a solution to anything structural, but it is a form of clarity that most people never bother with because the signal always arrives and they always respond without pausing to ask what just happened.
-
-That pause is small. But it is real. And noticing it is its own kind of answer.
+After the third time, ask one more question: what would happen if you let the vibration pass without following it? Not as an exercise in willpower, but as an experiment in noticing what comes next.
 
 ---
 
