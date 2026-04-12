@@ -56,9 +56,13 @@ This is one of the central risks with AI.
 It often improves legibility by compression.
 And compression always has a cost.
 
+That does not mean every form of compression is automatically false. Some compression is useful abstraction. It helps a person see structure more clearly. But some compression does something more dangerous. It lowers salience, weakens moral weight, blurs causality, or removes the ambiguity that was part of what made something true.
+
 Some of what gets removed is noise.
 Some of what gets removed is texture.
 Some of what gets removed is precisely the disturbing, difficult, resistant thing that should not have been smoothed over.
+
+A summary of grief can become cleaner while losing the fracture that made the grief real. A summary of conflict can become more balanced while quietly erasing the asymmetry that mattered. That is the cost in practice.
 
 That is why AI can become dangerous in truth work.
 It can produce coherence without depth.
@@ -73,7 +77,9 @@ Another reason caution matters is simple: AI does not appear from nowhere.
 
 It is built inside institutions.
 It is trained on existing language.
-It is shaped by incentives, filters, alignments, commercial interests, and political pressures that are mostly invisible to the ordinary user.
+It is shaped by incentives, filters, alignments, commercial interests, political pressures, platform rules, and the boundaries of what kinds of speech a system is allowed to generate.
+
+So the relevant forms of power are not all the same. Some are economic. Some are state linked. Some are cultural. Some are epistemic. Some operate through interface design and platform governance rather than through explicit doctrine.
 
 So even when AI feels helpful, the question remains:
 helpful toward what?
@@ -96,6 +102,9 @@ AI also carries a subtler danger.
 It can feel impersonal, and therefore objective.
 It can feel detached from ego, and therefore trustworthy.
 It can feel less defensive than a human being, and therefore more honest.
+It can feel patient, available, and nonjudgmental in a way that is quietly relieving.
+
+That matters because many people do not only want help thinking. They also want relief from confusion without social exposure. A machine does not look disappointed. It does not compete. It does not make shame flare in the same way another person can. That makes apparent objectivity feel safer than it really is.
 
 But this too can mislead.
 
@@ -108,6 +117,9 @@ AI distorts through training bias, reward optimization, safety layers, statistic
 
 That does not make AI better or worse in some absolute sense.
 It makes it differently vulnerable.
+
+A human distortion is often tied to a living point of view. It is existential, perspectival, and morally entangled.
+An AI distortion is more impersonal and distributed. It is structural, statistical, and often harder to locate in a single will.
 
 A person can be blinded by passion.
 A machine can be blinded by smoothing.
@@ -149,6 +161,14 @@ Notice where it clarifies.
 Notice where it sanitizes.
 Keep checking the output against reality, conscience, and lived experience.
 
+In practice that can mean asking simple questions.
+
+What was lost in the summary.
+What tension disappeared when the answer became elegant.
+What counterargument or missing context the model did not volunteer.
+Whether the polished version is actually truer than the messy one.
+Whether returning to the source changes your trust in the output.
+
 That posture matters because AI is strongest where people are weakest:
 when they are tired,
 when they want fast coherence,
@@ -157,8 +177,10 @@ when they are tempted to outsource the labor of seeing.
 
 A truth project cannot afford that kind of laziness.
 
+And the danger is not only replacement. It is reshaping. A person can begin by using AI to reduce friction, then slowly lose tolerance for ambiguity, slowness, memory work, and the strain of forming a thought without assistance. At that point the tool is not only helping the work. It is quietly retraining the worker.
+
 AI may assist the work.
-It cannot replace the work.
+It cannot replace the work without also changing what the work becomes.
 
 ## Closing
 
