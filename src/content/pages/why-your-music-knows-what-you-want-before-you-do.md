@@ -60,7 +60,7 @@ They try to escape. They switch to a different platform, or they go without reco
 
 But then that feeling of freshness becomes familiar. The new platform develops its own patterns. The music without algorithm starts to develop its own sense of what you want. Even the clean experience of music without tracking becomes its own kind of managed experience, shaped by the expectation of what untracked music should feel like.
 
-This is not a reason to give up on seeing the mechanism clearly. It is the mechanism. There is no outside position from which to observe the system without the observation being shaped by the system. The Void in Fractalism is not a place outside of this. It is a place inside where the pattern becomes visible enough to make choices about it that are not wholly determined by the pattern.
+This is not a reason to give up on seeing the mechanism clearly. It is the mechanism. There is no outside position from which to observe the system without the observation being shaped by the system. The [Void](/the-void) in Fractalism is not a place outside of this. It is a place inside where the pattern becomes visible enough to make choices about it that are not wholly determined by the pattern.
 
 ## What this essay is not saying
 
@@ -70,9 +70,7 @@ This essay is also not saying that music itself is the problem. Music is one of 
 
 ## What the Void has to do with this
 
-Fractalism describes the Void as the open, undetermined space in consciousness that exists before attention is captured and shaped. Music can be an entry into that space. A piece of music can interrupt the managed loop, bring something unexpected, produce a quality of presence that the algorithmic feed cannot manufacture.
-
-But when music is fully absorbed into the engagement economy, it loses that function. It becomes part of the feed rather than an interruption of it. The playlist replaces the Void. The algorithm replaces the silence that precedes genuine choice.
+Fractalism describes the Void as the open, undetermined space in consciousness that exists before attention is captured and shaped. Music can be an entry into that space. A piece of music can interrupt the managed loop, bring something unexpected, produce a quality of presence that the algorithmic feed cannot manufacture. But when music is fully absorbed into the engagement economy, it loses that function. It becomes part of the feed rather than an interruption of it. The playlist replaces the Void. The algorithm replaces the silence that precedes genuine choice.
 
 The same two-stage architecture that applies to attention applies here. Music captures attention. The capture is refined into behavioral prediction and emotional management. The result is not more listening. It is less freedom.
 
