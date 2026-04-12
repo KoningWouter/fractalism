@@ -26,6 +26,8 @@ What if the same capacities that support clarification can also be used in the o
 
 What if intelligence, symbolism, ritual, pattern recognition, and psychological insight can be used not only to reveal distortion, but to stabilize it, aestheticize it, and make it easier to inhabit?
 
+These do not all function in the same way. Symbolism can carry meaning. Ritual can intensify belonging. Psychological insight can expose a wound or learn how to press on it. Pattern recognition can clarify structure or create seductive overinterpretation. The family resemblance is real, but the mechanisms are not identical.
+
 That is the territory this term is trying to describe.
 
 ## What inverse gnosis means
@@ -55,6 +57,8 @@ They shape salience. They manage attention. They learn what people fear, desire,
 
 That is why inverse gnosis is not only a spiritual or symbolic concern. It also applies to media, politics, platforms, group dynamics, branding, ideology, and intimate relationships.
 
+The mechanism will not look identical in every domain. In a media environment it may appear as emotionally loaded interpretation that keeps attention reactive. In a spiritual setting it may appear as symbolic prestige that makes disagreement feel like immaturity. In a personal relationship it may appear as psychological language used less to understand than to keep the other person off balance.
+
 Whenever knowledge of attention, vulnerability, aspiration, or longing is used to keep people more suggestible, more dependent, or more internally divided, something like inverse gnosis is at work.
 
 ## Synthetic depth
@@ -70,6 +74,8 @@ But depth and liberation are not the same thing.
 Something can feel charged and still make a person less reality-based. It can feel initiatory and still increase dependence. It can feel profound and still function mainly as a more elegant way of capturing attention.
 
 Fractalism therefore has to care about **synthetic depth**. Some things do not become powerful by becoming true. They become powerful by learning how truth feels from the inside and then reproducing its atmosphere.
+
+That atmosphere often includes some mix of intensity, symbolic density, insider language, ritual seriousness, exclusivity, and interpretive dependency. None of those prove manipulation by themselves. But when several begin to cluster together while freedom and reality contact diminish, the pattern deserves scrutiny.
 
 ## The relational question
 
@@ -97,6 +103,8 @@ At those moments, the difference between clarification and capture becomes espec
 
 Clarification leaves attention more open, more sober, and more able to distinguish.
 
+In practice that often means a person becomes more revisable, more able to tolerate ambiguity, less dependent on privileged interpreters, and more capable of disagreement without collapse.
+
 Capture leaves attention narrower, more compelled, more signal-hungry, and more dependent on what is feeding it.
 
 That is why one of the simplest Fractalist questions is not only whether something is interesting, intense, or resonant.
@@ -115,11 +123,15 @@ This matters because the line between clarity and capture does not only run thro
 
 A framework becomes more trustworthy when it can apply this standard to its own language, emotional rewards, and prestige dynamics.
 
+That includes Fractalism itself. If Fractalism's own symbolism, concepts, or tone begin rewarding self-importance, interpretive dependency, or the thrill of seeing through everyone else, then the same suspicion should fall here too.
+
 ## A necessary caution
 
 The term inverse gnosis is useful only if it remains disciplined.
 
 Used badly, it becomes another way of dramatizing disagreement, assigning hidden motives too quickly, or dividing the world into enlightened people and deceivers.
+
+It can also flatter the critic. One can become attached to the identity of the sober discerner, the person who sees false depth everywhere. That too is a danger. The diagnosis can become its own prestige ritual.
 
 That would only reproduce the very problem the term is meant to diagnose.
 
@@ -141,4 +153,4 @@ Sometimes intelligence learns how to serve openness.
 
 Sometimes intelligence learns how to capture it.
 
-Fractalism needs to be able to tell the difference.
+Fractalism needs to be able to tell the difference, and to let the same test fall on its own language as well.
