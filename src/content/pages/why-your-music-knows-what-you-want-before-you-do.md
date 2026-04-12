@@ -10,7 +10,7 @@ You do not choose what plays. Not really. The playlist that greets you, the song
 
 This is not speculation. Spotify's own researchers have published work on how recommendation systems shape listening behavior. Former employees have described the shuffle function as producing results that are not statistically random, clustering repeats of specific artists to create the sensation of variety rather than genuine randomness. The company holds patents that describe selecting content to optimize listening duration and suppress user abandonment. These are documented facts. They are not secrets. The system just does not announce itself.
 
-This essay is about how that works, why it is effective, and what the actual trap is. It connects to a larger argument on [Attention as a Resource](/attention-as-a-resource) about how attention systems are built. Music is not different from news or social media in the function it serves. It is just a more emotionally powerful bait.
+This essay is about how that works, why it is effective, and what the actual trap is. It connects to a larger argument on [Attention as a Resource](/attention-as-a-resource) about how [attention](/attention-as-a-resource) systems are built. Music is not different from news or social media in the function it serves. It is just a more emotionally powerful bait.
 
 ## How the recommendation system works
 
@@ -54,7 +54,7 @@ This question deserves to sit open rather than be resolved quickly. The honest p
 
 ## The escape that is also not an escape
 
-There is a revealing moment that many people experience once they become aware of the mechanism.
+There is a revealing moment that many people experience once the [mechanism](/the-void) is visible.
 
 They try to escape. They switch to a different platform, or they go without recommendation algorithms, or they use tools that block the tracking. And for a moment the music feels different. Fresher. More real. More their own.
 
@@ -78,6 +78,6 @@ Understanding this is not a solution. But it is a place from which to ask what m
 
 There is one practical thing worth noticing once the mechanism is visible.
 
-When music stops being background and starts being something you listen to with full attention, without the algorithm curating the emotional context, something shifts. Not always comfortably. The music that surfaces when you stop using playlists to manage mood tends to be music you have a real relationship with rather than music you have a comfortable history with. That difference is small and important.
+When music stops being background and starts being something you listen to with full attention, without the algorithm curating the emotional context, something shifts. Not always comfortably. The music that surfaces when you stop using playlists to manage mood tends to be music you have a real relationship with rather than music you have a comfortable history with. That difference is small and [important](/the-structure-of-fractalism).
 
 A practical starting point is simple: put on music you have not thought about in years and listen to it without doing anything else. See what happens. Notice whether the impulse to skip or check something arises, and what that impulse feels like. That is not a solution to the structural problem. But it is a small practice in noticing where attention goes, and what the managed experience of music is protecting against.
