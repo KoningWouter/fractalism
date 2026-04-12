@@ -55,6 +55,12 @@ The published essays below include the starting points above.
 - [How Fractalism Holds Itself to Account](/how-fractalism-holds-itself-to-account)
   A page on the internal standards Fractalism uses to resist charisma, confusion, dependency, prestige games, and uncorrectable drift.
 
+- [Geen eigen religie, maar een levend waarheidssysteem](/geen-eigen-religie-maar-een-levend-waarheidssysteem)
+  An essay on why Fractalism is not a religion or a belief system, but a method for learning to see more clearly, distinguish more carefully, and remain corrigible.
+
+- [Als stilte fijner wordt dan muziek](/als-stilte-fijner-wordt-dan-muziek)
+  A short reflection on what it means when silence starts to feel preferable to music — and what that shift might indicate about the quality of attention.
+
 - [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim)
   A guide to how Fractalism distinguishes between symbol, hypothesis, experience, practical insight, and factual claim so the framework remains sober and readable.
 
