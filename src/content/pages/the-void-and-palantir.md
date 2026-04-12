@@ -71,11 +71,17 @@ This is one of the reasons the Void is so uncomfortable. It removes distraction,
 
 But that discomfort is also where freedom begins.
 
-## The Void as resistance to operational capture
+## The Void as personal resistance to operational capture
 
 Using the Void does not mean disappearing into a cave or rejecting technology entirely.
 
 It means interrupting the loop before it completes itself.
+
+This matters first at the level of the person, not at the level of the whole system.
+
+A pause before reaction does not meaningfully disrupt a predictive apparatus operating across millions of people. It does not defeat surveillance infrastructure, recommendation systems, or incentive architectures by itself.
+
+What it can do is narrower and still important. It can make your own participation in the loop more visible to you. It can reduce automaticity. It can make your next act less fully governed by compulsion.
 
 When you feel the urge to react, wait.
 
@@ -90,25 +96,29 @@ In that pause, several things become possible:
 - urgency can be distinguished from manipulation
 - choice can be distinguished from compulsion
 
-The Void restores authorship, but only if it is read with something like [epistemic hygiene](/epistemic-hygiene#what-epistemic-hygiene-means-here) rather than turned into mystique.
+The Void can restore a degree of authorship, but only if it is read with something like [epistemic hygiene](/epistemic-hygiene#what-epistemic-hygiene-means-here) rather than turned into mystique.
 
-It gives back the possibility of choosing from presence rather than from managed reaction.
+It gives back the possibility of choosing from greater presence rather than from managed reaction.
+
+That is a meaningful form of personal resistance and personal clarity. It should not be confused with a sufficient answer to structural power, which requires collective, legal, technical, and political forms of resistance as well.
 
 ## Practical signs of the Void
 
-A person using the Void well does not answer every signal.
+These are not standards to perform or a purity test to pass. They are rough signs that a little more space is opening inside a loop.
 
-They do not treat every feeling as an instruction.
+A person beginning to use the Void more often may not answer every signal.
 
-They notice when the body is being recruited by a familiar loop.
+They may stop treating every feeling as an instruction.
 
-They become slower where systems want them fast.
+They may notice when the body is being recruited by a familiar loop.
 
-They become quieter where platforms want performance.
+They may become slower where systems want them fast.
 
-They become harder to classify because they are no longer living as a string of automatic reactions.
+They may become quieter where platforms want performance.
 
-This is not about becoming invisible. It is about becoming less harvestable.
+This is not about suppressing feeling, becoming perfectly calm, or turning the Void into another thing to do correctly. It is about making enough room to see what is happening before the loop completes itself.
+
+It is also not about becoming invisible. At most, it can make a person somewhat less available to immediate capture by the loops they are already living inside.
 
 ## Why this matters now
 
@@ -118,20 +128,22 @@ They sense that predictive systems do not just describe human life. They shape i
 
 The answer is not panic.
 
-The answer is deeper interior space, and therefore a stronger relation to [truth](/truth#truth-as-practice-not-only-concept) than predictive systems want from us.
+One answer is deeper interior space, and therefore a stronger relation to [truth](/truth#truth-as-practice-not-only-concept) than predictive systems want from us.
 
-The answer is learning how to sit in a moment without instantly being consumed by it.
+One answer is learning how to sit in a moment without instantly being consumed by it.
 
-The answer is building a life that is not fully available to systems of extraction and prediction.
+One answer is building a life that is less fully available to systems of extraction and prediction.
 
-That life begins, in part, in the Void.
+That life can begin, in part, in the Void. It cannot end there.
 
 ## Closing
 
 If a system wants your loops, the Void helps you see them.
 
-If a system wants your predictability, the Void helps you loosen it.
+If a system wants your predictability, the Void can loosen your automatic participation in it.
 
 If a system wants instant access to your next reaction, the Void reminds you that you are still allowed to pause.
 
-And in that pause, something human survives.
+That pause does not defeat the system. But it can keep your next act from being wholly identical with its demand.
+
+And that still matters.
