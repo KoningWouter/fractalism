@@ -88,6 +88,10 @@ That difference can be felt.
 
 A page built mainly to carry an idea has a different [field quality](/concepts#field-quality) than a page built mainly to maximize engagement.
 
+That difference is not infallible, but it is often visible in simple things.
+
+A page leaning toward transmission usually gives the reader more room to pause, more room to disagree, and less pressure to act immediately. A page leaning toward optimization usually reduces friction aggressively, closes interpretive space quickly, and tries to keep attention moving without interruption.
+
 One invites reading.
 The other invites reaction.
 
@@ -107,7 +111,7 @@ It means the form should help the thing stand, not compensate for its weakness.
 
 A good truth project should be willing to lose people who only respond to seduction.
 
-That sounds harsh, but it matters.
+That sounds harsh, and it has to be handled carefully. Many people are not shallow. They are simply tired, overstimulated, or trained by their environment to respond first with the nervous system. The point is not to despise them. The point is to avoid building a project that depends on bypassing their freedom.
 
 If a project becomes dependent on manipulative presentation to attract attention, then the outer strategy will gradually deform the inner substance. The project will start shaping itself around what keeps people hooked instead of what makes reality more legible.
 
@@ -136,6 +140,8 @@ Clear language.
 Enough beauty to feel alive.
 Enough restraint to avoid theater.
 Enough sobriety that the words can carry the weight.
+
+That does not place the builder outside the problem. Anyone making a project is also vulnerable to wanting elegance, momentum, persuasion, recognition, and aesthetic force. The temptation is not only out there in other people's websites. It appears in your own hand while you build. That is part of why this question has to be asked repeatedly rather than answered once.
 
 This is not anti design.
 
@@ -167,6 +173,6 @@ Beauty is welcome.
 Care is welcome.
 Precision is welcome.
 
-But seduction should never become the hidden operating system of a project that claims to exist for truth.
+But seduction should not become the hidden operating system of a project that claims to exist for truth.
 
 If the work is real, form should help it stand in the open, not smuggle it past the reader’s freedom.
