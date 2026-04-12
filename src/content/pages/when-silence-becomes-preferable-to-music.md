@@ -52,7 +52,7 @@ That is a significant developmental shift. Most people fill the void because the
 
 **Something subtler becoming audible**
 
-Sometimes music covers things. Not intentionally — it just does. Sound creates atmosphere. Atmosphere covers the subtler frequencies that exist underneath it.
+Sometimes music covers things. Not intentionally, it just does. Sound creates atmosphere. Atmosphere covers the subtler frequencies that exist underneath it.
 
 When silence becomes preferable, one reason can be that those subtler frequencies have become audible. The quiet background hum of consciousness, of presence, of something that does not require sound to confirm itself.
 
@@ -66,7 +66,7 @@ There is a line worth sitting with:
 
 This does not mean emptiness is now full of something. It means the experience of emptiness has changed. The void is no longer a lack. It is a different quality of presence.
 
-That shift — from emptiness as absence to emptiness as availability — is the kind of shift that changes how someone moves through ordinary life. Not because they became spiritual, but because they became less dependent on external input to stabilize an inner state.
+That shift, from emptiness as absence to emptiness as availability, is the kind of shift that changes how someone moves through ordinary life. Not because they became spiritual, but because they became less dependent on external input to stabilize an inner state.
 
 ## Why this matters
 
