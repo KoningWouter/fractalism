@@ -34,7 +34,7 @@ Most people understand this at some level. They know they are being tracked. The
 
 That feeling is not incidental. It is part of the architecture.
 
-## What makes this hard to see from the inside
+## Why people participate in it
 
 There is a structural reason why most people do not see this clearly.
 
@@ -43,6 +43,14 @@ If you are inside the system, the content feels like it is for you. The recommen
 You do not feel managed. You feel seen.
 
 That is the trap. The experience of being understood by the platform is itself produced by the system that is managing you. The more accurate the prediction, the less visible the predictor.
+
+But there is something else worth naming that the trap depends on.
+
+People do not just accept being managed. They participate in it willingly, often eagerly. Not because they have been deceived, but because the managed state offers something the unmanaged state does not. Specifically: relief from the anxiety of genuine unknowing.
+
+To be truly unknown, to not know what comes next, to sit with uncertainty about who you are and what you should do, is genuinely uncomfortable. The managed state removes that discomfort. The algorithm tells you what you want. The feed confirms who you are. The loop provides a self that does not require self-confrontation to sustain.
+
+That is the silent deal. Comfort in exchange for legibility. Certainty in exchange for freedom. The ego accepts these terms not because it is stupid, but because the alternative is the anxiety of existing without a map, and the map provided by the system costs less effort than the map built from genuine inquiry.
 
 The same mechanism applies to most things that capture attention: news that confirms what you already fear, entertainment that amplifies what already feels true, outrage that mobilizes what is already activated. All of it works better when it feels like recognition rather than manipulation.
 
