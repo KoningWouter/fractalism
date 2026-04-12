@@ -58,6 +58,18 @@ When silence becomes preferable, one reason can be that those subtler frequencie
 
 This can feel like a deepening. Not because the world is becoming less beautiful, but because the soul is learning to rest in something that does not need to be produced or delivered from outside.
 
+## An honest qualification
+
+It is worth naming plainly: the shift toward silence is not always what it appears to be.
+
+Sometimes preferring silence is wisdom. Sometimes it is withdrawal. The difference is not always obvious from the inside.
+
+A person in the early stages of depression may also find silence preferable to music. A person who is dissociating may experience the void as peaceful because they have stepped back from what would otherwise be overwhelming. A person actively avoiding emotional contact may call their withdrawal discernment. What the void actually contains when the filling stops, and whether that content is settling or simply concealed, is not something the experience of silence itself can reliably answer.
+
+This is why the question worth asking is not only what the silence feels like, but what it is being used to avoid. Silence can be a space for inquiry. It can also be a refuge that prevents inquiry. The same quality of quiet can serve either purpose.
+
+There is also a social dimension that is easy to miss. Not everyone who finds silence preferable has arrived at it through practice or development. Some people simply have less energy for stimulation because they are depleted, exhausted, or unwell. The shift may say more about the state of the container than about the growth of what is inside it. Context matters. A preference for silence earned through practice is not the same as a preference for silence that comes from having nothing left.
+
 ## The sharper formulation
 
 There is a line worth sitting with:
