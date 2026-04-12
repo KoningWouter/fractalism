@@ -22,9 +22,6 @@ Then start with one of these essays:
 
 The published essays below include the starting points above.
 
-- [The Way of Resonance](/the-way-of-resonance)  
-  A foundational Fractalism essay on resonance, friction, flow, and the return to coherence.
-
 - [The Road to I Am the Formula](/the-road-to-i-am-the-formula)  
   An essay on co creation, consciousness, participation in reality, and what it could mean to say I Am the Formula.
 
