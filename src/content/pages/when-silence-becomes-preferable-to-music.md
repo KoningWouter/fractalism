@@ -74,7 +74,7 @@ The reason to notice this is not to develop a judgment about music. Music is fin
 
 The reason to notice is that this shift is a signal. It indicates something has changed in how a person relates to their own inner state. Something has become more settled, or more discerning, or more capable of resting without immediately filling.
 
-Whether that comes from practice, from recovery, from age, from exhaustion that eventually resolves — the signal is the same:
+Whether that comes from practice, from recovery, from age, from exhaustion that eventually resolves, the signal is the same:
 
 Something in the system has started to prefer truth over comfort, presence over stimulation, and the un-carried state over the state that requires constant input to stay balanced.
 
