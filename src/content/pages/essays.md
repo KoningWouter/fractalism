@@ -13,6 +13,7 @@ If you are new to the site, begin with the [Introduction](/introduction), [How t
 
 Then start with one of these essays:
 
+- [The Source in You](/the-source-in-you)
 - [When Depth Becomes Control](/inverse-gnosis)
 - [From Creation to Consumption](/from-creation-to-consumption)
 - [The Role of Attention in the Collapse of Possibility](/the-role-of-attention-in-the-collapse-of-possibility)
