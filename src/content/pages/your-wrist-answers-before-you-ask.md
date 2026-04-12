@@ -1,5 +1,5 @@
 ---
-title: Your Watch Knows Before You Do
+title: Your Wrist Answers Before You Ask
 description: The smartwatch is not a smaller phone. It is a body-worn notification system that changes the relationship between signal and response in ways that matter for how attention works. This is an honest examination of what the watch actually does.
 eyebrow: Essay
 ---
