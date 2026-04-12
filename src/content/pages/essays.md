@@ -15,6 +15,7 @@ Then start with one of these essays:
 
 - [When Depth Becomes Control](/inverse-gnosis)
 - [From Creation to Consumption](/from-creation-to-consumption)
+- [Your Wrist Answers Before You Ask](/your-wrist-answers-before-you-ask)
 - [The Role of Attention in the Collapse of Possibility](/the-role-of-attention-in-the-collapse-of-possibility)
 - [Why Truth Projects Should Not Look Like Marketing](/why-truth-projects-should-not-look-like-marketing)
 
@@ -64,8 +65,14 @@ The published essays below include the starting points above.
 - [Attention as a Resource](/attention-as-a-resource)
   An essay on the systematic capture of human attention as the foundation of the modern behavioral economy, and how it connects to the predictive systems described in The Void and Palantir.
 
+- [Your Wrist Answers Before You Ask](/your-wrist-answers-before-you-ask)
+  An essay on the smartwatch as a body-worn notification system that relocates the friction of attention decisions upstream, and what that means for how patterns take hold.
+
 - [Why Your Music Knows What You Want Before You Do](/why-your-music-knows-what-you-want-before-you-do)
   An essay on Spotify's recommendation engine, the non-random shuffle, and how music became an emotional regulation apparatus built on engagement metrics rather than genuine discovery.
+
+- [Attention and Free Will](/attention-and-free-will)
+  An essay on why free will in the strongest sense is probably an illusion, how the interrupt actually works as a trained neuroplastic capacity, and why the freedom that still matters begins with attention.
 
 - [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim)
   A guide to how Fractalism distinguishes between symbol, hypothesis, experience, practical insight, and factual claim so the framework remains sober and readable.
