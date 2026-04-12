@@ -61,6 +61,9 @@ The published essays below include the starting points above.
 - [When Silence Becomes Preferable to Music](/when-silence-becomes-preferable-to-music)
   A short reflection on what it means when silence starts to feel preferable to music — and what that shift might indicate about the quality of attention.
 
+- [Attention as a Resource](/attention-as-a-resource)
+  An essay on the systematic capture of human attention as the foundation of the modern behavioral economy, and how it connects to the predictive systems described in The Void and Palantir.
+
 - [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim)
   A guide to how Fractalism distinguishes between symbol, hypothesis, experience, practical insight, and factual claim so the framework remains sober and readable.
 

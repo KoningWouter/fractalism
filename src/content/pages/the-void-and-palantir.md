@@ -19,6 +19,8 @@ This is why the problem is larger than privacy.
 
 The deeper issue is behavioral legibility.
 
+To understand this fully, it helps to see the system in two stages. The first stage is the capture of attention: environments designed to hold your focus, learn your patterns, and extract behavioral data from how you move through them. The second stage is what happens after that data is collected: modeling, prediction, and shaping of behavior based on what was learned. This essay covers the second stage. A companion essay at /attention-as-a-resource covers the first.
+
 ## Beyond surveillance as a storage problem
 
 A lot of people still imagine surveillance in old terms. Information is gathered, stored, cross referenced, and held over populations like a passive archive.
@@ -147,3 +149,5 @@ If a system wants instant access to your next reaction, the Void reminds you tha
 That pause does not defeat the system. But it can keep your next act from being wholly identical with its demand.
 
 And that still matters.
+
+These two essays belong together. Attention as a resource describes the capture layer. The Void and Palantir describes the prediction layer. Understanding both is not about finding someone to blame. It is about seeing the structure clearly enough to decide, as a person rather than a profile, what your attention is actually for.
