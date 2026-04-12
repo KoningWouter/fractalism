@@ -10,7 +10,7 @@ That is what epistemic hygiene means here.
 
 This page is not only for agreement. It is also for readers who want to know how Fractalism tries to prevent its own language from becoming vague, inflated, or self-sealing.
 
-For a more explicit statement of the internal standards meant to protect the project from drift, see [The Seven Purity Principles of Fractalism](/the-seven-purity-principles-of-fractalism).
+For a more explicit statement of the internal standards meant to protect the project from drift, see [How Fractalism Holds Itself to Account](/how-fractalism-holds-itself-to-account).
 
 Without this kind of discipline, a framework meant to sharpen discernment can quickly become a theater of projection: intense language mistaken for truth, personal experience inflated into universal law, symbolic insight hardened into dogma, or charisma substituting for clarity.
 

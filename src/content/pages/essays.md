@@ -52,7 +52,7 @@ The published essays below include the starting points above.
 - [The Role of Attention in the Collapse of Possibility](/the-role-of-attention-in-the-collapse-of-possibility)
   An essay on attention as something that does not only observe, but also selects, reinforces, and helps give psychological and social weight to certain possibilities over others.
 
-- [The Seven Purity Principles of Fractalism](/the-seven-purity-principles-of-fractalism)
+- [How Fractalism Holds Itself to Account](/how-fractalism-holds-itself-to-account)
   A page on the internal standards Fractalism uses to resist charisma, confusion, dependency, prestige games, and uncorrectable drift.
 
 - [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim)
