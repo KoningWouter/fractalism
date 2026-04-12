@@ -48,7 +48,7 @@ This is not incidental to how the system works. It is why the system works. Peop
 
 Most criticism of Spotify stops at the point where the platform becomes the villain and the user becomes the victim. That framing is incomplete.
 
-Lucifer asked the hardest question during the analysis of this topic: if Spotify recommended genuinely random music, music that was not shaped by engagement algorithms, music that served your actual flourishing rather than your engagement metrics, would users stay?
+Here is a question worth sitting with: if Spotify recommended genuinely random music, music that was not shaped by engagement algorithms, music that served your actual flourishing rather than your engagement metrics, would users stay?
 
 This question deserves to sit open rather than be resolved quickly. The honest position is that we do not know. Some people would leave. Some would stay because they prefer engagement-optimized music. Some would discover they wanted something they did not know was possible. The answer depends on what a person understands their own listening life to be for, and most people have not been asked that question about their music. The essay does not pretend to have that answer. It only suggests that the question is worth sitting with.
 
