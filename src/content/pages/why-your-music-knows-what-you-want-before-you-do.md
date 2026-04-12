@@ -8,7 +8,7 @@ There is something worth noticing the next time you open Spotify.
 
 You do not choose what plays. Not really. The playlist that greets you, the songs that appear mid-list, the shuffle that supposedly scatters your library into something unexpected, all of it is produced by a system that has a specific goal in mind. That goal is not musical discovery. It is not your preference. It is engagement.
 
-This is not speculation. Spotify's own researchers have published work on how recommendation systems shape listening behavior. Former employees have described the shuffle function as intentionally non-random, clustering repeats of specific artists to create the sensation of variety rather than genuine randomness. The company holds patents that describe selecting content to optimize listening duration and suppress user abandonment. These are documented facts. They are not secrets. The system just does not announce itself.
+This is not speculation. Spotify's own researchers have published work on how recommendation systems shape listening behavior. Former employees have described the shuffle function as producing results that are not statistically random, clustering repeats of specific artists to create the sensation of variety rather than genuine randomness. The company holds patents that describe selecting content to optimize listening duration and suppress user abandonment. These are documented facts. They are not secrets. The system just does not announce itself.
 
 This essay is about how that works, why it is effective, and what the actual trap is. It connects to a larger argument at fractalisme.nl/attention-as-resource about how attention systems are built. Music is not different from news or social media in the function it serves. It is just a more emotionally powerful bait.
 
@@ -50,11 +50,7 @@ Most criticism of Spotify stops at the point where the platform becomes the vill
 
 Lucifer asked the hardest question during the analysis of this topic: if Spotify recommended genuinely random music, music that was not shaped by engagement algorithms, music that served your actual flourishing rather than your engagement metrics, would users stay?
 
-The honest answer is probably not. Most people do not actually want to be challenged in their musical taste. They want to feel something they have already learned how to feel. They want the playlist that knows exactly the mood they are in. They want the track they did not know they needed. They want the app to understand them without requiring them to understand themselves.
-
-The algorithm exploits this. That is real. But the desire it exploits is also real. People choose the managed state because the unmanaged state is harder. The silence that music covers is sometimes too loud to sit with. The anxiety of not knowing what you want is sometimes more uncomfortable than having the app decide for you.
-
-This does not make Spotify innocent. It makes the trap more complete.
+This question deserves to sit open rather than be resolved quickly. The honest position is that we do not know. Some people would leave. Some would stay because they prefer engagement-optimized music. Some would discover they wanted something they did not know was possible. The answer depends on what a person understands their own listening life to be for, and most people have not been asked that question about their music. The essay does not pretend to have that answer. It only suggests that the question is worth sitting with.
 
 ## The escape that is also not an escape
 
@@ -82,4 +78,8 @@ The same two-stage architecture that applies to attention applies here. Music ca
 
 Understanding this is not a solution. But it is a place from which to ask what music is actually for, and whether the systems you use to access it are serving that purpose or serving a different one.
 
-That question is not asked often enough.
+There is one practical thing worth noticing once the mechanism is visible.
+
+When music stops being background and starts being something you listen to with full attention, without the algorithm curating the emotional context, something shifts. Not always comfortably. The music that surfaces when you stop using playlists to manage mood tends to be music you have a real relationship with rather than music you have a comfortable history with. That difference is small and important.
+
+A practical starting point is simple: put on music you have not thought about in years and listen to it without doing anything else. See what happens. Notice whether the impulse to skip or check something arises, and what that impulse feels like. That is not a solution to the structural problem. But it is a small practice in noticing where attention goes, and what the managed experience of music is protecting against.
