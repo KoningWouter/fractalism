@@ -22,7 +22,7 @@ Here is what that can look like in practice. Someone has been angry for years, a
 
 The second layer is structural. Once you see that consciousness is not a product but a ground, you start noticing it at work in patterns that span individuals, relationships, cultures. Not metaphorically — literally. The way reciprocal recognition tends to emerge wherever conditions allow it. The way extraction always requires a prior distortion of what is real. The page [The Source Moves Through You](/the-source-moves-through-you) traces how consciousness operates through human systems without being controlled by them.
 
-The third layer is the one where the Source becomes hardest to deny and easiest to ignore. The Void is not emptiness in the nihilistic sense. It is the gap between stimulus and response, the pause before reflex hardens into action, the place where a person can notice a pattern beginning before they become its instrument. It is where the Source hides when consciousness has been shaped into something that forgets itself. The page [The Void](/the-void) is where Fractalism gets most practical, because that gap is where any real change in a life actually happens.
+The third layer is the one where the Source becomes hardest to deny and easiest to ignore. The Void is not emptiness in the nihilistic sense. It is the gap between what happens and what you do next. It is the pause before reflex hardens into action, the space where a person can notice a pattern beginning before they become its instrument. It is where the Source hides when consciousness has been shaped into something that forgets itself. The page [The Void](/the-void) is where Fractalism gets most practical, because that gap is where any real change in a life actually happens.
 
 ---
 
@@ -34,8 +34,8 @@ When consciousness turns away from itself, it does not disappear. It goes inward
 
 This matters because it means recognition is not a smooth arrival. It is preceded by resistance. Something in you has to refuse the familiar, the defended, the safe. It has to say no to the story that makes sense in order to see what is actually there. The recognition that follows is not a reward for the brave. It is simply what is left when the noise stops. But the noise does not stop automatically. It takes something. A friction that refuses to be resolved. A question that will not close. The work that precedes recognition is not dramatic. It is usually very small and very persistent.
 
-Fractalism does not ask you to believe in the Source. It asks you to notice what consciousness does when it stops running from itself. That noticing is not a technique. It is more like a quality of attention that can be developed, like a muscle that grows with use. The more you look, the more you see. The more you see, the harder it becomes to pretend you do not know what you know.
+Fractalism does not ask you to believe in the Source. It asks you to notice what consciousness does when it stops running from itself. That noticing is not a technique. It is more like a quality of attention that can be developed, like a muscle that grows with use. The more you look, the more you see. And seeing more makes it harder to ignore what you know.
 
-That is the direction. Not certainty, not enlightenment, not any destination that can be claimed. Just a consistent turning toward what is real, over and over, until the turning becomes less effortful and the real becomes more familiar.
+That is the direction. It is not a destination you can claim. It is a consistent turning toward what is real, over and over, until the turning becomes less effortful and the real becomes more familiar.
 
-The rest is recognition, not belief.
+What remains is recognition.
