@@ -1,5 +1,5 @@
 ---
-title: The Source
+title: The Source Moves Through You
 description: "Is the Source a conscious presence, or an unconscious pattern? And what does it mean if the answer is both?"
 eyebrow: Essay
 ---
