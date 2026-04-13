@@ -399,7 +399,7 @@ body.lightbox-open {
 .hero__inner {
 	display: grid;
 	gap: 2rem;
-	max-width: 70rem;
+	max-width: 90vw;
 }
 
 .eyebrow {
