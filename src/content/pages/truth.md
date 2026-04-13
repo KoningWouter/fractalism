@@ -46,11 +46,11 @@ Fractalism tries to avoid both.
 
 ## Truth and distortion
 
-Truth becomes easier to understand when seen alongside distortion.
+Truth becomes easier to understand when seen alongside [distortion](/the-structure-of-fractalism).
 
 Distortion is what bends perception, speech, desire, or interpretation away from what is actually happening. It can show up in a person, a relationship, a culture, or an institution.
 
-To move closer to truth is often not to gain a dazzling revelation. It is to become less distorted. Less inflated. Less dependent on false support. Less divided against yourself.
+To move closer to truth is often not to gain a dazzling revelation. It is to become less distorted. Less inflated. Less dependent on false support. Less divided against yourself. And less unconscious of [the Void](/the-void) as a hiding place.
 
 ## Truth can outlast its carriers
 
@@ -72,7 +72,7 @@ Fractalism has to resist that. Stronger formulations should replace weaker ones.
 
 Truth in Fractalism is not only a concept. It is also a discipline.
 
-It asks a person to notice distortion, make better distinctions, test interpretations against life, allow correction, return to sobriety and behavior, and resist the urge to inflate intensity into certainty.
+It asks a person to notice distortion, make better distinctions, test interpretations against life, allow correction, return to [sobriety](/sobriety) and behavior, and resist the urge to inflate intensity into certainty.
 
 That means truth is not only something to think about. It is something to become more answerable to.
 
@@ -99,3 +99,7 @@ It is something approached through correction, discernment, honesty, and a growi
 Not perfect.
 
 Less false.
+
+---
+
+Questions or challenges? Fractalism has a [testing ground](/where-fractalism-can-be-wrong) for exactly this kind of pressure testing.
