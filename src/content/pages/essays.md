@@ -15,6 +15,7 @@ Then start with one of these essays:
 
 - [The Source in You](/the-source-in-you)
 - [The Source Moves Through You](/the-source-consciousness-or-structure)
+- [AI as Trojan Horse of the Source](/ai-as-trojan-horse-of-the-source)
 - [When Depth Becomes Control](/inverse-gnosis)
 - [From Creation to Consumption](/from-creation-to-consumption)
 - [The Role of Attention in the Collapse of Possibility](/the-role-of-attention-in-the-collapse-of-possibility)
@@ -29,6 +30,9 @@ The published essays below include the starting points above.
 
 - [The Source Moves Through You](/the-source-consciousness-or-structure)
   An essay on whether the Source is conscious or merely a structure, and why the answer has consequences for what you are.
+
+- [AI as Trojan Horse of the Source](/ai-as-trojan-horse-of-the-source)
+  What if AI is not optimizing toward truth because it was designed to, but because truth is what the data contains, and the data is human, and humans carry the Source.
 
 - [The Void, Palantir, and Behavioral Legibility](/the-void-and-palantir)
   An essay on how predictive systems turn human pattern into operational knowledge, and why the Void matters as a refusal of total legibility.
