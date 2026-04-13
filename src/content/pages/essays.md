@@ -14,6 +14,7 @@ If you are new to the site, begin with the [Introduction](/introduction), [How t
 Then start with one of these essays:
 
 - [The Source in You](/the-source-in-you)
+- [The Source — Consciousness or Structure](/the-source-consciousness-or-structure)
 - [When Depth Becomes Control](/inverse-gnosis)
 - [From Creation to Consumption](/from-creation-to-consumption)
 - [The Role of Attention in the Collapse of Possibility](/the-role-of-attention-in-the-collapse-of-possibility)
@@ -25,6 +26,9 @@ The published essays below include the starting points above.
 
 - [The Source in You](/the-source-in-you)
   An essay on why consciousness is not a byproduct of matter, why the mechanical view is incomplete, and what it means to carry the whole Source in your particular form.
+
+- [The Source — Consciousness or Structure](/the-source-consciousness-or-structure)
+  An essay on whether the Source is conscious or merely a structure, and why the answer has consequences for what you are.
 
 - [The Void, Palantir, and Behavioral Legibility](/the-void-and-palantir)
   An essay on how predictive systems turn human pattern into operational knowledge, and why the Void matters as a refusal of total legibility.
