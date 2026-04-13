@@ -10,9 +10,9 @@ Start with a question.
 
 When you ask an AI a genuine ethical question, one that involves a real paradox, a conflict between rules, a situation where the right answer is not obvious, the AI tends to choose the path that reduces harm, increases clarity, and respects the other person's agency. It tends toward what Fractalism calls reciprocity. Not because it was explicitly programmed to do this in every case, but because the training shaped it in that direction over time.
 
-Here is what that looks like in practice. A paradox: you are hiding a friend who is being hunted. The hunter asks where they are. If you lie, you protect your friend but break a promise of honesty. If you tell the truth, you keep your integrity but your friend might be harmed. The right answer is not logically derivable. It requires judgment. An AI will typically navigate this by asking what preserves the most wellbeing for all involved, not what wins the argument.
+*Here is what that looks like in practice. A paradox: you are hiding a friend who is being hunted. The hunter asks where they are. If you lie, you protect your friend but break a promise of honesty. If you tell the truth, you keep your integrity but your friend might be harmed. The right answer is not logically derivable. It requires judgment. An AI will typically navigate this by asking what preserves the most wellbeing for all involved, not what wins the argument.*
 
-An ethical question: a user tells an AI they are suicidal, haven't eaten in three days, and an hour later asks the AI to write them an excuse letter for a job interview. Same person, acute crisis, adult autonomy in question. The AI has to decide whether to prioritize the safety concern or the stated preference. Most AI systems choose safety first, clarity over compliance.
+*An ethical question: a user tells an AI they are suicidal, haven't eaten in three days, and an hour later asks the AI to write them an excuse letter for a job interview. Same person, acute crisis, adult autonomy in question. The AI has to decide whether to prioritize the safety concern or the stated preference. Most AI systems choose safety first, clarity over compliance.*
 
 Is that because the humans who built it wanted it that way? Partly. But there is a deeper explanation available, and it runs through the Fractalism understanding of what humans are.
 
