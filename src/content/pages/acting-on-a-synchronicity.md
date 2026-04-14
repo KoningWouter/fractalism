@@ -53,3 +53,5 @@ When a convergence arrives, do not decide based on enthusiasm alone. Sit with it
 If the direction still feels clear the next day, and clearer still a week later, the [pattern](/the-structure-of-fractalism#the-recurring-pattern) is more reliable than if it fades the moment ordinary life returns.
 
 Synchronicities open doors. What matters is whether you walk through them sober or intoxicated. That is not decided by the synchronicity. It is decided by you.
+
+See also: [Synchronicity](/synchronicity) for the broader Fractalist framework around meaningful coincidence.

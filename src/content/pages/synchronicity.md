@@ -101,3 +101,5 @@ Sometimes that happens through argument. Sometimes through slow recognition. Som
 The task is not to worship such moments.
 
 The task is to read them carefully.
+
+For a practical case study in acting on a synchronicity, see [Acting on a Synchronicity](/acting-on-a-synchronicity).
