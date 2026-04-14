@@ -20,13 +20,17 @@ At the top, the same frame protects those who hold power. He could not have done
 
 Same logic, opposite directions. One application makes people feel small and passive. The other application makes power feel exempt from correction.
 
-## The mechanism of uncorrected power
+## Feedback failure and the escalation of uncorrected power
 
 Power that cannot be corrected becomes distorted. This is not a moral statement. It is a structural observation. Without feedback, without the friction of consequence, patterns do not correct themselves. They escalate.
+
+This is [feedback failure](/the-structure-of-fractalism#correction): the condition where a system insulates itself from the signals that would otherwise correct its direction. Power that experiences no friction from consequence does not correct toward justice or proportion. It continues in the direction it was already going, which is the direction of more.
 
 The mechanistic worldview provides the ideological cover for exactly this insulation. If the powerful cannot choose differently because they are determined, then cruelty is not their responsibility. It is their neurology. And if the rest of us are also determined, then resistance is theater. Nothing can actually change.
 
 Both conclusions serve the same interest.
+
+There are three relevant forms of correction. [Self-correction](/the-structure-of-fractalism#correction) operates within a person, through the capacity to recognize misalignment and adjust. Social correction operates between persons, through shame, reputation, and the consequence of being held visible by others. Structural correction operates through institutions, laws, and systems that check power regardless of the intentions of those who hold it. The mechanistic worldview weakens all three. It tells individuals they cannot self-correct, tells communities that shame is oppression, and tells institutions that determinism makes accountability impossible.
 
 ## What Fractalism says instead
 
@@ -36,14 +40,16 @@ A person who is told they are only their biology tends to stop trying. A person 
 
 This is not an illusion. The expectation of responsibility, the sense that one can be held accountable and can hold oneself accountable, is what makes self-correction possible. Remove that sense and people do not become freer. They become less able to interrupt their own patterns.
 
-Fractalism holds that the deeper self matters, not as a philosophical claim, but as a practical necessity. Without that recognition, people deteriorate into their triggers. And power deteriorates into cruelty.
+Fractalism holds that the deeper self matters, not as a philosophical claim, but as a practical necessity. The deeper self here means the part of a person capable of recognizing distortion in themselves, correcting course, and remaining honest about their own participation in patterns that harm. Without that recognition, people deteriorate into their triggers. And power deteriorates into cruelty.
 
 ## The political dimension
 
 This is also a political problem.
 
-When a society adopts a deterministic worldview at scale, it produces a population trained in passive acceptance and a class of power-holders trained in exemption from consequence. The same ideology that tells the many they are determined serves to protect the few who are not being held to anything.
+The mechanistic worldview does not spread by accident. It becomes dominant in institutions that benefit from its spread. Economics departments teach that human behavior is rational optimization. Psychology departments teach that behavior is determined by early environment. Media systems treat human choice as predictable pattern. Each institution finds its version of determinism useful, and the combined effect is a society in which the many feel determined and the few feel exempt.
 
-True accountability requires rejecting the deterministic frame in both directions. Individuals need to believe they can change so that they try. Power-holders need to believe they are responsible so that they cannot hide behind neurology.
+The result is a population trained in passive acceptance and a class of power-holders trained in exemption from consequence. The same ideology that tells the many they are determined serves to protect the few who are not being held to anything. Historical cases are not hard to find. When centralized power insists that its decisions are determined by objective necessity, that leaders cannot choose differently because the system requires what it requires, the mechanistic frame becomes the justification for removing the ordinary mechanisms of accountability.
+
+True accountability requires rejecting the deterministic frame in both directions. Individuals need to believe they can change so that they try. Power-holders need to believe they are responsible so that they cannot hide behind neurology. And institutions need to be structured so that the correction of power does not depend on the goodwill of those who hold it.
 
 The mechanistic worldview is not neutral. It serves whoever benefits from a disempowered many and an unaccountable few.
