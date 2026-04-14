@@ -39,6 +39,9 @@ The published essays below include the starting points above.
 - [The Elite and the Logic of Extraction](/the-elite-and-the-logic-of-extraction)
   An essay on why extreme power so often becomes detached from conscience, and how extraction, insulation, and unreality reinforce one another.
 
+- [The Mechanistic Worldview and Corrupt Power](/the-mechanistic-worldview-and-corrupt-power)
+  How a deterministic framing disempowers individuals at the bottom and provides ideological cover for unaccountable power at the top.
+
 - [AI, Truth, and Distortion](/ai-truth-and-distortion)
   Why AI can sometimes function as a powerful instrument of clarification, and why no truth project can afford to treat it as neutral.
 
