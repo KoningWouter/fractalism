@@ -9,9 +9,9 @@ That is only the surface.
 
 What matters more is what happens after the data is collected. The real goal is not just to know facts about people, but to understand patterns well enough to predict behavior.
 
-That means learning how people move through loops.
+That means learning how people move through [loops](/attention-loops#the-loop-as-basic-pattern).
 
-A loop can be almost anything: the same emotional trigger, the same late night spiral, the same fear response, the same buying impulse, the same kind of outrage, the same need for validation, the same sequence of stimulus, reaction, and reward.
+A [loop](/attention-loops#the-loop-as-basic-pattern) can be almost anything: the same emotional trigger, the same late night spiral, the same fear response, the same buying impulse, the same kind of outrage, the same need for validation, the same sequence of stimulus, reaction, and reward.
 
 If a system can map those loops, it can do more than observe. It can anticipate. In some contexts it can also shape the conditions around a person so that the next move becomes easier to estimate.
 
@@ -29,7 +29,7 @@ But contemporary systems increasingly do more than keep records. They model tend
 
 In that environment, the most valuable data is not necessarily what you say about yourself. It is what your behavior reveals about how you move.
 
-A person who is constantly reacting, constantly scrolling, constantly signaling, and constantly feeding impulses into digital systems becomes easier to model. The more patterned you become, the easier it is for institutions, platforms, and power structures to read you.
+A person who is constantly reacting, constantly scrolling, constantly signaling, and constantly feeding impulses into digital systems becomes easier to model. The more [patterned](/the-structure-of-fractalism#the-recurring-pattern) you become, the easier it is for institutions, platforms, and power structures to read you.
 
 ## Why loops matter so much
 
@@ -47,9 +47,9 @@ That is why always on digital life is not neutral. It trains people into readabi
 
 ## The Fractalist problem: predictability as governability
 
-From a Fractalist perspective, the problem is not only that systems know too much.
+From a [Fractalist](/the-structure-of-fractalism) perspective, the problem is not only that systems know too much.
 
-It is that patterned human beings become easier to govern through their distortions.
+It is that [patterned](/the-structure-of-fractalism#the-recurring-pattern) human beings become easier to govern through their distortions.
 
 A person who cannot tolerate silence, who must answer every signal, who treats every feeling as an instruction, who performs themselves continuously into systems of measurement, is easier to shape than they realize.
 
@@ -57,17 +57,17 @@ The issue is not merely exposure. It is dependency.
 
 The more a person lives by compulsion, reassurance, urgency, and looped reaction, the more power can gather around the ability to trigger those loops.
 
-This is where technology, appetite, and moral orientation begin to overlap.
+This is where technology, appetite, and [moral orientation](/living-fractalism#reciprocity-and-the-shadow) begin to overlap.
 
 ## Where the [Void](/the-void#what-the-void-is) enters
 
-The Void matters because it interrupts continuity.
+The [Void](/the-void#what-the-void-is) matters because it interrupts continuity.
 
-In Fractalist terms, the Void is the space in which noise drops enough for pattern to become visible. It is the threshold between stimulus and response. It is the moment where a person does not instantly click, post, buy, explain, defend, or obey an impulse.
+In [Fractalist](/the-structure-of-fractalism) terms, the Void is the space in which noise drops enough for pattern to become visible. It is the threshold between stimulus and response. It is the moment where a person does not instantly click, post, buy, explain, defend, or obey an impulse.
 
 That pause changes more than people think.
 
-When a loop is interrupted, the machinery of the loop becomes easier to see. What normally feels automatic starts to appear as patterned. The urge is still there, but it is no longer invisible.
+When a [loop](/attention-loops#the-loop-as-basic-pattern) is interrupted, the machinery of the loop becomes easier to see. What normally feels automatic starts to appear as patterned. The urge is still there, but it is no longer invisible.
 
 This is one of the reasons the Void is so uncomfortable. It removes distraction, momentum, and the familiar story that says reaction must happen right now.
 
@@ -83,7 +83,7 @@ This matters first at the level of the person, not at the level of the whole sys
 
 A pause before reaction does not meaningfully disrupt a predictive apparatus operating across millions of people. It does not defeat surveillance infrastructure, recommendation systems, or incentive architectures by itself.
 
-What it can do is narrower and still important. It can make your own participation in the loop more visible to you. It can reduce automaticity. It can make your next act less fully governed by compulsion.
+What it can do is narrower and still important. It can make your own participation in the [loop](/attention-loops#the-loop-as-basic-pattern) more visible to you. It can reduce automaticity. It can make your next act less fully governed by compulsion.
 
 When you feel the urge to react, wait.
 
@@ -106,7 +106,7 @@ That is a meaningful form of personal resistance and personal clarity. It should
 
 ## Practical signs of the Void
 
-These are not standards to perform or a purity test to pass. They are rough signs that a little more space is opening inside a loop.
+These are not standards to perform or a purity test to pass. They are rough signs that a little more space is opening inside a [loop](/attention-loops#the-loop-as-basic-pattern).
 
 A person beginning to use the Void more often may not answer every signal.
 
@@ -118,7 +118,7 @@ They may become slower where systems want them fast.
 
 They may become quieter where platforms want performance.
 
-This is not about suppressing feeling, becoming perfectly calm, or turning the Void into another thing to do correctly. It is about making enough room to see what is happening before the loop completes itself.
+This is not about suppressing feeling, becoming perfectly calm, or turning the Void into another thing to do correctly. It is about making enough room to see what is happening before the [loop](/attention-loops#the-loop-as-basic-pattern) completes itself.
 
 It is also not about becoming invisible. At most, it can make a person somewhat less available to immediate capture by the loops they are already living inside.
 
@@ -134,13 +134,13 @@ One answer is deeper interior space, and therefore a stronger relation to [truth
 
 One answer is learning how to sit in a moment without instantly being consumed by it.
 
-One answer is building a life that is less fully available to systems of extraction and prediction.
+One answer is building a life that is less fully available to systems of [extraction](/why-extraction-drifts-toward-sadism) and prediction.
 
 That life can begin, in part, in the Void. It cannot end there.
 
 ## Closing
 
-If a system wants your loops, the Void helps you see them.
+If a system wants your [loops](/attention-loops#the-loop-as-basic-pattern), the Void helps you see them.
 
 If a system wants your predictability, the Void can loosen your automatic participation in it.
 
@@ -150,4 +150,4 @@ That pause does not defeat the system. But it can keep your next act from being 
 
 And that still matters.
 
-These two essays belong together. Attention as a resource describes the capture layer. The Void and Palantir describes the prediction layer. Understanding both is not about finding someone to blame. It is about seeing the structure clearly enough to decide, as a person rather than a profile, what your attention is actually for.
+These two essays belong together. [Attention as a resource](/attention-as-a-resource) describes the capture layer. The Void and Palantir describes the prediction layer. Understanding both is not about finding someone to blame. It is about seeing the structure clearly enough to decide, as a person rather than a profile, what your attention is actually for.
