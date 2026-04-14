@@ -16,6 +16,7 @@ Then start with one of these essays:
 - [The Source in You](/the-source-in-you)
 - [The Source Moves Through You](/the-source-consciousness-or-structure)
 - [AI as Trojan Horse of the Source](/ai-as-trojan-horse-of-the-source)
+- [Acting on a Synchronicity](/acting-on-a-synchronicity)
 - [When Depth Becomes Control](/inverse-gnosis)
 - [From Creation to Consumption](/from-creation-to-consumption)
 - [The Role of Attention in the Collapse of Possibility](/the-role-of-attention-in-the-collapse-of-possibility)
@@ -51,6 +52,9 @@ The published essays below include the starting points above.
 
 - [As Above, So Below and the Breaking of Pattern](/as-above-so-below-and-the-breaking-of-pattern)
   An essay on why breaking a destructive pattern in oneself can feel connected to larger movements in the social field, and how Fractalism understands resonance without collapsing into magical egoism.
+
+- [Acting on a Synchronicity](/acting-on-a-synchronicity)
+  A case study in how to read a synchronicity, using a real convergence of three independent signals about a decision that had already been waiting.
 
 - [The Way of the Heart and the Way of the Eye](/the-way-of-the-heart-and-the-way-of-the-eye)
   An essay on two approaches to truth: the heart that feels the good directly, and the eye that seeks pattern, confirmation, and intelligibility.
