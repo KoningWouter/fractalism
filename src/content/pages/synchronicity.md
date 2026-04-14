@@ -52,13 +52,7 @@ This does not make the interpretation automatically correct. But it does suggest
 
 ## What synchronicity is not
 
-Synchronicity is not a blank check for projection.
-
-Not every repeated number is meaningful. Not every coincidence is a message. Not every charged moment confirms the story you are tempted to attach to it.
-
-The same mind that can notice real pattern can also over-read, over-link, and over-inflate. A person can be hungry for meaning and start turning every echo into proof.
-
-That is why Fractalism insists on restraint.
+Synchronicity does happen. It is not only the mind over-reading coincidence or finding pattern where none exists. There is something to these moments that resists that reduction, and Fractalism takes that seriously before anything else.
 
 ## Experience and interpretation
 
@@ -72,29 +66,15 @@ Fractalism therefore treats synchronicity as a clue, not a verdict.
 
 ## Pattern overlap as a speculative image
 
-One possible way of thinking about synchronicity is not as a supernatural message and not as mere projection, but as a moment where patterns that are usually experienced separately appear to cross in a way that feels newly salient.
+One way of thinking about synchronicity is as a moment where patterns that are usually experienced separately cross in a way that feels newly salient. Not a supernatural message, not mere projection, but a real convergence that registers in experience precisely because different layers of pattern seem to touch at the same point.
 
-This is not a settled theory. It is closer to a speculative image than to a demonstrated explanation.
-
-On that reading, synchronicity is not necessarily a violation of reality's order. It may be a brief point where different layers of experience, timing, and relation seem to touch in a way that stands out.
-
-This does not need to be stated too strongly. It may be geometric only in an analogical sense, a way of naming patterned relation, proportion, timing, and recurrence. The value of this image is interpretive rather than final. It helps name an intuition without pretending to resolve it.
-
-Fractalism does not claim that synchronicity can currently be verified as a distinct mechanism in objective terms. The value of the concept here is phenomenological and interpretive, not explanatory in any final sense.
+On that reading, synchronicity is not a violation of reality's order. It may be a brief point where different layers of experience, timing, and relation seem to touch in a way that stands out. The value of this image is not merely interpretive. It names something that happens, and it does so without pretending to resolve why.
 
 ## What synchronicity suggests about experience
 
 If synchronicity is a real recurring feature of human experience, then it suggests at least this much: experience is more layered than a flat model of consciousness can easily describe.
 
-People do not register only objects and events. They also seem to register:
-
-- [pattern](/the-structure-of-fractalism#the-recurring-pattern)
-- [resonance](/field-quality)
-- salience
-- shifts in [field quality](/field-quality)
-- possible direction or meaning
-
-That is already a serious observation. It does not require a total metaphysical system to become interesting. It only requires acknowledging that consciousness may be more sensitive to structure than a purely flat account of experience allows.
+People do not register only objects and events. They also seem to register pattern, resonance, salience, shifts in field quality, and possible direction or meaning. That is already a serious observation. It does not require a total metaphysical system to become interesting. It only requires acknowledging that consciousness may be more sensitive to structure than a purely flat account of experience allows.
 
 ## How to read synchronicity well
 
