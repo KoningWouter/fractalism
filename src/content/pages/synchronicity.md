@@ -14,7 +14,7 @@ That is the territory of synchronicity.
 
 ![Synchronicity as Signal](/synchronicity.png)
 
-In Fractalist terms, synchronicity names a charged convergence between inner attention and outer event that feels unusually patterned or timely, while still leaving the meaning of that convergence open.
+In [Fractalist](/the-structure-of-fractalism) terms, synchronicity names a charged convergence between inner attention and outer event that feels unusually patterned or timely, while still leaving the meaning of that convergence open.
 
 This page is mainly concerned with the experience of synchronicity and with how to read it carefully. It is not claiming to have a settled theory of what causes such moments.
 
@@ -28,15 +28,15 @@ Fractalism takes synchronicity seriously, but not naively.
 
 One reason synchronicity matters is that it sometimes appears precisely when experience is becoming closed, mechanical, or trapped inside a loop.
 
-A person can become enclosed in confusion, compulsion, despair, self-protection, or interpretive rigidity. Everything starts to feel flattened. Attention narrows. Meaning collapses into repetition.
+A person can become enclosed in confusion, compulsion, despair, self-protection, or interpretive rigidity. Everything starts to feel flattened. [Attention](/attention-as-a-resource) narrows. Meaning collapses into [repetition](/the-structure-of-fractalism#the-recurring-pattern).
 
 In those moments, synchronicity can function as a small interruption.
 
-Not because it solves everything. Not because it guarantees truth. But because it can break the feeling that reality has become fully sealed. It can open a crack in a closed pattern and make a person notice that something more is happening than the loop itself was able to admit.
+Not because it solves everything. Not because it guarantees truth. But because it can break the feeling that reality has become fully sealed. It can open a crack in a closed [pattern](/the-structure-of-fractalism#the-recurring-pattern) and make a person notice that something more is happening than the [loop](/attention-loops#the-loop-as-basic-pattern) itself was able to admit.
 
 In that sense, synchronicity can be read as resistance to total enclosure.
 
-## The attention-grabbing quality of synchronicity
+## The [attention](/attention-as-a-resource)-grabbing quality of synchronicity
 
 A synchronicity often does not feel meaningful only after long reflection. Often it arrests attention first.
 
@@ -46,9 +46,9 @@ Only afterwards does thought begin trying to understand why.
 
 That matters. It means synchronicity is not only a neutral event that later receives interpretation. It is often an event that presents itself as salient before any full explanation is available.
 
-This does not make the interpretation automatically correct. But it does suggest that human experience responds not only to bare facts, but also to pattern, salience, resonance, and possible meaning.
+This does not make the interpretation automatically correct. But it does suggest that human experience responds not only to bare facts, but also to [pattern](/the-structure-of-fractalism#the-recurring-pattern), salience, [resonance](/field-quality), and possible meaning.
 
-Attention sometimes seems to know that something matters before thought can explain why.
+[Attention](/attention-as-a-resource) sometimes seems to know that something matters before thought can explain why.
 
 ## What synchronicity is not
 
@@ -66,7 +66,7 @@ A useful distinction matters here.
 
 A synchronicity can be real as an experience without automatically being true as an explanation.
 
-The moment itself may genuinely matter. It may affect attention. It may reveal a state of readiness, a pattern of concern, or a shift in perception. But the interpretation you attach to it can still be wrong, exaggerated, or premature.
+The moment itself may genuinely matter. It may affect [attention](/attention-as-a-resource). It may reveal a state of readiness, a [pattern](/the-structure-of-fractalism#the-recurring-pattern) of concern, or a shift in perception. But the interpretation you attach to it can still be wrong, exaggerated, or premature.
 
 Fractalism therefore treats synchronicity as a clue, not a verdict.
 
@@ -88,10 +88,10 @@ If synchronicity is a real recurring feature of human experience, then it sugges
 
 People do not register only objects and events. They also seem to register:
 
-- pattern
-- resonance
+- [pattern](/the-structure-of-fractalism#the-recurring-pattern)
+- [resonance](/field-quality)
 - salience
-- shifts in field quality
+- shifts in [field quality](/field-quality)
 - possible direction or meaning
 
 That is already a serious observation. It does not require a total metaphysical system to become interesting. It only requires acknowledging that consciousness may be more sensitive to structure than a purely flat account of experience allows.
@@ -104,7 +104,7 @@ A better question than, "What secret message is the universe sending me?" is thi
 
 That question keeps the event open. It does not flatten it into dismissal, but it also does not inflate it into certainty.
 
-If a synchronicity makes you clearer, steadier, more honest, or more able to see the pattern you are living inside, then it may be doing real work.
+If a synchronicity makes you clearer, steadier, more honest, or more able to see the [pattern](/the-structure-of-fractalism#the-recurring-pattern) you are living inside, then it may be doing real work.
 
 If it makes you grandiose, obsessive, or less reality-based, then something in the reading has probably gone wrong.
 
@@ -114,7 +114,7 @@ Read carefully, synchronicity tends to increase honesty, proportion, and contact
 
 ## Closing
 
-Synchronicity belongs in Fractalism because Fractalism is concerned with how pattern becomes visible.
+Synchronicity belongs in [Fractalism](/the-structure-of-fractalism) because [Fractalism](/the-structure-of-fractalism) is concerned with how [pattern](/the-structure-of-fractalism#the-recurring-pattern) becomes visible.
 
 Sometimes that happens through argument. Sometimes through slow recognition. Sometimes through a charged interruption that makes a closed pattern briefly less closed.
 
