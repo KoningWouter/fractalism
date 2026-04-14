@@ -42,6 +42,9 @@ The published essays below include the starting points above.
 - [The Mechanistic Worldview and Corrupt Power](/the-mechanistic-worldview-and-corrupt-power)
   How a deterministic framing disempowers individuals at the bottom and provides ideological cover for unaccountable power at the top.
 
+- [Mathematics and Spirituality as the Same Description](/mathematics-and-spirituality)
+  Why mathematics and spirituality describe the same underlying structure, and where Fractalism sits between them.
+
 - [AI, Truth, and Distortion](/ai-truth-and-distortion)
   Why AI can sometimes function as a powerful instrument of clarification, and why no truth project can afford to treat it as neutral.
 
