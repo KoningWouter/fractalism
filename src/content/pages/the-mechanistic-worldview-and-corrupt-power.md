@@ -53,3 +53,5 @@ The result is a population trained in passive acceptance and a class of power-ho
 True accountability requires rejecting the deterministic frame in both directions. Individuals need to believe they can change so that they try. Power-holders need to believe they are responsible so that they cannot hide behind neurology. And institutions need to be structured so that the correction of power does not depend on the goodwill of those who hold it.
 
 The mechanistic worldview is not neutral. It serves whoever benefits from a disempowered many and an unaccountable few.
+
+See also: [The Elite and the Logic of Extraction](/the-elite-and-the-logic-of-extraction) for a deeper analysis of how concentrated power becomes destructive.

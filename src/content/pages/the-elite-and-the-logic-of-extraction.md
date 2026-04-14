@@ -71,7 +71,7 @@ The pattern feeds itself.
 
 The pattern feeds itself.
 
-That is why [Fractalism](/the-structure-of-fractalism) treats elite corruption not as an isolated anomaly but as a pattern that emerges wherever [extraction](/why-extraction-drifts-toward-sadism) is rewarded and resistance is removed.
+That is why [Fractalism](/the-structure-of-fractalism) treats elite corruption not as an isolated anomaly but as a pattern that emerges wherever [extraction](/why-extraction-drifts-toward-sadism) is rewarded and resistance is removed. The ideological framework that makes this possible is examined in [The Mechanistic Worldview and Corrupt Power](/the-mechanistic-worldview-and-corrupt-power).
 
 ## The deeper crisis is moral numbness
 
