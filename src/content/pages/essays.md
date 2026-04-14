@@ -13,14 +13,9 @@ If you are new to the site, begin with the [Introduction](/introduction), [How t
 
 Then start with one of these essays:
 
-- [The Source in You](/the-source-in-you)
-- [The Source Moves Through You](/the-source-consciousness-or-structure)
-- [AI as Trojan Horse of the Source](/ai-as-trojan-horse-of-the-source)
-- [Acting on a Synchronicity](/acting-on-a-synchronicity)
-- [When Depth Becomes Control](/inverse-gnosis)
-- [From Creation to Consumption](/from-creation-to-consumption)
-- [The Role of Attention in the Collapse of Possibility](/the-role-of-attention-in-the-collapse-of-possibility)
-- [Why Truth Projects Should Not Look Like Marketing](/why-truth-projects-should-not-look-like-marketing)
+- [The Void, Palantir, and Behavioral Legibility](/the-void-and-palantir)
+- [The Elite and the Logic of Extraction](/the-elite-and-the-logic-of-extraction)
+- [Why Your Music Knows What You Want Before You Do](/why-your-music-knows-what-you-want-before-you-do)
 
 ## Published Essays
 
