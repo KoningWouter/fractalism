@@ -32,7 +32,7 @@ That independence matters because projection requires a hungry mind and an accom
 
 When a convergence arrives, the question is not whether it is meaningful. It is. The question is what kind of meaning it carries, and whether what becomes visible points toward clarity or toward the comfort of a story the mind wanted to hear.
 
-There is a difference between a synchronicity that confirms something you already suspected, and one that opens a direction you had not considered. The first can easily become circular reasoning. The second can become a genuine invitation. In Fractalist terms, the first may be a [loop](/attention-loops#the-loop-as-basic-pattern) confirming itself. The second may be the [Void](/the-void) opening a little space where something else becomes possible.
+There is a difference between a synchronicity that confirms something you already suspected, and one that opens a direction you had not considered. The first can easily become circular reasoning. The second can become a genuine invitation. In [Fractalist](/the-structure-of-fractalism) terms, the first may be a [loop](/attention-loops#the-loop-as-basic-pattern) confirming itself. The second may be the [Void](/the-void) opening a little space where something else becomes possible.
 
 In this case, the convergence did not tell the person what they wanted to hear. It pointed toward a commitment they had been hesitating about. That resistance is often a sign that the signal is real rather than wishful. The [Void](/the-void) had opened slightly, and the direction that had been blocked by hesitation became more visible.
 
