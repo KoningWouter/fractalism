@@ -18,6 +18,8 @@ These are not only health choices. They are shifts in field quality.
 
 That is where tamas, rajas, and sattva become useful.
 
+This page sits close to [Feeds Do Not Control Your Will, but the Atmosphere in Which It Chooses](/feeds-do-not-control-your-will-but-the-atmosphere-in-which-it-chooses), because feeds often shape the atmosphere from which a person chooses, and to [Why Attention Is Farmed to Keep You from the Void](/why-attention-is-farmed-to-keep-you-from-the-void), because some atmospheres make the Void harder to reach while others make recognition more available.
+
 ## Three modes of life
 
 For Fractalist purposes, the three gunas can be read simply as recurring modes of consciousness and lived condition.
@@ -106,6 +108,8 @@ This applies to food, drink, sleep, media, pace, social environment, and work. I
 That is why this page belongs inside Fractalism. It gives practical texture to concerns that already matter elsewhere in the framework: [field quality](/field-quality), [sobriety](/sobriety), [discernment](/truth), [distortion](/the-structure-of-fractalism#distortion), and the relation between [attention](/attention-as-a-resource) and lived possibility.
 
 A person who wants clarity but lives in a rajasic and tamasic loop will often feel split. They may believe good things, read good things, and intend good things while daily reinforcing the opposite field. The problem is not always ideological. Sometimes it is atmospheric.
+
+That is also why the feed matters so much. It does not only present ideas. It can keep a person in restless activation or passive fog long enough that [the Void](/the-void) feels distant and cleaner forms of [attention](/attention-as-a-resource) become harder to stabilize.
 
 ## The danger of idealizing sattva
 

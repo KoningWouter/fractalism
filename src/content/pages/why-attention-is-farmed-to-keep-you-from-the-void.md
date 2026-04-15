@@ -6,7 +6,7 @@ eyebrow: Essay
 
 The modern system does not only capture your attention because attention can be sold. It captures it because attention, if left alone long enough, starts to reveal something.
 
-A more concrete version of this argument appears in [Why Your Music Knows What You Want Before You Do](/why-your-music-knows-what-you-want-before-you-do), which shows how recommendation systems and emotional regulation loops work in one familiar domain before this essay widens the frame.
+A more concrete version of this argument appears in [Why Your Music Knows What You Want Before You Do](/why-your-music-knows-what-you-want-before-you-do), which shows how recommendation systems and emotional regulation loops work in one familiar domain before this essay widens the frame. A complementary argument appears in [Feeds Do Not Control Your Will, but the Atmosphere in Which It Chooses](/feeds-do-not-control-your-will-but-the-atmosphere-in-which-it-chooses), which focuses less on the Void itself and more on the emotional and perceptual climate in which choice becomes narrower or wider.
 
 It reveals the [Void](/the-void).
 
@@ -47,6 +47,8 @@ That is why the Void matters politically. It is not only where greater freedom b
 ## Why feeds feel smoother than silence
 
 Many people experience silence, boredom, or unstructured time as vaguely threatening. This is often explained as overstimulation withdrawal, and that is partly right. But there is something deeper underneath it.
+
+The older language of [Collapse, Agitation, and Clarity](/tamas-rajas-and-sattva) can help here, because some environments pull consciousness toward fog, some toward restless activation, and some toward the kind of proportion in which the Void becomes easier to reach.
 
 Silence does not only remove stimulation. It removes cover.
 

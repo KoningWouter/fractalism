@@ -16,6 +16,8 @@ A person may still be choosing, but choosing from within a field already thicken
 
 This is one reason the modern feed can be more invasive than older forms of propaganda. It does not need to replace your will. It only needs to condition the atmosphere in which your practical agency makes contact with reality.
 
+It also belongs beside [Why Attention Is Farmed to Keep You from the Void](/why-attention-is-farmed-to-keep-you-from-the-void), which looks at the same dynamic from the side of capture and interruption, and [Collapse, Agitation, and Clarity](/tamas-rajas-and-sattva), which looks at how different atmospheres get reinforced in daily life.
+
 ## The atmosphere comes first
 
 The ordinary fantasy is that manipulation works by implanting particular beliefs.
@@ -95,6 +97,8 @@ It applies to social feeds, outrage cycles, short-form video, endless recommenda
 The question is not only what these systems are doing to you. It is also how often you collaborate with them because stimulation is easier to tolerate than silence, and because inserted urgency can feel preferable to direct contact with your own condition.
 
 The practical question becomes simple.
+
+This is also where the language of [Collapse, Agitation, and Clarity](/tamas-rajas-and-sattva) becomes useful, because some atmospheres deaden attention, some overstimulate it, and some make it more breathable.
 
 What atmosphere is this interface creating in me?
 
