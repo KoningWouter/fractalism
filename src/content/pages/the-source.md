@@ -4,6 +4,8 @@ description: "The center that Fractalism keeps returning to. Not a belief, not a
 eyebrow: The Source
 ---
 
+![The Source](/the_source.png)
+
 There is a question Fractalism keeps asking, at every level of the framework. Not "is there something fundamental underneath reality?" but something simpler: what happens when consciousness turns toward itself?
 
 Most systems assume consciousness is what brains do. Everything else, including meaning, values, the pull toward truth, gets explained as a byproduct, useful, maybe, but not real in the way matter is real. Fractalism starts from the other side. It takes seriously the possibility that consciousness is not produced by complexity, but that complexity emerges from consciousness. That the movement toward recognition, toward truth, toward the other, is not an accident of evolution but an expression of something that was already there.
