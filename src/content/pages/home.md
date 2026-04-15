@@ -53,6 +53,8 @@ If you want the practical core, go to [Truth](/truth) and [Friction as Signal](/
 If you want the larger architecture, go to [The Structure of Fractalism](/the-structure-of-fractalism).
 If you want longer writings, go to [Essays](/essays).
 
+The [Essays](/essays) page now gathers a growing library of longer Fractalist writings on attention, power, consciousness, truth, correction, and lived practice.
+
 ## Closing
 
 Fractalism is not offered as a finished doctrine.  
