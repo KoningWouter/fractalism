@@ -22,6 +22,8 @@ Spirituality takes the structure and does something with it. It takes meaning se
 
 This difference can be stated simply: mathematics describes without evaluating. Spirituality describes and evaluates at the same time.
 
+If you want to extend this comparison further, [Music as the Missing Lens Between Mathematics and Spirituality](/music-as-the-missing-lens-between-mathematics-and-spirituality) explores whether music makes this shared structure experientially audible in time.
+
 This gap has caused trouble. Those who take mathematics seriously have sometimes concluded that meaning is an illusion, that value is merely subjective preference, that the reliability of number implies the unreliability of purpose. Those who take spirituality seriously have sometimes concluded that mathematics is cold, that structure misses the warmth of what matters, that formulas cannot capture what is truly important.
 
 Both conclusions are wrong. They treat mathematics and spirituality as competitors rather than as two expressions of the same underlying truth. The deeper recognition is that they are both describing the same territory from different angles. Mathematics maps the terrain. Spirituality explains what it means to live in it. Neither is complete without the other.
@@ -40,7 +42,7 @@ And it does not reduce to spirituality either. It does not say that intention is
 
 If mathematics and spirituality are describing the same underlying reality, then the separation between them is not ultimate. It is a division of labor between two kinds of attention to the same world.
 
-The physicist who discovers a law of nature and the mystic who discovers a principle of inner order may be looking at the same thing through different lenses. The mathematician who finds elegance in proof and the meditator who finds clarity in stillness may be in contact with the same underlying structure.
+The physicist who discovers a law of nature and the mystic who discovers a principle of inner order may be looking at the same thing through different lenses. The mathematician who finds elegance in proof and the meditator who finds clarity in stillness may be in contact with the same underlying structure. The musician may be encountering that same structure as tension, cadence, return, and lived relation.
 
 This does not mean they will agree on what follows from it. But it means they are not as far apart as they think.
 

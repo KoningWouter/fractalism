@@ -6,6 +6,8 @@ eyebrow: Essay
 
 There is something incomplete in the familiar contrast between mathematics and spirituality.
 
+[Mathematics and Spirituality as the Same Description](/mathematics-and-spirituality) argues that both are describing the same underlying reality from different angles. This essay picks up from there and asks whether music helps explain what that kinship feels like from within.
+
 Mathematics seems to give us structure without inwardness. Spirituality seems to give us inwardness without structure. One offers proportion, pattern, relation, and form. The other offers meaning, depth, value, and presence. Each points toward something real. Each also leaves something out.
 
 What is left out is movement as lived relation.
@@ -89,6 +91,8 @@ Spirituality describes meaningful structure.
 Music enacts felt structure.
 
 Music is therefore not outside the other two. It mediates between them, and at times reveals a deeper unity they each approach from different sides.
+
+If the earlier essay argues for their shared ground in conceptual terms, music may be one of the clearest places where that shared ground becomes experientially audible.
 
 None of these is complete by itself.
 
