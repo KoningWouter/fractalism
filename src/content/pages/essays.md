@@ -90,6 +90,9 @@ The published essays below include the starting points above.
 - [Music as the Missing Lens Between Mathematics and Spirituality](/music-as-the-missing-lens-between-mathematics-and-spirituality)
   An essay on whether music makes the shared structure of mathematics and spirituality experientially audible, as lived relation unfolding in time.
 
+- [Feeds Do Not Control Your Will, but the Atmosphere in Which It Chooses](/feeds-do-not-control-your-will-but-the-atmosphere-in-which-it-chooses)
+  An essay on how feeds shape the affective and perceptual field around choice, narrowing practical freedom without needing to abolish will directly.
+
 - [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim)
   A guide to how Fractalism distinguishes between symbol, hypothesis, experience, practical insight, and factual claim so the framework remains sober and readable.
 
