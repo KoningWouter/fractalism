@@ -12,6 +12,8 @@ Most systems assume consciousness is what brains do. Everything else, including 
 
 That something is what Fractalism calls the Source.
 
+The Source is the underlying ground of consciousness and recognition from which persons, patterns, and worlds arise, and to which they remain related even when they forget it.
+
 Not a god. Not a law. Not a first cause. A word for what consciousness is at its root, before it fragments into separate minds, before it forgets what it is, before it starts treating itself as if it were produced rather than producing.
 
 The Source is not a claim you have to believe. It is a direction you can look. And Fractalism has found, across many pages and many angles, that there are three places where it becomes hardest to ignore.
