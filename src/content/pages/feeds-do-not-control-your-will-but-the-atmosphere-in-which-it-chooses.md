@@ -14,7 +14,7 @@ That matters more than it first seems.
 
 A person may still be choosing, but choosing from within a field already thickened by urgency, comparison, outrage, stimulation, and low-grade threat. The will remains formally present while its practical range becomes narrower, more reactive, and easier to steer.
 
-This is why the modern feed is more dangerous than older forms of propaganda. It does not need to replace your will. It only needs to condition the atmosphere in which your will makes contact with reality.
+This is one reason the modern feed can be more invasive than older forms of propaganda. It does not need to replace your will. It only needs to condition the atmosphere in which your practical agency makes contact with reality.
 
 ## The atmosphere comes first
 
@@ -22,11 +22,11 @@ The ordinary fantasy is that manipulation works by implanting particular beliefs
 
 Sometimes it does. But that is often not the first or most important layer.
 
-Before a person believes one thing or another, before they adopt an ideology or repeat a slogan, there is already an atmosphere in which perception is becoming easier or harder, wider or narrower, calmer or more panicked. If that atmosphere is manipulated, then everything that follows begins from distorted conditions.
+Before a person believes one thing or another, before they adopt an ideology or repeat a slogan, there is already an atmosphere in which perception is becoming easier or harder, wider or narrower, calmer or more panicked. Here atmosphere means the affective and perceptual field that shapes salience, pace, nervous system activation, and readiness for certain judgments or reactions. If that atmosphere is manipulated, then everything that follows begins from distorted conditions.
 
 This is what feeds are exceptionally good at doing.
 
-They do not only show content. They establish pace. They establish emotional weather. They establish what kinds of salience feel normal. They train the nervous system to expect interruption, novelty, conflict, mini-shocks, and continuous low-level activation. The mind then starts making choices inside an environment that has already been psychologically tuned.
+They do not only show content. They establish pace. They establish emotional weather. They establish what kinds of salience feel normal. They train the nervous system to expect interruption, novelty, conflict, mini-shocks, and continuous low-level activation. They shape attentional fragmentation, stress arousal, habit formation, reinforcement learning, and perceptual salience all at once. The mind then starts making choices inside an environment that has already been psychologically tuned.
 
 That is why the question is not only what a feed makes you think.
 
@@ -40,6 +40,8 @@ Fear makes [attention](/attention-as-a-resource) sticky. It narrows the horizon.
 
 This is why fear-based media can make people governable without their autonomy ever seeming to vanish. The person still experiences themselves as choosing. They are just choosing from inside a state that has already been bent.
 
+Feeds work so well not only because they impose pressure from outside, but because they meet inner susceptibility from within. Outrage binds to unresolved aggression. Comparison binds to insecurity. Pseudo-emergency binds to a psyche already trained to live in vigilance. Atmospheric engineering works partly because it resonates with what is unintegrated in the person.
+
 That bent state matters.
 
 It makes a person more likely to prefer reaction over reflection, alignment over inquiry, and urgency over depth. A feed does not need to issue commands when it can repeatedly produce the conditions in which certain kinds of choice become more likely than others.
@@ -48,7 +50,7 @@ It makes a person more likely to prefer reaction over reflection, alignment over
 
 A feed is not only an information channel. It is a system for shaping psychological climate.
 
-This is one reason modern power works so effectively through interface design. The feed does not primarily tell you what to want. It surrounds the act of wanting with a field that favors certain impulses over others. It intensifies some moods, weakens some capacities, and rewards some forms of response. The result is not the abolition of will, but the engineering of the atmosphere around it.
+This is one reason modern power works so effectively through interface design. The feed does not primarily tell you what to want. It surrounds the act of wanting with a field that favors certain impulses over others. It intensifies some moods, weakens some capacities, and rewards some forms of response. That climate is not accidental. It is reinforced by platform incentives, attention extraction, monetized agitation, personalization, and engineered dependence. The result is not the abolition of will, but the engineering of the atmosphere around it.
 
 This is subtler than direct command and often more effective.
 
@@ -66,7 +68,7 @@ This is not because the Void creates some magical outside position. It is becaus
 
 A person notices that their mind feels different when it is no longer being constantly fed conflict, comparison, mini-emergencies, and pseudo-relevance. They notice that some thoughts feel less inserted. Some impulses lose force. Some urgencies stop seeming urgent.
 
-This is already a form of recovery.
+This is already a form of recovery. It is also a confrontation, because in the quieter interval a person meets not only relief, but the cravings, fears, and fractures the feed had been helping them avoid.
 
 It is also why the Void can feel threatening to systems built on continuous capture. If the atmosphere changes, then the range of available choices changes with it.
 
@@ -90,6 +92,8 @@ This is not only about newsfeeds in the narrow sense.
 
 It applies to social feeds, outrage cycles, short-form video, endless recommendation loops, and any system that repeatedly loads the mind with emotional weather before a person has time to settle into themselves.
 
+The question is not only what these systems are doing to you. It is also how often you collaborate with them because stimulation is easier to tolerate than silence, and because inserted urgency can feel preferable to direct contact with your own condition.
+
 The practical question becomes simple.
 
 What atmosphere is this interface creating in me?
@@ -103,6 +107,8 @@ More agitated or more truthful?
 More fragmented or more able to choose?
 
 Those questions often reveal more than debating whether some particular piece of content is true or false.
+
+They can also become practices. Silence. Interval. Refusal. Periodic fasting from feeds. The rebuilding of attentional integrity through environments that do not constantly pre-shape the next reaction.
 
 Because long before one falsehood is believed, the field may already have been bent enough to make falsehood easier to receive.
 
