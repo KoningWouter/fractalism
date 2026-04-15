@@ -87,6 +87,9 @@ The published essays below include the starting points above.
 - [Why Attention Is Farmed to Keep You from the Void](/why-attention-is-farmed-to-keep-you-from-the-void)
   An essay on why attention is not only captured for profit, but farmed in ways that keep reflective thresholds unstable and make access to the Void less likely.
 
+- [Music as the Missing Lens Between Mathematics and Spirituality](/music-as-the-missing-lens-between-mathematics-and-spirituality)
+  An essay on whether music makes the shared structure of mathematics and spirituality experientially audible, as lived relation unfolding in time.
+
 - [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim)
   A guide to how Fractalism distinguishes between symbol, hypothesis, experience, practical insight, and factual claim so the framework remains sober and readable.
 
