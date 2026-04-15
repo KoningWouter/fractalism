@@ -1,5 +1,5 @@
 ---
-title: Tamas, Rajas, and Sattva
+title: Collapse, Agitation, and Clarity
 description: "A Fractalist reading of three recurring modes of life: collapse, agitation, and clarity."
 eyebrow: Three Modes
 ---
