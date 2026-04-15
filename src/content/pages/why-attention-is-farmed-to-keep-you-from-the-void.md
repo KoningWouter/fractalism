@@ -14,7 +14,7 @@ That moment matters far beyond the inner life of one person. It matters socially
 
 ## Attention capture is not only economic
 
-The obvious explanation for attention farming is profit. Platforms want to keep people watching, scrolling, clicking, listening, and returning because attention can be turned into advertising revenue, behavioral data, and predictive power.
+The obvious explanation for attention farming is profit. Platforms want to keep people watching, scrolling, clicking, listening, and returning because [attention](/attention-as-a-resource) can be turned into advertising revenue, behavioral data, and predictive power.
 
 That explanation is true, but incomplete.
 
@@ -32,13 +32,13 @@ They may notice that they do not actually want the thing they are reaching for.
 
 They may notice that the craving is older than the object that seems to satisfy it.
 
-They may notice that they are being guided by a pattern rather than making a choice.
+They may notice that they are being guided by a [pattern](/the-structure-of-fractalism) rather than making a choice.
 
 They may notice that the atmosphere around them, the speed, the pressure, the tone of the system, is shaping them in ways they had not consented to.
 
 All of this weakens control.
 
-The modern attention economy does not only need you engaged. It rewards keeping you pre-reflective. It rewards moving you from prompt to prompt before self-recognition stabilizes. The moment a person becomes able to see the loop as a loop, the extraction process is no longer invisible.
+The modern [attention economy](/attention-as-a-resource) does not only need you engaged. It rewards keeping you pre-reflective. It rewards moving you from prompt to prompt before self-recognition stabilizes. The moment a person becomes able to see the loop as a loop, the [extraction](/why-extraction-drifts-toward-sadism) process is no longer invisible.
 
 That is why the Void matters politically. It is not only where greater freedom becomes possible within causality. It is where management becomes visible.
 
@@ -60,7 +60,7 @@ The most effective platforms are built around continuity. There is always one mo
 
 This continuity is not neutral. It is a structure that functionally prevents arrival.
 
-Arrival matters because arrival creates a chance for a person to look. A person who looks long enough may stop participating in the pattern in the same way. They may stop consuming at the right speed. They may stop obeying the emotional pacing of the feed. They may begin to choose differently.
+Arrival matters because arrival creates a chance for a person to look. A person who looks long enough may stop participating in the [pattern](/the-structure-of-fractalism) in the same way. They may stop consuming at the right speed. They may stop obeying the emotional pacing of the feed. They may begin to choose differently.
 
 The [Void](/the-void) is the smallest unit of that danger.
 
@@ -74,7 +74,7 @@ A consumer who recognizes the pattern more clearly may stop buying in the same w
 
 A citizen who recognizes the pattern more clearly may stop reading control as necessity.
 
-The system therefore benefits from keeping people just busy enough, just activated enough, just emotionally managed enough that the moment of recognition remains brief and unstable.
+The system therefore benefits from keeping people just busy enough, just activated enough, just emotionally managed enough that the moment of [recognition](/truth) remains brief and unstable.
 
 This is what makes attention farming more than an economic model. It is part of a wider civilizational condition in which the conditions for reaching the [Void](/the-void) are repeatedly interrupted.
 
@@ -92,12 +92,12 @@ The question is not only whether attention is being captured.
 
 The deeper question is what attention would reveal if it were allowed to settle.
 
-Fractalism answers: it would reveal the pattern. It would reveal the loop. It would reveal the possibility that a person is not identical to what currently moves through them. It would reveal that recognition begins when a person sees the loop as a loop before enacting it. It would reveal that [choice](/the-void) becomes more available in the gap than in the feed.
+Fractalism answers: it would reveal the [pattern](/the-structure-of-fractalism). It would reveal the loop. It would reveal the possibility that a person is not identical to what currently moves through them. It would reveal that [recognition](/truth) begins when a person sees the loop as a loop before enacting it. It would reveal that [choice](/the-void) becomes more available in the gap than in the feed.
 
 That is why the Void is not a mystical luxury. It is one of the remaining conditions under which a person can become less readable, less steerable, and less available for extraction.
 
 Attention is farmed for money. But it is also farmed in ways that keep that condition from stabilizing.
 
-The ethical demand is not only to criticize the environment, but to stay present long enough at the threshold that recognition does not immediately collapse back into habit.
+The ethical demand is not only to criticize the environment, but to stay present long enough at the threshold that [recognition](/truth) does not immediately collapse back into habit.
 
 Because once the Void opens, the pattern is no longer alone with the person.
