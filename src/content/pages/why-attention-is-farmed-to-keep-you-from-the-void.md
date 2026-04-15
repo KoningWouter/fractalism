@@ -6,6 +6,8 @@ eyebrow: Essay
 
 The modern system does not only capture your attention because attention can be sold. It captures it because attention, if left alone long enough, starts to reveal something.
 
+A more concrete version of this argument appears in [Why Your Music Knows What You Want Before You Do](/why-your-music-knows-what-you-want-before-you-do), which shows how recommendation systems and emotional regulation loops work in one familiar domain before this essay widens the frame.
+
 It reveals the [Void](/the-void).
 
 Fractalism names the Void as the threshold just before a familiar pattern fully takes over. It is not blankness, dissociation, or mere silence. It is the brief moment where the loop has not yet committed, where more than one response is still available, where a person can sometimes see the loop as a loop before becoming its instrument.
