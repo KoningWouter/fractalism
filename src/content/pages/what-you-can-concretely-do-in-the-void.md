@@ -8,9 +8,9 @@ The Void only becomes truly useful when it becomes more than an abstract idea or
 
 Being in the Void is not automatically deep. Its value appears when it becomes clearer what can actually be done there.
 
-In that sense, the Void is not a destination. It is a workable interval within lived experience, a brief suspension in which habitual enactment is interrupted and the structure of experience becomes more observable.
+In that sense, the [Void](/the-void) is not a destination. It is a workable interval within lived experience, a brief suspension in which habitual enactment is interrupted and the structure of experience becomes more observable.
 
-That matters, because many people can recognize the gap before an old pattern fully takes over, but still do not know how to inhabit it. They may notice the pause before the scroll, the craving, the reflex, the defensive move, or the old explanation. But if the Void is understood only as emptiness, it can remain passive, vague, or threatening.
+That matters, because many people can recognize the gap before an old [pattern](/the-structure-of-fractalism) fully takes over, but still do not know how to inhabit it. They may notice the pause before the scroll, the craving, the reflex, the defensive move, or the old explanation. But if the Void is understood only as emptiness, it can remain passive, vague, or threatening.
 
 The practical shift begins when the Void is approached not as a separate realm, but as a place of work inside ordinary life.
 
@@ -56,6 +56,8 @@ I do not necessarily want to smoke, I want the pressure to stop. This is not int
 
 Naming makes the Void more readable. It turns vague inner weather into something that can be recognized rather than merely suffered.
 
+That movement also belongs to [truth](/truth), because recognition often begins when something stops being merely felt and becomes more honestly describable.
+
 It also begins to separate present experience from projection. Sometimes the pressure of the moment is saturated with old authorities, old lovers, old humiliations, or inherited voices. Naming helps a person see that not every urgency belongs only to the present situation.
 
 ## The fifth task is to see the automatic filling before it happens
@@ -66,7 +68,7 @@ Scrolling, eating, smoking, talking, analyzing, fantasizing, compulsive planning
 
 A crucial part of the work is to see the script before you perform it again.
 
-That matters not only psychologically, but socially. Many of these fillings are constantly reinforced by systems built to colonize the interval, feeds, notifications, behavioral design, manufactured urgency, and platforms that profit from a subject who cannot remain in the gap.
+That matters not only psychologically, but socially. Many of these fillings are constantly reinforced by systems built to colonize the interval, feeds, notifications, behavioral design, manufactured urgency, and platforms that profit from a subject who cannot remain in the gap. The wider atmospheric side of that capture is explored in [Feeds Do Not Control Your Will, but the Atmosphere in Which It Chooses](/feeds-do-not-control-your-will-but-the-atmosphere-in-which-it-chooses).
 
 Refusing immediate obedience is therefore not only private self-regulation. It can also be a small act of revolt against forms of capture that depend on your inability to stay present.
 
@@ -78,7 +80,7 @@ Sometimes the work is simply to remain present without filling the space, withou
 
 That does not mean heroic suffering. It means enduring enough to see what is actually happening.
 
-This is one reason the Void can become so practical. It teaches that not every inner pressure has to be either obeyed or catastrophized.
+This is one reason the Void can become so practical. It teaches that not every inner pressure has to be either obeyed or catastrophized. It also deepens the same concern explored in [Why Attention Is Farmed to Keep You from the Void](/why-attention-is-farmed-to-keep-you-from-the-void), namely that unstable attention makes this interval harder to inhabit.
 
 ## The seventh task is to let direction emerge later
 
@@ -120,4 +122,4 @@ The Void becomes truly valuable when it is understood not as a destination but a
 
 In that interval, a person can begin to see what appears when ordinary filling falls away, distinguish what kind of material is present, refrain from obeying every impulse, and name what is actually happening. This does not remove causality or guarantee revelation. It creates better conditions for seeing what is reactive, inserted, projected, or driven by old patterning.
 
-What is learned there must eventually return to conduct. It has to show itself in speech, relationship, habit, honesty, and the courage to choose a less false action. In that way, the Void stops being only an abstract emptiness or a vague threat. It becomes a practical site of lucidity, regulation, interpretation, and the beginning of a less mechanical life.
+What is learned there must eventually return to conduct. It has to show itself in speech, relationship, habit, honesty, and the courage to choose a less false action. In that way, the Void stops being only an abstract emptiness or a vague threat. It becomes a practical site of lucidity, regulation, interpretation, and the beginning of a less mechanical life. That is also where it touches [living Fractalism](/living-fractalism), because the test is never only what you see there, but what kind of life follows from it.
