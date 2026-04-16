@@ -24,7 +24,7 @@ That is why sobriety here should be read as a direction as much as a condition.
 
 ## Why it matters
 
-Much of Fractalism depends on discernment. It asks a person to notice friction, read field quality, recognize distortion, and sometimes catch an attention loop before it fully takes over.
+Much of Fractalism depends on [discernment](/concepts#discernment). It asks a person to notice [friction](/friction-as-signal), read [field quality](/field-quality), recognize [distortion](/concepts#distortion), and sometimes catch an [attention loop](/attention-loops#the-loop-as-basic-pattern) before it fully takes over.
 
 All of that becomes harder when attention is heavily clouded.
 
@@ -86,7 +86,7 @@ The relationship between sobriety and gnosis is iterative.
 
 Sobriety can make clearer perception more available. But clearer perception can also deepen sobriety. A person may begin by trying to clear the instrument, and later find that seeing more clearly changes what they are willing to give their life to.
 
-This does not mean clarity guarantees sobriety, or sobriety guarantees truth. It means the two can strengthen each other over time when they are real.
+This does not mean [reciprocity](/living-fractalism) is guaranteed, or that sobriety guarantees [truth](/concepts#truth). It means the two can strengthen each other over time when they are real.
 
 ## Sobriety and the Void
 
@@ -94,9 +94,9 @@ Sobriety can make moments of non-compulsion easier to notice.
 
 It does not guarantee clarity, and it does not turn every quiet state into contact with the Void. But a less crowded field often makes subtler thresholds easier to perceive.
 
-If attention is overstimulated, chemically altered, or constantly pulled into loops, the moment before reflex takes over becomes harder to feel.
+If attention is overstimulated, chemically altered, or constantly pulled into [loops](/attention-loops#the-loop-as-basic-pattern), the moment before reflex takes over becomes harder to feel.
 
-That is one reason sobriety matters.
+That is one reason [sobriety](/sobriety) matters, and one reason the [Void](/the-void) becomes harder to approach when attention is constantly captured.
 
 ## What sobriety is up against
 
