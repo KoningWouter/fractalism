@@ -16,6 +16,8 @@ When those layers fall away, what becomes visible is not necessarily serenity. I
 
 That is why silence can feel less like rest and more like a kind of open exposure. This is not the only reason silence becomes difficult, but it is one recurring mechanism that modern conditions seem to intensify.
 
+This essay sits close to [The Void](/the-void) and [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void), because the fear of silence is often one of the things that makes that interval harder to enter and harder to inhabit.
+
 ## Silence removes the filling
 
 Modern life is saturated with occupation.
@@ -27,6 +29,8 @@ In silence, that filling begins to fall away.
 What then appears is often mistaken for the effect of silence itself. But silence may only be revealing what the previous occupation had been covering. The discomfort was already there. The loneliness was already there. The inner fragmentation was already there. Silence did not create them. It removed the cover.
 
 This is one reason silence can feel threatening. It reveals what constant [attention](/attention-as-a-resource) occupation had made easier not to notice.
+
+It also clarifies why [Why Attention Is Farmed to Keep You from the Void](/why-attention-is-farmed-to-keep-you-from-the-void) is not only about profit, but about the destabilization of the conditions in which deeper encounter becomes possible.
 
 That does not mean all occupation is evasive. Speech, work, art, relation, and mediation can also be real expressions of life. The problem is not movement as such. The problem is compulsive buffering, the kind of occupation that keeps encounter from deepening.
 
@@ -47,6 +51,8 @@ Silence also disrupts a certain kind of control.
 As long as a person can keep choosing the next input, the next task, the next distraction, the next scroll, or the next explanation, they can maintain some degree of regulation through movement. Silence interferes with that strategy. It becomes harder to direct what rises, harder to pre-shape attention, harder to keep inner life at a distance.
 
 For someone used to regulating themselves through constant external input, this can feel like loss of grip.
+
+The older language of [Collapse, Agitation, and Clarity](/tamas-rajas-and-sattva) also helps here, because silence often exposes how much a person has been living in restless activation rather than in a more breathable field.
 
 Silence then appears not as a gift, but as a field in which unchosen material becomes harder to keep out of view. That material is not only discomfort in the flat sense. It can include resentment, envy, grief, dependency, falseness, unlived desire, and other forms of [shadow](/truth) that occupation had helped keep dispersed.
 
@@ -88,7 +94,7 @@ Often it proves something else.
 
 It may prove that a large part of life has come to depend on filling, stimulation, avoidance, and externally supported regulation. It may prove that stillness is not empty, but revelatory. It may prove that what feels threatening is not silence itself, but what silence no longer lets remain hidden.
 
-That recognition should not remain only contemplative. It asks for practice. A person may need periods of silence without device, music, or compensating input. They may need to sit daily without filling the interval too quickly. They may need to learn that remaining there is a form of courage, not passivity.
+That recognition should not remain only contemplative. It asks for practice. A person may need periods of silence without device, music, or compensating input. They may need to sit daily without filling the interval too quickly. They may need to learn that remaining there is a form of courage, not passivity. This is also where the question becomes one of [living Fractalism](/living-fractalism), not merely understanding it.
 
 This is why the modern person often fears silence.
 
