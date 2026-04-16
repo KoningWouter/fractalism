@@ -88,6 +88,9 @@ Then start with one of these essays:
 - [The Elite and the Logic of Extraction](/the-elite-and-the-logic-of-extraction)
   On how extreme power becomes detached from conscience, and how extraction and insulation reinforce each other.
 
+- [Why Extraction Works Temporarily but Fails Structurally](/why-extraction-works-temporarily-but-fails-structurally)
+  On why extraction appears strong in the short term but accumulates structural fragility over time.
+
 - [The Mechanistic Worldview and Corrupt Power](/the-mechanistic-worldview-and-corrupt-power)
   On how deterministic framing disempowers below and legitimizes unaccountable power above.
 
@@ -150,6 +153,7 @@ The full archive below includes the essays above in a single list.
 - [The Void, Palantir, and Behavioral Legibility](/the-void-and-palantir)
 - [Why Truth Projects Should Not Look Like Marketing](/why-truth-projects-should-not-look-like-marketing)
 - [The Elite and the Logic of Extraction](/the-elite-and-the-logic-of-extraction)
+- [Why Extraction Works Temporarily but Fails Structurally](/why-extraction-works-temporarily-but-fails-structurally)
 - [The Mechanistic Worldview and Corrupt Power](/the-mechanistic-worldview-and-corrupt-power)
 - [Mathematics and Spirituality as the Same Description](/mathematics-and-spirituality)
 - [AI, Truth, and Distortion](/ai-truth-and-distortion)
