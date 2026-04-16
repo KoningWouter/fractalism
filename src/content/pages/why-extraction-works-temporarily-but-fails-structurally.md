@@ -6,7 +6,7 @@ eyebrow: Essay
 
 One of the most persistent confusions in how power, influence, and systems are understood is the conflation of short-term effectiveness with structural stability.
 
-Extraction works. It produces results. A strategy built on capture, asymmetry, manipulation, and control can generate wealth, compliance, attention, and dominance in ways that look like victory from the outside. This is not a fantasy. It happens repeatedly across personal, institutional, and cultural life. You can read a full account of what extraction means in the context of Fractalism.
+Extraction works. It produces results. A strategy built on capture, asymmetry, manipulation, and control can generate wealth, compliance, attention, and dominance in ways that look like victory from the outside. This is not a fantasy. It happens repeatedly across personal, institutional, and cultural life. You can read a full account of what [extraction](/the-elite-and-the-logic-of-extraction) means in the context of Fractalism.
 
 But precisely here the deeper question begins.
 
@@ -44,9 +44,9 @@ Fragmentation does not remain external. It returns inward.
 
 ## Extraction as inverse clarification
 
-If extraction is understood as inverse gnosis, the dynamic becomes sharper. You can read about how this inversion works at the level of structure.
+If extraction is understood as inverse gnosis, the dynamic becomes sharper. You can read about how this inversion works at the level of [/structure](/the-structure-of-fractalism).
 
-Extraction uses intelligence, knowledge, symbolism, and psychological insight not to purify distortion but to make distortion functional. That can be extremely effective in the short run. But it is also expensive, because an extraction-based system must continuously produce distraction, build artificial coherence, steer symbolic charge, mask underlying fractures, and supply surrogate meaning. Gnosis simplifies by revealing. Extraction must keep increasing complexity to keep distortion manageable. You can read more about how distortion operates at the level of the structure of Fractalism.
+Extraction uses intelligence, knowledge, symbolism, and psychological insight not to purify distortion but to make distortion functional. That can be extremely effective in the short run. But it is also expensive, because an extraction-based system must continuously produce distraction, build artificial coherence, steer symbolic charge, mask underlying fractures, and supply surrogate meaning. Gnosis simplifies by revealing. Extraction must keep increasing complexity to keep distortion manageable. You can read more about how distortion operates at the level of the [/structure](/the-structure-of-fractalism) of Fractalism.
 
 This is why extraction, seen from the inside, feels like perpetual effort with diminishing margins. The more it succeeds, the more it requires.
 
@@ -64,7 +64,7 @@ Reciprocity-based systems appear weaker in the short run. They refuse many of th
 
 But that very refusal comes with costs the essay has not fully named.
 
-Real reciprocity, the kind that refuses a shortcut when a shortcut is available, that gives without certainty of return, that builds coherence in the presence of asymmetry rather than matching it, is not strategically superior because it is easy. It is superior because it builds something that holds. But it also requires something from the person who chooses it: the willingness to absorb cost rather than pass it outward, to be the one who does not take what they could take, to sustain practice when there is no immediate structural reward.
+Real [/reciprocity](/reciprocal), the kind that refuses a shortcut when a shortcut is available, that gives without certainty of return, that builds coherence in the presence of asymmetry rather than matching it, is not strategically superior because it is easy. It is superior because it builds something that holds. But it also requires something from the person who chooses it: the willingness to absorb cost rather than pass it outward, to be the one who does not take what they could take, to sustain practice when there is no immediate structural reward.
 
 Reciprocity does not eliminate difficulty. It just chooses a different kind of difficulty, one that is harder to perform for an audience and harder to justify as necessity.
 
