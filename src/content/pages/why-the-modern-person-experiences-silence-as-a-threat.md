@@ -16,7 +16,7 @@ When those layers fall away, what becomes visible is not necessarily serenity. I
 
 That is why silence can feel less like rest and more like a kind of open exposure. This is not the only reason silence becomes difficult, but it is one recurring mechanism that modern conditions seem to intensify.
 
-This essay sits close to [The Void](/the-void) and [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void), because the fear of silence is often one of the things that makes that interval harder to enter and harder to inhabit.
+This essay sits close to [The Void](/the-void) and [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void), because the fear of silence is often one of the things that makes that interval harder to enter and harder to inhabit. It can be read as a companion to [The Void](/the-void), focused less on the interval itself and more on why so many people flee it.
 
 ## Silence removes the filling
 

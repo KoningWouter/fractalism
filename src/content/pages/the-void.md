@@ -52,7 +52,7 @@ The Void, in the Fractalist sense, belongs with the first category. It is not a 
 
 ## The Void in ordinary experience
 
-The Void is not only a mystical or meditative state. It can appear in ordinary life, in the pause before you reach for your phone, in the moment before you speak a reactive word, in the gap between impulse and action, in stillness after overstimulation fades, and in sobriety when habitual sedation clears.
+The Void is not only a mystical or meditative state. It can appear in ordinary life, in the pause before you reach for your phone, in the moment before you speak a reactive word, in the gap between impulse and action, in stillness after overstimulation fades, and in sobriety when habitual sedation clears. For a closely related essay on why this stillness can feel threatening rather than peaceful at first, see [Why the Modern Person Experiences Silence as a Threat](/why-the-modern-person-experiences-silence-as-a-threat).
 
 These moments are brief. They pass quickly. But they are real, and they can be recognized. The practice of living Fractalism includes noticing these moments, and not immediately filling them.
 
