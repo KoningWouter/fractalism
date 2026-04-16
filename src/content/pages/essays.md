@@ -33,6 +33,9 @@ Then start with one of these essays:
 - [The Void](/the-void)
   On the threshold where patterns loosen, legibility weakens, and another response becomes possible.
 
+- [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void)
+  A practical continuation of The Void, focused on what can actually be done once the interval before automatic reaction is noticed.
+
 - [The Source](/the-source)
   A central page on the Source as the underlying ground from which persons, patterns, and worlds arise.
 
@@ -162,6 +165,7 @@ The full archive below includes the essays above in a single list.
 - [Why Attention Is Farmed to Keep You from the Void](/why-attention-is-farmed-to-keep-you-from-the-void)
 - [Music as the Missing Lens Between Mathematics and Spirituality](/music-as-the-missing-lens-between-mathematics-and-spirituality)
 - [Feeds Do Not Control Your Will, but the Atmosphere in Which It Chooses](/feeds-do-not-control-your-will-but-the-atmosphere-in-which-it-chooses)
+- [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void)
 - [Truth](/truth)
 - [How to Read Fractalism](/how-to-read-fractalism)
 - [The Structure of Fractalism](/the-structure-of-fractalism)
