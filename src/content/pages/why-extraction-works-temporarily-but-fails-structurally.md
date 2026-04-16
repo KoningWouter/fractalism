@@ -44,9 +44,9 @@ Fragmentation does not remain external. It returns inward.
 
 ## Extraction as inverse clarification
 
-If extraction is understood as inverse gnosis, the dynamic becomes sharper. You can read about how this inversion works at the level of [structure](/the-structure-of-fractalism).
+If extraction is understood as inverse gnosis, the dynamic becomes sharper. You can read about how this inversion works at the level of [Core Concepts](/concepts).
 
-Extraction uses intelligence, knowledge, symbolism, and psychological insight not to purify distortion but to make distortion functional. That can be extremely effective in the short run. But it is also expensive, because an extraction-based system must continuously produce distraction, build artificial coherence, steer symbolic charge, mask underlying fractures, and supply surrogate meaning. Gnosis simplifies by revealing. Extraction must keep increasing complexity to keep distortion manageable. You can read more about how distortion operates at the level of the [structure](/the-structure-of-fractalism) of Fractalism.
+Extraction uses intelligence, knowledge, symbolism, and psychological insight not to purify distortion but to make distortion functional. That can be extremely effective in the short run. But it is also expensive, because an extraction-based system must continuously produce distraction, build artificial coherence, steer symbolic charge, mask underlying fractures, and supply surrogate meaning. Gnosis simplifies by revealing. Extraction must keep increasing complexity to keep distortion manageable. You can read more about how distortion operates at the level of [Core Concepts](/concepts) of Fractalism.
 
 This is why extraction, seen from the inside, feels like perpetual effort with diminishing margins. The more it succeeds, the more it requires.
 
@@ -64,7 +64,7 @@ Reciprocity-based systems appear weaker in the short run. They refuse many of th
 
 But that very refusal comes with costs the essay has not fully named.
 
-Real [reciprocity](/reciprocal), the kind that refuses a shortcut when a shortcut is available, that gives without certainty of return, that builds coherence in the presence of asymmetry rather than matching it, is not strategically superior because it is easy. It is superior because it builds something that holds. But it also requires something from the person who chooses it: the willingness to absorb cost rather than pass it outward, to be the one who does not take what they could take, to sustain practice when there is no immediate structural reward.
+Real [reciprocity](/concepts), the kind that refuses a shortcut when a shortcut is available, that gives without certainty of return, that builds coherence in the presence of asymmetry rather than matching it, is not strategically superior because it is easy. It is superior because it builds something that holds. But it also requires something from the person who chooses it: the willingness to absorb cost rather than pass it outward, to be the one who does not take what they could take, to sustain practice when there is no immediate structural reward.
 
 Reciprocity does not eliminate difficulty. It just chooses a different kind of difficulty, one that is harder to perform for an audience and harder to justify as necessity.
 
