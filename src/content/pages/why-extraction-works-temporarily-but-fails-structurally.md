@@ -44,9 +44,9 @@ Fragmentation does not remain external. It returns inward.
 
 ## Extraction as inverse clarification
 
-If extraction is understood as inverse gnosis, the dynamic becomes sharper.
+If extraction is understood as inverse gnosis, the dynamic becomes sharper. You can read about how this inversion works at the level of structure.
 
-Extraction uses intelligence, knowledge, symbolism, and psychological insight not to purify distortion but to make distortion functional. That can be extremely effective in the short run. But it is also expensive, because an extraction-based system must continuously produce distraction, build artificial coherence, steer symbolic charge, mask underlying fractures, and supply surrogate meaning. Gnosis simplifies by revealing. Extraction must keep increasing complexity to keep distortion manageable.
+Extraction uses intelligence, knowledge, symbolism, and psychological insight not to purify distortion but to make distortion functional. That can be extremely effective in the short run. But it is also expensive, because an extraction-based system must continuously produce distraction, build artificial coherence, steer symbolic charge, mask underlying fractures, and supply surrogate meaning. Gnosis simplifies by revealing. Extraction must keep increasing complexity to keep distortion manageable. You can read more about how distortion operates at the level of the structure of Fractalism.
 
 This is why extraction, seen from the inside, feels like perpetual effort with diminishing margins. The more it succeeds, the more it requires.
 
