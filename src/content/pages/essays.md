@@ -68,6 +68,9 @@ Then start with one of these essays:
 - [Why Attention Is Farmed to Keep You from the Void](/why-attention-is-farmed-to-keep-you-from-the-void)
   On how attention is farmed in ways that keep reflective thresholds unstable and recognition less likely.
 
+- [Why the Modern Person Experiences Silence as a Threat](/why-the-modern-person-experiences-silence-as-a-threat)
+  An essay on why silence can feel threatening when modern life depends on occupation, stimulation, and externally supported regulation.
+
 - [Feeds Do Not Control Your Will, but the Atmosphere in Which It Chooses](/feeds-do-not-control-your-will-but-the-atmosphere-in-which-it-chooses)
   On how feeds shape the affective and perceptual field around choice without needing to abolish will directly.
 
@@ -163,6 +166,7 @@ The full archive below includes the essays above in a single list.
 - [Attention as a Resource](/attention-as-a-resource)
 - [Why Your Music Knows What You Want Before You Do](/why-your-music-knows-what-you-want-before-you-do)
 - [Why Attention Is Farmed to Keep You from the Void](/why-attention-is-farmed-to-keep-you-from-the-void)
+- [Why the Modern Person Experiences Silence as a Threat](/why-the-modern-person-experiences-silence-as-a-threat)
 - [Music as the Missing Lens Between Mathematics and Spirituality](/music-as-the-missing-lens-between-mathematics-and-spirituality)
 - [Feeds Do Not Control Your Will, but the Atmosphere in Which It Chooses](/feeds-do-not-control-your-will-but-the-atmosphere-in-which-it-chooses)
 - [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void)
