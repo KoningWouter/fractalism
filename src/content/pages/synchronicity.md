@@ -64,6 +64,8 @@ The moment itself may genuinely matter. It may affect [attention](/attention-as-
 
 Fractalism therefore treats synchronicity as a clue, not a verdict.
 
+A synchronicity is not necessarily a command or a judgment about what is good or bad. More often, it functions like a heads-up, a signal of heightened meaningful convergence that asks for deeper attention.
+
 ## Pattern overlap as a speculative image
 
 One way of thinking about synchronicity is as a moment where patterns that are usually experienced separately cross in a way that feels newly salient. Not a supernatural message, not mere projection, but a real convergence that registers in experience precisely because different layers of pattern seem to touch at the same point.
