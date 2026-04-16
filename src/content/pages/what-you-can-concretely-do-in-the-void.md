@@ -8,7 +8,7 @@ The Void only becomes truly useful when it becomes more than an abstract idea or
 
 Being in the Void is not automatically deep. Its value appears when it becomes clearer what can actually be done there.
 
-In that sense, the [Void](/the-void) is not a destination. It is a workable interval within lived experience, a brief suspension in which habitual enactment is interrupted and the structure of experience becomes more observable.
+In that sense, the [Void](/the-void) is not a destination. It is a workable interval within lived experience, a brief suspension in which habitual enactment is interrupted and the structure of experience becomes more observable. This essay continues directly from [The Void](/the-void) by asking what can actually be done once that interval is noticed.
 
 That matters, because many people can recognize the gap before an old [pattern](/the-structure-of-fractalism) fully takes over, but still do not know how to inhabit it. They may notice the pause before the scroll, the craving, the reflex, the defensive move, or the old explanation. But if the Void is understood only as emptiness, it can remain passive, vague, or threatening.
 

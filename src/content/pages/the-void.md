@@ -35,7 +35,7 @@ Most people live inside completed attention loops. A craving rises, attention na
 
 The Void matters because it offers the clearest opening in that process. It is where the loop can sometimes be seen before it commits.
 
-Recognizing the Void does not by itself break the loop. But it is often the best opportunity to interrupt what is beginning before it becomes much harder to change. The wider role of attention in making some lines of response denser than others is explored further in [The Role of Attention in the Collapse of Possibility](/the-role-of-attention-in-the-collapse-of-possibility).
+Recognizing the Void does not by itself break the loop. But it is often the best opportunity to interrupt what is beginning before it becomes much harder to change. The wider role of attention in making some lines of response denser than others is explored further in [The Role of Attention in the Collapse of Possibility](/the-role-of-attention-in-the-collapse-of-possibility). For the practical side of what a person can actually do once this interval is noticed, see [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void).
 
 That is why the Void matters. It is where prevention becomes possible, not where cure happens.
 
