@@ -6,7 +6,7 @@ eyebrow: Essay
 
 One of the most persistent confusions in how power, influence, and systems are understood is the conflation of short-term effectiveness with structural stability.
 
-Extraction works. It produces results. A strategy built on capture, asymmetry, manipulation, and control can generate wealth, compliance, attention, and dominance in ways that look like victory from the outside. This is not a fantasy. It happens repeatedly across personal, institutional, and cultural life.
+Extraction works. It produces results. A strategy built on capture, asymmetry, manipulation, and control can generate wealth, compliance, attention, and dominance in ways that look like victory from the outside. This is not a fantasy. It happens repeatedly across personal, institutional, and cultural life. You can read a full account of what extraction means in the context of Fractalism.
 
 But precisely here the deeper question begins.
 
