@@ -25,6 +25,8 @@ The Void is not passive emptiness. It is a brief condition of active availabilit
 
 A starting pattern can be noticed before it hardens into compulsion. Reflex has not fully committed yet. Choice is not unlimited, but it is still more available than it will be a few seconds later.
 
+The Void is also not a place where a person is guaranteed a message, a vision, or a divine feeling. Often it is quieter and more ordinary than that. It may be nothing more than a stable silence in which certain impulses lose force, certain urgencies stop feeling urgent, and certain thoughts no longer seem fully your own. The point is not that the Void always reveals some positive content. The point is that it changes the conditions under which experience is met. In that quieter interval, what depends on constant reinforcement may begin to weaken, and what remains may become easier to distinguish from what was inserted, reactive, or sustained by pressure. Sometimes what appears there is not a voice, but a reduction. Not revelation as spectacle, but the falling away of what could only survive in noise.
+
 That is why the Void matters so much for freedom, discernment, and the interruption of habit.
 
 ## Why the Void matters
