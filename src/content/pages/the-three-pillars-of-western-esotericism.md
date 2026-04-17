@@ -26,7 +26,7 @@ This is where [inverse gnosis](/inverse-gnosis) lives in the left pillar. Intell
 
 The right pillar is also not wrong. There is something larger than the individual self. The pull toward it, toward unity, toward love, toward a plane of being that transcends the small ego, is not delusion. It is real. The yearning that runs through mysticism and alchemy and every serious contemplative tradition points at something that exists. This pillar is grounded in something equally real, namely that structure alone does not explain why life has meaning, why love matters, or why a person can feel called by something greater than utility.
 
-The problem emerges when the right pillar becomes the whole answer. When dissolution is mistaken for wisdom, when surrender becomes avoidance, when the refusal to engage with structure is called spiritual freedom when it is actually fear of the world. This is where false STO lives. Love that will not look, that cannot hold the weight of what is actually there.
+The problem emerges when the right pillar becomes the whole answer. When dissolution is mistaken for wisdom, when surrender becomes avoidance, when the refusal to engage with structure is called spiritual freedom when it is actually fear of the world. This is where false reciprocity lives. Love that will not look, that cannot hold the weight of what is actually there.
 
 The right pillar offers warmth, and warmth is genuinely attractive to anyone who has ever felt cold. But warmth without clarity is just another kind of captivity.
 
