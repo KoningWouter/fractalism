@@ -4,6 +4,8 @@ description: Every serious path of inner development faces the same fork. One di
 eyebrow: Essay
 ---
 
+![The Kabbalistic Tree of Life](/tree_of_life.png)
+
 Every serious path of inner development faces the same fork. One direction promises mastery through structure. The other promises transcendence through surrender. Both claim to lead somewhere true. Both can become traps.
 
 Western esotericism has often been read through the image of three pillars. This image comes from Kabbalah, more specifically from the Kabbalistic Tree of Life, with Boaz on the left, Jachin on the right, and a middle column between them. I am not using that structure here as a proved historical law. I am using it as a diagnostic map, a way to read recurring tendencies in Western esotericism and in the psyche that is drawn to it.
