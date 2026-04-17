@@ -16,7 +16,7 @@ One name for it is **inverse gnosis**.
 
 ## Why the term exists
 
-[Gnosis](/concepts), in the most useful sense, is not secret information. It is a movement of clarification.
+[Gnosis](/gnosis), in the most useful sense, is not secret information. It is a movement of clarification.
 
 It is what happens when distortion becomes easier to see, when attention becomes less captured, and when something more structurally real begins to come into view.
 
