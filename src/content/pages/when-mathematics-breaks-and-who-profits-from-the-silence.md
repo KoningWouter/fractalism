@@ -8,13 +8,13 @@ Mathematics is the one domain that claims to be beyond corruption. No other fiel
 
 This belief is useful. It is also incomplete. Mathematics has its own limits, its own breaking points, places where the formal system reaches the edge of what it can say and falls silent. These limits are not errors in the mathematics. They are the actual boundaries of the formal approach. And it is precisely at those boundaries that authority often rushes in to fill the silence with stories that mathematics itself does not justify.
 
-This essay is not arguing for a secret cabal of mathematicians. It is describing a recurring pattern. Whenever a formal system reaches its edge, institutions, teachers, movements, and charismatic figures can step into the gap and present their preferred interpretation as if it were the necessary continuation of the mathematics itself. That recurring pattern is what Fractalism calls the work of the Architects of Noise. Not a species of being, but a structural tendency. The phrase names the way distortion organizes itself around the limits of clarity.
+This essay is not arguing for a secret cabal of mathematicians. It is describing a recurring pattern. Whenever a formal system reaches its edge, institutions, teachers, movements, and charismatic figures can step into the gap and present their preferred interpretation as if it were the necessary continuation of the mathematics itself. That recurring pattern is what Fractalism calls the work of the Architects of Noise. Not a species of being, but a structural tendency. The phrase names the way [distortion](/the-structure-of-fractalism#distortion) organizes itself around the limits of clarity.
 
 ## Three different boundaries
 
 The first boundary is division by zero. Every student learns that you cannot divide by zero. The operation has no result. It is not that the answer is unknown or hidden. It is that the operation itself is not defined. Attempting to evaluate it produces immediate contradiction. One divided by zero would have to be a number that when multiplied by zero gives one. Nothing multiplied by zero gives anything other than zero. The equation collapses.
 
-This boundary is operational. The mistake here is straightforward. Someone treats an invalid operation as if it were merely difficult, and then builds a metaphysical claim on the wreckage. This happens constantly in pseudo-mathematical spirituality. Zero is made to mean void, infinity is smuggled in through the back door, and the contradiction is rebranded as mystery. What should have been named as invalid is instead named as profound.
+This boundary is operational. The mistake here is straightforward. Someone treats an invalid operation as if it were merely difficult, and then builds a metaphysical claim on the wreckage. This happens constantly in pseudo-mathematical spirituality. Zero is made to mean [the Void](/the-void), infinity is smuggled in through the back door, and the contradiction is rebranded as mystery. What should have been named as invalid is instead named as profound.
 
 The second boundary is infinity. Infinity is not a number sitting at the far edge of the number line. It is not a quantity so large that ordinary arithmetic can no longer hold it. It is a property that some sets have and others do not. Once this is forgotten, the imagination begins to treat infinity like a thing that can be manipulated with ordinary intuition. This produces the usual paradoxes, not because mathematics has broken, but because intuition was being asked to do work it cannot do unaided.
 
@@ -52,9 +52,9 @@ Fractalism is not claiming that there is a neutral zone beyond mathematics where
 
 At the boundary of formal systems, the method must change, but the standard must not collapse.
 
-The formal tools become insufficient. That part is real. But once formal proof ends, what comes next still has to be tested. Does the interpretation increase contact with reality or merely flatter desire. Does it reduce distortion or increase it. Distortion here means a widening gap between what is claimed and what can actually be borne out in consequence, coherence, and lived contact. A distortion reducing interpretation produces more honesty, more exactness, more sobriety, and fewer theatrical claims of special access. A distortion increasing interpretation makes the speaker feel larger while making the world less clear.
+The formal tools become insufficient. That part is real. But once formal proof ends, what comes next still has to be tested. Does the interpretation increase contact with reality or merely flatter desire. Does it reduce distortion or increase it. Distortion here means a widening gap between what is claimed and what can actually be borne out in consequence, coherence, and lived contact. A distortion reducing interpretation produces more honesty, more exactness, more [sobriety](/sobriety), and fewer theatrical claims of special access. A distortion increasing interpretation makes the speaker feel larger while making the world less clear.
 
-This is the Fractalist difference. It does not treat the limit as a license. It treats the limit as a demand for greater caution. The gap is real, but no one earns authority simply by standing near it.
+This is the Fractalist difference. It does not treat the limit as a license. It treats the limit as a demand for greater caution. The gap is real, but no one earns authority simply by standing near it. At this layer, that is also a warning about [inverse gnosis](/inverse-gnosis), the moment when intelligence stops serving clarification and starts serving capture instead.
 
 ## The honest alternative
 
@@ -67,3 +67,5 @@ That is the practice. Not only watching the gap, but watching the part of onesel
 The person who can do that is less useful to the Architects of Noise, both outside and inside. They can still think, still intuit, still move beyond the formal boundary, but they do so without confusing nearness to the edge with entitlement to certainty.
 
 Mathematics is not corrupt. But the human rush to narrate its silences remains one of the cleanest places where corruption can enter, unless the boundary is named clearly, the desire to fill it is examined, and the resulting story is tested against reality rather than rewarded for sounding profound.
+
+If you want to continue from here, [When Depth Becomes Control](/inverse-gnosis) is the natural next read. It extends the same question into what happens when intelligence itself is turned away from truth and used to manufacture authority.
