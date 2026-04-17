@@ -6,7 +6,7 @@ eyebrow: Essay
 
 Every serious path of inner development faces the same fork. One direction promises mastery through structure. The other promises transcendence through surrender. Both claim to lead somewhere true. Both can become traps.
 
-Western esotericism has often been read through the image of three pillars. The Kabbalistic Tree of Life offers one version of that image, Boaz on the left, Jachin on the right, and a middle column between them. I am not using that structure here as a proved historical law. I am using it as a diagnostic map, a way to read recurring tendencies in Western esotericism and in the psyche that is drawn to it.
+Western esotericism has often been read through the image of three pillars. This image comes from Kabbalah, more specifically from the Kabbalistic Tree of Life, with Boaz on the left, Jachin on the right, and a middle column between them. I am not using that structure here as a proved historical law. I am using it as a diagnostic map, a way to read recurring tendencies in Western esotericism and in the psyche that is drawn to it.
 
 The left pillar points toward hierarchy, discipline, and the management of material reality. Freemasonry is one strong historical expression of that tendency, but not the only one. It takes the structure of the world as its starting point and asks how a person can become sovereign within it. Its strength is competence. Its risk is cold control, the reduction of living relation to mechanism.
 
