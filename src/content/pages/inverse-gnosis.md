@@ -87,7 +87,7 @@ Does it make people more able to see clearly, disagree honestly, and remain inwa
 
 Or does it make them more dependent on interpreters, more hungry for signals, more captivated by status, more attached to initiation, and less able to stand outside the atmosphere being generated?
 
-This is where the distinction between reciprocity and extraction becomes relevant.
+This is where the distinction between [reciprocity](/concepts) and [extraction](/concepts) becomes relevant.
 
 A movement toward reciprocity, responsibility, and greater reality-contact can still be intense, but it does not need to keep people confused in order to hold them. A movement toward extraction, prestige, or control often does.
 
