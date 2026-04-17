@@ -143,6 +143,9 @@ Then start with one of these essays:
 - [Music as the Missing Lens Between Mathematics and Spirituality](/music-as-the-missing-lens-between-mathematics-and-spirituality)
   On whether music makes that shared structure experientially audible as lived relation in time.
 
+- [When Mathematics Breaks and Who Profits From the Silence](/when-mathematics-breaks-and-who-profits-from-the-silence)
+  On mathematical limits, the urge to overinterpret them, and the kinds of authority that profit from that gap.
+
 - [The Three Pillars of Western Esotericism](/the-three-pillars-of-western-esotericism)
   On why the middle path is harder than either extreme and where Fractalism stands between structure and surrender.
 
@@ -189,6 +192,7 @@ The full archive below includes the essays above in a single list.
 - [Community](/community)
 - [Synchronicity](/synchronicity)
 - [The Three Pillars of Western Esotericism](/the-three-pillars-of-western-esotericism)
+- [When Mathematics Breaks and Who Profits From the Silence](/when-mathematics-breaks-and-who-profits-from-the-silence)
 
 ## Closing
 
