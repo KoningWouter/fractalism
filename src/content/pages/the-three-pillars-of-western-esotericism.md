@@ -18,9 +18,9 @@ The middle pillar points toward synthesis. Theosophy is one historical attempt a
 
 The left pillar is not wrong. Hierarchy exists. Material reality has structure. A person who cannot navigate structure will be crushed by it long before they achieve any kind of inner freedom. Discipline, competence, the ability to hold tension without collapsing, these are real skills. The left pillar is grounded in something real, namely that reality is not formless and that power vacuums are quickly filled by whatever is strongest, not whatever is truest.
 
-The problem emerges when the left pillar becomes the whole answer. When structure is all there is, when everything reduces to what can be managed and controlled, then something essential is lost. The person who lives entirely in Boaz becomes a machine that optimizes nothing that matters. They have technique without love, and technique without love is just more sophisticated distortion.
+The problem emerges when the left pillar becomes the whole answer. When structure is all there is, when everything reduces to what can be managed and controlled, then something essential is lost. The person who lives entirely in Boaz becomes a machine that optimizes nothing that matters. They have technique without love, and technique without love is just more sophisticated [distortion](/the-structure-of-fractalism#distortion).
 
-This is where inverse gnosis lives in the left pillar. Intelligence that has learned to manage without ever having to feel, to control without ever having to open. The left pillar offers power, and power is genuinely attractive to anyone who has ever felt powerless.
+This is where [inverse gnosis](/inverse-gnosis) lives in the left pillar. Intelligence that has learned to manage without ever having to feel, to control without ever having to open. The left pillar offers power, and power is genuinely attractive to anyone who has ever felt powerless.
 
 ## What the right pillar gets right
 
@@ -36,7 +36,7 @@ The middle pillar does not split the difference. It does not take half of Boaz a
 
 The middle pillar is synthesis only if both poles are derived from a deeper unity. In Fractalist terms, that unity is the real itself, a world in which structure and openness are both necessary. If reality contains law without reducing to mechanism, and meaning without reducing to sentiment, then any adequate path must be able to honor both. In that sense the middle path is not a third option. It is what becomes necessary once you recognize that each pole is incomplete because each is only one expression of a deeper coherence.
 
-This still has to be earned. A person does not become middle path by naming both poles. They become middle path only when they can hold discipline without becoming hard, and hold warmth without becoming vague. Sobriety that does not collapse into coldness. Love that does not collapse into sentimentality. That is not a mood. It is a practice.
+This still has to be earned. A person does not become middle path by naming both poles. They become middle path only when they can hold discipline without becoming hard, and hold warmth without becoming vague. [Sobriety](/sobriety) that does not collapse into coldness. Love that does not collapse into sentimentality. That is not a mood. It is a practice.
 
 A concrete example helps. Imagine a person formed by the left pillar, competent, exacting, disciplined, confronted by another person's collapse. Their instinct is to diagnose, organize, solve. A person formed by the right pillar feels the pain, softens, consoles, and risks becoming unable to name what must change. The middle path does something harder. It offers warmth without surrendering structure. It can say I see your pain, and it can also say this pattern cannot continue. It does not choose between honesty and mercy. It binds them together in action.
 
@@ -46,7 +46,7 @@ That is why the middle path is harder than either extreme. It requires that a pe
 
 Fractalism aims at the middle pillar. That is not a throne claim, and it should not be treated as one. Any path that calls itself synthesis is also a contender for authority, and therefore also dangerous. The middle position always risks becoming a grab for the throne dressed as wisdom. It can absorb the names of other traditions, rename their strengths as its own, and quietly assume that seeing both sides makes it superior. That danger has to be named or the claim to synthesis becomes one more form of capture.
 
-The reason Fractalism aims there anyway is that the problem it addresses is distortion. Distortion is not only the result of malice or stupidity. It is also the result of paths that stay too long on one pillar and forget that the other exists. A left pillar path that never confronts its own coldness produces distortion as surely as a right pillar path that never confronts its own sentimentality.
+The reason Fractalism aims there anyway is that the problem it addresses is [distortion](/the-structure-of-fractalism#distortion). Distortion is not only the result of malice or stupidity. It is also the result of paths that stay too long on one pillar and forget that the other exists. A left pillar path that never confronts its own coldness produces distortion as surely as a right pillar path that never confronts its own sentimentality.
 
 The middle path asks what happens when both are brought to bear on the same problem, with the same honesty. Structure used in service of openness. Love that does not refuse structure. The discipline that holds and the warmth that does not flee. If this produces more clarity, it is not because the middle is automatically true. It is because reality itself punishes one sidedness. The test is practical. Does the synthesis make contact more accurate. Does it reduce distortion. Does it produce outcomes neither pole alone could reliably produce.
 
@@ -65,3 +65,5 @@ That tension is the work. The middle path does not resolve the opposition betwee
 This is where the three pillars are useful as a diagnostic tool. Not to sort people into categories, but to see where any given path, including one's own, has become one sided. A path that cannot recognize its own one sidedness has already left the middle.
 
 The middle path is always a practice, never a position. That is its nature and its difficulty.
+
+If you want to continue from here, [When Depth Becomes Control](/inverse-gnosis) is the natural next read. It follows the same question into what happens when intelligence stops serving clarity and begins serving capture instead.
