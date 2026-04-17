@@ -8,7 +8,7 @@ Mathematics is the one domain that claims to be beyond corruption. No other fiel
 
 This belief is useful. It is also incomplete. Mathematics has its own limits, its own breaking points, places where the formal system reaches the edge of what it can say and falls silent. These limits are not errors in the mathematics. They are the actual boundaries of the formal approach. And it is precisely at those boundaries that authority often rushes in to fill the silence with stories that mathematics itself does not justify.
 
-This essay is not arguing for a secret cabal of mathematicians. It is describing a recurring pattern. Whenever a formal system reaches its edge, institutions, teachers, movements, and charismatic figures can step into the gap and present their preferred interpretation as if it were the necessary continuation of the mathematics itself. That recurring pattern is what Fractalism calls the work of the Architects of Noise. Not a species of being, but a structural tendency. The phrase names the way [distortion](/the-structure-of-fractalism#distortion) organizes itself around the limits of clarity.
+This essay is not arguing for a secret cabal of mathematicians. It is describing a recurring pattern. Whenever a formal system reaches its edge, institutions, teachers, movements, and charismatic figures can step into the gap and present their preferred interpretation as if it were the necessary continuation of the mathematics itself. That recurring pattern is what Fractalism calls the work of the Architects of Noise. Not a species of being, but a structural tendency. The phrase names the way [distortion](/concepts) organizes itself around the limits of clarity.
 
 ## Three different boundaries
 
