@@ -154,3 +154,5 @@ Sometimes intelligence learns how to serve openness.
 Sometimes intelligence learns how to capture it.
 
 Fractalism needs to be able to tell the difference, and to let the same test fall on its own language as well.
+
+If this made sense to you, the essay on [The Elite and the Logic of Extraction](/the-elite-and-the-logic-of-extraction) is a natural continuation of the same thread. It applies the same distinction to how power operates at scale.
