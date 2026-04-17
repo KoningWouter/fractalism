@@ -143,6 +143,9 @@ Then start with one of these essays:
 - [Music as the Missing Lens Between Mathematics and Spirituality](/music-as-the-missing-lens-between-mathematics-and-spirituality)
   On whether music makes that shared structure experientially audible as lived relation in time.
 
+- [The Three Pillars of Western Esotericism](/the-three-pillars-of-western-esotericism)
+  On why the middle path is harder than either extreme and where Fractalism stands between structure and surrender.
+
 ## Full Archive
 
 The full archive below includes the essays above in a single list.
@@ -185,6 +188,7 @@ The full archive below includes the essays above in a single list.
 - [Collapse, Agitation, and Clarity](/tamas-rajas-and-sattva)
 - [Community](/community)
 - [Synchronicity](/synchronicity)
+- [The Three Pillars of Western Esotericism](/the-three-pillars-of-western-esotericism)
 
 ## Closing
 
