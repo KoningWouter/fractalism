@@ -78,4 +78,4 @@ Getting up is not a solution to a problem. It is a resumption of something that 
 
 That is the game nobody plays anymore.
 
-[Friction as Signal](/friction-as-signal) | [The Void](/the-void) | [Truth](/truth)
+
