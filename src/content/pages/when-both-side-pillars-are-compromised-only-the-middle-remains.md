@@ -38,7 +38,7 @@ But when both side pillars are compromised, horizontal movement loses its force.
 
 A familiar example is the political field itself. One party openly manages, disciplines, and coerces. The other wraps the same dependence in the language of care, intelligence, or refinement. The styles differ. The mechanisms are often closer than they appear. At first the seeker chooses the cleaner side. Later they begin to realize that choosing sides inside a managed field may only deepen their dependence on it.
 
-This is where the middle pillar stops being a mystical extra and becomes a practical necessity.
+This is where the [middle pillar](/the-three-pillars-of-western-esotericism) stops being a mystical extra and becomes a practical necessity.
 
 The middle is not simply balance between corrupted poles. It is not the diplomatic refusal to choose. It is not moderation for its own sake. It is the abandonment of the assumption that integrity can still be found by choosing the correct side within a captured structure.
 
@@ -46,7 +46,7 @@ At that point only vertical orientation remains.
 
 ## What the middle pillar actually is
 
-The middle pillar is not a compromise between power and grace. It is a different axis entirely.
+The [middle pillar](/the-three-pillars-of-western-esotericism) is not a compromise between power and grace. It is a different axis entirely.
 
 Its logic is not managerial and not ornamental. It does not ask which side appears more legitimate. It asks what remains true when legitimacy itself has become unstable. In positive terms, the middle pillar is direct alignment with reality through unborrowed contact. It is the attempt to relate to what is real without needing that relation to be certified by side membership, institutional prestige, or inherited symbolism.
 
@@ -97,6 +97,8 @@ Under those conditions, integrity can no longer be a matter of taste or allegian
 That does not mean abandoning discernment between side pillars entirely. It means refusing to mistake relative cleanliness for ultimate trustworthiness. It means understanding that there are moments when choosing the better side is still necessary, but no longer sufficient.
 
 The deeper work begins where side loyalty ends.
+
+If you want the frame behind this argument, the previous essay, [The Three Pillars of Western Esotericism](/the-three-pillars-of-western-esotericism), lays out the larger structure this piece is building on.
 
 ## The workable thesis
 
