@@ -44,7 +44,7 @@ The [friction](/friction-as-signal) of boredom, restlessness, or vague dissatisf
 
 The first move is not to change behavior. It is to notice that the behavior has already started before you became aware of it. To notice that you are reaching for the phone before you have decided to reach for the phone. That noticing is the Void. It is where the game actually begins.
 
-One thing the Void is not, though, is peaceful. What you meet there depends on what you have been avoiding. For many people, the first thing that arises when the noise stops is not a calm inner space. It is what was split off, what was never allowed to surface because every moment was already full. This is not a reason to flee back into the chair. It is a reason to approach the Void with patience rather than panic, and to understand that the discomfort is not a failure of the practice but a feature of the territory. The shadow does not disappear by being seen, but it stops running the show. That is the beginning of what Jung called integration.
+One thing the Void is not, though, is peaceful. What you meet there depends on what you have been avoiding. For many people, the first thing that arises when the noise stops is not a calm inner space. It is what was split off, what was never allowed to surface because every moment was already full. This is not a reason to flee back into the chair. It is a reason to approach the Void with patience rather than panic, and to understand that the discomfort is not a failure of the practice but a feature of the territory. The shadow does not disappear by being seen, but it stops running the show. That is the beginning of integration.
 
 ## What it means to get up from the chair
 
