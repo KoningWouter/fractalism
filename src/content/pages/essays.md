@@ -149,6 +149,9 @@ Then start with one of these essays:
 - [The Three Pillars of Western Esotericism](/the-three-pillars-of-western-esotericism)
   On why the middle path is harder than either extreme and where Fractalism stands between structure and surrender.
 
+- [When Both Side Pillars Are Compromised, Only the Middle Remains](/when-both-side-pillars-are-compromised-only-the-middle-remains)
+  On what remains possible when both the overt and refined poles of a system become unreliable.
+
 ## Full Archive
 
 The full archive below includes the essays above in a single list.
@@ -193,6 +196,7 @@ The full archive below includes the essays above in a single list.
 - [Synchronicity](/synchronicity)
 - [The Three Pillars of Western Esotericism](/the-three-pillars-of-western-esotericism)
 - [When Mathematics Breaks and Who Profits From the Silence](/when-mathematics-breaks-and-who-profits-from-the-silence)
+- [When Both Side Pillars Are Compromised, Only the Middle Remains](/when-both-side-pillars-are-compromised-only-the-middle-remains)
 
 ## Closing
 
