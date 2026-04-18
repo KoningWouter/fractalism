@@ -23,7 +23,7 @@ Part of reading Fractalism well is learning to notice what kind of statement is 
 
 ## One example
 
-Take a term like **the Void**.
+Take a term like [**the Void**](/the-void).
 
 As a symbol, it can point to the felt threshold before an old pattern takes over.
 

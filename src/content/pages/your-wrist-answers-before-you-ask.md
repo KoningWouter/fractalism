@@ -24,7 +24,7 @@ Real people use these devices to monitor heart conditions, to navigate unfamilia
 
 Every vibration is also designed. The timing, the intensity, the pattern, these are not accidents. They are engineered by people whose goal is that you respond. Not because they are evil, but because a response is what their business model requires. Your attention is the resource they are collecting. The watch is the delivery mechanism, and the vibration is the prompt. Knowing this does not automatically free you from it, but it changes what you are looking at when you feel the pull.
 
-What makes the watch worth examining is not that it produces trained responses, but that it produces trained responses on behalf of external signals in a way that is more intimate and less avoidable than most other attention capture. A vibration at your wrist triggers a response in your nervous system. Your attention follows, but the watch did not send your attention anywhere. Your own neurology answered the signal. That distinction matters: the watch is a trigger, not an agent. It does not control the response, it occasions it. [The broader question of trained responses and freedom runs through Fractalism's work on this](/attention-and-free-will).
+What makes the watch worth examining is not that it produces trained responses, but that it produces trained responses on behalf of external signals in a way that is more intimate and less avoidable than most other attention capture. A vibration at your wrist triggers a response in your nervous system. Your attention follows, but the watch did not send your attention anywhere. Your own neurology answered the signal. That distinction matters: the watch is a trigger, not an agent. It does not control the response, it occasions it. [The broader question of trained responses and freedom runs through [Why Determinism Feels True](/why-determinism-feels-true).
 
 ## The pull and what it is made of
 
@@ -56,4 +56,4 @@ After the third time, ask one more question: what would happen if you let the vi
 
 ---
 
-*Related essays: [The Void](/the-void), [Attention as a Resource](/attention-as-a-resource), [Friction as Signal](/friction-as-signal), [The Structure of Fractalism](/the-structure-of-fractalism), [Attention and Free Will](/attention-and-free-will)*
+*Related essays: [The Void](/the-void), [Attention as a Resource](/attention-as-a-resource), [Friction as Signal](/friction-as-signal), [The Structure of Fractalism](/the-structure-of-fractalism), [Why Determinism Feels True](/why-determinism-feels-true)*

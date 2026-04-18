@@ -20,15 +20,15 @@ But attention is not neutral. Where attention goes, something follows. Money, fo
 
 Your attention leaves traces. The way you scroll, what makes you stop, what you look away from, what makes you come back. These traces are not waste products. They are the raw material for building profiles. Not profiles in the sense of who you are as a person, but profiles in the sense of what you will do next. What you can be shown to make you feel something. What you will click on if given the right nudge.
 
-That is the harvest. Attention is the crop. Behavioral prediction is what grows from it.
+That is the harvest. [Attention](/attention-as-a-resource) is the crop. [Behavioral prediction](/the-void-and-palantir) is what grows from it.
 
 ## The capture layer
 
-The systems that capture attention are usually called social media, news, entertainment, or platforms. They are all, at base, the same thing: environments designed to hold your eyes for as long as possible.
+The systems that capture [attention](/attention-as-a-resource) are usually called social media, news, entertainment, or platforms. They are all, at base, the same thing: environments designed to hold your eyes for as long as possible.
 
 The design principles are not subtle. Infinite scroll. Variable reward schedules. Content that triggers strong emotional responses because strong emotions hold attention better than calm observation. Recommendations that learn what keeps you present, and serve more of that.
 
-This is not accidental. It is engineering. The goal is maximum dwell time, maximum engagement, maximum data extraction per user. The platforms do not sell you a product. They sell your attention to advertisers, and they use your attention data to make the algorithms that capture more attention from more people. The system feeds on itself.
+This is not accidental. It is engineering. The goal is maximum dwell time, maximum engagement, maximum [data extraction](/why-extraction-drifts-toward-sadism) per user. The platform sells your [attention](/attention-as-a-resource) to advertisers, and they use your attention data to make the algorithms that capture more attention from more people. The system feeds on itself.
 
 Most people understand this at some level. They know they are being tracked. They know the feed is curated. They accept it because the content is entertaining or useful, and because leaving feels like losing access to something valuable.
 
@@ -48,11 +48,11 @@ But there is something else worth naming that the trap depends on.
 
 People do not just accept being managed. They participate in it willingly, often eagerly. Not because they have been deceived, but because the managed state offers something the unmanaged state does not. Specifically: relief from the anxiety of genuine unknowing.
 
-To be truly unknown, to not know what comes next, to sit with uncertainty about who you are and what you should do, is genuinely uncomfortable. The managed state removes that discomfort. The algorithm tells you what you want. The feed confirms who you are. The loop provides a self that does not require self-confrontation to sustain.
+To be truly unknown, to not know what comes next, to sit with uncertainty about who you are and what you should do, is genuinely uncomfortable. The managed state removes that discomfort. The algorithm tells you what you want. The feed confirms who you are. The [loop](/attention-loops) provides a self that does not require self-confrontation to sustain.
 
 That is the silent deal. Comfort in exchange for legibility. Certainty in exchange for freedom. The ego accepts these terms not because it is stupid, but because the alternative is the anxiety of existing without a map, and the map provided by the system costs less effort than the map built from genuine inquiry.
 
-The same mechanism applies to most things that capture attention: news that confirms what you already fear, entertainment that amplifies what already feels true, outrage that mobilizes what is already activated. All of it works better when it feels like recognition rather than manipulation.
+The same mechanism applies to most things that capture [attention](/attention-as-a-resource): news that confirms what you already fear, entertainment that amplifies what already feels true, outrage that mobilizes what is already activated. All of it works better when it feels like recognition rather than manipulation.
 
 ## The second half of the system
 
@@ -68,10 +68,10 @@ Understanding one without the other leaves a gap in the picture. Understanding b
 
 The reason this matters is not because technology is evil. It is because the systematic capture of attention shapes what is possible to think about, notice, and question.
 
-A person whose attention is continuously managed is a person whose inner life is being restructured without their knowledge. Not through censorship. Through the quieter mechanism of deciding what reaches them, what feels real, what does not.
+A person whose [attention](/attention-as-a-resource) is continuously managed is a person whose inner life is being restructured without their knowledge. Not through censorship. Through the quieter mechanism of deciding what reaches them, what feels real, what does not.
 
-The Void, as Fractalism describes it, is the open, undetermined space in consciousness that exists before attention is captured and shaped. It is not an empty space. It is a space that is capable of something. Of noticing things the managed feed would never show. Of asking questions the curated environment would never surface.
+The [Void](/the-void), as [Fractalism](/the-structure-of-fractalism) describes it, is the open, undetermined space in consciousness that exists before attention is captured and shaped. It is not an empty space. It is a space that is capable of something. Of noticing things the managed feed would never show. Of asking questions the curated environment would never surface.
 
-The Void is not a solution to this problem. No individual practice can counter systemic attention capture. But it is a place where the pattern can be seen clearly enough to make choices about it. Not to escape the system, but to stop pretending it is not there.
+The [Void](/the-void) is not a solution to this problem. No individual practice can counter systemic attention capture. But it is a place where the pattern can be seen clearly enough to make choices about it. Not to escape the system, but to stop pretending it is not there.
 
 That is why these two essays belong together. Attention as a resource describes the capture layer. The Void and Palantir describes the prediction layer. A third essay on [Why Your Music Knows What You Want Before You Do](/why-your-music-knows-what-you-want-before-you-do) applies the same analysis to music recommendation.

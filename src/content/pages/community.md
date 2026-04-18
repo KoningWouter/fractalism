@@ -9,7 +9,7 @@ If Fractalism ever takes social form, that movement will need far more caution t
 
 This page does not announce an existing community. It names a problem.
 
-Fractalism does not yet know whether a human field can be built around truth, reciprocity, sobriety, correction, and real responsibility without quickly reproducing performance, dependency, manipulation, status play, or disguised control.
+[Fractalism](/the-structure-of-fractalism) does not yet know whether a human [field](/field-quality) can be built around [truth](/truth), [reciprocity](/living-fractalism#reciprocity), [sobriety](/sobriety), [correction](/the-structure-of-fractalism#correction), and real responsibility without quickly reproducing performance, dependency, manipulation, status play, or disguised control.
 
 That uncertainty should remain part of the question.
 
@@ -30,7 +30,7 @@ It does not sort people into the worthy and unworthy.
 It asks what would have to become true for community not to decay immediately into something false.
 
 A serious community does not come into being because people repeat the same vocabulary.
-It is not a cult. It is not a personality structure. It is not a refuge for spiritual theater. It is not a network built around subtle guilt, hidden extraction, or elevated language masking ordinary appetite.
+It is not a cult. It is not a personality structure. It is not a refuge for spiritual theater. It is not a network built around subtle guilt, hidden [extraction](/why-extraction-drifts-toward-sadism), or elevated language masking ordinary appetite.
 
 ## Why community attempts so often fail
 
@@ -38,15 +38,15 @@ The real difficulty is not only bad intention.
 It is that human beings bring hunger, fear, projection, shame, dependency, idealization, loneliness, and status sensitivity into shared life.
 
 That means even a sincere attempt can decay quickly.
-Belonging can become dependency.
+[Belonging](/living-fractalism#reciprocity) can become dependency.
 Care can become control.
-Truth can become aggression.
-Correction can become humiliation.
+[Truth](/truth) can become aggression.
+[Correction](/the-structure-of-fractalism#correction) can become humiliation.
 Goodness can become image.
-Structure can become hidden hierarchy.
+[Structure](/the-structure-of-fractalism) can become hidden hierarchy.
 
 The desire to build honest community can itself become moral ambition, self-importance, or spiritual theater.
-The wish to belong can become a way of avoiding solitude.
+The wish to [belong](/living-fractalism#reciprocity) can become a way of avoiding solitude.
 The wish to lead can become a way of hiding hunger.
 The wish to protect the field can become emotional management.
 
@@ -61,7 +61,7 @@ It would need accountable structure rather than hidden power.
 It would need honesty that is safer than image.
 It would need correction that does not become humiliation.
 It would need belonging that does not become dependency.
-It would need enough sobriety that the field is not constantly clouded by compulsion, intoxication, performance, or avoidance.
+It would need enough [sobriety](/sobriety) that the [field](/field-quality) is not constantly clouded by compulsion, intoxication, [performance](/the-structure-of-fractalism#distortion), or avoidance.
 
 These are not entry requirements by which people should be sorted into the pure and impure.
 They are difficulties any attempt at community would have to face.
@@ -71,7 +71,7 @@ They are difficulties any attempt at community would have to face.
 A group should not be judged mainly by how sincere its language sounds, but by what it actually produces in the people inside it.
 
 Do people become more honest or more careful with image?
-More capable of correction or more brittle?
+More capable of [correction](/the-structure-of-fractalism#correction) or more brittle?
 Less dependent or more subtly managed?
 More able to disagree without fear, or more likely to self-censor?
 
@@ -109,9 +109,9 @@ The right question is not how to grow as fast as possible. The right question is
 
 ## Closing
 
-Community is one of the hardest tests of whether Fractalism means anything beyond thought.
+Community is one of the hardest tests of whether [Fractalism](/the-structure-of-fractalism) means anything beyond thought.
 
-Not because it offers automatic belonging, but because it exposes whether truth, reciprocity, sobriety, and correction can survive actual relation without decaying into performance, control, or moral theater.
+Not because it offers automatic [belonging](/living-fractalism#reciprocity), but because it exposes whether [truth](/truth), [reciprocity](/living-fractalism#reciprocity), [sobriety](/sobriety), and [correction](/the-structure-of-fractalism#correction) can survive actual relation without decaying into [performance](/the-structure-of-fractalism#distortion), control, or moral theater.
 
 It is still unclear whether such a field can be built without reproducing the distortions it is trying to refuse.
 

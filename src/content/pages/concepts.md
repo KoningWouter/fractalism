@@ -81,7 +81,7 @@ A simple everyday distinction helps here. If a person listens in order to unders
 
 ### The Void
 
-The [Void](/the-void) is the moment before an attention loop fully starts, when choice is still more available.
+The [Void](/the-void) is the moment before an [attention loop](/attention-loops) fully starts, when choice is still more available.
 
 It is not passive emptiness and it is not mystical drama. It is a specific experiential threshold.
 

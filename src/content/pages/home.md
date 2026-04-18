@@ -23,6 +23,8 @@ Others pull attention outward, distort judgment, and quietly divide a life again
 
 The work is to notice the difference earlier.
 
+Fractalism is not psychology, not religion, and not a political theory. It is a way of seeing how patterns repeat across inner life, relationships, systems, and power, and how truth, distortion, and correction move through all of them at once.
+
 ## A first step
 
 Not everything that creates friction is a warning.  
@@ -50,6 +52,8 @@ If that feels familiar, start here.
 If you want the practical core, go to [Truth](/truth) and [Friction as Signal](/friction-as-signal).
 If you want the larger architecture, go to [The Structure of Fractalism](/the-structure-of-fractalism).
 If you want longer writings, go to [Essays](/essays).
+
+The [Essays](/essays) page now gathers a growing library of longer Fractalist writings on attention, power, consciousness, truth, correction, and lived practice.
 
 ## Closing
 

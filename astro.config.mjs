@@ -8,6 +8,7 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://fractalisme.nl',
+  trailingSlash: 'never',
   adapter: cloudflare(),
   integrations: [sitemap()]
 });

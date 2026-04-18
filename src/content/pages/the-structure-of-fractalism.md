@@ -28,7 +28,7 @@ This matters because every other layer depends on it. If you cannot tell the dif
 
 The second layer asks how reality is actually encountered in lived experience.
 
-This is where Fractalism places resonance, friction, field quality, and the Void. These are not there to create atmosphere. They are there because truth and distortion are not only abstract ideas. They are felt in the body, in speech, in rooms, in pauses, in the way attention sharpens or collapses.
+This is where Fractalism places resonance, friction, field quality, and the [**Void**](/the-void). These are not there to create atmosphere. They are there because truth and distortion are not only abstract ideas. They are felt in the body, in speech, in rooms, in pauses, in the way attention sharpens or collapses.
 
 A field can leave you clearer or more fragmented. Friction can point to misalignment, or it can appear when an old pattern is resisting necessary correction. The Void is the brief interval in which a person may notice the pattern beginning before reflex fully hardens into action.
 
@@ -38,13 +38,13 @@ This layer matters because a framework that cannot be lived will eventually beco
 
 The third layer asks what direction a person, relation, or system is actually moving in.
 
-This is where Fractalism places reciprocity and extraction, responsibility and evasion, and the broader distinction between mutual relation and instrumental relation.
+This is where Fractalism places reciprocity and [extraction](/why-extraction-drifts-toward-sadism), responsibility and evasion, and the broader distinction between mutual relation and instrumental relation.
 
 At this level, the framework stops being neutral description. Patterns are no longer only things to notice. They also begin to shape what kind of relation a life is producing.
 
 So the question becomes: what is being served? Is relation becoming more mutual or more instrumental? Is truth being honored or used selectively? Is a person making more room for reality, or reducing everything to the needs of the isolated self?
 
-This is also where Fractalism begins to approach what might be called inverse gnosis: the use of intelligence, symbolism, or psychological insight in the direction of control, fixation, or extraction rather than clarification. That possibility matters because a framework can become more sophisticated while becoming less true.
+This is also where Fractalism begins to approach what might be called [inverse gnosis](/inverse-gnosis): the use of intelligence, symbolism, or psychological insight in the direction of control, fixation, or extraction rather than clarification. That possibility matters because a framework can become more sophisticated while becoming less true.
 
 This matters because discernment is never only intellectual. It has ethical weight.
 
@@ -68,7 +68,7 @@ At the **epistemic** level, the question is what is actually happening, and what
 
 At the **experiential** level, the question is how the pattern is felt. What happens to attention, steadiness, and friction? What is the field quality of the relationship? Is there a moment before the familiar reaction where another response is still possible?
 
-At the **moral** level, the question is what the relation is becoming. Is it moving toward reciprocity, or toward control, management, and extraction?
+At the **moral** level, the question is what the relation is becoming. Is it moving toward [reciprocity](/living-fractalism), or toward control, management, and extraction?
 
 At the **social** level, the question is what wider conditions are reinforcing it. Which norms, habits, or shared distortions make this pattern easier to normalize and harder to interrupt?
 

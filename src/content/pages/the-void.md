@@ -25,6 +25,8 @@ The Void is not passive emptiness. It is a brief condition of active availabilit
 
 A starting pattern can be noticed before it hardens into compulsion. Reflex has not fully committed yet. Choice is not unlimited, but it is still more available than it will be a few seconds later.
 
+The Void is also not a place where a person is guaranteed a message, a vision, or a divine feeling. Often it is quieter and more ordinary than that. It may be nothing more than a stable silence in which certain impulses lose force, certain urgencies stop feeling urgent, and certain thoughts no longer seem fully your own. The point is not that the Void always reveals some positive content. The point is that it changes the conditions under which experience is met. In that quieter interval, what depends on constant reinforcement may begin to weaken, and what remains may become easier to distinguish from what was inserted, reactive, or sustained by pressure. Sometimes what appears there is not a voice, but a reduction. Not revelation as spectacle, but the falling away of what could only survive in noise.
+
 That is why the Void matters so much for freedom, discernment, and the interruption of habit.
 
 ## Why the Void matters
@@ -33,7 +35,7 @@ Most people live inside completed attention loops. A craving rises, attention na
 
 The Void matters because it offers the clearest opening in that process. It is where the loop can sometimes be seen before it commits.
 
-Recognizing the Void does not by itself break the loop. But it is often the best opportunity to interrupt what is beginning before it becomes much harder to change. The wider role of attention in making some lines of response denser than others is explored further in [The Role of Attention in the Collapse of Possibility](/the-role-of-attention-in-the-collapse-of-possibility).
+Recognizing the Void does not by itself break the loop. But it is often the best opportunity to interrupt what is beginning before it becomes much harder to change. The wider role of attention in making some lines of response denser than others is explored further in [The Role of Attention in the Collapse of Possibility](/the-role-of-attention-in-the-collapse-of-possibility). For the practical side of what a person can actually do once this interval is noticed, see [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void).
 
 That is why the Void matters. It is where prevention becomes possible, not where cure happens.
 
@@ -50,7 +52,7 @@ The Void, in the Fractalist sense, belongs with the first category. It is not a 
 
 ## The Void in ordinary experience
 
-The Void is not only a mystical or meditative state. It can appear in ordinary life, in the pause before you reach for your phone, in the moment before you speak a reactive word, in the gap between impulse and action, in stillness after overstimulation fades, and in sobriety when habitual sedation clears.
+The Void is not only a mystical or meditative state. It can appear in ordinary life, in the pause before you reach for your phone, in the moment before you speak a reactive word, in the gap between impulse and action, in stillness after overstimulation fades, and in sobriety when habitual sedation clears. For a closely related essay on why this stillness can feel threatening rather than peaceful at first, see [Why the Modern Person Experiences Silence as a Threat](/why-the-modern-person-experiences-silence-as-a-threat).
 
 These moments are brief. They pass quickly. But they are real, and they can be recognized. The practice of living Fractalism includes noticing these moments, and not immediately filling them.
 
