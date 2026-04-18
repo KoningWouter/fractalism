@@ -84,3 +84,9 @@ Fractalism exists because reality can become hard to read when distortion is rew
 If this project helps, it helps by making some of that structure visible again.
 
 The project should be judged by whether its distinctions hold up in life, survive correction, and help make something real more legible.
+
+## Source
+
+The source code for this site is publicly available. The latest version of the project can always be found at:
+
+https://github.com/KoningWouter/fractalism
