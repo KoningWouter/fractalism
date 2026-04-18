@@ -4,6 +4,8 @@ description: When both the overt axis of power and the supposedly higher axis of
 eyebrow: Essay
 ---
 
+![The Kabbalistic Tree of Life](/tree_of_life.png)
+
 One of the most destabilizing realizations in any serious path is that corruption does not only live where it is obvious.
 
 At first the map seems simple. One side represents overt power, management, hierarchy, domination, the cold mechanics of keeping things in place. The other side appears to offer the corrective. Grace, refinement, order, elevated tradition, the language of light, the promise that there is a cleaner authority somewhere above the crude machinery of control.
