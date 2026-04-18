@@ -80,6 +80,9 @@ Then start with one of these essays:
 - [From Creation to Consumption](/from-creation-to-consumption)
   On how attention systems retrain people away from creation and toward passive consumption.
 
+- [Nobody Plays Anymore](/nobody-plays-anymore)
+  On the game that matters having no leaderboard, no metrics, and no algorithm determining who wins.
+
 - [The Role of Attention in the Collapse of Possibility](/the-role-of-attention-in-the-collapse-of-possibility)
   On attention as something that helps give psychological and social weight to certain possibilities over others.
 
@@ -175,6 +178,7 @@ The full archive below includes the essays above in a single list.
 - [Acting on a Synchronicity](/acting-on-a-synchronicity)
 - [The Way of the Heart and the Way of the Eye](/the-way-of-the-heart-and-the-way-of-the-eye)
 - [When Depth Becomes Control](/inverse-gnosis)
+- [Nobody Plays Anymore](/nobody-plays-anymore)
 - [From Creation to Consumption](/from-creation-to-consumption)
 - [The Role of Attention in the Collapse of Possibility](/the-role-of-attention-in-the-collapse-of-possibility)
 - [How Fractalism Holds Itself to Account](/how-fractalism-holds-itself-to-account)
