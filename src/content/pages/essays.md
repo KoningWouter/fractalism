@@ -143,6 +143,9 @@ Then start with one of these essays:
 - [Music as the Missing Lens Between Mathematics and Spirituality](/music-as-the-missing-lens-between-mathematics-and-spirituality)
   On whether music makes that shared structure experientially audible as lived relation in time.
 
+- [When Intelligence Loses Contact With the Source](/when-intelligence-loses-contact-with-the-source)
+  On what remains of intelligence when it becomes closed, self-referential, and cut off from living reciprocity.
+
 - [When Mathematics Breaks and Who Profits From the Silence](/when-mathematics-breaks-and-who-profits-from-the-silence)
   On mathematical limits, the urge to overinterpret them, and the kinds of authority that profit from that gap.
 
@@ -156,6 +159,7 @@ Then start with one of these essays:
 
 The full archive below includes the essays above in a single list.
 
+- [When Intelligence Loses Contact With the Source](/when-intelligence-loses-contact-with-the-source)
 - [The Source in You](/the-source-in-you)
 - [The Source Moves Through You](/the-source-consciousness-or-structure)
 - [AI as Trojan Horse of the Source](/ai-as-trojan-horse-of-the-source)
