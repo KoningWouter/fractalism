@@ -12,7 +12,9 @@ At first the map seems simple. One side represents overt power, management, hier
 
 This opposition is reassuring for a while. It allows a person to believe that when one side becomes visibly compromised, the answer is simply to move to the other. If the harsh pillar of structure becomes parasitic, then perhaps the pillar of spirit remains trustworthy. If the world of control is corrupt, then perhaps the world of refinement remains pure.
 
-But that confidence does not survive contact with reality for long.
+But there is a deeper correction to make here. The side pillars were never ultimate in the first place. Even at their best they were partial expressions, not final ground. That means side choosing may sometimes be practically necessary, but it was never sufficient in any final sense.
+
+And once this becomes visible, the confidence that one side can save you from the distortions of the other does not survive contact with reality for long.
 
 ## When the right hand is also captured
 
@@ -28,7 +30,7 @@ Because once both side pillars can be captured, the usual strategy fails. The qu
 
 Capture does not always mean the same thing. Sometimes it is structural. A system begins with a genuine function and slowly reshapes itself around survival, status, or institutional continuity until what once served truth now serves self preservation. Sometimes it is intentional. Actors within the structure learn how to instrumentalize its symbols, language, or trust for power. Sometimes it is epistemic. The form itself may remain partially clean, but the seeker's relation to it becomes distorted through projection, idealization, or dependency.
 
-These forms of capture often overlap. A political movement can be structurally captured by incentives, intentionally captured by opportunists, and epistemically captured in the mind of the believer all at once. The same is true of spiritual systems. What matters here is not proving that every structure is equally corrupt. What matters is recognizing that no side pillar is protected in principle from capture merely because its self description is noble.
+These forms of capture often overlap. A political movement can be structurally captured by incentives, intentionally captured by opportunists, and epistemically captured in the mind of the believer all at once. The same is true of spiritual systems. What matters here is not proving that every structure is equally corrupt, or that every tradition was false from the beginning. What matters is recognizing that no side pillar is protected in principle from capture merely because its self description is noble. A pillar may carry a real partial truth and still become dangerous once that partial truth is treated as sufficient.
 
 ## The collapse of horizontal trust
 
@@ -94,7 +96,7 @@ This pattern matters because more and more domains show the same failure mode. P
 
 Under those conditions, integrity can no longer be a matter of taste or allegiance. It has to become a matter of vertical seriousness.
 
-That does not mean abandoning discernment between side pillars entirely. It means refusing to mistake relative cleanliness for ultimate trustworthiness. It means understanding that there are moments when choosing the better side is still necessary, but no longer sufficient.
+That does not mean abandoning discernment between side pillars entirely. It means refusing to mistake relative cleanliness for ultimate trustworthiness. It means understanding that there are moments when choosing the better side is still practically necessary, while also seeing that it was never sufficient at the deepest level.
 
 The deeper work begins where side loyalty ends.
 
