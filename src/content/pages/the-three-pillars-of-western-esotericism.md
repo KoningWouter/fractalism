@@ -68,4 +68,4 @@ This is where the three pillars are useful as a diagnostic tool. Not to sort peo
 
 The middle path is always a practice, never a position. That is its nature and its difficulty.
 
-If you want to continue from here, [When Depth Becomes Control](/inverse-gnosis) is the natural next read. It follows the same question into what happens when intelligence stops serving clarity and begins serving capture instead.
+If you want to continue from here, [When Both Side Pillars Are Compromised, Only the Middle Remains](/when-both-side-pillars-are-compromised-only-the-middle-remains) extends this exact argument into the moment when both horizontal poles become unreliable. After that, [When Depth Becomes Control](/inverse-gnosis) follows the same question into what happens when intelligence stops serving clarity and begins serving capture instead.
