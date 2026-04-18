@@ -64,6 +64,8 @@ Immediate relief can come from avoidance. Immediate difficulty can come from gro
 
 So when the signal is unclear, let it sit.
 
+But there is a difference between pausing to read friction and stalling indefinitely. Deliberation is active. It asks questions, returns to the material, checks against sleep and sobriety, and stays honest about whether it is genuinely waiting for clarity or simply avoiding the cost of a decision. The difference matters because unresolved tension does not simply float. Reality keeps moving. The system that is waiting for your decision will eventually make one for you, and it will usually be harder than what you would have chosen yourself. The ethical cost of indecision does not disappear. It is paid by someone, often someone with less power to say no.
+
 What remains after sleep, rest, sobriety, distance, or sober re-reading is often more trustworthy than the first impulse. If the friction softens after rest, that tells you something. If it stays but becomes cleaner, simpler, and less dramatic, that tells you something too. If it vanishes as soon as the compulsion fades, that matters.
 
 The most sustainable route is usually not the one with the least sensation or the most glamour, but the one with the least artificial maintenance, the least wasted attention, and the least need to lie in order to keep going.
