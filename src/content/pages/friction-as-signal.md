@@ -4,6 +4,8 @@ description: "A practical Fractalist distinction between noise friction and corr
 eyebrow: Friction as Signal
 ---
 
+![Friction as Signal](/friction.png)
+
 Everyone knows the feeling of resistance.
 
 A task starts to feel heavy. A relationship becomes draining. A habit feels harder to interrupt than it should. A change that seems obviously necessary still meets strange inner pushback.
