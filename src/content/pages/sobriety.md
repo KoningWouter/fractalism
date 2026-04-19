@@ -4,6 +4,8 @@ description: How Fractalism understands sobriety not as moral purity, but as the
 eyebrow: Sobriety
 ---
 
+![Sobriety](/sobriety.png)
+
 Most people know the difference between trying to think clearly and trying to think clearly while exhausted, overstimulated, intoxicated, emotionally flooded, or caught in compulsion.
 
 That difference matters.
