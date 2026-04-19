@@ -43,11 +43,11 @@ You are not a passive observer of reality. You are a co-creator, not in the sens
 
 ## Where to go next
 
-**Try it first:** Close your eyes for thirty seconds. Notice what arises before you name it. That moment before the label — before "I am anxious" or "I am bored" — is the gap where source and observer have not yet separated. Fractalism asks you to stay there a little longer.
+**Try it first:** Close your eyes for thirty seconds. Notice what arises before you name it. That moment before the label, before "I am anxious" or "I am bored", is the gap where source and observer have not yet separated. Fractalism asks you to stay there a little longer.
 
 Then continue:
 
-1. [How to Read Fractalism](/how-to-read-fractalism) — how to approach the framework without turning it into dogma
+1. [How to Read Fractalism](/how-to-read-fractalism), how to approach the framework without turning it into dogma
 2. [Truth](/truth)
 3. [Friction as Signal](/friction-as-signal)
 4. [The Void](/the-void)
