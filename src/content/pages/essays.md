@@ -137,6 +137,11 @@ Then start with one of these essays:
 - [Why Calm Feels Like an Attack to an Extractive Pattern](/why-calm-feels-like-an-attack-to-an-extractive-soul)
   On why peace can provoke hostility in dysregulated or extractive patterns.
 
+### Media and Information
+
+- [The Journalistic Void](/journalistic-void)
+  On how media weakens information through selection, framing, and volume, and what the Void has to do with it.
+
 ### Consciousness and Meaning
 
 - [Synchronicity](/synchronicity)
@@ -214,7 +219,7 @@ The full archive below includes the essays above in a single list.
 - [The Three Pillars of Western Esotericism](/the-three-pillars-of-western-esotericism)
 - [When Mathematics Breaks and Who Profits From the Silence](/when-mathematics-breaks-and-who-profits-from-the-silence)
 - [When Both Side Pillars Are Compromised, Only the Middle Remains](/when-both-side-pillars-are-compromised-only-the-middle-remains)
-- [The Mandela Effect - The Pattern Behind False Memory](/the-mandela-effect)
+- [The Journalistic Void](/journalistic-void)
 
 ## Closing
 
