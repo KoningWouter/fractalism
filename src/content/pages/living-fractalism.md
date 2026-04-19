@@ -3,6 +3,8 @@ title: Living Fractalism
 description: "How Fractalism becomes practical in daily life: attention, sobriety, rhythm, discernment, and real rest."
 ---
 
+![Living Fractalism](/living.png)
+
 Fractalism is not only something to think about. It is also something to live.
 
 But living it does not mean doing it well all the time.
