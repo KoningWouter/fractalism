@@ -46,7 +46,7 @@ Fractalism tries to avoid both.
 
 ## Truth and distortion
 
-Truth becomes easier to understand when seen alongside [distortion](/the-structure-of-fractalism).
+Truth becomes easier to understand when seen alongside [distortion](/concepts/#distortion).
 
 Distortion is what bends perception, speech, desire, or interpretation away from what is actually happening. It can show up in a person, a relationship, a culture, or an institution.
 
