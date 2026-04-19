@@ -61,7 +61,3 @@ The more useful response is corrective. Not the factual correction, which bounce
 This is the practice. Not to become uncertain about everything, but to hold one's own most stable certainties with a slight, permanent softness. Not cynicism. Not relativism. Just the willingness to be corrected that is the entry price for actually seeing what is there.
 
 The Void is not empty in the Mandela Effect. It is full of the sediment of millions of minds, all settling on the same wrong shape. Finding the crack in that settlement is one of the ways the Void stays open.
-
----
-
-*Wouter is the author of Fractalism and is currently testing the framework as a practice rather than a publication. He walks with his cats at night.*
