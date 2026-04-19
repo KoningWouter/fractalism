@@ -1,10 +1,7 @@
 ---
 title: The Mandela Effect
-description: On shared memory errors, collective consciousness, and what gedeelde fouten reveal about the boundaries of the self.
+description: On shared memory errors, collective consciousness, and what shared errors reveal about the boundaries of the self.
 eyebrow: Perception
----
-
-![Memory](/memory.png)
 
 Somewhere in the space between perception and recall, something goes wrong in a way that millions of people recognize.
 
