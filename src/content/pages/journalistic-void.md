@@ -8,6 +8,8 @@ Somewhere between what happened and what is reported, a selection is made. That 
 
 This is not a conspiracy theory. It is a structural observation about how information works when it passes through institutions with economic and political dependencies.
 
+*Source article: [Werken moet lonen, maar daar komt in de praktijk weinig van terecht](https://www.nu.nl/economie/6392665/werken-moet-lonen-maar-daar-komt-in-de-praktijk-weinig-van-terecht.html) — NU.nl, April 2026*
+
 ## What journalism is supposed to do
 
 Journalism, in its founding premise, has one job: make the powerful legible to everyone else. It translates. It checks. It brings the hidden into the visible. A free press is not a privilege of the press. It is a mechanism by which the public can hold its own condition up to the light.
