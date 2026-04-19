@@ -3,6 +3,8 @@ title: Essays
 description: Long-form writings from the Fractalism framework.
 ---
 
+![Essays](/essays.png)
+
 This section gathers Fractalism in extended form.
 
 The essay is where the framework has to endure duration. A concept can survive in outline. A deeper body of thought has to prove that it can hold pressure, consequence, and depth without collapsing into slogan or haze.
