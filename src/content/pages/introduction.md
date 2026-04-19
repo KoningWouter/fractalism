@@ -37,7 +37,7 @@ Before reaction. Before scroll. Before the familiar move hardens into habit. In 
 
 Patterns repeat across levels of reality. A distortion in a person can appear later in a relationship, an institution, a culture. A truthful orientation in one place can echo elsewhere in different form. Similar structures recur, not identically, but recognizably.
 
-## [Co-creation](/introduction#co-creation)
+## Co-creation
 
 You are not a passive observer of reality. You are a co-creator, not in the sense that you control outcomes, but that you participate in what emerges. The formula is not something that happens to you. It is something you enact.
 
