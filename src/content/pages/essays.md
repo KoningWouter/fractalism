@@ -119,6 +119,9 @@ Then start with one of these essays:
 - [Sobriety](/sobriety)
   On sobriety as more than abstinence, a way of becoming available to what is real.
 
+- [Team 3 as Discernment Machine](/team-3-as-discernment-machine)
+  On how to use five philosophical lenses to test ideas, situations, and strategies without fooling yourself.
+
 - [Collapse, Agitation, and Clarity](/tamas-rajas-and-sattva)
   A practical Fractalist reading of three recurring modes of life and field quality.
 
@@ -194,6 +197,7 @@ The full archive below includes the essays above in a single list.
 - [Feeds Do Not Control Your Will, but the Atmosphere in Which It Chooses](/feeds-do-not-control-your-will-but-the-atmosphere-in-which-it-chooses)
 - [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void)
 - [Truth](/truth)
+- [Team 3 as Discernment Machine](/team-3-as-discernment-machine)
 - [How to Read Fractalism](/how-to-read-fractalism)
 - [The Structure of Fractalism](/the-structure-of-fractalism)
 - [The Void](/the-void)
