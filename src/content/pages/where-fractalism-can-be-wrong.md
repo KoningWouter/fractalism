@@ -4,6 +4,8 @@ description: How Fractalism can fail through projection, overreach, symbolic inf
 eyebrow: Self-Critique
 ---
 
+![Where Fractalism Can Be Wrong](/hero8.png)
+
 Fractalism does not become stronger by pretending it cannot fail.
 
 Any framework that deals with truth, distortion, symbolism, ethics, and social diagnosis carries a special danger. The same language that helps sharpen discernment can also be used to protect confusion, inflate certainty, and make the framework sound deeper than it really is.
