@@ -4,6 +4,8 @@ description: Fractalism is not a religion to be joined. It is a method for learn
 eyebrow: Method
 ---
 
+![Not a Religion](/hero11.png)
+
 One of the recurring questions about Fractalism is what kind of commitment it asks for.
 
 The short answer is: none that requires belief.
