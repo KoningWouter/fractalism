@@ -1,5 +1,5 @@
 ---
-title: The Mandela Effect
+title: The Mandela Effect: The Pattern Behind False Memory
 description: On shared memory errors, collective consciousness, and what shared errors reveal about the boundaries of the self.
 eyebrow: Perception
 ---
