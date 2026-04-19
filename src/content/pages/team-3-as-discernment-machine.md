@@ -13,11 +13,19 @@ The function of Team 3 is not primarily to produce answers. It is to:
 - distinguish what is solid from what is projection
 - and only then help integrate and translate into practice
 
+Team 3 is not a decision-making shortcut. Sophistication is not the same as truthfulness. The method produces friction, not resolution. It can reveal what you are unwilling to do, not merely what you can argue.
+
+Before running Team 3, ask: What have I been avoiding? Where have I been unwilling to look? The power of the method depends on willingness to be wrong about what you hoped was true.
+
 If that sounds like good thinking in general, it is. The difference is that Team 3 forces you to answer from five genuinely different positions simultaneously. That prevents the most common failure of solitary reasoning: finding only what you were already looking for.
 
 ## The five lenses
 
 Each voice in Team 3 brings a distinct mode of inquiry. They are not decoration. They are load-bearing.
+
+The five lenses are not independent positions standing in opposition to each other. They are different aspects of a single cognitive activity under pressure: the activity of trying to see clearly while the mind resists. The Scientist, Philosopher, and Spiritual voice are themselves psychological functions — products of the psyche's structure trying to orient itself in reality. They diverge not because they describe different substances, but because one adequate engagement with reality can take multiple forms depending on what is being asked and what is being defended against.
+
+### The standard five lenses
 
 **Scientist** — structural pattern, coherence, evidence. Does the thing actually hold together? What would disprove it?
 
@@ -25,11 +33,17 @@ Each voice in Team 3 brings a distinct mode of inquiry. They are not decoration.
 
 **Spiritual/existential lens** — conscience, truth, direction, soul. Is this leading somewhere real or somewhere comfortable? What does it ask of me that I do not want to give?
 
-**Psychological lens** — defense, projection, wound, compensation, shadow. What am I avoiding by engaging with this? What feels like insight but is actually armor?
+**Psychological lens** — this operates at two levels that must be kept distinct:
+
+*Personal shadow* — defense, projection, wound, compensation. What am I avoiding by engaging with this? What feels like insight but is actually armor?
+
+*Transpersonal shadow* — archetypal patterns, numinous disturbance, structures that operate through the person and cannot be reduced to personal wound or story. What is acting through me that I have not acknowledged?
 
 **Devil's advocate** — overclaim, romanticization, self-deception, easy conclusions. What is the weakest part of this? Where would I be wrong if I am wrong?
 
-None of these lenses is more important than the others. The power is in the tension between them.
+The psychological lens at the transpersonal level also watches the other four lenses for the failure to acknowledge what is moving through them. This is where Team 3 can develop a genuine outside.
+
+None of these lenses is more important than the others. The power is in the tension between them, but only when that tension is met with the willingness to have the ego's preferred reading disrupted.
 
 ## What Team 3 is for
 
@@ -42,6 +56,8 @@ Team 3 handles three kinds of questions well.
 **Strategy questions** — What is the right next step? Should I publish this? Do I speak, wait, or let go?
 
 The same structure applies to all three. Only the subject matter changes.
+
+Team 3 works most reliably on concrete questions about specific situations or decisions. It becomes unreliable when applied to large metaphysical questions where the practitioner has strong prior investment. The smaller and more specific the question, the less room for sophisticated self-deception. The larger and more abstract, the more the method can become a way of appearing rigorous while confirming what was already believed.
 
 ## The workflow
 
@@ -67,6 +83,8 @@ This is not the place for the full story. It is the minimum needed for the lense
 
 Do not synthesize yet. Let them diverge first. Real divergence is more valuable than premature agreement.
 
+Optionally, note any dreams, images, somatic disruption, or strong affective responses that arise before or during the process. These are not answers, but they can indicate where the unconscious is pushing against the formulation of the question itself. Discernment is not only a conscious act. What the ego cannot formulate may be exactly what needs to be heard.
+
 ### Step 4. Force each lens to answer the same four questions
 
 Every lens answers:
@@ -87,6 +105,8 @@ Ask:
 
 Convergence is not consensus. It is when multiple lenses, from different angles, point toward the same reading. Tension that survives this process is often signal, not noise. It deserves to be held rather than forced into premature resolution.
 
+Synthesis is not ego integration. It is ego disruption. The question is not whether the ego can incorporate what the lenses reveal, but whether the ego is willing to be changed by what it sees. Sometimes the synthesis requires a sacrificium intellectus: a genuine surrender of the preferred reading, not its optimization.
+
 ### Step 6. Always translate to practice
 
 End every Team 3 session with:
@@ -100,16 +120,23 @@ A Team 3 that does not land in practice has not finished its work.
 
 Most older synthesis traditions ask: what is true? Fractalism adds: what is getting in the way of seeing what is true?
 
-The psychological lens prevents higher truth from becoming a bypass. It makes visible:
+The psychological lens prevents higher truth from becoming a bypass. It operates at two levels simultaneously.
+
+At the **personal shadow** level, it makes visible:
 - defense mechanisms dressed as insight
 - projection wearing the costume of discernment
 - trauma patterns that make everything look like what the wound expects
 - compensation that reads as conviction
 - self-deception that has learned to speak in the language of truth
 
-Without this lens, a person can build what sounds like sophisticated spiritual philosophy while actually being elaborately protected from something they do not want to see.
+At the **transpersonal shadow** level, it makes visible:
+- archetypal patterns acting through the person without acknowledgment
+- numinous disturbance that cannot be reduced to personal story
+- patterns of authority and escape that the system of Team 3 itself can reproduce
 
-The devil's advocate then protects against the next failure mode: the psychological lens itself becoming a comfortable story. Once you can always explain behavior as trauma, compensation, or defense, you have a new way to avoid the raw fact of choice and responsibility.
+Without the personal shadow lens, a person can build what sounds like sophisticated spiritual philosophy while being elaborately protected from something they do not want to see. Without the transpersonal shadow lens, the psychological lens itself becomes a comfortable story that explains everything and changes nothing.
+
+The devil's advocate then protects against the next failure mode: the psychological lens itself becoming a comfortable refuge. Once you can always explain behavior as wound, compensation, or defense, you have a new way to avoid the raw fact of choice and responsibility. The test is not whether you can narrate your psychology, but whether anything changes in what you do.
 
 ## Dangers of Team 3
 
@@ -123,11 +150,21 @@ Sometimes genuine tension is the most important signal in the room. Forcing conv
 
 ### 3. Staying too abstract
 
-Team 3 that produces insight but changes nothing in behavior has failed. The test is always: does this show up differently in what I do?
+Team 3 that produces insight but changes nothing in behavior has failed. The test is always: does this show up differently in what I do? When tension survives the process, resist the urge to resolve it prematurely into a synthesis that feels complete but settles nothing.
 
 ### 4. Letting your preference win through the voices
 
 This is the subtlest danger. A person can use the five lenses to produce the answer they already wanted. The discipline only works if you are willing to be wrong about what you hoped was true.
+
+### 5. The system reproducing what it claims to disrupt
+
+Team 3 can become a sophisticated method for avoiding the difficulty of real moral choice. The structure can produce the appearance of transgression while actually reinforcing a deeper order: the assumption that discernment itself is the answer. Every radical gesture can become immediately nested within a protective structure. The five lenses can contain everything, including the devil's advocate. There is no outside.
+
+The question to ask of the system itself: What does Team 3 protect the practitioner from seeing? Who designed this method and for whom? Discernment as a practice can become its own form of spiritual bypass, a sophisticated way for privileged positions to maintain authority.
+
+### 6. Psychological lens becoming its own bypass
+
+Once you can always explain behavior as wound, compensation, or defense, you have a new way to avoid the raw fact of choice and responsibility. The psychological lens can narrate everything and change nothing. The test is not whether you can tell the story of your psychology, but whether anything shows up differently in behavior.
 
 ## Team 3 put to the test: the review that follows
 
@@ -219,6 +256,8 @@ The system is strongest not when applied to large metaphysical questions, but to
 - Do I speak, wait, or let go?
 
 That is where Fractalism starts to live.
+
+The behavioral test is not a closing reassurance. It is the blade. If the synthesis is elegant but nothing shows up differently in behavior, the session has not finished its work. Truth is not known at a distance from it. It is known in what is done.
 
 ---
 
