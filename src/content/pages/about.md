@@ -3,6 +3,8 @@ title: About
 description: What Fractalism is, why this site exists, and how the project should be approached.
 ---
 
+![About](/hero10.png)
+
 Fractalism is an attempt to understand how truth, distortion, ethics, attention, and social form relate to one another.
 
 This site exists to give that attempt a public shape.
