@@ -38,6 +38,8 @@ Not because it solves everything. Not because it guarantees truth. But because i
 
 In that sense, synchronicity can be read as resistance to total enclosure.
 
+One speculative note: the [Void](/the-void) is the place in Fractalism where patterns break down and reform. Synchronicity may be the moment where the Void briefly opens into visible pattern, where what is usually buried under habit and repetition briefly surfaces as charged signal. This is not a mechanism, it is an image. But it places synchronicity within the Fractalist ontology rather than leaving it as a standalone observation.
+
 ## The [attention](/attention-as-a-resource)-grabbing quality of synchronicity
 
 A synchronicity often does not feel meaningful only after long reflection. Often it arrests attention first.
@@ -55,6 +57,18 @@ This does not make the interpretation automatically correct. But it does suggest
 ## What synchronicity is not
 
 Synchronicity does happen. It is not only the mind over-reading coincidence or finding pattern where none exists. There is something to these moments that resists that reduction, and Fractalism takes that seriously before anything else.
+
+That said, a necessary prologue to taking synchronicity seriously is acknowledging the base-rate problem. Given enough events in enough time, coincidences will happen. A person who notices twenty meaningful coincidences a year will eventually notice one that feels exact. The baseline probability of some pattern of resonance occurring is not zero. Naming this is not a refutation of synchronicity. It is what allows synchronicity to be taken seriously rather than merely collected.
+
+The question is not whether meaningful coincidence exists. It does. The question is which instances rise above the statistical baseline and point toward something that actually required attention.
+
+## What synchronicity tends to make visible
+
+There is a pattern worth noting: synchronicity tends to point toward the thing you were not looking at, not toward confirmation of what you already believed. The moments that arrest attention most sharply are rarely the ones that confirm an existing narrative. They tend to arrive with a quality of displacement, of something pressing that had been outside awareness.
+
+This matters because the natural instinct is to use synchronicity as validation. But validation is what a loop does. A genuine signal more often disrupts than confirms. The useful question is not "does this prove what I thought?" but "what is being shown to me that I would rather not see?"
+
+In practice, synchronicity tends to make visible the thing that was being avoided, the direction that was being resisted, or the pattern that had become too comfortable to question. Approach it accordingly.
 
 ## Experience and interpretation
 
@@ -91,6 +105,8 @@ That question keeps the event open. It does not flatten it into dismissal, but i
 If a synchronicity makes you clearer, steadier, more honest, or more able to see the [pattern](/the-structure-of-fractalism#the-recurring-pattern) you are living inside, then it may be doing real work.
 
 If it makes you grandiose, obsessive, or less reality-based, then something in the reading has probably gone wrong.
+
+There is one more test that belongs here. A synchronicity that points toward clarity should also be one you could explain to someone it affects. Not a justification, but an account. If the direction the synchronicity opened is one you cannot hold in relation to others without special pleading, that is worth noticing. The question is not only "do I feel clearer" but also "can I hold this without making others wrong for not seeing what I see?"
 
 Even a helpful reading should not be mistaken for proof. A moment can clarify attention without settling the truth of the interpretation attached to it.
 
