@@ -15,7 +15,7 @@ From this single relation, several other connections follow.
 
 ## Attention and reality co-create
 
-What you see is shaped by where you look. The void is not empty — it is the space before choice. What fills it depends on the observer. This means reality is not fixed while you watch it. Observer and observed move together.
+What you see is shaped by where you look. The void is not empty, it is the space before choice. What fills it depends on the observer. This means reality is not fixed while you watch it. Observer and observed move together.
 
 ## Truth and distortion are both movements within the Whole
 
@@ -23,11 +23,11 @@ Distortion is not the opposite of truth. Both happen inside the same Ground. Dis
 
 ## Law and freedom are not opposed
 
-The laws of nature are not external constraints imposed on you. They are how the Source experiences itself. Freedom is not escape from law. It is recognition that you are the law — that the structure of reality and the structure of your own attention are made of the same substance.
+The laws of nature are not external constraints imposed on you. They are how the Source experiences itself. Freedom is not escape from law. It is recognition that you are the law, that the structure of reality and the structure of your own attention are made of the same substance.
 
 ## Reciprocity and extraction are orientations
 
-Extraction treats others as means to an end. Reciprocity treats others as persons. These are not fixed categories for whole people — they are directions a relationship can move toward, visible over time.
+Extraction treats others as means to an end. Reciprocity treats others as persons. These are not fixed categories for whole people, they are directions a relationship can move toward, visible over time.
 
 ## The Void is the interval before the loop closes
 
@@ -35,11 +35,11 @@ Before reaction. Before scroll. Before the familiar move hardens into habit. In 
 
 ## Reading across scales
 
-Patterns repeat across levels of reality. A distortion in a person can appear later in a relationship, an institution, a culture. A truthful orientation in one place can echo elsewhere in different form. Similar structures recur — not identically, but recognizably.
+Patterns repeat across levels of reality. A distortion in a person can appear later in a relationship, an institution, a culture. A truthful orientation in one place can echo elsewhere in different form. Similar structures recur, not identically, but recognizably.
 
 ## Co-creation
 
-You are not a passive observer of reality. You are a co-creator — not in the sense that you control outcomes, but that you participate in what emerges. The formula is not something that happens to you. It is something you enact.
+You are not a passive observer of reality. You are a co-creator, not in the sense that you control outcomes, but that you participate in what emerges. The formula is not something that happens to you. It is something you enact.
 
 ## How to read this framework
 
