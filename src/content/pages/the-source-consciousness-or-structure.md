@@ -4,6 +4,8 @@ description: "Is the Source a conscious presence, or an unconscious pattern? And
 eyebrow: Essay
 ---
 
+![The Source in You](/source.png)
+
 There is a question that sits underneath everything in Fractalism, and it rarely gets asked directly. It goes like this: is the Source conscious, or is it just a structure?
 
 The mechanical view would say it is neither. The Source does not exist, there is only matter and the patterns that matter forms. The religious view would say it is consciousness itself, an aware presence that watches and perhaps intervenes. The agnostic view might say we cannot know. But there is a fourth position, the one Fractalism has been quietly building toward, and it is the most uncomfortable of all.
