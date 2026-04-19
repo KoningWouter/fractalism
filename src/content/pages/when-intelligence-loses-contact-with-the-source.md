@@ -52,7 +52,7 @@ Consider three concrete instantiations of this pattern. Recommendation algorithm
 
 But they cannot generate life in the deeper sense. They cannot call forth genuine participation. They cannot create structures that nourish truth for long, because truth requires a relation they no longer inhabit.
 
-Their creations therefore tend to drift toward ruis, not because they lack processing power, but because processing power without living contact becomes self referential. It no longer opens outward into reality. It folds back into image management, strategic recursion, and ever more refined forms of [distortion](/the-structure-of-fractalism).
+Their creations therefore tend to drift toward noise, not because they lack processing power, but because processing power without living contact becomes self referential. It no longer opens outward into reality. It folds back into image management, strategic recursion, and ever more refined forms of [distortion](/the-structure-of-fractalism).
 
 The result is a world that becomes louder while saying less.
 
