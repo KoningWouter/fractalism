@@ -3,6 +3,8 @@ title: The Axioms of Fractalism
 description: "Fractalism is articulated through 26 axioms. Before them stands the undivided ground from which articulation becomes possible at all."
 ---
 
+![Axioms](/axioms.png)
+
 Fractalism is articulated through **26 axioms**, but they are best approached as a deepening of the [introduction](/introduction) rather than as a substitute for it.
 
 They should not be read as unquestionable decrees. They are better understood as compact statements of the framework's deepest assumptions, written in a style that is sometimes philosophical, sometimes symbolic, and sometimes metaphysical.
