@@ -4,13 +4,13 @@ description: On shared memory errors, collective consciousness, and what shared 
 eyebrow: Perception
 ---
 
-Somewhere in the space between perception and recall, something goes wrong in a way that millions of people recognize.
+Somewhere in the space between perception and recall, a pattern becomes visible.
 
 Nelson Mandela is said to have died in prison in the 1980s. Curious George has no tail. The Monopoly man wears a monocle. The Berenstain Bears are spelled with an "e" that thousands of people swear was never there. These are not fringe beliefs. They are shared errors, held by millions, backed by no evidence, and persistent despite correction.
 
 This is the Mandela Effect.
 
-Fractalism does not have a settled theory of what causes it. But it is worth sitting with the phenomenon long enough to find out what it is actually about.
+Fractalism reads this not as a curiosity but as a visible glitch in pattern reconstruction. The distortion is not the error. The distortion is the fact that the error became real through repetition, and now functions as a stable pattern that resists correction. Understanding why is more useful than cataloguing which details are wrong.
 
 ## What the error reveals
 
