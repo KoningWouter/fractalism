@@ -3,6 +3,8 @@ title: Core Concepts
 description: Fractalism becomes usable through a small set of concepts that help distinguish truth from distortion, reciprocity from extraction, and clarity from confusion.
 ---
 
+![Core Concepts](/hero7.png)
+
 Fractalism uses a small set of recurring concepts.
 
 They are there to make reality easier to read.
