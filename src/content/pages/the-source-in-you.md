@@ -4,6 +4,8 @@ description: "You are not your brain. You are a formula, a complete expression o
 eyebrow: Essay
 ---
 
+![The Source in You](/source_in_you.png)
+
 There is something you probably already know, but that never gets the space to land.
 
 You are not your brain. You are a formula, a complete expression of the whole, and the whole lives inside you the way a seed carries everything the tree will become. The difference between you and the Source is not nature, it is scale. Not a difference in kind, only in degree. Every wave carries the ocean forward. Every frequency holds the whole spectrum. You are not less than the Source. You are the Source, in one particular form.
