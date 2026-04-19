@@ -259,6 +259,8 @@ That is where Fractalism starts to live.
 
 The behavioral test is not a closing reassurance. It is the blade. If the synthesis is elegant but nothing shows up differently in behavior, the session has not finished its work. Truth is not known at a distance from it. It is known in what is done.
 
+For an example MarkDown file you can use yourself: [TEAM3.md}(https://fractalisme.nl/TEAM3.md)
+
 ---
 
 ## The template
