@@ -4,6 +4,8 @@ description: How Fractalism understands attention loops as self-reinforcing patt
 eyebrow: Attention Loops
 ---
 
+![Attention Loops](/attention.png)
+
 Most people know what it feels like to do something almost before they have really chosen it.
 
 You check your phone again. You open the same app. You revisit the same fantasy, irritation, or craving. Something small starts moving, and a few minutes later you realize the pattern was already running.
