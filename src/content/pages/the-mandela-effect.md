@@ -2,6 +2,7 @@
 title: The Mandela Effect
 description: On shared memory errors, collective consciousness, and what shared errors reveal about the boundaries of the self.
 eyebrow: Perception
+---
 
 Somewhere in the space between perception and recall, something goes wrong in a way that millions of people recognize.
 
