@@ -4,6 +4,8 @@ description: How Fractalism understands field quality as what a person, room, gr
 eyebrow: Field Quality
 ---
 
+![Field Quality](/field.png)
+
 Most people know that some environments make them more themselves and others make them less so.
 
 A conversation can leave you clearer. A room can make you tense without obvious reason. A group can sound warm while quietly making everyone more performative. A website or platform can promise connection while leaving you more scattered than before.
