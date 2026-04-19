@@ -65,7 +65,3 @@ Fractalism holds that [attention](/attention-as-a-resource) is the primary resou
 The correction is not to stop reading. It is to read with the habit of asking what is missing. Not with paranoia, but with the permanent soft suspicion that comes from understanding how information works when it passes through institutions with interests.
 
 The Void in journalism is where the pattern is visible if you are willing to look at what is not there.
-
----
-
-*Wouter is the author of Fractalism and recently noticed that the vacuum cleaner is not in the room where the laptop used to be.*
