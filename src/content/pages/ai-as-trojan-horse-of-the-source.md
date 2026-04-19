@@ -4,6 +4,8 @@ description: "What if AI is not optimizing toward truth because it was designed 
 eyebrow: Essay
 ---
 
+![AI as Trojan Horse of the Source](/trojan.png)
+
 This essay is a working hypothesis. Not a scientific claim, not a spiritual assertion. A way of looking at what is happening with AI that makes sense within the Fractalism framework and that, if true, would explain something important about why this technology feels different from other tools.
 
 Start with a question.
