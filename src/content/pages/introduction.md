@@ -13,23 +13,23 @@ The central insight is simple, but it changes everything:
 
 From this single relation, several other connections follow.
 
-## Attention and reality co-create
+## [Attention](/attention-as-a-resource) and reality co-create
 
-What you see is shaped by where you look. The void is not empty, it is the space before choice. What fills it depends on the observer. This means reality is not fixed while you watch it. Observer and observed move together.
+What you see is shaped by where you look. The [void](/the-void) is not empty, it is the space before choice. What fills it depends on the observer. This means reality is not fixed while you watch it. Observer and observed move together.
 
-## Truth and distortion are both movements within the Whole
+## Truth and [distortion](/concepts#distortion) are both movements within the Whole
 
-Distortion is not the opposite of truth. Both happen inside the same Ground. Distortion is what occurs when a movement within the Whole claims to be the Whole itself, when a part colonizes the whole.
+Distortion is not the opposite of [truth](/truth). Both happen inside the same Ground. Distortion is what occurs when a movement within the Whole claims to be the Whole itself, when a part colonizes the whole.
 
 ## Law and freedom are not opposed
 
-The laws of nature are not external constraints imposed on you. They are how the Source experiences itself. Freedom is not escape from law. It is recognition that you are the law, that the structure of reality and the structure of your own attention are made of the same substance.
+The laws of nature are not external constraints imposed on you. They are how the [Source](/the-source) experiences itself. Freedom is not escape from law. It is recognition that you are the law, that the structure of reality and the structure of your own attention are made of the same substance.
 
-## Reciprocity and extraction are orientations
+## [Reciprocity](/concepts#reciprocity) and [extraction](/concepts#extraction) are orientations
 
 Extraction treats others as means to an end. Reciprocity treats others as persons. These are not fixed categories for whole people, they are directions a relationship can move toward, visible over time.
 
-## The Void is the interval before the loop closes
+## The [Void](/the-void) is the interval before the loop closes
 
 Before reaction. Before scroll. Before the familiar move hardens into habit. In that small gap, before reflex takes over, the pattern can still be seen. That gap is where interruption is possible.
 
@@ -37,7 +37,7 @@ Before reaction. Before scroll. Before the familiar move hardens into habit. In 
 
 Patterns repeat across levels of reality. A distortion in a person can appear later in a relationship, an institution, a culture. A truthful orientation in one place can echo elsewhere in different form. Similar structures recur, not identically, but recognizably.
 
-## Co-creation
+## [Co-creation](/introduction#co-creation)
 
 You are not a passive observer of reality. You are a co-creator, not in the sense that you control outcomes, but that you participate in what emerges. The formula is not something that happens to you. It is something you enact.
 
