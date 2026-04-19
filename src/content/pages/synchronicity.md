@@ -4,7 +4,7 @@ description: How Fractalism understands synchronicity as a charged interruption 
 eyebrow: Synchronicity
 ---
 
-![Synchronicity](/synchronicity.png)
+![Synchronicity](/synchronicity2.png)
 
 Most people know the feeling of a moment that stands out before they know what to make of it.
 
