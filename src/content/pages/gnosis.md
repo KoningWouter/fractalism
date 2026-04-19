@@ -4,6 +4,8 @@ description: A Fractalist understanding of gnosis as a growing capacity to disti
 eyebrow: Gnosis
 ---
 
+![Gnosis](/gnosis.png)
+
 Most people know the difference between merely collecting ideas and actually seeing something more clearly.
 
 Sometimes a person reads more, hears more, learns more vocabulary, and still remains confused. At other times, something simpler happens. A pattern becomes easier to recognize. A distortion becomes harder to ignore. A situation becomes more legible than it was before.
