@@ -4,6 +4,8 @@ description: How Fractalism distinguishes experience, symbol, hypothesis, practi
 eyebrow: Reading Carefully
 ---
 
+![Epistemic Hygiene](/hygiene.png)
+
 When a framework deals with truth, distortion, resonance, symbolism, and metaphysical questions, it needs a way to keep different kinds of claims from blurring together.
 
 That is what epistemic hygiene means here.
