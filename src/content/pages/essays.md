@@ -214,7 +214,7 @@ The full archive below includes the essays above in a single list.
 - [The Three Pillars of Western Esotericism](/the-three-pillars-of-western-esotericism)
 - [When Mathematics Breaks and Who Profits From the Silence](/when-mathematics-breaks-and-who-profits-from-the-silence)
 - [When Both Side Pillars Are Compromised, Only the Middle Remains](/when-both-side-pillars-are-compromised-only-the-middle-remains)
-- [The Mandela Effect: The Pattern Behind False Memory](/the-mandela-effect)
+- [The Mandela Effect - The Pattern Behind False Memory](/the-mandela-effect)
 
 ## Closing
 
