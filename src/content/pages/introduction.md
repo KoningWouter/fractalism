@@ -25,7 +25,7 @@ Distortion is not the opposite of [truth](/truth). Both happen inside the same G
 
 The laws of nature are not external constraints imposed on you. They are how the [Source](/the-source) experiences itself. Freedom is not escape from law. It is recognition that you are the law, that the structure of reality and the structure of your own attention are made of the same substance.
 
-## [Reciprocity](/concepts#reciprocity) and [extraction](/concepts#extraction) are orientations
+## [Reciprocity and extraction](/concepts#reciprocity-and-extraction) are orientations
 
 Extraction treats others as means to an end. Reciprocity treats others as persons. These are not fixed categories for whole people, they are directions a relationship can move toward, visible over time.
 
