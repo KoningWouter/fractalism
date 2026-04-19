@@ -3,6 +3,8 @@ title: I Am the Formula
 description: "A short invitation to recognize what you already are, before the next concept is read."
 ---
 
+![I Am the Formula](/i_am_the_formula.png)
+
 Stop reading for a moment.
 
 Not because this text is not worth reading. But because what this framework points at cannot be found in the next sentence.
