@@ -41,19 +41,13 @@ Patterns repeat across levels of reality. A distortion in a person can appear la
 
 You are not a passive observer of reality. You are a co-creator, not in the sense that you control outcomes, but that you participate in what emerges. The formula is not something that happens to you. It is something you enact.
 
-**Try it:** Close your eyes for thirty seconds. Notice what arises before you name it. That moment before the label, before "I am anxious" or "I am bored", is the gap where source and observer have not yet separated. Fractalism asks you to stay there a little longer.
-
-## How to read this framework
-
-Not every statement on this site is doing the same kind of work.
-
-Some are best read as symbol. Some are descriptions of experience. Some are hypotheses. Some move closer to public claim. Part of reading Fractalism well is noticing which kind of statement you are looking at.
-
 ## Where to go next
 
-If this makes sense, a good next sequence is:
+**Try it first:** Close your eyes for thirty seconds. Notice what arises before you name it. That moment before the label — before "I am anxious" or "I am bored" — is the gap where source and observer have not yet separated. Fractalism asks you to stay there a little longer.
 
-1. [How to Read Fractalism](/how-to-read-fractalism)
+Then continue:
+
+1. [How to Read Fractalism](/how-to-read-fractalism) — how to approach the framework without turning it into dogma
 2. [Truth](/truth)
 3. [Friction as Signal](/friction-as-signal)
 4. [The Void](/the-void)
