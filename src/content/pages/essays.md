@@ -137,11 +137,6 @@ Then start with one of these essays:
 - [Why Calm Feels Like an Attack to an Extractive Pattern](/why-calm-feels-like-an-attack-to-an-extractive-soul)
   On why peace can provoke hostility in dysregulated or extractive patterns.
 
-### Media and Information
-
-- [The Journalistic Void](/journalistic-void)
-  On how media weakens information through selection, framing, and volume, and what the Void has to do with it.
-
 ### Consciousness and Meaning
 
 - [Synchronicity](/synchronicity)
