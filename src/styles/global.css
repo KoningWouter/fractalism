@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
+
 :root {
 	color-scheme: dark;
 	--bg: #0d1117;
@@ -68,7 +70,7 @@ body {
 		radial-gradient(circle at 80% 20%, var(--rose-glow), transparent 30%),
 		linear-gradient(180deg, color-mix(in srgb, var(--bg) 90%, black) 0%, var(--bg) 46%, color-mix(in srgb, var(--bg) 94%, black) 100%);
 	color: var(--text);
-	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-family: 'Spectral', Georgia, 'Times New Roman', Times, serif;
 	line-height: 1.7;
 	letter-spacing: 0.01em;
 	transition: background-color 320ms ease, color 320ms ease, background 420ms ease;
