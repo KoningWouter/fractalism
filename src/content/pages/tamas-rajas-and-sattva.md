@@ -4,6 +4,8 @@ description: "A Fractalist reading of three recurring modes of life: collapse, a
 eyebrow: Three Modes
 ---
 
+![Collapse, Agitation, and Clarity](/gunas.png)
+
 Some distinctions matter because they sound deep. Others matter because they quietly change how a person lives.
 
 The old distinction between **tamas**, **rajas**, and **sattva** belongs in the second category.
