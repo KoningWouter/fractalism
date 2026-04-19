@@ -3,6 +3,8 @@ title: Team 3
 description: "What Team 3 means in Fractalism: not a faction, but a difficult line of integrity that refuses both open extraction and goodness used as disguise."
 ---
 
+![Team 3](/team3.png)
+
 Some people eventually notice that the world does not divide neatly into obvious selfishness on one side and obvious goodness on the other.
 
 There is often a third pattern that matters just as much: goodness used as a mask for control.
