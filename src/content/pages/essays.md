@@ -142,6 +142,9 @@ Then start with one of these essays:
 - [Synchronicity](/synchronicity)
   On synchronicity as something real that still requires interpretive caution.
 
+- [The Mandela Effect](/the-mandela-effect)
+  On shared memory errors, collective consciousness, and what shared errors reveal about the boundaries of the self.
+
 - [As Above, So Below and the Breaking of Pattern](/as-above-so-below-and-the-breaking-of-pattern)
   On resonance across levels without collapsing into magical egoism.
 
@@ -211,6 +214,7 @@ The full archive below includes the essays above in a single list.
 - [The Three Pillars of Western Esotericism](/the-three-pillars-of-western-esotericism)
 - [When Mathematics Breaks and Who Profits From the Silence](/when-mathematics-breaks-and-who-profits-from-the-silence)
 - [When Both Side Pillars Are Compromised, Only the Middle Remains](/when-both-side-pillars-are-compromised-only-the-middle-remains)
+- [The Mandela Effect](/the-mandela-effect)
 
 ## Closing
 
