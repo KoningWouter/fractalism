@@ -3,6 +3,8 @@ title: Frequently Asked Questions
 description: Honest answers to the most common questions about Fractalism, what it is, what it is not, and how to approach it.
 ---
 
+![Frequently Asked Questions](/hero9.png)
+
 ## What is Fractalism?
 
 Fractalism is a way of reading reality more carefully.
