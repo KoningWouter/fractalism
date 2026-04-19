@@ -4,6 +4,8 @@ description: How Fractalism understands synchronicity as a charged interruption 
 eyebrow: Synchronicity
 ---
 
+![Synchronicity](/synchronicity.png)
+
 Most people know the feeling of a moment that stands out before they know what to make of it.
 
 Something appears through timing, repetition, echo, or a strange convergence between inner attention and outer event. A moment feels charged. Not necessarily because it proves a hidden mechanism, but because it interrupts the normal texture of experience and makes something newly visible.
