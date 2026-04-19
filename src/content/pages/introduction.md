@@ -19,7 +19,7 @@ What you see is shaped by where you look. The void is not empty, it is the space
 
 ## Truth and distortion are both movements within the Whole
 
-Distortion is not the opposite of truth. Both happen inside the same Ground. Distortion is what occurs when a movement within the Whole claims to be the Whole itself — when a part colonizes the whole.
+Distortion is not the opposite of truth. Both happen inside the same Ground. Distortion is what occurs when a movement within the Whole claims to be the Whole itself, when a part colonizes the whole.
 
 ## Law and freedom are not opposed
 
@@ -41,7 +41,7 @@ Patterns repeat across levels of reality. A distortion in a person can appear la
 
 You are not a passive observer of reality. You are a co-creator, not in the sense that you control outcomes, but that you participate in what emerges. The formula is not something that happens to you. It is something you enact.
 
-**Try it:** Close your eyes for thirty seconds. Notice what arises before you name it. That moment before the label — before "I am anxious" or "I am bored" — is the gap where source and observer have not yet separated. Fractalism asks you to stay there a little longer.
+**Try it:** Close your eyes for thirty seconds. Notice what arises before you name it. That moment before the label, before "I am anxious" or "I am bored", is the gap where source and observer have not yet separated. Fractalism asks you to stay there a little longer.
 
 ## How to read this framework
 
