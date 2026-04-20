@@ -124,4 +124,4 @@ That feeling is the distortion.
 
 Make the correction anyway. Not because you are certain it matters. Because the making of it is what the whole pattern is waiting for, and the cascade does not ask your permission to begin.
 
-*Related essays: [Friction as Signal](/friction-as-signal), [The Void](/the-void), [Attention as a Resource](/attention-as-a-resource), [Living Fractalism](/living-fractalism), [The Source](/the-source)*
+*Related essays: [Friction as Signal](/friction-as-signal), [The Void](/the-void), [Attention as a Resource](/attention-as-a-resource), [Living Fractalism](/living-fractalism), [The Source](/the-source), [As Above, So Below and the Breaking of Pattern](/as-above-so-below-and-the-breaking-of-pattern)*
