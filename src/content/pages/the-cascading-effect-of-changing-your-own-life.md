@@ -38,7 +38,7 @@ That is the move the essay is asking for. Not to mop the floor while the water k
 
 ## The larger picture
 
-The larger picture is not abstract. It is the Source as Fractalism describes it: the underlying ground from which persons, patterns, and worlds arise. The Source is not a god and it is not indifferent. It is the condition in which distortion and correction become possible at all. When you correct a pattern in yourself, you are not improving yourself. You are reducing distortion in the field that the Source carries forward into form.
+The larger picture is not abstract. It is [the Source](/the-source) as Fractalism describes it: the underlying ground from which persons, patterns, and worlds arise. The Source is not a god and it is not indifferent. It is the condition in which distortion and correction become possible at all. When you correct a pattern in yourself, you are not improving yourself. You are reducing distortion in the field that the Source carries forward into form.
 
 This is what the essay means when it says your corrections contribute to the whole. The whole is not humanity in the abstract. The whole is the ongoing process of the Source expressing itself through pattern, some of which is distorted and some of which is corrected. When you correct a distortion, you are participating in that process at the level where it actually operates: at the level of pattern, before pattern has become system, institution, culture, or history.
 
