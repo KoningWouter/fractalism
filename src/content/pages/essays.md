@@ -113,6 +113,9 @@ Then start with one of these essays:
 
 ### Practice and Orientation
 
+- [The Cascading Effect of Changing Your Own Life](/the-cascading-effect-of-changing-your-own-life)
+  On how correcting errors in your own life genuinely contributes to the whole, and why your choices radiate outward.
+
 - [Living Fractalism](/living-fractalism)
   A page on what Fractalism looks like when it becomes practice rather than theory.
 
@@ -170,6 +173,7 @@ Then start with one of these essays:
 
 The full archive below includes the essays above in a single list.
 
+- [The Cascading Effect of Changing Your Own Life](/the-cascading-effect-of-changing-your-own-life)
 - [When Intelligence Loses Contact With the Source](/when-intelligence-loses-contact-with-the-source)
 - [The Source in You](/the-source-in-you)
 - [The Source Moves Through You](/the-source-consciousness-or-structure)
