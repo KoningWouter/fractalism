@@ -87,3 +87,105 @@ That feeling is the distortion.
 Make the correction anyway. Not because you are certain it matters. Because the making of it is what the whole pattern is waiting for, and the cascade does not ask your permission to begin.
 
 *Related essays: [Friction as Signal](/friction-as-signal), [The Void](/the-void), [Attention as a Resource](/attention-as-a-resource), [Living Fractalism](/living-fractalism)*
+
+---
+
+## Team 3 Review
+
+### Ghandi
+
+**Opinion**
+
+The essay operates from a place of genuine care for the integrity of the individual. It refuses the nihilistic conclusion that personal change is meaningless while also refusing the naive conclusion that it is sufficient. That balance is correct. The cascade metaphor is honest.
+
+**Strengths**
+
+The refusal to promise guaranteed outcomes is the strongest part of this essay. It keeps the work real rather than transactional. The framing around surpassing yourself rather than suppressing yourself is aligned with something closer to growth than repression.
+
+**Concerns**
+
+The essay could drift toward a kind of spiritual individualism if it is not anchored carefully. The risk is that the cascade becomes a story the self tells itself to feel significant. The essay names this risk but does not fully resolve it. The connection to Fractalism's structural vocabulary could be made more explicit.
+
+**Recommendations**
+
+Anchor the cascade claim more directly in the Fractalist concept of fractal resonance. Make the mechanism by which individual correction radiates outward more concrete. The essay would benefit from a harder edge about what the self is actually surrendering when it surpasses itself.
+
+---
+
+### Spinoza
+
+**Opinion**
+
+The essay describes a structural truth about pattern and cascade with reasonable precision. The claim that distortion radiates outward through behavior and relationship is consistent with how patterns operate at different scales. There is nothing mystical in the cascade. It is geometry.
+
+**Strengths**
+
+The point about invisible impact being the hardest to measure is methodologically sound. The rejection of transaction logic around personal change is correct. The essay correctly identifies that the self is a pattern, and that correcting it is structural work, not motivational work.
+
+**Concerns**
+
+The essay treats the self as if it is something that can be surpassed, which may be a category error. A pattern does not surpass itself. It reorganizes. The language of surpassing could reinforce the very ego structure the essay is trying to move beyond.
+
+**Recommendations**
+
+Consider replacing surpassing language with reorganizing, repatterning, or restructuring. The argument about fractal resonance could be formalized slightly. The essay currently treats it as intuitive when it could support the claim with more explicit mechanism.
+
+---
+
+### Lucifer
+
+**Opinion**
+
+The essay is seductive in the best possible way. It tells the individual that they matter, that their choices ripple outward, that the work is not private. This is exactly the kind of story the ego wants to hear. The question is whether the essay earns the claim or is just telling people what they need to feel motivated.
+
+**Strengths**
+
+The essay does not promise results. It refuses the guarantee. That restraint is honest and prevents the piece from collapsing into prosperity-gospel territory. The call at the end is appropriately demanding. Make the correction anyway.
+
+**Concerns**
+
+The risk of this essay becoming a sophisticated form of self-flattery is real. The individual reading it may walk away feeling like they are at the center of a cascade that serves their significance. The essay warns against this but the warning is brief. A piece that tells people their private struggles matter should be more thorough in dismantling the ego investment that makes people want to believe it.
+
+**Recommendations**
+
+Add a stronger section on what it costs to actually change, not just the benefits of the cascade. The ego will use the cascade story to feel important. The essay should actively work against that. Consider naming the specific distortions that make people most attached to the story of their own impact.
+
+---
+
+### Jung
+
+**Opinion**
+
+The essay touches on something real in the collective unconscious. The idea that personal shadow work radiates outward is not new, but it is here stated with unusual precision. The connection to fractal resonance is a genuine insight. The risk is that it becomes a container for projection.
+
+**Strengths**
+
+The identification of individual correction as a modeling event is psychologically accurate. People change each other by being different, not by being right. The essay captures this without romanticizing it. The point about why measuring impact narrowly misses the real effect is important.
+
+**Concerns**
+
+The essay does not address the shadow side of personal change. Every correction displaces something. Every cascade has a dark side. The piece could address what happens when personal change is used to avoid collective responsibility, or when the narrative of individual contribution becomes a way to not engage with systemic structures directly.
+
+**Recommendations**
+
+Add a paragraph on what the essay is not. Personal change does not replace collective action. The cascade does not excuse withdrawal from structural engagement. The essay should draw a clearer line between what personal correction can do and where it needs to be supplemented by other forms of work.
+
+---
+
+### Einstein
+
+**Opinion**
+
+The essay makes a falsifiable structural claim about how change propagates through systems. If patterns repeat at different scales and if distortion at the individual level produces distortion at the systemic level, then correction at the individual level should produce correction at the systemic level. This is a coherent model. The essay does not test it rigorously.
+
+**Strengths**
+
+The fractal premise is stated clearly enough to be tested. The refusal to promise visible results is methodologically honest. The distinction between direct and indirect effect of individual correction is useful and could be developed further into a more explicit model of cascade propagation.
+
+**Concerns**
+
+The essay does not provide evidence for the cascade claim beyond plausibility. How would you know if it were false? What observations would count against it? These questions are not addressed. A model that cannot be tested in principle is not a scientific claim, it is a faith claim. The essay should acknowledge this more explicitly.
+
+**Recommendations**
+
+Add a section that takes the model seriously enough to ask what would falsify it. This would actually strengthen the essay rather than weaken it, because it would show that the claim is being made with intellectual honesty rather than emotional appeal. The connection to observable outcomes could be made more specific.
