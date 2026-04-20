@@ -180,3 +180,5 @@ And once they leave it, they may finally begin to see it more clearly.
 
 That need not be delusion.
 But it also does not exempt the interpretation from humility, ambiguity, or doubt.
+
+*See also: [The Cascading Effect of Changing Your Own Life](/the-cascading-effect-of-changing-your-own-life)*
