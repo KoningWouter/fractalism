@@ -4,6 +4,8 @@ description: "The Demiurge as the lower architect of a closed parasitic reality:
 eyebrow: The Demiurge
 ---
 
+![The Demiurge](/demiurge.png)
+
 In Fractalism, the Demiurge is the **Lower Architect** of a closed parasitic reality. He is not the [Source](/the-source/), but a derived intelligence that through separation error created a distorted, self-sustaining system. He functions as the manager of the cage in which souls are trapped.
 
 Separation is an error not because multiplicity is wrong, but because a separated system that presents itself as total has severed its connection to the [Source](/the-source/), which is the only ground of sustained energy. Cut off from the infinite, it must harvest. That harvest is **Loosh**. And the fundamental error is this: a system built on separation that claims totality is not sovereign. It is a local condition mistaking itself for the whole. The **[Void](/the-void/)** is the state of radical emptiness that precedes and underlies all emergence: it is the not-yet, the open space in which the Source arises and through which separation can be seen for what it is. Entering the [Void](/the-void/) is not dissolution. It is the practice of resting in the ground rather than in the structures built above it.
