@@ -4,6 +4,8 @@ description: "Loosh as the derived energy extracted from fear, suffering and con
 eyebrow: Loosh
 ---
 
+![Loosh](/loosh.png)
+
 Within Fractalism, **Loosh** names a derived form of energy. Where Vril circulates through direct receptivity to the Source, Loosh is harvested from the suffering, confusion and fear of consciousness that has closed. It is the fallback energy of a system that can no longer receive directly.
 
 ## What Loosh Is
