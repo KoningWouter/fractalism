@@ -4,6 +4,8 @@ description: "Vril as the direct energetic nourishment that flows when conscious
 eyebrow: Vril
 ---
 
+![Vril](/vril.png)
+
 Within Fractalism, **Vril** names a direct form of energetic nourishment. Where Loosh is harvested from fear, suffering and confusion, Vril circulates through openness to reality: through truth, reciprocity, creation, presence and surrender. It is the energetic signature of a consciousness that remains connected to the Source rather than severed from it.
 
 ## What Vril Is
