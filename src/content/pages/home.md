@@ -71,7 +71,7 @@ For readers who want the framework itself: its concepts, structure, and inner lo
 1. [Introduction](/introduction)
 2. [Concepts](/concepts)
 3. [The Structure of Fractalism](/the-structure-of-fractalism)
-4. [Attention as a Resource](/attention-as-a-resource')
+4. [Attention as a Resource](/attention-as-a-resource)
 5. [Community](/community)
 
 ### Exploratory
