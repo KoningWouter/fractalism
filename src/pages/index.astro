@@ -12,6 +12,61 @@ if (!entry) {
 const { Content } = await render(entry);
 const { hero, intro, themes, relevance } = entry.data;
 const hasStructuredHomepage = hero && intro && themes && relevance;
+const readingPaths = [
+	{
+		label: 'Start Here',
+		description:
+			'A first orientation to what Fractalism is, how it should be read, and where it can go wrong.',
+		links: [
+			{ href: '/introduction', label: 'Introduction' },
+			{ href: '/how-to-read-fractalism', label: 'How to Read Fractalism' },
+			{ href: '/where-fractalism-can-be-wrong', label: 'Where Fractalism Can Be Wrong' },
+			{ href: '/truth', label: 'Truth' },
+			{ href: '/friction-as-signal', label: 'Friction as Signal' },
+		],
+	},
+	{
+		label: 'Practical',
+		description:
+			'For readers who want clarity, sobriety, attention, and immediately usable distinctions.',
+		links: [
+			{ href: '/truth', label: 'Truth' },
+			{ href: '/the-void', label: 'The Void' },
+			{ href: '/friction-as-signal', label: 'Friction as Signal' },
+			{ href: '/living-fractalism', label: 'Living Fractalism' },
+			{ href: '/sobriety', label: 'Sobriety' },
+			{ href: '/what-you-can-concretely-do-in-the-void', label: 'What You Can Concretely Do in the Void' },
+		],
+	},
+	{
+		label: 'Core Architecture',
+		description:
+			'For readers who want the framework itself: its concepts, structure, and inner logic.',
+		links: [
+			{ href: '/introduction', label: 'Introduction' },
+			{ href: '/concepts', label: 'Core Concepts' },
+			{ href: '/the-structure-of-fractalism', label: 'The Structure of Fractalism' },
+			{ href: '/attention-as-a-resource', label: 'Attention as a Resource' },
+			{ href: '/community', label: 'Community' },
+		],
+	},
+	{
+		label: 'Exploratory',
+		description:
+			'For the higher and more speculative range of Fractalism. Best read after the grounding pages are in place.',
+		links: [
+			{ href: '/the-void', label: 'The Void' },
+			{ href: '/the-source', label: 'The Source' },
+			{ href: '/the-source-in-you', label: 'The Source in You' },
+			{ href: '/vril', label: 'Vril' },
+			{ href: '/diamond-soul', label: 'Diamond Soul' },
+			{ href: '/loosh', label: 'Loosh' },
+			{ href: '/the-demiurge', label: 'The Demiurge' },
+			{ href: '/archons', label: 'Archons' },
+			{ href: '/black-diamond-soul', label: 'Black Diamond Soul' },
+		],
+	},
+];
 ---
 
 <MainLayout
@@ -75,6 +130,30 @@ const hasStructuredHomepage = hero && intro && themes && relevance;
 					<div class="prose-block">
 						<p>{relevance.paragraph}</p>
 						<p>{relevance.closing}</p>
+					</div>
+				</section>
+
+				<section class="section-stack">
+					<div class="section-heading">
+						<p class="eyebrow">Reading Paths</p>
+						<h2>Different ways into the structure</h2>
+					</div>
+					<div class="section-grid">
+						{
+							readingPaths.map((path) => (
+								<article class="theme-card">
+									<h3>{path.label}</h3>
+									<p>{path.description}</p>
+									<ul>
+										{
+											path.links.map((link) => (
+												<li><a href={link.href}>{link.label}</a></li>
+											))
+										}
+									</ul>
+								</article>
+							))
+						}
 					</div>
 				</section>
 
