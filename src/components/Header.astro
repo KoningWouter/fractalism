@@ -40,8 +40,6 @@ const navItems = [
 	},
 	{
 		label: 'The Demiurge',
-		description:
-			'This section explores forms of order that preserve structure while losing contact with truth, reciprocity, and the Source. These pages are interpretive tools for recognizing distorted structure, not a license for metaphysical overclaim.',
 		items: [
 			{ href: '/the-demiurge', label: 'The Demiurge' },
 			{ href: '/loosh', label: 'Loosh' },
@@ -109,7 +107,6 @@ const currentPath = Astro.url.pathname;
 									{item.label}
 								</summary>
 								<ul class="site-nav__dropdown">
-									{'description' in item && item.description ? <li class="site-nav__dropdown-intro">{item.description}</li> : null}
 									{item.items.map((child) => (
 										<li>
 											<a
