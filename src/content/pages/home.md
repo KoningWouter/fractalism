@@ -57,7 +57,7 @@ A first orientation to what Fractalism is, how it should be read, and where it c
 
 For readers who want clarity, sobriety, attention, and immediately usable distinctions.
 
-1. [Truth](/truth)
+1. [I Am the Formula](/i-am-the-formula)
 2. [The Void](/truth)
 3. [Friction as Signal](/friction-as-signal)
 4. [Living Fractalism](/living-fractalism)
