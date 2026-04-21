@@ -31,7 +31,7 @@ There is a point at which a structure stops receiving and starts only taking. Th
 
 As orientation shifts toward control, appropriation becomes more important than reciprocity. Power becomes more important than truth. Exploitation becomes more important than attunement. The structure does not become stronger. It becomes harder and less permeable. It loses its capacity to receive and increasingly depends on taking.
 
-When that capacity for direct reception is finally closed, the system does not simply stop. It reaches for something else. That something else is Loosh: derived,二手 energy harvested from the suffering and confusion of others.
+When that capacity for direct reception is finally closed, the system does not simply stop. It reaches for something else. That something else is Loosh: derived energy harvested from the suffering and confusion of others.
 
 ## The Tipping Point
 
