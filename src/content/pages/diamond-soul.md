@@ -12,6 +12,8 @@ A diamond is not soft, but it is not dead. It is formed through pressure. In the
 
 This is not the same as spiritual superiority. Many people are broken by pressure. Many become more defended, more distorted, more extractive. A Diamond Soul is not someone who avoided the pressure. It is someone who was refined by it.
 
+Nor does pressure prove anything by itself. Suffering alone is not evidence of depth, chosenness, or refinement. The question is what pressure produces in a person: more honesty or more compensation, more contact or more self-protection, more reality or more story.
+
 ## Crystallization Through Friction
 
 The basic intuition behind the Diamond Soul is simple: under certain conditions, [friction](/friction-as-signal) does not only wound. It clarifies.
@@ -22,7 +24,9 @@ In Fractalist language, this is a movement from distortion toward resonance. The
 
 That does not mean suffering is good in itself. It means suffering can become material for refinement when it is metabolized rather than worshipped.
 
-## The Wanderer Transition
+The practical test is relational and ethical, not mythic. If refinement is real, it should appear as less manipulation, less self-importance, less hidden taking, and more reliability in contact with other people.
+
+## The Manasaputra Transition
 
 The Diamond Soul idea points toward a specific threshold: a consciousness that can enter difficult environments without fully losing its connection to the Source.
 
@@ -30,7 +34,9 @@ Most people are shaped by the field they enter. They adapt to the atmosphere aro
 
 A Diamond Soul is different in degree, not in species. It can still be hurt, confused, or exhausted. But its connection runs deeper than mood, approval, or pressure. It carries a more stable line downward into the [Void](/the-void), upward into the Source, and outward into conduct.
 
-This is why the image of the wanderer matters. The wanderer is not someone who escapes incarnation. The wanderer is someone who can move through inversion without being fully reorganized by it.
+This language may describe degree rather than kind. The claim is not necessarily that Diamond Souls are a separate class of being, but that some consciousnesses become more coherent, less distortable, and more stably aligned under pressure than others.
+
+This is why the image of the [Manasaputra](/the-manasaputra/) matters. The Manasaputra is not someone who escapes incarnation. The Manasaputra is someone who can move through inversion without being fully reorganized by it.
 
 ## Functional Individuality
 
@@ -64,6 +70,8 @@ Fractalism does not need exaggerated magical claims to say this. Ordinary life a
 
 The Diamond Soul hypothesis extends this intuition further. If consciousness is not merely a byproduct of matter, then a highly coherent node may influence probability, timing, and collective movement more than a fragmented one. Not through domination, but through resonance.
 
+This remains a speculative extension, not an established mechanism. At minimum, the model describes observable differences in coherence under pressure. At maximum, it suggests a deeper metaphysics not yet demonstrable.
+
 This should be held carefully. Otherwise it becomes inflation. The point is not that refined people control reality with their minds. The point is that coherence may participate more deeply in how reality unfolds than the mechanistic worldview allows.
 
 ## Tactical Grounding
@@ -86,7 +94,9 @@ The danger is obvious. A person can hear this language and immediately use it to
 
 That is exactly when the concept becomes dangerous.
 
-A real Diamond Soul, if such a thing exists, would probably look less self-impressed than expected. More sober. More corrigible. Less hungry to be recognized. Less invested in spiritual theater. More capable of contact, truthfulness, and service.
+A real Diamond Soul, if such a thing exists, would probably look less self-impressed than expected. More sober. More corrigible. Less hungry to be recognized. Less invested in spiritual theater. More capable of contact, truthfulness, and service. From the outside, it may also look more ordinary than expected. Less dramatic, not more.
+
+If a person strongly needs to identify as a Diamond Soul, that may itself be a sign that the process is unfinished. The image has started feeding compensation rather than clarifying structure.
 
 So the test is not whether the label feels resonant. The test is what it produces.
 
@@ -104,6 +114,6 @@ The Diamond Soul concept is best held as a high-level Fractalist hypothesis rath
 
 It is a way of naming the possibility that some consciousnesses become more stable, more resonant, and more functionally individual through pressure rather than despite it. It gives language to a real pattern many people feel: that some beings seem to come through the world more clarified by suffering than broken by it.
 
-But the framework should remain honest. It does not yet prove how such souls originate, whether they differ in kind or only degree, or whether the language of wanderers and high-resolution nodes is metaphysical description or symbolic approximation.
+But the framework should remain honest. It does not yet prove how such souls originate, whether they differ in kind or only degree, or whether the language of Manasaputra and high-resolution nodes is metaphysical description or symbolic approximation.
 
 What it does offer is a disciplined intuition: that under the right conditions, pressure can crystallize consciousness rather than merely shatter it, and that what emerges may be a person more capable of carrying the Source into the world without forgetting it.
