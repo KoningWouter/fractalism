@@ -41,7 +41,9 @@ Is this the strain of forcing something that no longer fits, or the resistance t
 Fractalism is not mainly a theory.  
 It is a way of seeing these patterns sooner, so they do not keep deciding your life for you.
 
-## Start Here
+## Reading Routes
+
+### Start Here
 
 A first orientation to what Fractalism is, how it should be read, and where it can go wrong.
 
@@ -51,7 +53,7 @@ A first orientation to what Fractalism is, how it should be read, and where it c
 4. [Truth](/truth)
 5. [Friction as Signal](/friction-as-signal)
 
-## Practical
+### Practical
 
 For readers who want clarity, sobriety, attention, and immediately usable distinctions.
 
@@ -62,7 +64,7 @@ For readers who want clarity, sobriety, attention, and immediately usable distin
 5. [Sobriety](/sobriety)
 6. [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void)
 
-## Core Architecture
+### Core Architecture
 
 For readers who want the framework itself: its concepts, structure, and inner logic.
 
@@ -72,7 +74,7 @@ For readers who want the framework itself: its concepts, structure, and inner lo
 4. [Attention as a Resource](/attention-as-a-resource')
 5. [Community](/community)
 
-## Exploratory
+### Exploratory
 
 For the higher and more speculative range of Fractalism. Best read after the grounding pages are in place.
 
@@ -86,7 +88,7 @@ For the higher and more speculative range of Fractalism. Best read after the gro
 8. [Archons](/archons)
 9. [Black Diamond Soul](/black-diamond-soul)
 
-## Essays
+### Essays
 
 If you want longer writings, go to [Essays](/essays).
 
