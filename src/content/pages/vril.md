@@ -6,7 +6,7 @@ eyebrow: Vril
 
 ![Vril](/vril.png)
 
-Within Fractalism, **Vril** names a direct form of energetic nourishment. Where Loosh is harvested from fear, suffering and confusion, Vril circulates through openness to reality: through truth, reciprocity, creation, presence and surrender. It is the energetic signature of a consciousness that remains connected to the Source rather than severed from it.
+Within Fractalism, **Vril** names a direct form of energetic nourishment. Where [Loosh](/loosh/) is harvested from fear, suffering and confusion, Vril circulates through openness to reality: through [truth](/truth/), reciprocity, creation, presence and surrender. It is the energetic signature of a consciousness that remains connected to the [Source](/the-source/) rather than severed from it.
 
 ## What Vril Is
 
@@ -14,7 +14,7 @@ Vril is not a substance. It is a quality of flow. It arises when a being operate
 
 This does not mean they are always comfortable. Reality is not comfortable. But it means they are connected to something that sustains them without them having to extract it from others.
 
-Vril and Loosh are not fixed states. They are poles on a spectrum. A person can be in both at the same time, or oscillating between them, or primarily in one with the other present as a background pull. The goal is not to achieve a permanent Vril state but to develop the capacity to notice which pole you are in and to reopen when you have closed.
+Vril and [Loosh](/loosh/) are not fixed states. They are poles on a spectrum. A person can be in both at the same time, or oscillating between them, or primarily in one with the other present as a background pull. The goal is not to achieve a permanent Vril state but to develop the capacity to notice which pole you are in and to reopen when you have closed.
 
 There is a shadow to the Vril narrative itself. It is possible to use this framework to justify inflation: to believe you are in Vril when you are actually in a subtler form of Loosh, where the harvest is the validation of being someone who receives from the Source. The sign of this inflation is a framework that always confirms you are on the right side. Genuine Vril includes the willingness to be wrong about whether you are in it.
 
@@ -49,7 +49,7 @@ There is a point at which a structure stops receiving and starts only taking. Th
 
 As orientation shifts toward control, appropriation becomes more important than reciprocity. Power becomes more important than truth. Exploitation becomes more important than attunement. The structure does not become stronger. It becomes harder and less permeable. It loses its capacity to receive and increasingly depends on taking.
 
-When that capacity for direct reception is finally closed, the system does not simply stop. It reaches for something else. That something else is Loosh: derived energy harvested from the suffering and confusion of others.
+When that capacity for direct reception is finally closed, the system does not simply stop. It reaches for something else. That something else is [Loosh](/loosh/): derived energy harvested from the suffering and confusion of others.
 
 ## The Tipping Point
 

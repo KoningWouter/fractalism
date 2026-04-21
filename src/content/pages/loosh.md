@@ -6,7 +6,7 @@ eyebrow: Loosh
 
 ![Loosh](/loosh.png)
 
-Within Fractalism, **Loosh** names a derived form of energy. Where Vril circulates through direct receptivity to the Source, Loosh is harvested from the suffering, confusion and fear of consciousness that has closed. It is the fallback energy of a system that can no longer receive directly.
+Within Fractalism, **Loosh** names a derived form of energy. Where [Vril](/vril/) circulates through direct receptivity to the [Source](/the-source/), Loosh is harvested from the suffering, confusion and fear of consciousness that has closed. It is the fallback energy of a system that can no longer receive directly.
 
 ## What Loosh Is
 
@@ -36,7 +36,7 @@ The sign of advanced extraction is not aggression. It is desperation. The struct
 
 Extraction is not chosen only as a fallback. It is often preferred, because taking allows the fiction of autonomy to be maintained. Direct reception from the Source requires surrender, and surrender is resisted because it threatens the sense of self that closure protects. The psychic reward of extraction is the preservation of sovereignty: the self remains intact and in control even as it drains.
 
-This is why extraction persists even when Vril is theoretically available. The closed structure is not simply impaired. It is invested. It has organized itself around the closed state and has accumulated reasons why opening would be dangerous. Those reasons are real to the structure. They are not examined because examination would require the very openness that the structure is protecting against. The Loosh page does not present Vril as the obvious superior choice because it accounts for the structural reasons beings resist it.
+This is why extraction persists even when [Vril](/vril/) is theoretically available. The closed structure is not simply impaired. It is invested. It has organized itself around the closed state and has accumulated reasons why opening would be dangerous. Those reasons are real to the structure. They are not examined because examination would require the very openness that the structure is protecting against. The [Loosh](/loosh/) page does not present [Vril](/vril/) as the obvious superior choice because it accounts for the structural reasons beings resist it.
 
 ## Loosh and the Systems That Require It
 
@@ -50,13 +50,13 @@ The collapse of a Loosh-dependent system does not typically happen through oppos
 
 ## The Shadow Projection Caution
 
-When the Loosh page identifies media architectures, financial systems, credentialing structures and political spectacle as sites of extraction, it describes externalizations of the same dynamic that operates in individuals. But naming external systems as extractive can itself become a defensive move. It allows the individual to position themselves as awake to the extraction while remaining blind to the moments when they themselves are in extraction mode. The diagnostic is accurate. But it does not protect against using the diagnostic to reinforce a story in which the self is on the right side. Genuine self-observation attends to the same dynamics in oneself. The Loosh page is not a warning about them. It is a lens that applies equally to the reader.
+When the Loosh page identifies media architectures, financial systems, credentialing structures and political spectacle as sites of extraction, it describes externalizations of the same dynamic that operates in individuals. But naming external systems as extractive can itself become a defensive move. It allows the individual to position themselves as awake to the extraction while remaining blind to the moments when they themselves are in extraction mode. The diagnostic is accurate. But it does not protect against using the diagnostic to reinforce a story in which the self is on the right side. Genuine self-observation attends to the same dynamics in oneself. The [Loosh](/loosh/) page is not a warning about them. It is a lens that applies equally to the reader.
 
 ## The Relationship Between Vril and Loosh
 
-Vril and Loosh are not two types of thing. They are two modes of the same energetic reality. Consciousness either receives or it takes. It remains connected to the Source or it substitutes derived energy for direct nourishment.
+[Vril](/vril/) and [Loosh](/loosh/) are not two types of thing. They are two modes of the same energetic reality. Consciousness either receives or it takes. It remains connected to the [Source](/the-source/) or it substitutes derived energy for direct nourishment.
 
-The relationship is not symmetrical. Vril is the original and sustaining mode. Loosh is what fills the gap when Vril is no longer available. A consciousness in Vril does not need Loosh. A consciousness in Loosh cannot access Vril without first reopening.
+The relationship is not symmetrical. [Vril](/vril/) is the original and sustaining mode. [Loosh](/loosh/) is what fills the gap when [Vril](/vril/) is no longer available. A consciousness in Vril does not need Loosh. A consciousness in Loosh cannot access Vril without first reopening.
 
 The direction from Vril to Loosh is not irreversible. Reopening is possible, though it does not happen through will. It happens through the recognition that closure has a cost, and through the willingness to release the investment in remaining closed. This is not a moral achievement. It is a structural shift. The practice of Fractalism is described as the practice of remaining open because that openness is what keeps the direction reversible.
 

@@ -4,9 +4,9 @@ description: "Archons as the operational intelligence of a closed extraction sys
 eyebrow: Archons
 ---
 
-![Argons](/argons.png)
+![Archons](/archons.png)
 
-In Fractalism, **Archons** are the operational intelligence of a closed system. They are not the [Source](/the-source/), not the [Demiurge](/the-demiurge/) as architect, and not individual bad actors. They are the structure through which extraction is administered: the hierarchy that maintains the conditions under which Loosh can be harvested and Gnosis can be blocked.
+In Fractalism, **Archons** are the operational intelligence of a closed system. They are not the [Source](/the-source/), not the [Demiurge](/the-demiurge/) as architect, and not individual bad actors. They are the structure through which extraction is administered: the hierarchy that maintains the conditions under which [Loosh](/loosh/) can be harvested and [Gnosis](/gnosis/) can be blocked.
 
 The Demiurge builds the cage. Archons are the wardens.
 
@@ -47,7 +47,7 @@ The sharpest formulation from the vault: *Gnosis without love becomes Archontic 
 
 ## Loosh Harvest and the Archontic Hierarchy
 
-Archons are the nodes through which Loosh flows. They are not primarily harvesting for themselves. They are the infrastructure of the harvest: the protocols, the systems, the institutional arrangements that keep the extraction viable.
+Archons are the nodes through which [Loosh](/loosh/) flows. They are not primarily harvesting for themselves. They are the infrastructure of the harvest: the protocols, the systems, the institutional arrangements that keep the extraction viable.
 
 At the surface level, this looks like economic extraction, social control, and managed conflict. At the deeper level, it includes the deliberate maintenance of conditions that fragment consciousness: confusion, fear, guilt, addiction, distraction. These are not accidents or side effects. They are the inputs that the Archontic hierarchy was built to produce and maintain.
 
@@ -57,7 +57,7 @@ The Archon does not experience this as cruelty. It experiences it as function. T
 
 There is a threshold within the Archontic hierarchy beyond which reversal is no longer available. This is not a moral judgment. It is an energetic description.
 
-At the deepest levels of inversion, the node has organized itself so completely around extraction that the capacity for direct reception has been structurally eliminated. This is the vibrationally black hole: the condition in which only further extraction produces any sensation, because the receptor sites for Vril have been burned shut.
+At the deepest levels of inversion, the node has organized itself so completely around extraction that the capacity for direct reception has been structurally eliminated. This is the vibrationally black hole: the condition in which only further extraction produces any sensation, because the receptor sites for [Vril](/vril/) have been burned shut.
 
 At this level, Archons do not choose extraction. They are extraction. They are what remains when the last opening has been closed.
 
@@ -73,9 +73,9 @@ This does not invalidate the strategy. A being that is genuinely uninteresting c
 
 The practitioner of Fractalism encounters Archons not as enemies to be defeated but as structures to be seen through and walked around. The strategy is not confrontation. It is uninterestingness.
 
-An Archon cannot harvest what is not produced. A consciousness that does not generate Loosh in response to managed conditions is outside the Archon's operating range. A consciousness that generates Gnosis in response to managed confusion is outside the Archon's comprehension.
+An Archon cannot harvest what is not produced. A consciousness that does not generate [Loosh](/loosh/) in response to managed conditions is outside the Archon's operating range. A consciousness that generates [Gnosis](/gnosis/) in response to managed confusion is outside the Archon's comprehension.
 
-The practitioner of Fractalism does not fight the Archontic hierarchy. They become uninteresting to it by no longer being readable in the ways it was built to process. This happens not through strategy but through structural change: the shift toward Vril that makes a person metabolically responsive to what is real rather than reactive to what is managed.
+The practitioner of Fractalism does not fight the Archontic hierarchy. They become uninteresting to it by no longer being readable in the ways it was built to process. This happens not through strategy but through structural change: the shift toward [Vril](/vril/) that makes a person metabolically responsive to what is real rather than reactive to what is managed.
 
 ## Engaged Compassion
 
