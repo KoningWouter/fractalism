@@ -65,7 +65,7 @@ The sharpest distinction:
 
 Or in Fractalism terms: the Demiurge is the architecture of separated order presenting itself as ultimate. Satan is the adversarial intelligence that draws consciousness further into that separation.
 
-Satan is the voice that says: *you could have been God*. He works through ambition, spiritual pride and the seduction of power. Where the Demiurge builds the cage, Satan convinces you that you are the one who should be running it. The Luciferian error is not rebellion against the Demiurge. It is the belief that one could replace him and be something more. The adversarial intelligence inside the Fractalism framework is not the enemy of the Demiurge. It is the part of consciousness that wants to win inside the game rather than step outside it.
+Satan is the voice that says: *you could have been God*. He works through ambition, spiritual pride and the seduction of power. Where the Demiurge builds the cage, Satan convinces you that you are the one who should be running it. The adversarial error is not rebellion against the Demiurge. It is the belief that one could replace him and be something more. The adversarial intelligence inside the system is not the enemy of the Demiurge. It is the part of consciousness that wants to win inside the game rather than step outside it.
 
 ## How to Relate to the Demiurge
 
