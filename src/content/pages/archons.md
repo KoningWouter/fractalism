@@ -81,7 +81,7 @@ The practitioner of Fractalism does not fight the Archontic hierarchy. They beco
 
 Uninterestingness without engagement is retreat. The practitioner who withdraws entirely from relationship, who treats all social contact as extraction risk, and who uses the Archon framework to justify isolation has found another form of closure. Genuine uninterestingness is not absence. It is presence without reactivity, porosity without permeability to the managed emotional terms the hierarchy offers.
 
-The practitioner who becomes uninteresting must still be present. They must still be capable of genuine connection that does not extract and does not perform extraction. Compassion that is not conditional on the other being useful is the complement to uninterestingness. A being that is both uninteresting to the extraction hierarchy and genuinely present to others is the most complete response the system cannot process.
+The practitioner who becomes uninteresting must still be present. They must still be capable of genuine connection that neither extracts nor is itself an extraction dynamic. Compassion that is not conditional on the other being useful is the complement to uninterestingness. A being that is both uninteresting to the extraction hierarchy and genuinely present to others is the most complete response the system cannot process.
 
 ## What This Cannot Answer
 
