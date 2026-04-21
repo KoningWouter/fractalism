@@ -43,14 +43,51 @@ It is a way of seeing these patterns sooner, so they do not keep deciding your l
 
 ## Start Here
 
-If that feels familiar, start here.
+A first orientation to what Fractalism is, how it should be read, and where it can go wrong.
 
-1. [Introduction](/introduction) for first orientation
-2. [How to Read Fractalism](/how-to-read-fractalism) for the right reading posture
-3. [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong) for the limits, risks, and blind spots of the framework
+1. [Introduction](/introduction)
+2. [How to Read Fractalism](/how-to-read-fractalism)
+3. [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong)
+4. [Truth](/truth)
+5. [Friction as Signal](/friction-as-signal)
 
-If you want the practical core, go to [Truth](/truth) and [Friction as Signal](/friction-as-signal).
-If you want the larger architecture, go to [The Structure of Fractalism](/the-structure-of-fractalism).
+## Practical
+
+For readers who want clarity, sobriety, attention, and immediately usable distinctions.
+
+1. [Truth](/truth)
+2. [The Void](/truth)
+3. [Friction as Signal](/friction-as-signal)
+4. [Living Fractalism](/living-fractalism)
+5. [Sobriety](/sobriety)
+6. [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void)
+
+## Core Architecture
+
+For readers who want the framework itself: its concepts, structure, and inner logic.
+
+1. [Introduction](/introduction)
+2. [Concepts](/concepts)
+3. [The Structure of Fractalism](/the-structure-of-fractalism)
+4. [Attention as a Resource](/attention-as-a-resource')
+5. [Community](/community)
+
+## Exploratory
+
+For the higher and more speculative range of Fractalism. Best read after the grounding pages are in place.
+
+1. [The Void](/the-void)
+2. [The Source](/the-source)
+3. [The Source in You](/the-source-in-you)
+4. [Vril](/vril)
+5. [Diamond Soul](/diamond-soul)
+6. [Loosh](/loosh)
+7. [The Demiurge](/the-demiurge)
+8. [Archons](/archons)
+9. [Black Diamond Soul](/black-diamond-soul)
+
+## Essays
+
 If you want longer writings, go to [Essays](/essays).
 
 The [Essays](/essays) page now gathers a growing library of longer Fractalist writings on attention, power, consciousness, truth, correction, and lived practice.
