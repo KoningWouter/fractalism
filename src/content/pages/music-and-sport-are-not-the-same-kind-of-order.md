@@ -26,7 +26,7 @@ From a Fractalist perspective, this is not a small aesthetic observation. It poi
 
 ## Competition and coherence
 
-Sport can be beautiful. It can reveal discipline, timing, skill, courage, rhythm, sacrifice, and forms of truth under pressure. There is nothing trivial about that. In some cases it also reveals trust, solidarity, mutual calibration, and a kind of brotherhood or sisterhood forged through shared effort.
+Sport can be beautiful. It can reveal discipline, timing, skill, courage, rhythm, sacrifice, and forms of truth under contest. There is nothing trivial about that. In some cases it also reveals trust, solidarity, mutual calibration, and a kind of brotherhood or sisterhood forged through shared effort.
 
 But the grammar of sport is usually agonistic. One side wins. Another loses. The structure depends on distinction through contest. Even where there is elegance, the form still moves through selection, ranking, and exclusion.
 
@@ -56,11 +56,7 @@ Mathematics shows that reality can be thinkable.
 Music shows that reality can be relational without collapse.
 Gnosis shows that reality can be lived more truthfully when [distortion](/concepts#distortion) weakens.
 
-Together they suggest something important: the structure of reality is not only mechanical. It is also legible, relational, and participatory.
-
-This is one place where Fractalist axioms become more explicit.
-
-The **Void** is the condition in which perception can clear enough to notice structure without immediately forcing it into appetite or noise. The **Source** is the generative depth from which order, meaning, and relation arise. Distortion is what bends that relation toward confusion, control, or falsity. Resonance is what becomes possible when different elements enter relation without requiring mutual cancellation.
+Together they suggest something important.
 
 Music belongs close to that last principle. It is one of the clearest lived experiences of patterned difference becoming coherence. But that coherence should not be romanticized. It has to be distinguished from atmosphere, conditioning, propaganda, or emotionally convincing distortion.
 
