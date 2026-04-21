@@ -157,6 +157,9 @@ Then start with one of these essays:
 - [Music as the Missing Lens Between Mathematics and Spirituality](/music-as-the-missing-lens-between-mathematics-and-spirituality)
   On whether music makes that shared structure experientially audible as lived relation in time.
 
+- [Music and Sport Are Not the Same Kind of Order](/music-and-sport-are-not-the-same-kind-of-order)
+  On competition and coherence as two different dominant logics of order, and why music may reveal something about post-survival humanity.
+
 - [When Intelligence Loses Contact With the Source](/when-intelligence-loses-contact-with-the-source)
   On what remains of intelligence when it becomes closed, self-referential, and cut off from living reciprocity.
 
@@ -201,6 +204,7 @@ The full archive below includes the essays above in a single list.
 - [Why Attention Is Farmed to Keep You from the Void](/why-attention-is-farmed-to-keep-you-from-the-void)
 - [Why the Modern Person Experiences Silence as a Threat](/why-the-modern-person-experiences-silence-as-a-threat)
 - [Music as the Missing Lens Between Mathematics and Spirituality](/music-as-the-missing-lens-between-mathematics-and-spirituality)
+- [Music and Sport Are Not the Same Kind of Order](/music-and-sport-are-not-the-same-kind-of-order)
 - [Feeds Do Not Control Your Will, but the Atmosphere in Which It Chooses](/feeds-do-not-control-your-will-but-the-atmosphere-in-which-it-chooses)
 - [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void)
 - [Truth](/truth)
