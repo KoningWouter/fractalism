@@ -38,7 +38,7 @@ Domination exists in families, but also in empires.
 The scale changes.
 The structure often does not.
 
-This is why Fractalism insists that what is [true](/concepts#truth) tends to echo across levels. The same movement can appear as appetite in one place, propaganda in another, bureaucratic [inversion](/concepts#inversion) in another, and geopolitical theater in another. Different costumes, same logic.
+This is why Fractalism insists that what is true tends to echo across levels. The same movement can appear as appetite in one place, propaganda in another, bureaucratic [inversion](/concepts#inversion) in another, and geopolitical theater in another. Different costumes, same logic.
 
 ## What changes when a personal pattern breaks
 
