@@ -6,9 +6,9 @@ eyebrow: Black Diamond Soul
 
 ![Black Diamond Soul](/black_diamond.png)
 
-Within Fractalism, **Black Diamond Soul** names the inverse image of the [Diamond Soul](/diamond-soul/). If the Diamond Soul is a consciousness refined by pressure without losing its relation to the [Source](/the-source/), the Black Diamond Soul is a consciousness that has achieved a terrible kind of integrity by severing resonance and organizing itself entirely around control, exclusion, and extraction.
+Within Fractalism, **Black Diamond Soul** names the inverse image of the [Diamond Soul](/diamond-soul/). If the Diamond Soul is a consciousness refined by pressure without losing its relation to the [Source](/the-source/), the Black Diamond Soul is a consciousness that has achieved a terrible kind of integrity by severing resonance and organizing itself entirely around control, exclusion, and [extraction](/loosh/).
 
-The image matters because not all coherence is benevolent. A being can become highly ordered without becoming truthful. It can become internally stable without becoming open. It can become powerful by eliminating permeability rather than by deepening contact with reality.
+The image matters because not all coherence is benevolent. A being can become highly ordered without becoming [truthful](/truth/). It can become internally stable without becoming open. It can become powerful by eliminating permeability rather than by deepening contact with reality.
 
 That is what the Black Diamond image tries to describe.
 
@@ -18,9 +18,9 @@ It should not be used as a quick diagnosis of concrete persons. The term is most
 
 The Diamond Soul is pressure metabolized into resonance. The Black Diamond Soul is pressure metabolized into closure.
 
-Under certain conditions, repeated friction does not soften a being into greater truthfulness. It hardens the structure against correction. It teaches the system that openness is dangerous, reciprocity is weakness, and resonance is liability. What emerges is not chaos but a cold form of order.
+Under certain conditions, repeated [friction](/friction-as-signal) does not soften a being into greater truthfulness. It hardens the structure against correction. It teaches the system that openness is dangerous, reciprocity is weakness, and resonance is liability. What emerges is not chaos but a cold form of order.
 
-This is why the Black Diamond image should not be confused with ordinary selfishness, vanity, or appetite. Those are still human distortions. They are noisy. They leak. They remain dependent on recognition. The Black Diamond points toward something more structurally complete: a consciousness that has become so organized around separation that its coherence no longer depends on warmth, approval, or even visible domination.
+This is why the Black Diamond image should not be confused with ordinary selfishness, vanity, or appetite. Those are still human [distortions](/concepts#distortion). They are noisy. They leak. They remain dependent on recognition. The Black Diamond points toward something more structurally complete: a consciousness that has become so organized around separation that its coherence no longer depends on warmth, approval, or even visible domination.
 
 It does not merely exploit. It builds worlds in which exploitation becomes the default grammar.
 
@@ -45,6 +45,8 @@ At the lower levels are ordinary extractive structures: institutions, systems, c
 In some readings, bloodlines, dynasties, or enduring administrative classes function as local stewards of inversion. They manage the financial, political, cultural, and symbolic operating system. But this should be held as symbolic compression or systems-level hypothesis, not as a settled map. The Black Diamond idea points above even this level toward a form of intelligence that treats history itself as an engineering surface.
 
 This should be handled with caution. The moment such language becomes a shortcut for fantasy, it stops clarifying. But as a structural image it names something real: some forms of power appear less interested in immediate reward than in long-term lock-in. They do not merely want obedience. They want the atmosphere in which obedience becomes normal.
+
+At the systems level, this overlaps with themes elsewhere in Fractalism: [attention capture](/the-matrix-as-a-machine-for-capturing-attention), managed dependence, and architectures that shape the field before a person even thinks they are choosing.
 
 ## Recognition by the Void
 
@@ -72,7 +74,7 @@ A Diamond Soul gathers coherence by remaining open enough to receive. Its densit
 
 A Black Diamond gathers coherence by consuming relation. Its density comes from isolation. It becomes more itself by excluding whatever might dissolve its control structure. It does not radiate. It absorbs. It does not participate. It captures.
 
-This is why the Black Diamond belongs with the logic of [the Demiurge](/the-demiurge/) rather than with the logic of the Source. The Source differentiates without severing. The Black Diamond severs in order to dominate. The Source gives rise to living form. The Black Diamond preserves dead continuity.
+This is why the Black Diamond belongs with the logic of [the Demiurge](/the-demiurge/) rather than with the logic of the [Source](/the-source/). The Source differentiates without severing. The Black Diamond severs in order to dominate. The Source gives rise to living form. The Black Diamond preserves dead continuity.
 
 ## The Inner Black Diamond
 
@@ -80,7 +82,7 @@ The image should also be read inwardly.
 
 A person does not need to be an architect of history to participate in this pattern. Whenever someone becomes radically closed to correction, treats other people only as instruments, or protects control by severing reciprocity, a small Black Diamond logic is already present. The point of the concept is not only to describe distant powers. It is also to sharpen self-observation around the places where non-relation becomes tempting.
 
-This matters because the need to see Black Diamonds everywhere can itself become a symptom of distortion. The concept becomes most dangerous when it is used only outwardly and never inwardly.
+This matters because the need to see Black Diamonds everywhere can itself become a symptom of [distortion](/concepts#distortion). The concept becomes most dangerous when it is used only outwardly and never inwardly.
 
 ## Why It Can Feel More Powerful Than It Is
 

@@ -8,7 +8,7 @@ eyebrow: Diamond Soul
 
 Within Fractalism, **Diamond Soul** names a consciousness that has passed through enough pressure, distortion, and correction that its connection to the [Source](/the-source/) has become harder to break. The image is not about status. It is about crystallization.
 
-A diamond is not soft, but it is not dead. It is formed through pressure. In the same way, a Diamond Soul is a being that has been shaped by the friction of incarnation, confusion, disappointment, temptation, grief, and reality-testing, without entirely surrendering its inner orientation toward truth.
+A diamond is not soft, but it is not dead. It is formed through pressure. In the same way, a Diamond Soul is a being that has been shaped by the friction of incarnation, confusion, disappointment, temptation, grief, and reality-testing, without entirely surrendering its inner orientation toward [truth](/truth/).
 
 This is not the same as spiritual superiority. Many people are broken by pressure. Many become more defended, more distorted, more extractive. A Diamond Soul is not someone who avoided the pressure. It is someone who was refined by it.
 
@@ -20,7 +20,7 @@ The basic intuition behind the Diamond Soul is simple: under certain conditions,
 
 When a person meets repeated pressure without collapsing entirely into resentment, fantasy, or self-protection, something can become more coherent in them. Illusions burn off. False dependencies weaken. The need to be constantly affirmed loses some of its grip. The person may become less glamorous, less dramatic, and less legible to systems that run on distortion. But they also become more real.
 
-In Fractalist language, this is a movement from distortion toward resonance. The pressure of the Matrix does not automatically destroy a person. Sometimes it reveals what in them cannot be bought, seduced, or reorganized by the field.
+In Fractalist language, this is a movement from [distortion](/concepts#distortion) toward resonance. The pressure of the Matrix does not automatically destroy a person. Sometimes it reveals what in them cannot be bought, seduced, or reorganized by the field.
 
 That does not mean suffering is good in itself. It means suffering can become material for refinement when it is metabolized rather than worshipped.
 
@@ -30,7 +30,7 @@ The practical test is relational and ethical, not mythic. If refinement is real,
 
 The Diamond Soul idea points toward a specific threshold: a consciousness that can enter difficult environments without fully losing its connection to the Source.
 
-Most people are shaped by the field they enter. They adapt to the atmosphere around them. Their attention is captured. Their values are bent by reward and punishment. Their inner posture becomes dependent on external cues.
+Most people are shaped by the field they enter. They adapt to the atmosphere around them. Their [attention](/attention-as-a-resource/) is captured. Their values are bent by reward and punishment. Their inner posture becomes dependent on external cues.
 
 A Diamond Soul is different in degree, not in species. It can still be hurt, confused, or exhausted. But its connection runs deeper than mood, approval, or pressure. It carries a more stable line downward into the [Void](/the-void), upward into the Source, and outward into conduct.
 
@@ -44,7 +44,7 @@ One of the most important things the Diamond Soul image tries to protect is the 
 
 In weaker spiritual language, return to the Source can sound like dissolution into undifferentiated light. But Fractalism does not treat individuality as a mistake. The person is not an error to be deleted. The person is a pattern that can become more or less aligned with reality.
 
-A Diamond Soul is not less individual because it is more connected. It becomes more functional as an individual. Its identity is less organized around compensation, performance, and distortion, and more around truthful participation.
+A Diamond Soul is not less individual because it is more connected. It becomes more functional as an individual. Its identity is less organized around compensation, performance, and [distortion](/concepts#distortion), and more around truthful participation.
 
 You could say it this way: the self stops being a private survival project and becomes a clearer instrument. Not anonymous. Not absorbed into sameness. More precise. More reliable. More able to carry something real.
 
@@ -52,7 +52,7 @@ This is close to what [gnosis](/gnosis/) becomes when it matures. Not secret inf
 
 ## Resonance Instead of Extraction
 
-The Diamond Soul is best understood in contrast to extraction.
+The Diamond Soul is best understood in contrast to [extraction](/loosh/).
 
 A person who has not undergone real refinement often tries to stabilize themselves through control, approval, stimulation, or the harvesting of energy from others. When pressure increases, they become more manipulative, more compulsive, or more dependent on emotional fuel.
 
@@ -76,15 +76,13 @@ This should be held carefully. Otherwise it becomes inflation. The point is not 
 
 ## Tactical Grounding
 
-The vault note is right to include a practical dimension.
-
 High-resolution states are not sustained by imagination alone. A human nervous system still needs grounding. The body still needs rhythm, sleep, food, water, movement, and limits. Without these, what feels like spiritual upgrade can quickly become dysregulation, projection, or exhaustion.
 
 That is why a Diamond Soul is not someone floating above embodiment. It is someone whose embodiment has become part of the path.
 
 Walking can help. Silence can help. Less stimulation can help. In some cases, small tactical supports may help stabilize the bio-processor during intense periods of change. But Fractalism should be careful here. Tactical grounding is meant to preserve clarity, not to become a back door for dependency.
 
-The deeper principle remains the same as on the page about [Living Fractalism](/living-fractalism): what matters is whether a practice makes you clearer or foggier, steadier or more distortable.
+The deeper principle remains the same as on the page about [Living Fractalism](/living-fractalism): what matters is whether a practice makes you clearer or foggier, steadier or more distortable. This is also why [sobriety](/sobriety/) matters.
 
 ## The Shadow of the Diamond Soul Narrative
 
