@@ -12,9 +12,6 @@ In your habits.
 In your relationships.  
 In the systems around you.
 
-What happens inside a person does not stay there.  
-It appears in language, attention, culture, power, and everyday life.
-
 Fractalism begins with a simple observation:  
 **much of what shapes a life is not random. It repeats.**
 
@@ -27,18 +24,11 @@ Fractalism is not psychology, not religion, and not a political theory. It is a 
 
 ## A first step
 
-Not everything that creates friction is a warning.  
-Sometimes friction means something is wrong.  
-Sometimes it means an old pattern is losing its grip.
+Not everything that creates friction is a warning. Sometimes friction means something is wrong. Sometimes it means an old pattern is losing its grip.
 
-If you want to feel what Fractalism offers before you read further, begin there.
+If you want to feel what Fractalism offers before you read further, begin there. The next time you notice friction, pause before you explain it away. Ask what kind of friction this is.
 
-The next time you notice friction, pause before you explain it away.  
-Ask what kind of friction this is.
-
-Is this the strain of forcing something that no longer fits, or the resistance that appears when an old pattern is losing its grip?
-
-Fractalism is not mainly a theory.  
+Fractalism is not mainly a body of knowledge.  
 It is a way of seeing these patterns sooner, so they do not keep deciding your life for you.
 
 ## Reading Routes
@@ -97,6 +87,6 @@ The [Essays](/essays) page now gathers a growing library of longer Fractalist wr
 ## Closing
 
 Fractalism is not offered as a finished doctrine.  
-It has to keep proving itself in lived experience.
+It has to keep showing itself in lived experience.
 
 If it helps you see more clearly, notice distortion earlier, and choose with less inner division, then it is doing real work.
