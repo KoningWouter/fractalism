@@ -9,7 +9,7 @@ Fractalism is not a set of beliefs. It is a map of how things relate.
 
 The central insight is simple, but it changes everything:
 
-**Source and observer are not separate.** The Ground does not sit somewhere out there, unreachable. It is what you are when the conditioned self steps aside. You do not observe reality from the outside. You participate in it from inside.
+**Source and observer are not separate.** The Ground does not sit somewhere out there, unreachable. How you experience Source depends on the conditioned self quieting. You do not observe reality from the outside. You participate in it from inside.
 
 From this single relation, several other connections follow.
 
@@ -23,7 +23,7 @@ Distortion is not the opposite of [truth](/truth). Both happen inside the same G
 
 ## Law and freedom are not opposed
 
-The laws of nature are not external constraints imposed on you. They are how the [Source](/the-source) experiences itself. Freedom is not escape from law. It is recognition that you are the law, that the structure of reality and the structure of your own attention are made of the same substance.
+The laws of nature are not external constraints imposed on you. Freedom is not escape from law. It is recognition that the structure of reality and the structure of your own attention are made of the same substance.
 
 ## [Reciprocity and extraction](/concepts#reciprocity-and-extraction) are orientations
 
@@ -36,10 +36,6 @@ Before reaction. Before scroll. Before the familiar move hardens into habit. In 
 ## Reading across scales
 
 Patterns repeat across levels of reality. A distortion in a person can appear later in a relationship, an institution, a culture. A truthful orientation in one place can echo elsewhere in different form. Similar structures recur, not identically, but recognizably.
-
-## Co-creation
-
-You are not a passive observer of reality. You are a co-creator, not in the sense that you control outcomes, but that you participate in what emerges. The formula is not something that happens to you. It is something you enact.
 
 ## Where to go next
 
@@ -64,4 +60,4 @@ It does not offer a final answer.
 
 It offers a way of paying closer attention.
 
-And sometimes that is where a different quality of life begins.
+And sometimes that is where a different quality of life becomes possible.
