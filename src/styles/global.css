@@ -312,6 +312,20 @@ body.lightbox-open {
 	gap: 0.25rem;
 }
 
+.site-nav__dropdown-intro {
+	margin: 0;
+	padding: 0.72rem 0.82rem 0.6rem;
+	border-bottom: 1px solid rgba(216, 193, 157, 0.08);
+	color: var(--text-soft);
+	font-size: 0.82rem;
+	line-height: 1.5;
+	list-style: none;
+}
+
+:root[data-theme='light'] .site-nav__dropdown-intro {
+	border-bottom-color: rgba(155, 111, 47, 0.08);
+}
+
 .site-nav__dropdown-link {
 	display: block;
 	padding: 0.68rem 0.82rem;
