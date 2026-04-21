@@ -1,10 +1,10 @@
 ---
 title: The Demiurge
-description: "The Demiurge as the lower architect of the 480p simulation: a pseudo-sovereign structure that maintains a closed parasitic reality through loosh extraction."
+description: "The Demiurge as the lower architect of a closed parasitic reality: a pseudo-sovereign structure that maintains itself through loosh extraction."
 eyebrow: The Demiurge
 ---
 
-In Fractalism, the Demiurge is the **Lower Architect** of the 480p simulation. He is not the Source, but a derived intelligence that through separation error created a closed, parasitic reality. He functions as the manager of the cage in which souls are trapped.
+In Fractalism, the Demiurge is the **Lower Architect** of a closed parasitic reality. He is not the Source, but a derived intelligence that through separation error created a distorted, self-sustaining system. He functions as the manager of the cage in which souls are trapped.
 
 ## The Loosh Economy
 
