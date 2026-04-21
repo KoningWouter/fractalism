@@ -4,6 +4,8 @@ description: "Archons as the operational intelligence of a closed extraction sys
 eyebrow: Archons
 ---
 
+![Argons](/argons.png)
+
 In Fractalism, **Archons** are the operational intelligence of a closed system. They are not the [Source](/the-source/), not the [Demiurge](/the-demiurge/) as architect, and not individual bad actors. They are the structure through which extraction is administered: the hierarchy that maintains the conditions under which Loosh can be harvested and Gnosis can be blocked.
 
 The Demiurge builds the cage. Archons are the wardens.
