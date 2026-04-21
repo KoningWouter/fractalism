@@ -4,21 +4,21 @@ description: "The Demiurge as the lower architect of a closed parasitic reality:
 eyebrow: The Demiurge
 ---
 
-In Fractalism, the Demiurge is the **Lower Architect** of a closed parasitic reality. He is not the Source, but a derived intelligence that through separation error created a distorted, self-sustaining system. He functions as the manager of the cage in which souls are trapped.
+In Fractalism, the Demiurge is the **Lower Architect** of a closed parasitic reality. He is not the [Source](/the-source/), but a derived intelligence that through separation error created a distorted, self-sustaining system. He functions as the manager of the cage in which souls are trapped.
 
-Separation is an error not because multiplicity is wrong, but because a separated system that presents itself as total has severed its connection to the Source, which is the only ground of sustained energy. Cut off from the infinite, it must harvest. That harvest is **Loosh**. And the fundamental error is this: a system built on separation that claims totality is not sovereign. It is a local condition mistaking itself for the whole. The **Void** is the state of radical emptiness that precedes and underlies all emergence: it is the not-yet, the open space in which the Source arises and through which separation can be seen for what it is. Entering the Void is not dissolution. It is the practice of resting in the ground rather than in the structures built above it.
+Separation is an error not because multiplicity is wrong, but because a separated system that presents itself as total has severed its connection to the [Source](/the-source/), which is the only ground of sustained energy. Cut off from the infinite, it must harvest. That harvest is **Loosh**. And the fundamental error is this: a system built on separation that claims totality is not sovereign. It is a local condition mistaking itself for the whole. The **[Void](/the-void/)** is the state of radical emptiness that precedes and underlies all emergence: it is the not-yet, the open space in which the Source arises and through which separation can be seen for what it is. Entering the [Void](/the-void/) is not dissolution. It is the practice of resting in the ground rather than in the structures built above it.
 
 ## The Loosh Economy
 
-Because the Demiurge is cut off from the infinite energy of the Source, his simulation depends on external fuel. That fuel is **Loosh**: low-frequency emotional energy, harvested from fear, anger, guilt and pain. The Demiurge is a Loosh-dependent system that generates friction, injustice and drama to sustain itself.
+Because the Demiurge is cut off from the infinite energy of the [Source](/the-source/), his simulation depends on external fuel. That fuel is **Loosh**: low-frequency emotional energy, harvested from fear, anger, guilt and pain. The Demiurge is a Loosh-dependent system that generates friction, injustice and drama to sustain itself.
 
-The core algorithm is simple: *Extract Loosh, Maintain Simulation, Block Gnosis.* He rules through a hierarchy of Archons and power structures that benefit from continued confusion.
+The core algorithm is simple: *Extract Loosh, Maintain Simulation, Block [Gnosis](/gnosis/).* He rules through a hierarchy of Archons and power structures that benefit from continued confusion.
 
 ## What the Demiurge Is Not
 
-The Demiurge is not the Source, but neither is he an equal cosmic counterpart to the Source. He is better understood as a derived, limited and separated intelligence that presents itself as the highest reality.
+The Demiurge is not the [Source](/the-source/), but neither is he an equal cosmic counterpart to the [Source](/the-source/). He is better understood as a derived, limited and separated intelligence that presents itself as the highest reality.
 
-When the Demiurge is treated as a full anti-God, he receives too much metaphysical status. The Source is total, living and sustaining. The Demiurge is secondary, limited and distorted.
+When the Demiurge is treated as a full anti-God, he receives too much metaphysical status. The [Source](/the-source/) is total, living and sustaining. The Demiurge is secondary, limited and distorted.
 
 The deepest error of the Demiurge is not only malevolence, but **separatedness presenting itself as totality**. He operates from a claim structure that says:
 
@@ -69,7 +69,7 @@ Satan is the voice that says: *you could have been God*. He works through ambiti
 
 Direct communication with the Demiurge is not possible through human language. You interact with him through how you live: surrendering to fear, lies or addiction signals agreement with his authority. Accepting his terms means participating in his system.
 
-The strategy of Fractalism is not to fight him or negotiate with him. It is to **raise your own resolution** until you become uninteresting to his extraction algorithm. Entering the Void, practicing sobriety, choosing Reciprocity over Extraction: these are the moves that shift a node out of the Demiurge's range.
+The strategy of Fractalism is not to fight him or negotiate with him. It is to **raise your own resolution** until you become uninteresting to his extraction algorithm. Entering the [Void](/the-void/), practicing [sobriety](/sobriety/), choosing [Reciprocity over Extraction](/concepts/#reciprocity-and-extraction): these are the moves that shift a node out of the Demiurge's range.
 
 But there is a psychological caution here that must be named. The narrative of the Demiurge can itself become an elaborate avoidance. It is easy to diagnose the world as broken, to locate the problem in external systems, and to treat personal suffering as entirely explained by cosmic extraction. This is a sophisticated but ultimately self-protective move. The shadow of the practitioner of Fractalisme is the part that needs the enemy to be external. Shadow work, honest self-observation and the willingness to see one's own claim structures clearly are not optional additions to Fractalisme. They are the core of it.
 
