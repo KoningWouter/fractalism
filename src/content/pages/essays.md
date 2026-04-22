@@ -76,6 +76,20 @@ Then start with one of these essays:
 - [AI, Truth, and Distortion](/ai-truth-and-distortion)
   On AI as an instrument of clarification that can also intensify distortion if treated as neutral.
 
+### Foundations
+
+- [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void)
+  A practical continuation of The Void, focused on what can actually be done once the interval before automatic reaction is noticed.
+
+- [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim)
+  A guide to how Fractalism distinguishes between symbol, hypothesis, experience, practical insight, and factual claim.
+
+- [How Fractalism Holds Itself to Account](/how-fractalism-holds-itself-to-account)
+  The internal standards Fractalism uses to resist charisma, confusion, and uncorrectable drift.
+
+- [Not a Religion, But a Living Truth System](/not-a-religion-but-a-living-truth-system)
+  On why Fractalism is not a religion, but a corrigible way of learning to see more clearly.
+
 ### Practice and Orientation
 
 - [The Cascading Effect of Changing Your Own Life](/the-cascading-effect-of-changing-your-own-life)
@@ -124,6 +138,10 @@ Then start with one of these essays:
 
 ## Full Archive
 
+- [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void)
+- [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim)
+- [How Fractalism Holds Itself to Account](/how-fractalism-holds-itself-to-account)
+- [Not a Religion, But a Living Truth System](/not-a-religion-but-a-living-truth-system)
 - [The Cascading Effect of Changing Your Own Life](/the-cascading-effect-of-changing-your-own-life)
 - [When Intelligence Loses Contact With the Source](/when-intelligence-loses-contact-with-the-source)
 - [The Source in You](/the-source-in-you)
