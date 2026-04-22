@@ -26,17 +26,19 @@ The existence of pattern does not automatically establish mechanism, causation, 
 
 If a pattern is doing all the persuasive work while the evidence remains thin, the framework has already started to drift.
 
-## Fractalism can confuse resonance with truth [\#](#fractalism-can-confuse-resonance-with-truth)
+## Fractalism can confuse resonance with truth
 
 Resonance matters, but resonance is not infallible.
 
-Something can feel charged, intimate, alive, or significant without that experience granting full authority to the interpretation attached to it. Familiarity, longing, aesthetic force, charisma, fear, and projection can all masquerade as depth. 
+Something can feel charged, intimate, alive, or significant without that experience granting full authority to the interpretation attached to it. Familiarity, longing, aesthetic force, charisma, fear, and projection can all masquerade as depth.
 
-Fractalism becomes weaker whenever resonance is treated as a shortcut around clarification. A better position is simpler: resonance may be a clue, but it is not proof.
+Fractalism becomes weaker whenever resonance is treated as a shortcut around clarification.
 
-If something feels deep mainly because it fits the mood, the longing, or the atmosphere around it, Fractalism should become less confident, not more. One practical check is to consult the "knot in the stomach" (the maagknoop): if a concept provides an emotional "hit" or a sense of superiority while simultaneously producing a subtle physical signal of unease or "wrongness," that signal should be honored above the mental excitement. If the resonance requires ignoring the maagknoop, it is likely a distortion.
+A better position is simpler. Resonance may be a clue. It is not proof.
 
-## Fractalism can over-read symbolic language [\#](#fractalism-can-over-read-symbolic-language)
+If something feels deep mainly because it fits the mood, the longing, or the atmosphere around it, Fractalism should become less confident, not more.
+
+## Fractalism can over-read symbolic language
 
 Fractalism often uses language that is symbolic, experiential, and structural at the same time.
 

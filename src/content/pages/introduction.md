@@ -41,16 +41,16 @@ Patterns repeat across levels of reality. A distortion in a person can appear la
 
 **Try it first:** Close your eyes for thirty seconds. Notice what arises before you name it. That moment before the label, before "I am anxious" or "I am bored", is the gap where source and observer have not yet separated. Fractalism asks you to stay there a little longer.
 
-Before moving deeper into the structure, it is important to understand its limits:
+Then continue:
 
-1. [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong), the project's self-critique and standard of accountability
-2. [How to Read Fractalism](/how-to-read-fractalism), how to approach the framework without turning it into dogma
-3. [Truth](/truth)
-4. [Friction as Signal](/friction-as-signal)
-5. [The Void](/the-void)
-6. [Living Fractalism](/living-fractalism)
+1. [How to Read Fractalism](/how-to-read-fractalism), how to approach the framework without turning it into dogma
+2. [Truth](/truth)
+3. [Friction as Signal](/friction-as-signal)
+4. [The Void](/the-void)
+5. [Living Fractalism](/living-fractalism)
 
 If you want the vocabulary map, go to [Core Concepts](/concepts).
+If you want the project's self-critique, go to [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong).
 
 ## Closing
 

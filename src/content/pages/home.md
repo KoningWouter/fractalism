@@ -38,8 +38,8 @@ It is a way of seeing these patterns sooner, so they do not keep deciding your l
 A first orientation to what Fractalism is, how it should be read, and where it can go wrong.
 
 1. [Introduction](/introduction)
-2. [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong)
-3. [How to Read Fractalism](/how-to-read-fractalism)
+2. [How to Read Fractalism](/how-to-read-fractalism)
+3. [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong)
 4. [Truth](/truth)
 5. [Friction as Signal](/friction-as-signal)
 
