@@ -81,23 +81,11 @@ Then start with one of these essays:
 - [The Cascading Effect of Changing Your Own Life](/the-cascading-effect-of-changing-your-own-life)
   On how correcting errors in your own life genuinely contributes to the whole, and why your choices radiate outward.
 
-- [Living Fractalism](/living-fractalism)
-  A page on what Fractalism looks like when it becomes practice rather than theory.
-
-- [Sobriety](/sobriety)
-  On sobriety as more than abstinence, a practical guide to becoming available to what is real.
-
 - [Team 3 as Discernment Machine](/team-3-as-discernment-machine)
   On how to use five philosophical lenses to test ideas, situations, and strategies without fooling yourself.
 
-- [Collapse, Agitation, and Clarity](/tamas-rajas-and-sattva)
-  A practical Fractalist reading of three recurring modes of life and field quality.
-
 - [Acting on a Synchronicity](/acting-on-a-synchronicity)
   A case study in how to read a synchronicity and act on it without losing sobriety.
-
-- [Community](/community)
-  On why real human community cannot be rebuilt on extraction, unreality, or fragmentation.
 
 - [The Way of the Heart and the Way of the Eye](/the-way-of-the-heart-and-the-way-of-the-eye)
   On two approaches to truth, direct felt orientation and pattern-seeking intelligibility.
@@ -106,9 +94,6 @@ Then start with one of these essays:
   On why peace can provoke hostility in dysregulated or extractive patterns.
 
 ### Consciousness and Meaning
-
-- [Synchronicity](/synchronicity)
-  On synchronicity as something real that still requires interpretive caution.
 
 - [The Mandela Effect: The Pattern Behind False Memory](/the-mandela-effect)
   On shared memory errors, collective consciousness, and what shared errors reveal about the boundaries of the self.
@@ -136,9 +121,6 @@ Then start with one of these essays:
 
 - [When Both Side Pillars Are Compromised, Only the Middle Remains](/when-both-side-pillars-are-compromised-only-the-middle-remains)
   On what remains possible when both the overt and refined poles of a system become unreliable.
-
-- [The Journalistic Void](/journalistic-void)
-  On why journalism needs the Void, and what is lost when the interval before reaction is eliminated from public discourse.
 
 ## Full Archive
 
@@ -173,15 +155,9 @@ Then start with one of these essays:
 - [Music and Sport Are Not the Same Kind of Order](/music-and-sport-are-not-the-same-kind-of-order)
 - [Feeds Do Not Control Your Will, but the Atmosphere in Which It Chooses](/feeds-do-not-control-your-will-but-the-atmosphere-in-which-it-chooses)
 - [Team 3 as Discernment Machine](/team-3-as-discernment-machine)
-- [Living Fractalism](/living-fractalism)
-- [Sobriety](/sobriety)
-- [Collapse, Agitation, and Clarity](/tamas-rajas-and-sattva)
-- [Community](/community)
-- [Synchronicity](/synchronicity)
 - [The Three Pillars of Western Esotericism](/the-three-pillars-of-western-esotericism)
 - [When Mathematics Breaks and Who Profits From the Silence](/when-mathematics-breaks-and-who-profits-from-the-silence)
 - [When Both Side Pillars Are Compromised, Only the Middle Remains](/when-both-side-pillars-are-compromised-only-the-middle-remains)
-- [The Journalistic Void](/journalistic-void)
 
 ## Closing
 
