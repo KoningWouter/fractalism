@@ -56,6 +56,16 @@ The Void is not only a mystical or meditative state. It can appear in ordinary l
 
 These moments are brief. They pass quickly. But they are real, and they can be recognized. The practice of living Fractalism includes noticing these moments, and not immediately filling them.
 
+## Activity as a Shield
+
+Not only distraction or sedation can keep a person from the Void. Often, highly valued social behaviors like work, career, and constant productivity serve a similar function.
+
+When a person feels they "cannot sit still" or "must always be doing something," the activity may have shifted from an expression of life to a mechanism of avoidance. In this mode, work becomes a noise-generator that overpowers the silence. The constant motion ensures that the threshold of the Void is never fully reached, because the attention loop of the "next task" is always running.
+
+This form of avoidance is particularly effective because it is socially reinforced. A person addicted to distraction may eventually feel the cost. A person addicted to activity is often rewarded for it. But the architectural effect is the same: the interval before recognition is eliminated, and the possibility of a deeper orientation is postponed in favor of more horizontal movement.
+
+This is a form of [inversion](/concepts#inversion): using a legitimate and necessary part of life (productive action) to block the very space from which that life could be more truthfully guided. Identifying this pattern does not mean that work is wrong, but it does mean asking whether the activity is serving clarity or preventing it.
+
 ## What the Void is not
 
 The Void is not nihilism. It is not dissociation. It is not despair. It is not a spiritual shortcut.
