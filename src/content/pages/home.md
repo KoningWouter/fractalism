@@ -38,8 +38,8 @@ It is a way of seeing these patterns sooner, so they do not keep deciding your l
 A first orientation to what Fractalism is, how it should be read, and where it can go wrong.
 
 1. [Introduction](/introduction)
-2. [How to Read Fractalism](/how-to-read-fractalism)
-3. [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong)
+2. [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong)
+3. [How to Read Fractalism](/how-to-read-fractalism)
 4. [Truth](/truth)
 5. [Friction as Signal](/friction-as-signal)
 
@@ -48,7 +48,7 @@ A first orientation to what Fractalism is, how it should be read, and where it c
 For readers who want clarity, sobriety, attention, and immediately usable distinctions.
 
 1. [I Am the Formula](/i-am-the-formula)
-2. [The Void](/truth)
+2. [The Void](/the-void)
 3. [Friction as Signal](/friction-as-signal)
 4. [Living Fractalism](/living-fractalism)
 5. [Sobriety](/sobriety)
