@@ -21,41 +21,6 @@ Then start with one of these essays:
 
 ## By Theme
 
-### Foundations
-
-- [Truth](/truth)
-  On truth as something that corrects, binds, and removes distortion before it flatters.
-
-- [How to Read Fractalism](/how-to-read-fractalism)
-  A guide to how Fractalism should be approached, tested, and read without premature closure.
-
-- [The Structure of Fractalism](/the-structure-of-fractalism)
-  A page on the core structure of pattern, distortion, and correction that underlies the framework.
-
-- [The Void](/the-void)
-  On the threshold where patterns loosen, legibility weakens, and another response becomes possible.
-
-- [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void)
-  A practical continuation of The Void, focused on what can actually be done once the interval before automatic reaction is noticed.
-
-- [The Source](/the-source)
-  A central page on the Source as the underlying ground from which persons, patterns, and worlds arise.
-
-- [The Source in You](/the-source-in-you)
-  An essay on why consciousness is not a byproduct of matter, and what it means to carry the whole Source in a particular form.
-
-- [The Source Moves Through You](/the-source-consciousness-or-structure)
-  An essay on whether the Source is conscious or merely a structure, and why the answer has consequences for what you are.
-
-- [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim)
-  A guide to how Fractalism distinguishes between symbol, hypothesis, experience, practical insight, and factual claim.
-
-- [How Fractalism Holds Itself to Account](/how-fractalism-holds-itself-to-account)
-  The internal standards Fractalism uses to resist charisma, confusion, and uncorrectable drift.
-
-- [Not a Religion, But a Living Truth System](/not-a-religion-but-a-living-truth-system)
-  On why Fractalism is not a religion, but a corrigible way of learning to see more clearly.
-
 ### Attention and Capture
 
 - [Attention as a Resource](/attention-as-a-resource)
@@ -120,7 +85,7 @@ Then start with one of these essays:
   A page on what Fractalism looks like when it becomes practice rather than theory.
 
 - [Sobriety](/sobriety)
-  On sobriety as more than abstinence, a way of becoming available to what is real.
+  On sobriety as more than abstinence, a practical guide to becoming available to what is real.
 
 - [Team 3 as Discernment Machine](/team-3-as-discernment-machine)
   On how to use five philosophical lenses to test ideas, situations, and strategies without fooling yourself.
@@ -172,9 +137,10 @@ Then start with one of these essays:
 - [When Both Side Pillars Are Compromised, Only the Middle Remains](/when-both-side-pillars-are-compromised-only-the-middle-remains)
   On what remains possible when both the overt and refined poles of a system become unreliable.
 
-## Full Archive
+- [The Journalistic Void](/journalistic-void)
+  On why journalism needs the Void, and what is lost when the interval before reaction is eliminated from public discourse.
 
-The full archive below includes the essays above in a single list.
+## Full Archive
 
 - [The Cascading Effect of Changing Your Own Life](/the-cascading-effect-of-changing-your-own-life)
 - [When Intelligence Loses Contact With the Source](/when-intelligence-loses-contact-with-the-source)
@@ -206,14 +172,7 @@ The full archive below includes the essays above in a single list.
 - [Music as the Missing Lens Between Mathematics and Spirituality](/music-as-the-missing-lens-between-mathematics-and-spirituality)
 - [Music and Sport Are Not the Same Kind of Order](/music-and-sport-are-not-the-same-kind-of-order)
 - [Feeds Do Not Control Your Will, but the Atmosphere in Which It Chooses](/feeds-do-not-control-your-will-but-the-atmosphere-in-which-it-chooses)
-- [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void)
-- [Truth](/truth)
 - [Team 3 as Discernment Machine](/team-3-as-discernment-machine)
-- [How to Read Fractalism](/how-to-read-fractalism)
-- [The Structure of Fractalism](/the-structure-of-fractalism)
-- [The Void](/the-void)
-- [The Source](/the-source)
-- [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim)
 - [Living Fractalism](/living-fractalism)
 - [Sobriety](/sobriety)
 - [Collapse, Agitation, and Clarity](/tamas-rajas-and-sattva)
