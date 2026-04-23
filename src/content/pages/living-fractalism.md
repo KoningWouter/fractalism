@@ -51,17 +51,6 @@ In that moment, you have a choice. You can ignore the signal and stay in the loo
 
 By pivoting away from the chips and choosing fruit instead, you are doing more than just "eating healthy." You are acting as an conscious participant who respects the feedback from the field. You are choosing to keep your "instrument" clean so you can continue to perceive reality at high resolution. The synchronicity acted as a safety brake, but you were the one who had to decide to press it.
 
-
-### Example: The Silence of the Institution
-
-When a high-resolution signal is introduced into a stagnant system, the first reaction is rarely applause. It is usually silence.
-
-Recently, a series of transmissions from this project were sent to established esoteric institutions. Analytics showed that representatives from these organizations spent hours—sometimes half a day—deeply engaged with the site. Yet, no response followed.
-
-In Fractalism, we read this silence as **Systemic Shock**. An institution built on "frozen Gnosis" (older, rigid versions of truth) has a difficult time responding to "liquid Gnosis" (active, living inquiry). To acknowledge the new signal would be to admit the limitations of the old structure. 
-
-The silence is not an absence of interest; it is the sound of an institutional immune system attempting to calculate the impact of a signal it cannot yet control. For the participant, the challenge is to remain sovereign and not mistake the lack of reciprocity for a lack of value. The value is in the signal itself, not the archive's receipt of it.
-
 ## Attention matters
 
 Modern systems do not only compete for opinion. They compete for attention.
