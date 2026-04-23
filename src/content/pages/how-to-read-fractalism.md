@@ -56,6 +56,10 @@ Not every resonance is proof. Not every pattern is a mechanism. Not every intens
 
 The healthiest posture is seriousness without rigidity, openness without gullibility, and discernment without deadness.
 
+## A Note on Intellectualism
+
+**The map is not the territory.** If this framework makes you feel superior or 'integrated' without causing you actual, physical friction in your daily choices, you are not practicing Fractalism. You are merely consuming a high-resolution simulation of it. Insight that does not descend into conduct is just more [Social Noise](/attention-loops).
+
 ## There is an ethical center
 
 Fractalism is not interested in pattern recognition for its own sake.

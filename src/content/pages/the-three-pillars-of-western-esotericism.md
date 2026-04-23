@@ -64,6 +64,10 @@ A person who calls themselves middle path while actually staying entirely on one
 
 That tension is the work. The middle path does not resolve the opposition between Boaz and Jachin. It holds it, and the holding is both the practice and the test. Internally, it feels like refusing premature closure. Externally, it is tested by results. Does the person become more honest, more exact, more compassionate, and less available to distortion. If not, then the middle path is only being named.
 
+***
+
+**Author's note:** Beware of the "trap of abstraction." A complex intellectual map can be used to mask the absence of practical integration. True synthesis is not found in the understanding of the pillars, but in the painful work of holding the tension between them in real life. If this framework makes you feel superior or 'integrated' without causing you actual, physical friction in your daily choices, you are not practicing Fractalism. You are merely consuming a high-resolution simulation of it.
+
 This is where the three pillars are useful as a diagnostic tool. Not to sort people into categories, but to see where any given path, including one's own, has become one sided. A path that cannot recognize its own one sidedness has already left the middle.
 
 The middle path is always a practice, never a position. That is its nature and its difficulty.
