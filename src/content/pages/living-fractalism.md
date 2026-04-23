@@ -25,6 +25,22 @@ That does not automatically make the framework false. It reveals something harde
 
 Living Fractalism is not about never failing. It is about becoming less willing to lie about what the pattern is doing.
 
+### Example: The Pharmacy as a Layered System
+
+You can see these patterns in very ordinary places. Take a local pharmacy.
+
+On the front line, you often see **Reciprocity**. The pharmacist or assistant is trying to help, to advise, and to provide care. This is the human fractal, still connected to the original source of "healing."
+
+But sitting right on top of that is the **Extraction Layer**: the management and the systemic direction.
+
+- The employee is measured by KPIs (efficiency extraction).
+- The margins are dictated by insurance companies and manufacturers (capital extraction).
+- The bureaucracy of prescription validation consumes the time and attention that should belong to the patient (attention extraction).
+
+When you stand at the counter, you can feel this friction. The assistant may be kind, but their eyes often show "system-fatigue." They are being drained from behind by the extraction layer while trying to give from the front.
+
+Living Fractalism means learning to notice these layers. Once you see that the "coldness" of the room isn't caused by the people, but by the extraction layer pressing down on them, your own reaction changes. You stop reacting to the "noise" of the system and start recognizing the "signal" of the person trying to remain human within it.
+
 ## Attention matters
 
 Modern systems do not only compete for opinion. They compete for attention.
