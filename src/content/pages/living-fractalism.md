@@ -47,9 +47,9 @@ Practical Gnosis often happens at the moment of impulse. Imagine walking through
 
 At the very moment you reach for the bag, you encounter a [Synchronicity](/synchronicity). Perhaps you see a recurring number on a price tag, hear a specific phrase from a passerby, or feel a sudden, sharp internal nudge to "Pay Attention."
 
-In that moment, you have a choice. You can ignore the signal and stay in the 480p loop of the habit. Or you can recognize the signal as a message from the Source, alerting you that your resolution is about to drop.
+In that moment, you have a choice. You can ignore the signal and stay in the loop of the habit. Or you can recognize the signal as a message from the [Source](/the-source), alerting you that your resolution is about to drop.
 
-By pivoting away from the chips and choosing fruit instead, you are doing more than just "eating healthy." You are acting as an **Operator** who respects the feedback from the field. You are choosing to keep your "instrument" clean so you can continue to perceive reality at 4K resolution. The synchronicity acted as a safety brake, but you were the one who had to decide to press it.
+By pivoting away from the chips and choosing fruit instead, you are doing more than just "eating healthy." You are acting as an conscious participant who respects the feedback from the field. You are choosing to keep your "instrument" clean so you can continue to perceive reality at high resolution. The synchronicity acted as a safety brake, but you were the one who had to decide to press it.
 
 ## Attention matters
 
