@@ -77,6 +77,8 @@ It is not backed by an institution, a funding model, or a media operation. It is
 
 If you want to reach me, you can do so at [fractalisme@proton.me](mailto:fractalisme@proton.me).
 
+Or join our Discord server: https://discord.gg/uRgFqTy2 
+
 ## Closing
 
 Fractalism exists because reality can become hard to read when distortion is rewarded, attention is captured, and confusion becomes normal.
