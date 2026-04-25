@@ -24,8 +24,8 @@ export async function getForumPosts(limit = 20): Promise<ForumPost[]> {
 	try {
 		const events = await pool.querySync(RELAYS, {
 			kinds: [1],
-			'#t': [FORUM_HASHTAG],
-			limit: limit * 2, // Fetch more to filter out noise
+			'#t': [FORUM_HASHTAG, FORUM_HASHTAG.toLowerCase()],
+			limit: limit * 2,
 		});
 		
 		pool.close(RELAYS);
