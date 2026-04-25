@@ -38,9 +38,7 @@ const formatDate = (isoString: string) => {
 							{formatDate(post.published)} • 
 							<code title={post.pubkey}>{post.pubkey.slice(0, 8)}...</code>
 						</p>
-						<div class="dispatch-card__content" style="white-space: pre-wrap; margin-bottom: 1rem;">
-							{post.content}
-						</div>
+						<div class="dispatch-card__content" style="white-space: pre-wrap; margin-bottom: 1rem;">{post.content}</div>
 						<a class="dispatch-card__link" href={post.url} target="_blank" rel="noreferrer">
 							View Thread on Nostr
 						</a>

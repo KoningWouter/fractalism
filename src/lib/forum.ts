@@ -36,7 +36,7 @@ export async function getForumPosts(limit = 20): Promise<ForumPost[]> {
 			.map((event) => ({
 				id: event.id,
 				pubkey: event.pubkey,
-				content: event.content,
+				content: event.content.trim(),
 				published: new Date(event.created_at * 1000).toISOString(),
 				url: `https://njump.me/${nip19.noteEncode(event.id)}`,
 			}));
