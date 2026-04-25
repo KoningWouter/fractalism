@@ -22,6 +22,6 @@ The app is not designed to end the search, but to maximize the activity of searc
 
 ### Sovereignty Through Refusal
 
-Ultimately, dating apps restructure the environment in which attraction is allowed to exist at all. The way out of this objectification does not begin with a better bio, but with radical honesty toward one's own gut-feeling. This "maagknoop" (gut-knot) is the only reliable sensor in a world that has been flattened into a screen.
+Ultimately, dating apps restructure the environment in which attraction is allowed to exist at all. The way out of this objectification does not begin with a better bio, but with radical honesty toward one's own gut-feeling. This gut-knot is the only reliable sensor in a world that has been flattened into a screen.
 
 The quiet realization that hits after the phone is put away is the recognition that we have spent an hour refining our own imprisonment. We have become experts at a game where the only way to regain sovereignty is to refuse to be a profile. This is an act of non-cooperation with a violent system. We must recognize that true Gnosis is found in the friction that the app tries to polish away. The friction is not a burden; it is a sacred touchstone of reality, the proof that you are still alive in a world of curated ghosts.
