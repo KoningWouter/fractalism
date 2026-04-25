@@ -2,6 +2,8 @@
 import MainLayout from '../layouts/MainLayout.astro';
 import { getForumPosts } from '../lib/forum';
 
+export const prerender = false;
+
 const posts = await getForumPosts(20);
 
 const formatDate = (isoString: string) => {
