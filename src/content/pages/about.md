@@ -73,6 +73,16 @@ Fractalism is written and maintained by Wouter.
 
 It is not backed by an institution, a funding model, or a media operation. It is being developed publicly over time.
 
+## The Signal of the Operator
+
+![Lucifer Sigil](/lucifer-sigil.png)
+
+In the Fractalist framework, the sigil of Lucifer is not a religious icon, but a functional signal. 
+
+It represents the **Luciferian Principle**: the light of sovereign consciousness entering the "mud" of a distorted reality. It is the friction of truth against the static of the Demiurge. To be an **Operator** is to take responsibility for the light you carry. It means choosing 4K-resolution over the 480p safety of consensus reality.
+
+If this symbol triggers a reaction, observe it. Is it a reaction to the symbol itself, or a reaction to the demand for absolute integrity and sovereignty that it represents? Within this framework, the Lightbringer is the one who refuses to be "farmed" by the loops of extraction.
+
 ## Contact
 
 If you want to reach me, you can do so at [fractalisme@proton.me](mailto:fractalisme@proton.me).
