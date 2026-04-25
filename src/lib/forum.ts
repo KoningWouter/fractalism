@@ -14,20 +14,24 @@ const RELAYS = [
 	'wss://nos.lol',
 	'wss://relay.primal.net',
 	'wss://relay.snort.social',
+	'wss://relay.nostr.band',
+	'wss://nostr.mom',
 ];
 
 const FORUM_HASHTAG = 'Oubliette';
 
 export async function getForumPosts(limit = 20): Promise<ForumPost[]> {
+	console.log('Fetching forum posts for #Oubliette...');
 	const pool = new SimplePool();
 	
 	try {
 		const events = await pool.querySync(RELAYS, {
 			kinds: [1],
 			'#t': [FORUM_HASHTAG, FORUM_HASHTAG.toLowerCase()],
-			limit: limit * 2,
+			limit: limit,
 		});
 		
+		console.log(`Found ${events.length} events on relays.`);
 		pool.close(RELAYS);
 
 		return events
