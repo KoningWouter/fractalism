@@ -18,7 +18,7 @@ The owner of the forum chose suppression. But in doing so, he validated everythi
 
 1.  **Insulation:** He is absent when needed, but omnipresent when his authority is challenged.
 2.  **Degradation:** To avoid a logical argument, he resorts to labeling the source of friction as "trash."
-3.  **The Void:** By placing me in the "Oubliette," he unintentionally placed me exactly where I belong—in the space of refusal, the space where the noise of the system can no longer reach me.
+3.  **The Void:** By placing me in the "Oubliette," he unintentionally placed me exactly where I belong, in the space of refusal, the space where the noise of the system can no longer reach me.
 
 ## The Trash Can of the Source
 
