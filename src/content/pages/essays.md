@@ -90,6 +90,17 @@ Then start with one of these essays:
 - [Not a Religion, But a Living Truth System](/not-a-religion-but-a-living-truth-system)
   On why Fractalism is not a religion, but a corrigible way of learning to see more clearly.
 
+### Technical and Operational Architecture
+
+- [Astro, Cloudflare Pages, and the One Cent Site](/astro-cloudflare-and-the-one-cent-site)
+  On the infrastructure of sovereignty: why hosting and tech stack are moral choices.
+
+- [Team 3: The Architecture of Discernment](/team-3-architecture)
+  The "Bullshit Detector" protocol: how to use five philosophical lenses to triangulate truth.
+
+- [Liquid Gnosis: The Iterative Method](/liquid-gnosis-method)
+  The workflow of sovereignty: using AI as a fractal mirror to move from dialogue to frozen truth.
+
 ### Practice and Orientation
 
 - [The Cascading Effect of Changing Your Own Life](/the-cascading-effect-of-changing-your-own-life)
@@ -138,6 +149,9 @@ Then start with one of these essays:
 
 ## Full Archive
 
+- [Liquid Gnosis: The Iterative Method](/liquid-gnosis-method)
+- [Team 3: The Architecture of Discernment](/team-3-architecture)
+- [Astro, Cloudflare Pages, and the One Cent Site](/astro-cloudflare-and-the-one-cent-site)
 - [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void)
 - [Metaphor, Work Hypothesis, or Factual Claim?](/metaphor-work-hypothesis-or-factual-claim)
 - [How Fractalism Holds Itself to Account](/how-fractalism-holds-itself-to-account)
