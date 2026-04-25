@@ -35,6 +35,9 @@ Then start with one of these essays:
 - [Why Attention Is Farmed to Keep You from the Void](/why-attention-is-farmed-to-keep-you-from-the-void)
   On how attention is farmed in ways that keep reflective thresholds unstable and recognition less likely.
 
+- [De Architectuur van Selectie: Hoe Datingapps Verlangen Optimaliseren](/the-optimization-of-desire)
+  Een analyse van hoe datingapps aantrekkingskracht vertalen naar selectie en de gebruiker dwingen om een brand manager van het eigen verlangen te worden.
+
 - [Why the Modern Person Experiences Silence as a Threat](/why-the-modern-person-experiences-silence-as-a-threat)
   An essay on why silence can feel threatening when modern life depends on occupation, stimulation, and externally supported regulation.
 
@@ -156,6 +159,7 @@ Then start with one of these essays:
 ## Full Archive
 
 - [The Technical Logic of Gnosis: Why Hermes, Gemini, and Obsidian](/the-technical-logic-of-gnosis)
+- [De Architectuur van Selectie: Hoe Datingapps Verlangen Optimaliseren](/the-optimization-of-desire)
 - [Notes from the Oubliette](/notes-from-the-oubliette)
 - [Liquid Gnosis: The Iterative Method](/liquid-gnosis-method)
 - [Team 3: The Architecture of Discernment](/team-3-architecture)
