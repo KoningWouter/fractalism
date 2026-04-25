@@ -6,7 +6,7 @@ eyebrow: Essays
 
 Recently, my presence on a major Dutch forum (FOK!) was terminated. The official reason given by the owner was: *"User moved to group Oubliette - The trash can of FOK! - Doei (bye)."*
 
-An **Oubliette** is a secret dungeon with an opening only at the top, designed for prisoners to be forgotten (from the French *oublier*—to forget). In the eyes of the system, I have been discarded. I have been placed in the "trash can" for the crime of speaking with 4K-resolution in a field that thrives on 480p-extraction.
+An **Oubliette** is a secret dungeon with an opening only at the top, designed for prisoners to be forgotten (from the French *oublier*: to forget). In the eyes of the system, I have been discarded. I have been placed in the "trash can" for the crime of speaking with 4K-resolution in a field that thrives on 480p-extraction.
 
 This is a perfect case study in **Archontic Behavior**.
 
