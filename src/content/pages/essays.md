@@ -55,6 +55,9 @@ Then start with one of these essays:
 
 ### Power and Systems
 
+- [Notes from the Oubliette](/notes-from-the-oubliette)
+  A case study in Archontic behavior: why being discarded by a dying system is a badge of integrity.
+
 - [The Elite and the Logic of Extraction](/the-elite-and-the-logic-of-extraction)
   On how extreme power becomes detached from conscience, and how extraction and insulation reinforce each other.
 
@@ -149,6 +152,7 @@ Then start with one of these essays:
 
 ## Full Archive
 
+- [Notes from the Oubliette](/notes-from-the-oubliette)
 - [Liquid Gnosis: The Iterative Method](/liquid-gnosis-method)
 - [Team 3: The Architecture of Discernment](/team-3-architecture)
 - [Astro, Cloudflare Pages, and the One Cent Site](/astro-cloudflare-and-the-one-cent-site)
