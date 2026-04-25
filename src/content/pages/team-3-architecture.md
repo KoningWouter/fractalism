@@ -8,7 +8,7 @@ In the Fractalist framework, one of the most persistent problems is self-decepti
 
 To solve this, we built **Team 3**.
 
-Team 3 is not a group of people; it is a **functional architecture of discernment**. It is a method of triangulating any idea, action, or situation through five distinct philosophical voices to ensure that nothing—not even the ego—can hide in the noise.
+Team 3 is not a group of people; it is a **functional architecture of discernment**. It is a method of triangulating any idea, action, or situation through five distinct philosophical voices to ensure that nothing, not even the ego, can hide in the noise.
 
 ## The Five Voices of the Detector
 
@@ -32,7 +32,7 @@ The goal of Team 3 is to make the distortion un-ignorable. Once Einstein shows t
 
 Team 3 is used for:
 - **Refining Essays:** Ensuring that the language isn't just "profound-sounding" but actually carries structural weight.
-- **Field Analysis:** Deconstructing interactions with institutions (like "Budgetbeheer") or individuals (like "Danny/FOK!") to see where the power is actually flowing.
+- **Field Analysis:** Deconstructing interactions with institutions or individuals to see where the power is actually flowing.
 - **Inner Correction:** Testing our own choices against the five voices to ensure we aren't slipping back into 480p-loops.
 
 ## Closing
