@@ -1,0 +1,81 @@
+---
+import MainLayout from '../layouts/MainLayout.astro';
+import { getForumPosts } from '../lib/forum';
+
+const posts = await getForumPosts(20);
+
+const formatDate = (isoString: string) => {
+	return new Intl.DateTimeFormat('en', {
+		dateStyle: 'medium',
+		timeStyle: 'short',
+	}).format(new Date(isoString));
+};
+---
+
+<MainLayout 
+	title="The Oubliette Forum | Fractalism" 
+	description="A decentralized refuge for the displaced. Powered by Nostr, owned by no one."
+>
+	<section class="content-shell">
+		<div class="section-heading">
+			<p class="eyebrow">Decentralized Forum</p>
+			<h1 class="content-title">The Oubliette</h1>
+			<p class="section-copy">
+				This is a sanctuary for those discarded by extractive systems. 
+				Unlike traditional forums, this space has no central master and no "trash can" 
+				where truth can be hidden. Everything posted here with the hashtag <strong>#Oubliette</strong> 
+				lives on the Nostr protocol, beyond the reach of any petty Demiurge.
+			</p>
+		</div>
+
+		<div class="dispatches-shell">
+			{posts.length > 0 ? (
+				posts.map((post) => (
+					<article class="dispatch-card">
+						<p class="dispatch-card__meta">
+							{formatDate(post.published)} • 
+							<code title={post.pubkey}>{post.pubkey.slice(0, 8)}...</code>
+						</p>
+						<div class="dispatch-card__content" style="white-space: pre-wrap; margin-bottom: 1rem;">
+							{post.content}
+						</div>
+						<a class="dispatch-card__link" href={post.url} target="_blank" rel="noreferrer">
+							View Thread on Nostr
+						</a>
+					</article>
+				))
+			) : (
+				<p class="section-copy">
+					The Oubliette is currently quiet. 
+					To join the conversation, use any Nostr client (Primal, Coracle, Snort) 
+					and tag your post with <strong>#Oubliette</strong>.
+				</p>
+			)}
+		</div>
+
+		<div class="section-heading" style="margin-top: 4rem;">
+			<h2 class="content-title">How to Join</h2>
+			<p class="section-copy">
+				1. Get a Nostr client (we recommend <a href="https://primal.net" target="_blank">Primal</a> or <a href="https://coracle.social" target="_blank">Coracle</a>).<br/>
+				2. Create your identity (save your private key, it's yours alone).<br/>
+				3. Post your message and include the hashtag <strong>#Oubliette</strong>.<br/>
+				4. Refresh this page to see your signal in the haven.
+			</p>
+		</div>
+	</section>
+</MainLayout>
+
+<style>
+	.dispatch-card__content {
+		line-height: 1.6;
+		color: var(--text-color);
+		opacity: 0.9;
+	}
+	
+	.dispatch-card__meta code {
+		background: rgba(var(--accent-rgb), 0.1);
+		padding: 0.2rem 0.4rem;
+		border-radius: 4px;
+		font-size: 0.8rem;
+	}
+</style>
