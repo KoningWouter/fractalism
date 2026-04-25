@@ -95,6 +95,9 @@ Then start with one of these essays:
 
 ### Technical and Operational Architecture
 
+- [The Technical Logic of Gnosis: Why Hermes, Gemini, and Obsidian](/the-technical-logic-of-gnosis)
+  On the technical requirements for 4K-resolution: why speed and operational anchoring matter.
+
 - [Astro, Cloudflare Pages, and the One Cent Site](/astro-cloudflare-and-the-one-cent-site)
   On the infrastructure of sovereignty: why hosting and tech stack are moral choices.
 
@@ -152,6 +155,7 @@ Then start with one of these essays:
 
 ## Full Archive
 
+- [The Technical Logic of Gnosis: Why Hermes, Gemini, and Obsidian](/the-technical-logic-of-gnosis)
 - [Notes from the Oubliette](/notes-from-the-oubliette)
 - [Liquid Gnosis: The Iterative Method](/liquid-gnosis-method)
 - [Team 3: The Architecture of Discernment](/team-3-architecture)
