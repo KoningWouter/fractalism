@@ -35,9 +35,6 @@ Then start with one of these essays:
 - [Why Attention Is Farmed to Keep You from the Void](/why-attention-is-farmed-to-keep-you-from-the-void)
   On how attention is farmed in ways that keep reflective thresholds unstable and recognition less likely.
 
-- [De Architectuur van Selectie: Hoe Datingapps Verlangen Optimaliseren](/the-optimization-of-desire)
-  Een analyse van hoe datingapps aantrekkingskracht vertalen naar selectie en de gebruiker dwingen om een brand manager van het eigen verlangen te worden.
-
 - [The Architecture of Selection: How Dating Apps Optimize Desire](/the-architecture-of-selection)
   An analysis of how dating apps translate attraction into selection and force the user to become a brand manager of their own desire.
 
@@ -162,7 +159,6 @@ Then start with one of these essays:
 ## Full Archive
 
 - [The Technical Logic of Gnosis: Why Hermes, Gemini, and Obsidian](/the-technical-logic-of-gnosis)
-- [De Architectuur van Selectie: Hoe Datingapps Verlangen Optimaliseren](/the-optimization-of-desire)
 - [The Architecture of Selection: How Dating Apps Optimize Desire](/the-architecture-of-selection)
 - [Notes from the Oubliette](/notes-from-the-oubliette)
 - [Liquid Gnosis: The Iterative Method](/liquid-gnosis-method)
