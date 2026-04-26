@@ -117,3 +117,18 @@ It is still unclear whether such a field can be built without reproducing the di
 
 That uncertainty should not be edited out.
 It belongs to the truth of the question.
+
+## Where We Gather
+
+Fractalism operates across two primary digital spaces, each serving a different functional purpose in the removal of distortion.
+
+### 1. The Oubliette Refugee Forum (Nostr)
+**The Public Signal.** This is our decentralized broadcast layer. It is un-erasable, censorship-resistant, and owned by no one. Use this to follow dispatches from the operator and participate in the public discourse.
+
+- **Follow the Signal:** [Nostr Escape Route](/nostr)
+- **The Live Feed:** [The Oubliette Forum](/forum)
+
+### 2. The Alchemical Lab (Discord)
+**The Liquid Gnosis.** This is our real-time environment for field-work, direct friction, and the refinement of new language. It is a space for "conscious participants" rather than consumers. If you are looking for entertainment, you will find it cold. If you are looking to sharpen your resolution, the door is open.
+
+- **Join the Lab:** [Discord Server](https://discord.gg/uRgFqTy2)
