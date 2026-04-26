@@ -337,6 +337,11 @@ body.lightbox-open {
 	box-shadow: 0 12px 34px rgba(105, 82, 42, 0.1);
 }
 
+.site-nav__group[open] > .site-nav__dropdown {
+	display: grid;
+	gap: 0.25rem;
+}
+
 .site-nav__dropdown-link {
 	display: block;
 	padding: 0.68rem 0.82rem;
