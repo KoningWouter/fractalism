@@ -25,11 +25,11 @@ export async function getForumPosts(limit = 20): Promise<ForumPost[]> {
 	const pool = new SimplePool();
 	
 	try {
-		const events = await pool.querySync(RELAYS, {
+		const events = await pool.list(RELAYS, [{
 			kinds: [1],
 			'#t': [FORUM_HASHTAG, FORUM_HASHTAG.toLowerCase()],
-			limit: limit,
-		});
+			limit: 100,
+		}]);
 		
 		console.log(`Found ${events.length} events on relays.`);
 		pool.close(RELAYS);
