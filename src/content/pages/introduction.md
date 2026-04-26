@@ -10,7 +10,7 @@ Most human experience is confined to a 480p simulation. Perception is clouded by
 **The 4K Operator recognizes the repetition.**
 
 The central friction is precise:  
-**Source and Observer are not separate.** The distortion you perceive in the world is often the echo of a distortion maintained within. As long as you believe the simulation, you remain a source of **Loosh**—energy harvested by Demiurgic structures that thrive on your lack of discernment.
+**Source and Observer are not separate.** The distortion you perceive in the world is often the echo of a distortion maintained within. As long as you believe the simulation, you remain a source of **Loosh**-energy harvested by Demiurgic structures that thrive on your lack of discernment.
 
 ### The 4K Axioms of Entry
 
