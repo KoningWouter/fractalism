@@ -7,6 +7,12 @@ hero:
   title: Nostr — The Sovereign Frontier
   subtitle: If they can ban you, you don't own your voice.
   intro: Most social platforms are "Demiurgic" enclosures designed to farm your attention. When you speak with 4K-resolution, the Archons discard you into the Oubliette. Nostr is the exit.
+  primaryCta:
+    label: Join the Oubliette Forum
+    href: /forum
+  secondaryCta:
+    label: What is Nostr?
+    href: https://nostr.how
 ---
 
 ## Protocol over Platform
