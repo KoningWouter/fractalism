@@ -37,7 +37,7 @@ Nostr is where we regroup. It is the space where the noise of the "trash can" ca
 To follow the Fractalism dispatches and connect with the 4K-operator, you need a Nostr client (like [Iris](https://iris.to), [Coracle](https://coracle.social), or [Damus](https://damus.io)).
 
 **Follow the Operator:**
-`npub10qy8z380hs3h5635hhzq83c0tmstddy6a29lvmcyqtp5stn6h03qrfw47w`
+`npub1dh4734l2gqvh35ctpx2tlhswksayx0czk6fhkldwcuupu4xtzm4sw26l6j`
 
 **NIP-05 Verification:**
 `wouter@fractalisme.nl`
