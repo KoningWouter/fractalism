@@ -53,6 +53,7 @@ For readers who want clarity, sobriety, attention, and immediately usable distin
 4. [Living Fractalism](/living-fractalism)
 5. [Sobriety](/sobriety)
 6. [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void)
+7. [Nostr: The Escape Route](/nostr)
 
 ### Core Architecture
 

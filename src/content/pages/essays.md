@@ -98,6 +98,9 @@ Then start with one of these essays:
 
 ### Technical and Operational Architecture
 
+- [Nostr: The Oubliette Escape Route](/nostr)
+  On sovereignty, keys, and why protocol is the only defense against Archontic censorship.
+
 - [The Technical Logic of Gnosis: Why Hermes, Gemini, and Obsidian](/the-technical-logic-of-gnosis)
   On the technical requirements for 4K-resolution: why speed and operational anchoring matter.
 
