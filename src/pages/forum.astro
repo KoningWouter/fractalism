@@ -12,6 +12,11 @@ const formatDate = (isoString: string) => {
 		timeStyle: 'short',
 	}).format(new Date(isoString));
 };
+
+// Force no-cache headers for SSR
+Astro.response.headers.set('Cache-Control', 'no-cache, no-store, must-revalidate');
+Astro.response.headers.set('Pragma', 'no-cache');
+Astro.response.headers.set('Expires', '0');
 ---
 
 <MainLayout 
@@ -22,11 +27,14 @@ const formatDate = (isoString: string) => {
 		<div class="section-heading">
 			<p class="eyebrow">Decentralized Forum</p>
 			<h1 class="content-title">The Oubliette</h1>
-			<p class="section-copy">
+			<p class="section-copy" style="margin-bottom: 0.5rem;">
 				This is a sanctuary for those discarded by extractive systems. 
 				Unlike traditional forums, this space has no central master and no "trash can" 
 				where truth can be hidden. Everything posted here with the hashtag <strong>#Oubliette</strong> 
 				lives on the Nostr protocol, beyond the reach of any petty Demiurge.
+			</p>
+			<p class="section-copy" style="font-size: 0.8rem; opacity: 0.6;">
+				Last sync: {formatDate(new Date().toISOString())} (Server Time)
 			</p>
 		</div>
 
