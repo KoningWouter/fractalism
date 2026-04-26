@@ -160,9 +160,23 @@ body.lightbox-open {
 }
 
 :root[data-theme='light'] .site-header__inner {
-	background: rgba(255, 249, 233, 0.72);
-	border: 1px solid rgba(155, 111, 47, 0.08);
-	box-shadow: 0 10px 24px rgba(105, 82, 42, 0.05), inset 0 1px 0 rgba(255, 255, 255, 0.28);
+	background: rgba(255, 253, 245, 0.92);
+	border: 1px solid rgba(155, 111, 47, 0.15);
+	box-shadow: 
+		0 12px 30px rgba(105, 82, 42, 0.08), 
+		inset 0 1px 0 rgba(255, 255, 255, 1);
+}
+
+:root[data-theme='light'] .site-nav__link,
+:root[data-theme='light'] .site-nav__summary {
+	color: var(--text-soft);
+	font-weight: 500;
+}
+
+:root[data-theme='light'] .site-nav__link:hover,
+:root[data-theme='light'] .site-nav__link.is-active {
+	color: var(--text);
+	background: rgba(155, 111, 47, 0.07);
 }
 
 .site-brand {
