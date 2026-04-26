@@ -24,12 +24,10 @@ const currentPath = Astro.url.pathname;
 	<div class="markdown-shell">
 		<slot />
 
-		<hr style="border: none; border-top: 1px solid var(--border); margin: 4rem 0 2rem;">
-
 		<div id="fractal-graph-container" 
              data-current-path={currentPath} 
              data-page-title={title}
-             style="width: 100%; height: 400px; position: relative; overflow: hidden; margin-top: 2rem; mask-image: linear-gradient(to bottom, transparent, black 15%, black 85%, transparent); -webkit-mask-image: linear-gradient(to bottom, transparent, black 15%, black 85%, transparent);">
+             style="width: 100%; height: 400px; position: relative; overflow: hidden; margin-top: 4rem; mask-image: linear-gradient(to bottom, transparent, black 15%, black 85%, transparent); -webkit-mask-image: linear-gradient(to bottom, transparent, black 15%, black 85%, transparent);">
     <svg id="fractal-graph" style="width: 100%; height: 100%;"></svg>
 </div>
 
