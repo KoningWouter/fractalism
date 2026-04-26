@@ -24,10 +24,10 @@ Not belief. Not loyalty. Only the willingness to increase the resolution. If you
 
 **The Path to Depth:**
 
-1. [Gnosis](/gnosis) — Distinguishing what clarifies from what only fascinates.
-2. [The Void](/the-void) — The interval between stimulus and reflex.
-3. [The Technical Logic of Gnosis](/the-technical-logic-of-gnosis) — Why the tools of sovereignty matter.
-4. [Friction as Signal](/friction-as-signal) — Reading the data of discomfort.
+1. [Gnosis](/gnosis) - Distinguishing what clarifies from what only fascinates.
+2. [The Void](/the-void) - The interval between stimulus and reflex.
+3. [The Technical Logic of Gnosis](/the-technical-logic-of-gnosis) - Why the tools of sovereignty matter.
+4. [Friction as Signal](/friction-as-signal) - Reading the data of discomfort.
 
 ---
 

@@ -116,10 +116,10 @@ When Fractalism makes a factual claim, it should be willing to say what would co
 
 These are not a decision procedure. They are reflective prompts. When a page or idea becomes difficult to classify, ask:
 
-1. What kind of statement is this — literal, symbolic, or somewhere between?
+1. What kind of statement is this - literal, symbolic, or somewhere between?
 2. What is actually known here, and what is only suspected?
 3. What feels true but has not been sufficiently tested?
-4. What is the epistemic status — confirmed, provisional, or unclear?
+4. What is the epistemic status - confirmed, provisional, or unclear?
 5. If this turned out to be partially wrong, would that undermine the useful part, or would the useful part survive?
 
 These questions slow the common tendency to jump from resonance to certainty. They do not replace judgment.
@@ -135,7 +135,7 @@ A page likely needs revision when it:
 - sounds grander than it is responsibly grounded
 - uses elevated language as a substitute for precision
 
-One additional sign worth noting: a text that warns against these failures in general but does not apply the same scrutiny to its own core claims. Fractalism's most ambitious ideas — attention as selective mechanism, friction as corrective, symbolic value without factual status — are work hypotheses that have not been fully tested. Calling them provisional is correct. Treating them as confirmed because the taxonomy names them is not.
+One additional sign worth noting: a text that warns against these failures in general but does not apply the same scrutiny to its own core claims. Fractalism's most ambitious ideas - attention as selective mechanism, friction as corrective, symbolic value without factual status - are work hypotheses that have not been fully tested. Calling them provisional is correct. Treating them as confirmed because the taxonomy names them is not.
 
 ## What this does not mean
 

@@ -18,11 +18,11 @@ Without this kind of discipline, a framework meant to sharpen discernment can qu
 
 Fractalism tries to keep these five things distinct:
 
-- **experience** — what has actually been lived or perceived
-- **symbol** — meaning-bearing language that is not always literal
-- **hypothesis** — a serious but revisable proposal
-- **practical insight** — something that appears usable in life and remains open to correction
-- **fact claim** — something that should be publicly defensible and evidence-responsive
+- **experience** - what has actually been lived or perceived
+- **symbol** - meaning-bearing language that is not always literal
+- **hypothesis** - a serious but revisable proposal
+- **practical insight** - something that appears usable in life and remains open to correction
+- **fact claim** - something that should be publicly defensible and evidence-responsive
 
 ## What epistemic hygiene means here
 

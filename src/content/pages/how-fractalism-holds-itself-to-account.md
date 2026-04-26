@@ -46,7 +46,7 @@ Fractalism is healthier when it increases discernment, sovereignty, and voluntar
 
 Truth should not need captivity.
 
-Note that this principle describes a tendency, not a perfect state. Dependency is seductive. Many people seek it, because sovereign self-relation can feel existentially terrifying. The desire to belong, to have a central voice, to be initiated — these are powerful forces. Naming them as failure modes does not dissolve them. What matters is whether the overall direction of the work is toward greater sovereignty or greater dependency.
+Note that this principle describes a tendency, not a perfect state. Dependency is seductive. Many people seek it, because sovereign self-relation can feel existentially terrifying. The desire to belong, to have a central voice, to be initiated - these are powerful forces. Naming them as failure modes does not dissolve them. What matters is whether the overall direction of the work is toward greater sovereignty or greater dependency.
 
 ## 4. Service over status
 
@@ -106,7 +106,7 @@ No authority without corrigibility.
 
 Inner clarity is not a side issue. It is part of what protects the work from slow drift.
 
-Note that inner clarity is not the same as vigilance. The shadow is not accessible through self-monitoring. What you can watch for, you can also fool. Real inner clarity comes through ongoing, uncomfortable confrontation with what operates in you without your consent or awareness — through relationships, failures, symptoms, and the feedback of people who see what you cannot. It cannot be reduced to a set of prohibitions.
+Note that inner clarity is not the same as vigilance. The shadow is not accessible through self-monitoring. What you can watch for, you can also fool. Real inner clarity comes through ongoing, uncomfortable confrontation with what operates in you without your consent or awareness - through relationships, failures, symptoms, and the feedback of people who see what you cannot. It cannot be reduced to a set of prohibitions.
 
 ## A set of questions
 

@@ -32,12 +32,12 @@ Rebuilding receptivity after a period of extraction is not a project of will. It
 
 Vril circulates when consciousness remains permeable to the following:
 
-- **Truth** — the willingness to see what is rather than what you need it to be
-- **Reciprocity** — the capacity to give and receive rather than only take
-- **Creation** — engagement with what is new rather than only repetition of what is known
-- **Presence** — the ability to rest in what is happening now rather than always somewhere else
-- **Surrender** — releasing the need to control what cannot be controlled
-- **Relational attunement** — openness to the other as other, not only as instrument
+- **Truth** - the willingness to see what is rather than what you need it to be
+- **Reciprocity** - the capacity to give and receive rather than only take
+- **Creation** - engagement with what is new rather than only repetition of what is known
+- **Presence** - the ability to rest in what is happening now rather than always somewhere else
+- **Surrender** - releasing the need to control what cannot be controlled
+- **Relational attunement** - openness to the other as other, not only as instrument
 
 As long as these remain possible, Vril can flow. The being remains metabolically responsive through its connection to the Source.
 

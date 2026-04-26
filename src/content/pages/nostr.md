@@ -4,7 +4,7 @@ description: Why protocol is the only defense against Archontic extraction and c
 eyebrow: Infrastructure
 hero:
   eyebrow: Escape Velocity
-  title: Nostr — The Sovereign Frontier
+  title: Nostr - The Sovereign Frontier
   subtitle: If they can ban you, you don't own your voice.
   intro: Most social platforms are "Demiurgic" enclosures designed to farm your attention. When you speak with 4K-resolution, the Archons discard you into the Oubliette. Nostr is the exit.
   primaryCta:

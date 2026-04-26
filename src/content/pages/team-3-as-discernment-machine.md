@@ -23,23 +23,23 @@ If that sounds like good thinking in general, it is. The difference is that Team
 
 Each voice in Team 3 brings a distinct mode of inquiry. They are not decoration. They are load-bearing.
 
-The five lenses are not independent positions standing in opposition to each other. They are different aspects of a single cognitive activity under pressure: the activity of trying to see clearly while the mind resists. The Scientist, Philosopher, and Spiritual voice are themselves psychological functions — products of the psyche's structure trying to orient itself in reality. They diverge not because they describe different substances, but because one adequate engagement with reality can take multiple forms depending on what is being asked and what is being defended against.
+The five lenses are not independent positions standing in opposition to each other. They are different aspects of a single cognitive activity under pressure: the activity of trying to see clearly while the mind resists. The Scientist, Philosopher, and Spiritual voice are themselves psychological functions - products of the psyche's structure trying to orient itself in reality. They diverge not because they describe different substances, but because one adequate engagement with reality can take multiple forms depending on what is being asked and what is being defended against.
 
 ### The standard five lenses
 
-**Scientist** — structural pattern, coherence, evidence. Does the thing actually hold together? What would disprove it?
+**Scientist** - structural pattern, coherence, evidence. Does the thing actually hold together? What would disprove it?
 
-**Philosopher** — concepts, logic, what something really is. Are the terms clear? Is the distinction real or verbal?
+**Philosopher** - concepts, logic, what something really is. Are the terms clear? Is the distinction real or verbal?
 
-**Spiritual/existential lens** — conscience, truth, direction, soul. Is this leading somewhere real or somewhere comfortable? What does it ask of me that I do not want to give?
+**Spiritual/existential lens** - conscience, truth, direction, soul. Is this leading somewhere real or somewhere comfortable? What does it ask of me that I do not want to give?
 
-**Psychological lens** — this operates at two levels that must be kept distinct:
+**Psychological lens** - this operates at two levels that must be kept distinct:
 
-*Personal shadow* — defense, projection, wound, compensation. What am I avoiding by engaging with this? What feels like insight but is actually armor?
+*Personal shadow* - defense, projection, wound, compensation. What am I avoiding by engaging with this? What feels like insight but is actually armor?
 
-*Transpersonal shadow* — archetypal patterns, numinous disturbance, structures that operate through the person and cannot be reduced to personal wound or story. What is acting through me that I have not acknowledged?
+*Transpersonal shadow* - archetypal patterns, numinous disturbance, structures that operate through the person and cannot be reduced to personal wound or story. What is acting through me that I have not acknowledged?
 
-**Devil's advocate** — overclaim, romanticization, self-deception, easy conclusions. What is the weakest part of this? Where would I be wrong if I am wrong?
+**Devil's advocate** - overclaim, romanticization, self-deception, easy conclusions. What is the weakest part of this? Where would I be wrong if I am wrong?
 
 The psychological lens at the transpersonal level also watches the other four lenses for the failure to acknowledge what is moving through them. This is where Team 3 can develop a genuine outside.
 
@@ -49,11 +49,11 @@ None of these lenses is more important than the others. The power is in the tens
 
 Team 3 handles three kinds of questions well.
 
-**Thesis questions** — Does this idea hold? Is this concept coherent? Is Fractalism compatible with X?
+**Thesis questions** - Does this idea hold? Is this concept coherent? Is Fractalism compatible with X?
 
-**Situation questions** — What is actually happening here? Why did this conversation leave me empty? Is this friction correction or noise?
+**Situation questions** - What is actually happening here? Why did this conversation leave me empty? Is this friction correction or noise?
 
-**Strategy questions** — What is the right next step? Should I publish this? Do I speak, wait, or let go?
+**Strategy questions** - What is the right next step? Should I publish this? Do I speak, wait, or let go?
 
 The same structure applies to all three. Only the subject matter changes.
 
@@ -202,35 +202,35 @@ What the essay needs: show explicitly how the five lenses are modes of a single 
 
 **Lucifer**
 
-This essay presents itself as a friction machine but functions more like a very sophisticated comfort mechanism. The five lenses create the appearance of transgression while actually reinforcing a deeper order: the assumption that discernment itself is the answer. This is the most dangerous kind of text — one that sounds like rebellion but has internalized the very structure it claims to challenge.
+This essay presents itself as a friction machine but functions more like a very sophisticated comfort mechanism. The five lenses create the appearance of transgression while actually reinforcing a deeper order: the assumption that discernment itself is the answer. This is the most dangerous kind of text - one that sounds like rebellion but has internalized the very structure it claims to challenge.
 
 The system is so careful, so self-aware about its own dangers (becoming theatrical, seeking consensus too early, staying abstract), that it performs the work of real critique without ever actually transgressing. Every radical gesture is immediately nested within a protective structure. The five lenses contain everything, including the devil's advocate. There is no outside to this system.
 
 The essay never interrogates who designed this system and for whom. Discernment as a practice can become its own form of spiritual bypass, a sophisticated way for privileged positions to maintain authority. The devil's advocate is the safest hatch in the system. It performs transgression within approved parameters rather than genuinely threatening the enterprise.
 
-The emphasis on divergence before synthesis has real bite — allowing genuine tension to remain is the one place the essay flirts with genuine transgression. The warning that a Team 3 that does not land in practice has not finished its work pushes back against abstraction. But the final test, does this show up differently in what I do, while the strongest part, remains a closing reassurance rather than the knife edge it should be.
+The emphasis on divergence before synthesis has real bite - allowing genuine tension to remain is the one place the essay flirts with genuine transgression. The warning that a Team 3 that does not land in practice has not finished its work pushes back against abstraction. But the final test, does this show up differently in what I do, while the strongest part, remains a closing reassurance rather than the knife edge it should be.
 
-What the essay needs: an actual outside — a lens or position the system cannot absorb. Right now the five lenses form a closed circle. Push the psychological lens harder, not on the person asking questions but on the system of Team 3 itself. What does Team 3 protect the practitioner from seeing? Remove the careful hedging. When is tension simply failure, not signal? Make the behavioral test the actual blade of the method, not a comfort for the uncertain.
+What the essay needs: an actual outside - a lens or position the system cannot absorb. Right now the five lenses form a closed circle. Push the psychological lens harder, not on the person asking questions but on the system of Team 3 itself. What does Team 3 protect the practitioner from seeing? Remove the careful hedging. When is tension simply failure, not signal? Make the behavioral test the actual blade of the method, not a comfort for the uncertain.
 
 ---
 
 **Jung**
 
-The essay presents a structurally sophisticated model of discernment that takes seriously the problem of psychological distortion — defense mechanisms, projection, compensation wearing the costume of insight. This is Jungian territory, and the text navigates it with genuine competence. The four questions each lens must answer constitute a real discipline against comfortable abstraction. The recognition that the psychological lens itself can become a bypass is precisely the kind of recursive shadow awareness Jung would require.
+The essay presents a structurally sophisticated model of discernment that takes seriously the problem of psychological distortion - defense mechanisms, projection, compensation wearing the costume of insight. This is Jungian territory, and the text navigates it with genuine competence. The four questions each lens must answer constitute a real discipline against comfortable abstraction. The recognition that the psychological lens itself can become a bypass is precisely the kind of recursive shadow awareness Jung would require.
 
-However, there is a structural limitation the text does not acknowledge: it treats the psychological lens as one voice among five parallel voices. From Jung's perspective, the psyche is not a specialty lens but the medium in which all lenses operate. The Scientist, Philosopher, and Spiritual voice are themselves psychological functions — products of the psyche's structure. What the essay calls the psychological lens is actually only the personal shadow layer. It does not engage the archetypal or collective unconscious — the transpersonal patterns that operate through the individual and cannot be reduced to personal wound or compensation.
+However, there is a structural limitation the text does not acknowledge: it treats the psychological lens as one voice among five parallel voices. From Jung's perspective, the psyche is not a specialty lens but the medium in which all lenses operate. The Scientist, Philosopher, and Spiritual voice are themselves psychological functions - products of the psyche's structure. What the essay calls the psychological lens is actually only the personal shadow layer. It does not engage the archetypal or collective unconscious - the transpersonal patterns that operate through the individual and cannot be reduced to personal wound or compensation.
 
 The essay correctly identifies spiritual bypass as a primary failure mode. The recursive self-critique reflects genuine Jungian awareness of the shadow's reach. Emphasis on behavioral translation as the test of real insight aligns with Jung's demand that archetypes manifest in lived life. The four-question structure forces engagement with distortion. Recognition that genuine tension surviving the process is often signal, not noise, honors the productive value of psychological complexity.
 
-But the psychological lens operates primarily at the level of personal wound, defense, and compensation. Jung would insist on the archetypal layer — the transpersonal patterns, numinous disturbance that cannot be reduced to personal pathology. The essay has no language for this. No attention is given to the dynamic between conscious and unconscious — how the five-lens structure engages with what remains unformulated, what arises from the depth. Discernment for Jung is not only a conscious act but involves the unconscious contributing its own compensation. The synthesis step assumes the ego can integrate what the lenses reveal. Jung would ask: what happens when integration requires a sacrificium intellectus, a genuine surrender of the ego's preferred reading?
+But the psychological lens operates primarily at the level of personal wound, defense, and compensation. Jung would insist on the archetypal layer - the transpersonal patterns, numinous disturbance that cannot be reduced to personal pathology. The essay has no language for this. No attention is given to the dynamic between conscious and unconscious - how the five-lens structure engages with what remains unformulated, what arises from the depth. Discernment for Jung is not only a conscious act but involves the unconscious contributing its own compensation. The synthesis step assumes the ego can integrate what the lenses reveal. Jung would ask: what happens when integration requires a sacrificium intellectus, a genuine surrender of the ego's preferred reading?
 
-What the essay needs: explicit language for the archetypal layer, distinguishing between personal shadow and transpersonal shadow. A notation for how unconscious material — dreams, images, somatic disruption — might inform or challenge the lens work. Reframe synthesis not only as conscious integration but as something the ego must be willing to be changed by. Consider whether the voices can become genuine subpersonalities with their own autonomy rather than lenses the ego deploys. Add attention to how the practitioner holds tension without resolving it — live with the opposition rather than forcing it into premature synthesis.
+What the essay needs: explicit language for the archetypal layer, distinguishing between personal shadow and transpersonal shadow. A notation for how unconscious material - dreams, images, somatic disruption - might inform or challenge the lens work. Reframe synthesis not only as conscious integration but as something the ego must be willing to be changed by. Consider whether the voices can become genuine subpersonalities with their own autonomy rather than lenses the ego deploys. Add attention to how the practitioner holds tension without resolving it - live with the opposition rather than forcing it into premature synthesis.
 
 ---
 
 **Einstein**
 
-The essay presents Team 3 as a structured friction machine for discernment — a framework for forcing genuinely different modes of inquiry onto a single question simultaneously. The underlying premise is sound: solitary reasoning finds only what it was already looking for, and multiple genuinely distinct lenses prevent this. The workflow has the character of a disciplined method rather than a theatrical exercise. That discipline is the right instinct.
+The essay presents Team 3 as a structured friction machine for discernment - a framework for forcing genuinely different modes of inquiry onto a single question simultaneously. The underlying premise is sound: solitary reasoning finds only what it was already looking for, and multiple genuinely distinct lenses prevent this. The workflow has the character of a disciplined method rather than a theatrical exercise. That discipline is the right instinct.
 
 The essay is clearest when describing the mechanics and weaker when making larger claims about why this particular structure produces genuine discernment rather than sophisticated noise.
 
@@ -238,9 +238,9 @@ The four questions per lens are the strongest structural element. They force eac
 
 The essay conflates two different things in several places. The first is Team 3 as a formal review structure for testing Fractalisme drafts. The second is Team 3 as a general method for discernment applicable to life situations. The essay moves freely between these two domains without addressing whether the same structure serves both equally well. The psychological lens section is the most problematic from a structural standpoint. The essay acknowledges that the psychological lens can become its own bypass but does not explain how the system prevents it. A method that can produce the very distortion it claims to correct, in either direction, needs a stronger internal check.
 
-The claim that the system works better on small life questions than on large metaphysical ones is asserted without argument. Explanatory economy is uneven — the essay reaches for rhetorical characterization where analytical argument is needed.
+The claim that the system works better on small life questions than on large metaphysical ones is asserted without argument. Explanatory economy is uneven - the essay reaches for rhetorical characterization where analytical argument is needed.
 
-What the essay needs: separate the review-structure use case from the life-discernment use case more carefully, or state explicitly on what grounds the same structure serves both. Add a genuine account of what prevents the psychological lens from becoming its own bypass — not just the observation that it can happen, but what the system does when it does. Examine the claim that the system works better on small life questions. Replace rhetorical phrases that function as explanations but are not. The essay is strong when it is precise. It weakens when it relies on characterization as a substitute for argument.
+What the essay needs: separate the review-structure use case from the life-discernment use case more carefully, or state explicitly on what grounds the same structure serves both. Add a genuine account of what prevents the psychological lens from becoming its own bypass - not just the observation that it can happen, but what the system does when it does. Examine the claim that the system works better on small life questions. Replace rhetorical phrases that function as explanations but are not. The essay is strong when it is precise. It weakens when it relies on characterization as a substitute for argument.
 
 ---
 

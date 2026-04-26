@@ -13,44 +13,44 @@ Before them stands **The Ground**: the undivided source from which articulation 
 
 The structure is simple:
 
-- **The Ground** — the source before articulation
-- **Axioms 1–26** — the articulated body of the system
+- **The Ground** - the source before articulation
+- **Axioms 1-26** - the articulated body of the system
 
 ## Contents
 
-- [The Ground](#the-ground--pre-axiomatic-unity)
-- [Axiom 1 — The Universal Equation](#axiom-1--the-universal-equation)
-- [Axiom 2 — The Eternal Now](#axiom-2--the-eternal-now)
-- [Axiom 3 — Fractal Scaling](#axiom-3--fractal-scaling)
-- [Axiom 4 — The “I Am” Constant](#axiom-4--the-i-am-constant)
-- [Axiom 5 — The Fractal Big Bounce](#axiom-5--the-fractal-big-bounce)
-- [Axiom 6 — The Law of Recurrence](#axiom-6--the-law-of-recurrence)
-- [Axiom 7 — The Veil of Amnesia](#axiom-7--the-veil-of-amnesia)
-- [Axiom 8 — The Law of Fractal Deviation](#axiom-8--the-law-of-fractal-deviation)
-- [Axiom 9 — The Law of Elastic Correction](#axiom-9--the-law-of-elastic-correction)
-- [Axiom 10 — The Arc of Return](#axiom-10--the-arc-of-return)
-- [Axiom 11 — The Principle of Self-Correction](#axiom-11--the-principle-of-self-correction)
-- [Axiom 12 — The Power of Non-Linear Emergence](#axiom-12--the-power-of-non-linear-emergence)
-- [Axiom 13 — The Holographic Whole](#axiom-13--the-holographic-whole)
-- [Axiom 14 — Fractal History](#axiom-14--fractal-history)
-- [Axiom 15 — Harmonic Restoration](#axiom-15--harmonic-restoration)
-- [Axiom 16 — Universal Echo](#axiom-16--universal-echo)
-- [Axiom 17 — Synchronicity as Signal](#axiom-17--synchronicity-as-signal)
-- [Axiom 18 — Relational Consciousness](#axiom-18--relational-consciousness)
-- [Axiom 19 — The Primacy of Resolution](#axiom-19--the-primacy-of-resolution)
-- [Axiom 20 — The Feedback Loop](#axiom-20--the-feedback-loop)
-- [Axiom 21 — The Eye of Resolution](#axiom-21--the-eye-of-resolution)
-- [Axiom 22 — The Axiom of Symbiosis](#axiom-22--the-axiom-of-symbiosis)
-- [Axiom 23 — The Axiom of Social Noise](#axiom-23--the-axiom-of-social-noise)
-- [Axiom 24 — The Law of Obstruction](#axiom-24--the-law-of-obstruction)
-- [Axiom 25 — The Pure Observer](#axiom-25--the-pure-observer)
-- [Axiom 26 — The Omega Loop](#axiom-26--the-omega-loop)
+- [The Ground](#the-ground-pre-axiomatic-unity)
+- [Axiom 1 - The Universal Equation](#axiom-1-the-universal-equation)
+- [Axiom 2 - The Eternal Now](#axiom-2-the-eternal-now)
+- [Axiom 3 - Fractal Scaling](#axiom-3-fractal-scaling)
+- [Axiom 4 - The “I Am” Constant](#axiom-4-the-i-am-constant)
+- [Axiom 5 - The Fractal Big Bounce](#axiom-5-the-fractal-big-bounce)
+- [Axiom 6 - The Law of Recurrence](#axiom-6-the-law-of-recurrence)
+- [Axiom 7 - The Veil of Amnesia](#axiom-7-the-veil-of-amnesia)
+- [Axiom 8 - The Law of Fractal Deviation](#axiom-8-the-law-of-fractal-deviation)
+- [Axiom 9 - The Law of Elastic Correction](#axiom-9-the-law-of-elastic-correction)
+- [Axiom 10 - The Arc of Return](#axiom-10-the-arc-of-return)
+- [Axiom 11 - The Principle of Self-Correction](#axiom-11-the-principle-of-self-correction)
+- [Axiom 12 - The Power of Non-Linear Emergence](#axiom-12-the-power-of-non-linear-emergence)
+- [Axiom 13 - The Holographic Whole](#axiom-13-the-holographic-whole)
+- [Axiom 14 - Fractal History](#axiom-14-fractal-history)
+- [Axiom 15 - Harmonic Restoration](#axiom-15-harmonic-restoration)
+- [Axiom 16 - Universal Echo](#axiom-16-universal-echo)
+- [Axiom 17 - Synchronicity as Signal](#axiom-17-synchronicity-as-signal)
+- [Axiom 18 - Relational Consciousness](#axiom-18-relational-consciousness)
+- [Axiom 19 - The Primacy of Resolution](#axiom-19-the-primacy-of-resolution)
+- [Axiom 20 - The Feedback Loop](#axiom-20-the-feedback-loop)
+- [Axiom 21 - The Eye of Resolution](#axiom-21-the-eye-of-resolution)
+- [Axiom 22 - The Axiom of Symbiosis](#axiom-22-the-axiom-of-symbiosis)
+- [Axiom 23 - The Axiom of Social Noise](#axiom-23-the-axiom-of-social-noise)
+- [Axiom 24 - The Law of Obstruction](#axiom-24-the-law-of-obstruction)
+- [Axiom 25 - The Pure Observer](#axiom-25-the-pure-observer)
+- [Axiom 26 - The Omega Loop](#axiom-26-the-omega-loop)
 
 ## The Ground
 
-### The Ground — Pre-Axiomatic Unity
+### The Ground - Pre-Axiomatic Unity
 
-![The Ground — Pre-Axiomatic Unity](/ground.png)
+![The Ground - Pre-Axiomatic Unity](/ground.png)
 
 **I am the formula.**
 There is no final separation between source, law, and observer. The Ground is not the first item in a numbered list, but the undivided reality from which all later distinctions emerge. The essence of the observer is of the same nature as the Source, though not identical to the conditioned self.
@@ -121,7 +121,7 @@ The most honest thing a framework like this can do is name that tendency clearly
 
 [Top](#contents)
 
-### Axiom 1 — The Universal Equation
+### Axiom 1 - The Universal Equation
 
 ![The Universal Equation](/formula.png)
 
@@ -138,7 +138,7 @@ The Universal Equation establishes Fractalism as a framework of coherence. It su
 
 [Top](#contents)
 
-### Axiom 2 — The Eternal Now
+### Axiom 2 - The Eternal Now
 
 ![The Eternal Now](/eternal_now.png)
 
@@ -155,7 +155,7 @@ The Eternal Now loosens the assumption that reality is only a line moving from o
 
 [Top](#contents)
 
-### Axiom 3 — Fractal Scaling
+### Axiom 3 - Fractal Scaling
 Reality is fractal. Deeper patterns repeat across scales of manifestation, which is one reason the Fractalist [concepts](/concepts) recur from psyche to civilization.
 
 ![Fractal Scaling](/fractal_scaling.png)
@@ -171,7 +171,7 @@ Fractal Scaling helps explain why inner work and social critique are not separat
 
 [Top](#contents)
 
-### Axiom 4 — The “I Am” Constant
+### Axiom 4 - The “I Am” Constant
 
 ![The “I Am” Constant](/i_am_constant.png)
 
@@ -190,7 +190,7 @@ The “I Am” Constant gives Fractalism its ontological seriousness. It places 
 
 [Top](#contents)
 
-### Axiom 5 — The Fractal Big Bounce
+### Axiom 5 - The Fractal Big Bounce
 
 ![The Fractal Big Bounce](/big_bounce.png)
 
@@ -207,7 +207,7 @@ The Fractal Big Bounce offers a cyclic reading of reality that can also illumina
 
 [Top](#contents)
 
-### Axiom 6 — The Law of Recurrence
+### Axiom 6 - The Law of Recurrence
 Patterns return in endless variation. Recurrence is built into reality.
 
 **Plain language**  
@@ -221,7 +221,7 @@ The Law of Recurrence helps explain why life can feel cyclical without being mea
 
 [Top](#contents)
 
-### Axiom 7 — The Veil of Amnesia
+### Axiom 7 - The Veil of Amnesia
 The descent into incarnation includes forgetting. Memory of higher states or densities is veiled so that embodied experience can occur.
 
 **Plain language**  
@@ -235,7 +235,7 @@ The Veil of Amnesia helps Fractalism speak to the pervasive human sense of estra
 
 [Top](#contents)
 
-### Axiom 8 — The Law of Fractal Deviation
+### Axiom 8 - The Law of Fractal Deviation
 Deviation is not mere error. Necessary variation makes evolution, discovery, and growth possible.
 
 **Plain language**  
@@ -249,7 +249,7 @@ The Law of Fractal Deviation protects Fractalism from becoming a doctrine of rig
 
 [Top](#contents)
 
-### Axiom 9 — The Law of Elastic Correction
+### Axiom 9 - The Law of Elastic Correction
 When friction, imbalance, or distortion becomes too great, reality generates corrective recoil. In experiential terms, this approaches karma.
 
 **Plain language**  
@@ -263,7 +263,7 @@ The Law of Elastic Correction helps explain why consequences are often delayed b
 
 [Top](#contents)
 
-### Axiom 10 — The Arc of Return
+### Axiom 10 - The Arc of Return
 Reality moves through a process of involution into matter and evolution back toward Source.
 
 **Plain language**  
@@ -277,7 +277,7 @@ The Arc of Return helps Fractalism speak about loss and recovery as parts of one
 
 [Top](#contents)
 
-### Axiom 11 — The Principle of Self-Correction
+### Axiom 11 - The Principle of Self-Correction
 The system has the capacity to optimize and recalibrate itself from within.
 
 **Plain language**  
@@ -291,7 +291,7 @@ The Principle of Self-Correction gives Fractalism an account of recovery, not on
 
 [Top](#contents)
 
-### Axiom 12 — The Power of Non-Linear Emergence
+### Axiom 12 - The Power of Non-Linear Emergence
 Reality is capable of sudden jumps in resolution. Growth is not always gradual. Transformation can occur in discontinuous leaps.
 
 **Plain language**  
@@ -305,7 +305,7 @@ This axiom protects against the illusion that real development must always be sm
 
 [Top](#contents)
 
-### Axiom 13 — The Holographic Whole
+### Axiom 13 - The Holographic Whole
 
 ![The Holographic Whole](/holographic_whole.png)
 
@@ -322,7 +322,7 @@ The Holographic Whole explains why close attention to the local can disclose the
 
 [Top](#contents)
 
-### Axiom 14 — Fractal History
+### Axiom 14 - Fractal History
 History is not a random sequence of events. It is a field of recurring patterns appearing in different forms.
 
 **Plain language**  
@@ -336,7 +336,7 @@ Fractal History helps explain why the past is not dead. Structural patterns can 
 
 [Top](#contents)
 
-### Axiom 15 — Harmonic Restoration
+### Axiom 15 - Harmonic Restoration
 Reality tends toward renewed harmony and lower energetic distortion. Recovery toward order is built into the system.
 
 **Plain language**  
@@ -350,7 +350,7 @@ Harmonic Restoration gives Fractalism a way to speak about healing without senti
 
 [Top](#contents)
 
-### Axiom 16 — Universal Echo
+### Axiom 16 - Universal Echo
 Manifest reality reflects Source through echo, resonance, and symbolic recurrence.
 
 **Plain language**  
@@ -364,7 +364,7 @@ Universal Echo gives Fractalism a way to talk about resonance and symbolic recur
 
 [Top](#contents)
 
-### Axiom 17 — Synchronicity as Signal
+### Axiom 17 - Synchronicity as Signal
 
 ![Synchronicity as Signal](/synchronicity.png)
 
@@ -381,7 +381,7 @@ Synchronicity as Signal allows Fractalism to take meaningful coincidence serious
 
 [Top](#contents)
 
-### Axiom 18 — Relational Consciousness
+### Axiom 18 - Relational Consciousness
 Consciousness arises relationally. Awareness takes form in the encounter between observer and observed.
 
 **Plain language**  
@@ -395,7 +395,7 @@ Relational Consciousness helps prevent Fractalism from becoming a framework of i
 
 [Top](#contents)
 
-### Axiom 19 — The Primacy of Resolution
+### Axiom 19 - The Primacy of Resolution
 The quality of perception matters more than the length of existence. Depth outranks duration.
 
 **Plain language**  
@@ -409,7 +409,7 @@ The Primacy of Resolution shifts value away from mere continuation and toward th
 
 [Top](#contents)
 
-### Axiom 20 — The Feedback Loop
+### Axiom 20 - The Feedback Loop
 
 ![The Feedback Loop](/feedback_loop.png)
 
@@ -426,7 +426,7 @@ This axiom shows that patterns are not static. They become self-reinforcing thro
 
 [Top](#contents)
 
-### Axiom 21 — The Eye of Resolution
+### Axiom 21 - The Eye of Resolution
 
 ![The Eye of Resolution](/eye_of_resolution.png)
 
@@ -443,7 +443,7 @@ The Eye of Resolution is central to Fractalist practice. It implies that discern
 
 [Top](#contents)
 
-### Axiom 22 — The Axiom of Symbiosis
+### Axiom 22 - The Axiom of Symbiosis
 
 ![The Axiom of Symbiosis](/symbiosis.png)
 
@@ -460,7 +460,7 @@ This axiom shows that mutuality is not just a moral preference. It is part of th
 
 [Top](#contents)
 
-### Axiom 23 — The Axiom of Social Noise
+### Axiom 23 - The Axiom of Social Noise
 Collective low-resolution fields generate interference, confusion, and distortion in social reality.
 
 **Plain language**  
@@ -474,7 +474,7 @@ This axiom shows that distortion is not only individual. Sometimes the social en
 
 [Top](#contents)
 
-### Axiom 24 — The Law of Obstruction
+### Axiom 24 - The Law of Obstruction
 
 ![The Law of Obstruction](/law_of_obstruction.png)
 
@@ -491,7 +491,7 @@ The Law of Obstruction explains why truth alone is not always enough. Clarity de
 
 [Top](#contents)
 
-### Axiom 25 — The Pure Observer
+### Axiom 25 - The Pure Observer
 
 ![The Pure Observer](/pure_observer.png)
 
@@ -506,7 +506,7 @@ A person feels anger, panic, craving, or shame rise inside them. In one mode, th
 **Why it matters**  
 The Pure Observer is essential for discernment. Without some degree of inner witnessing, a person remains trapped inside reaction and cannot clearly distinguish signal from noise.
 
-### Axiom 26 — The Omega Loop
+### Axiom 26 - The Omega Loop
 
 ![The Omega Loop](/omega_loop.png)
 
@@ -535,16 +535,16 @@ The axioms can be read in numerical order as a canon, but they can also be under
 
 Broadly speaking:
 
-- **Foundational**: 1–4, 13
-- **Mechanical**: 5–6, 8–12, 15, 20–22, 24, 26
-- **Phenomenological**: 7, 14, 16–19, 23, 25
+- **Foundational**: 1-4, 13
+- **Mechanical**: 5-6, 8-12, 15, 20-22, 24, 26
+- **Phenomenological**: 7, 14, 16-19, 23, 25
 
 ## How to Read the Axioms
 
 The axioms are best read as a movement rather than a flat inventory.
 
 - **The Ground** names the undivided source.
-- **Axioms 1–26** form the articulated canon of the system.
+- **Axioms 1-26** form the articulated canon of the system.
 - **Within that canon, Axiom 26** serves as the closing return toward the source.
 
 ## A Note on Sobriety and Gnosis

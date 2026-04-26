@@ -11,7 +11,7 @@ The modern mind is often trained to treat this as either delusion or coincidence
 
 Fractalism suggests a third possibility.
 
-Not that the individual ego directly causes world events in some childish omnipotent sense, but that patterns can recur across scale, and that changes in how one participates in a pattern can alter how that pattern is perceived, reinforced, or resisted in the domains immediately around them. That claim sits close to the Fractalist [axioms](/axioms#axiom-3--fractal-scaling).
+Not that the individual ego directly causes world events in some childish omnipotent sense, but that patterns can recur across scale, and that changes in how one participates in a pattern can alter how that pattern is perceived, reinforced, or resisted in the domains immediately around them. That claim sits close to the Fractalist [axioms](/axioms#axiom-3-fractal-scaling).
 
 This is what "as above, so below" means when stripped of mystification and returned to structural seriousness.
 

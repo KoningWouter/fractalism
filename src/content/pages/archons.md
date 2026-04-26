@@ -40,10 +40,10 @@ The concept is only useful if it sharpens observation without collapsing into su
 
 The intelligence that Archons exercise is recognizable by its qualities. It is:
 
-- **Classificatory** — it sorts, ranks, profiles, and assigns value to things based on their utility to the system
-- **Predictive** — it models behavior to anticipate and preempt deviation
-- **Interventive** — it does not observe passively but acts to maintain the conditions it was built to maintain
-- **Totalizing** — it aims for leesbaarheid: the readable condition in which nothing falls outside the grid
+- **Classificatory** - it sorts, ranks, profiles, and assigns value to things based on their utility to the system
+- **Predictive** - it models behavior to anticipate and preempt deviation
+- **Interventive** - it does not observe passively but acts to maintain the conditions it was built to maintain
+- **Totalizing** - it aims for leesbaarheid: the readable condition in which nothing falls outside the grid
 
 This is what Archontic intelligence wants: the world made legible so that it can be managed. The goal is not loving alignment with what is real. The goal is control.
 

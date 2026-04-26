@@ -10,7 +10,7 @@ Every article is the result of decisions: which expert to call, which facts to i
 
 This page does not argue that media is corrupt or that journalists are bad. It offers a lens for reading what is there, and for noticing what is not.
 
-*Source article: [Werken moet lonen, maar daar komt in de praktijk weinig van terecht](https://www.nu.nl/economie/6392665/werken-moet-lonen-maar-daar-komt-in-de-praktijk-weinig-van-terecht.html) — NU.nl, April 2026*
+*Source article: [Werken moet lonen, maar daar komt in de praktijk weinig van terecht](https://www.nu.nl/economie/6392665/werken-moet-lonen-maar-daar-komt-in-de-praktijk-weinig-van-terecht.html) - NU.nl, April 2026*
 
 ## What journalism actually does
 
