@@ -24,13 +24,13 @@ const currentPath = Astro.url.pathname;
 	<div class="markdown-shell">
 		<slot />
 
-		<hr>
+		<hr style="border: none; border-top: 1px solid var(--border); margin: 4rem 0 2rem;">
 
 		<div id="fractal-graph-container" 
              data-current-path={currentPath} 
              data-page-title={title}
-             style="width: 100%; height: 400px; background: #fefcf9; position: relative; overflow: hidden; border: 1px solid #eee; border-radius: 8px; margin-top: 2rem;">
-    <svg id="fractal-graph"></svg>
+             style="width: 100%; height: 400px; position: relative; overflow: hidden; margin-top: 2rem; mask-image: linear-gradient(to bottom, transparent, black 15%, black 85%, transparent); -webkit-mask-image: linear-gradient(to bottom, transparent, black 15%, black 85%, transparent);">
+    <svg id="fractal-graph" style="width: 100%; height: 100%;"></svg>
 </div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
@@ -38,29 +38,19 @@ const currentPath = Astro.url.pathname;
     const fractalData = {
         nodes: [
             { id: "Fractalism", label: "Fractalism", url: "/", group: "core", size: 9 },
-            
-            // Hubs
             { id: "Essays", label: "Essays", url: "/essays", group: "hub", size: 7 },
             { id: "Axioms", label: "Axioms", url: "/axioms", group: "hub", size: 6 },
             { id: "Network", label: "Network", url: "/nostr", group: "hub", size: 6 },
-            
-            // Foundations
             { id: "Introduction", label: "Introduction", url: "/introduction", group: "foundations", size: 5 },
             { id: "Truth", label: "Truth", url: "/truth", group: "foundations", size: 5 },
             { id: "Attention", label: "Attention Loops", url: "/attention-loops", group: "foundations", size: 5 },
             { id: "Void", label: "The Void", url: "/the-void", group: "foundations", size: 5 },
-            
-            // The Source
             { id: "Source", label: "The Source", url: "/the-source", group: "source", size: 6 },
             { id: "Vril", label: "Vril", url: "/vril", group: "source", size: 4 },
             { id: "Diamond", label: "Diamond Soul", url: "/diamond-soul", group: "source", size: 4 },
-            
-            // The Demiurge
             { id: "Demiurge", label: "The Demiurge", url: "/the-demiurge", group: "demiurge", size: 6 },
             { id: "Loosh", label: "Loosh", url: "/loosh", group: "demiurge", size: 4 },
             { id: "Archons", label: "Archons", url: "/archons", group: "demiurge", size: 4 },
-            
-            // Practice
             { id: "Team3", label: "Team 3", url: "/team-3-architecture", group: "practice", size: 5 },
             { id: "Gnosis", label: "Liquid Gnosis", url: "/liquid-gnosis-method", group: "practice", size: 5 },
             { id: "Sobriety", label: "Sobriety", url: "/sobriety", group: "practice", size: 4 }
@@ -73,19 +63,15 @@ const currentPath = Astro.url.pathname;
             { source: "Fractalism", target: "Essays" },
             { source: "Fractalism", target: "Axioms" },
             { source: "Fractalism", target: "Network" },
-            
             { source: "Introduction", target: "Truth" },
             { source: "Introduction", target: "Attention" },
             { source: "Attention", target: "Void" },
-            
             { source: "Source", target: "Vril" },
             { source: "Source", target: "Diamond" },
             { source: "Source", target: "Void" },
-            
             { source: "Demiurge", target: "Loosh" },
             { source: "Demiurge", target: "Archons" },
             { source: "Demiurge", target: "Attention" },
-            
             { source: "Team3", target: "Gnosis" },
             { source: "Gnosis", target: "Void" },
             { source: "Team3", target: "Sobriety" }
@@ -97,18 +83,25 @@ const currentPath = Astro.url.pathname;
     const rawPath = container.attr("data-current-path") || "/";
     const currentPath = rawPath.endsWith('/') && rawPath.length > 1 ? rawPath.slice(0, -1) : rawPath;
     const svg = d3.select("#fractal-graph");
-    
-    const accentColor = "#d4af37"; // Gnosis Gold
-    const baseLinkColor = "#eeeeee";
-    const baseNodeColor = "#333333";
-    const labelColor = "#888888";
+
+    function getThemeColors() {
+        const style = getComputedStyle(document.body);
+        return {
+            accent: style.getPropertyValue('--accent').trim(),
+            text: style.getPropertyValue('--text').trim(),
+            muted: style.getPropertyValue('--text-muted').trim(),
+            border: style.getPropertyValue('--border').trim(),
+            nodeBase: style.getPropertyValue('--text-soft').trim() || '#888'
+        };
+    }
+
+    let colors = getThemeColors();
 
     function updateGraph() {
         const width = container.node().clientWidth;
         const height = container.node().clientHeight;
         svg.attr("width", width).attr("height", height);
 
-        // DYNAMIC INJECTION: If current page is missing from graph, add it
         let activeNode = fractalData.nodes.find(n => n.url === currentPath);
         
         if (!activeNode && currentPath !== "/") {
@@ -119,16 +112,16 @@ const currentPath = Astro.url.pathname;
                 group: "dynamic", 
                 size: 5 
             };
-            fractalData.nodes.push(activeNode);
-            
-            // Smart link logic
-            let parentHub = "Fractalism";
-            if (window.location.pathname.startsWith('/essays/')) parentHub = "Essays";
-            else if (window.location.pathname.includes('agency') || window.location.pathname.includes('trap')) parentHub = "Essays";
-            
-            fractalData.links.push({ source: parentHub, target: pageTitle });
+            if (!fractalData.nodes.some(n => n.id === pageTitle)) {
+                fractalData.nodes.push(activeNode);
+                let parentHub = "Fractalism";
+                if (window.location.pathname.startsWith('/essays/')) parentHub = "Essays";
+                fractalData.links.push({ source: parentHub, target: pageTitle });
+            } else {
+                activeNode = fractalData.nodes.find(n => n.id === pageTitle);
+            }
         } else if (!activeNode) {
-            activeNode = fractalData.nodes[0]; // Fallback to Fractalism node
+            activeNode = fractalData.nodes[0];
         }
 
         const simulation = d3.forceSimulation(fractalData.nodes)
@@ -137,7 +130,6 @@ const currentPath = Astro.url.pathname;
             .force("center", d3.forceCenter(width / 2, height / 2))
             .force("collision", d3.forceCollide().radius(50));
 
-        // Pin active node to center
         activeNode.fx = width / 2;
         activeNode.fy = height / 2;
 
@@ -147,7 +139,8 @@ const currentPath = Astro.url.pathname;
             .selectAll("line")
             .data(fractalData.links)
             .join("line")
-            .attr("stroke", baseLinkColor)
+            .attr("stroke", colors.border)
+            .attr("stroke-opacity", 0.4)
             .attr("stroke-width", 1);
 
         const node = svg.append("g")
@@ -155,10 +148,7 @@ const currentPath = Astro.url.pathname;
             .data(fractalData.nodes)
             .join("circle")
             .attr("r", d => (d === activeNode ? d.size + 2 : d.size))
-            .attr("fill", d => (d === activeNode ? accentColor : baseNodeColor))
-            .attr("stroke", d => (d === activeNode ? accentColor : "none"))
-            .attr("stroke-width", 4)
-            .attr("stroke-opacity", 0.2)
+            .attr("fill", d => (d === activeNode ? colors.accent : colors.nodeBase))
             .attr("cursor", "pointer")
             .call(drag(simulation));
 
@@ -169,24 +159,25 @@ const currentPath = Astro.url.pathname;
             .text(d => d.label)
             .attr("font-size", d => (d === activeNode ? "13px" : "11px"))
             .attr("font-weight", d => (d === activeNode ? "600" : "400"))
-            .attr("font-family", "'Inter', sans-serif")
-            .attr("fill", d => (d === activeNode ? "#111" : labelColor))
+            .attr("font-family", "var(--font-sans)")
+            .attr("fill", d => (d === activeNode ? colors.text : colors.muted))
             .attr("dx", 14)
             .attr("dy", 4)
             .attr("cursor", "pointer")
             .style("pointer-events", "none");
 
         node.on("mouseover", (event, d) => {
-            node.transition().duration(420).attr("fill", n => (n === d || n === activeNode || isConnected(d, n) ? accentColor : "#ddd"));
-            label.transition().duration(420).attr("fill", n => (n === d || n === activeNode || isConnected(d, n) ? "#111" : "#bbb"));
+            node.transition().duration(420).attr("fill", n => (n === d || n === activeNode || isConnected(d, n) ? colors.accent : colors.border));
+            label.transition().duration(420).attr("fill", n => (n === d || n === activeNode || isConnected(d, n) ? colors.text : colors.muted));
             link.transition().duration(420)
-                .attr("stroke", l => (l.source.id === d.id || l.target.id === d.id || l.source.id === activeNode.id || l.target.id === activeNode.id ? accentColor : baseLinkColor))
+                .attr("stroke", l => (l.source.id === d.id || l.target.id === d.id || l.source.id === activeNode.id || l.target.id === activeNode.id ? colors.accent : colors.border))
+                .attr("stroke-opacity", l => (l.source.id === d.id || l.target.id === d.id || l.source.id === activeNode.id || l.target.id === activeNode.id ? 1 : 0.4))
                 .attr("stroke-width", l => (l.source.id === d.id || l.target.id === d.id ? 2 : 1));
         })
         .on("mouseout", () => {
-            node.transition().duration(420).attr("fill", d => (d === activeNode ? accentColor : baseNodeColor));
-            label.transition().duration(420).attr("fill", d => (d === activeNode ? "#111" : labelColor));
-            link.transition().duration(420).attr("stroke", baseLinkColor).attr("stroke-width", 1);
+            node.transition().duration(420).attr("fill", d => (d === activeNode ? colors.accent : colors.nodeBase));
+            label.transition().duration(420).attr("fill", d => (d === activeNode ? colors.text : colors.muted));
+            link.transition().duration(420).attr("stroke", colors.border).attr("stroke-opacity", 0.4).attr("stroke-width", 1);
         })
         .on("click", (event, d) => {
             if (d.url !== currentPath) window.location.href = d.url;
@@ -229,6 +220,13 @@ const currentPath = Astro.url.pathname;
                 }
             });
     }
+
+    // Handle theme change
+    const observer = new MutationObserver(() => {
+        colors = getThemeColors();
+        updateGraph();
+    });
+    observer.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
 
     window.addEventListener("resize", updateGraph);
     updateGraph();
