@@ -18,17 +18,17 @@ const RELAYS = [
 	'wss://nostr.mom',
 ];
 
-const FORUM_HASHTAG = 'Oubliette';
+const FORUM_HASHTAGS = ['Oubliette', 'oubliette', 'Obliette', 'obliette', 'Fractalism', 'fractalism'];
 
 export async function getForumPosts(limit = 20): Promise<ForumPost[]> {
-	console.log('Fetching forum posts for #Oubliette...');
+	console.log('Fetching forum posts...');
 	const pool = new SimplePool();
 	
 	try {
-		// Reverting to querySync as it was working before, but with higher limit
+		// Searching for multiple relevant hashtags to capture the signal
 		const events = await pool.querySync(RELAYS, {
 			kinds: [1],
-			'#t': [FORUM_HASHTAG, FORUM_HASHTAG.toLowerCase()],
+			'#t': FORUM_HASHTAGS,
 			limit: 100,
 		});
 		
