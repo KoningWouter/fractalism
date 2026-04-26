@@ -1,9 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=JetBrains+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
 
 :root {
 	color-scheme: dark;
+	--font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+	--font-serif: 'Lora', Georgia, serif;
 	--bg: #0d1117;
-	--bg-soft: #121923;
+
 	--panel: #141c27;
 	--panel-strong: #182231;
 	--border: rgba(204, 216, 232, 0.12);
@@ -67,12 +69,12 @@ body {
 	overflow-x: hidden;
 	background:
 		radial-gradient(circle at top, var(--gold-glow), transparent 34%),
-		radial-gradient(circle at 80% 20%, var(--rose-glow), transparent 30%),
+	radial-gradient(circle at 80% 20%, var(--rose-glow), transparent 30%),
 		linear-gradient(180deg, color-mix(in srgb, var(--bg) 90%, black) 0%, var(--bg) 46%, color-mix(in srgb, var(--bg) 94%, black) 100%);
 	color: var(--text);
-	font-family: 'Inter', system-ui, -apple-system, sans-serif;
-	line-height: 1.6;
-	letter-spacing: -0.011em;
+	font-family: var(--font-sans);
+	line-height: 1.7;
+
 	transition: background-color 320ms ease, color 320ms ease, background 420ms ease;
 }
 
@@ -451,13 +453,35 @@ body.lightbox-open {
 h1,
 h2,
 h3,
+h1,
+h2,
+h3,
 h4,
 h5,
 h6 {
 	margin: 0;
-	font-weight: 500;
-	letter-spacing: -0.02em;
-	line-height: 1.05;
+	font-family: var(--font-sans);
+	font-weight: 600;
+	letter-spacing: -0.025em;
+	line-height: 1.1;
+	color: var(--text);
+}
+
+.markdown-shell {
+	font-family: var(--font-serif);
+	font-size: 1.125rem;
+	line-height: 1.8;
+}
+
+.markdown-shell h1,
+.markdown-shell h2,
+.markdown-shell h3 {
+	margin-top: 2.5rem;
+	margin-bottom: 1rem;
+}
+
+.markdown-shell p {
+	margin-bottom: 1.5rem;
 }
 
 h1 {
