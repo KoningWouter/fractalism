@@ -70,10 +70,21 @@ body {
 		radial-gradient(circle at 80% 20%, var(--rose-glow), transparent 30%),
 		linear-gradient(180deg, color-mix(in srgb, var(--bg) 90%, black) 0%, var(--bg) 46%, color-mix(in srgb, var(--bg) 94%, black) 100%);
 	color: var(--text);
+	font-family: 'Inter', system-ui, -apple-system, sans-serif;
+	line-height: 1.6;
+	letter-spacing: -0.011em;
+	transition: background-color 320ms ease, color 320ms ease, background 420ms ease;
+}
+
+.markdown-shell,
+.prose-block,
+.hero__subtitle,
+.section-copy,
+.theme-card p,
+.dispatch-card p {
 	font-family: 'Lora', Georgia, serif;
 	line-height: 1.7;
 	letter-spacing: 0.01em;
-	transition: background-color 320ms ease, color 320ms ease, background 420ms ease;
 }
 
 body::before {
@@ -432,24 +443,10 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Inter', system-ui, -apple-system, sans-serif;
 	margin: 0;
 	font-weight: 500;
 	letter-spacing: -0.02em;
 	line-height: 1.05;
-}
-
-.site-brand,
-.site-nav__link,
-.site-nav__summary,
-.site-nav__dropdown-link,
-.site-nav__toggle-label,
-.button-link,
-.eyebrow,
-.dispatch-card__meta,
-.cite-block__label,
-.theme-toggle__label {
-	font-family: 'Inter', system-ui, -apple-system, sans-serif;
 }
 
 h1 {
