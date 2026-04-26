@@ -1,93 +1,62 @@
 ---
 title: The Architecture of Reality
-description: "Patterns repeat in thoughts, habits, relationships, and systems. Fractalism is a way of noticing them earlier."
+description: "Fractalism is a system for recognizing patterns before they decide your life for you. Stop the extraction, start the operation."
 ---
 
 ![The Architecture of Reality](/hero.png)
 
-## Patterns repeat.
+## Your patterns are deciding your life.
 
-In your thoughts.
-In your habits.
-In your relationships.
-In the systems around you.
+Fractalism is a besturingssysteem for your attention. It provides the architecture to recognize patterns in your thoughts, habits, and the systems around you before they harden into reflexes.
 
-Fractalism begins with a simple observation:
-**much of what shapes a life is not random. It repeats.**
+Most human experience is a 480p simulation—a loop of harvested attention and managed confusion. Fractalism is the practice of increasing the resolution to 4K.
 
-Some patterns make a person clearer, steadier, and more honest.
-Others pull attention outward, distort judgment, and quietly divide a life against itself.
+**The goal is not to "improve" the simulation. The goal is the integrity required to exit the loop.**
 
-The work is to notice the difference earlier.
+## The Path of Attention (Start Here)
 
-Fractalism is not psychology, not religion, and not a political theory. It is a way of seeing how patterns repeat across inner life, relationships, systems, and power, and how [truth](/truth), [distortion](/concepts#distortion), and correction move through all of them at once.
+If you are new to the system, follow the linear path. Do not skip steps.
 
-## A first step
+1. **[Step 1: The Observation (Introduction)](/introduction)** - Why you are not free if you cannot see the repetition.
+2. **[Step 2: The Resource (Attention)](/attention-as-a-resource)** - How your most vital energy is being systematically harvested.
+3. **[Step 3: The Obstacle (Distortion)](/the-demiurge)** - Recognizing the "Demiurge": the structural logic of the cage.
+4. **[Step 4: The Agency (Practice)](/team-3-architecture)** - How to use Team 3 and Gnosis to take back your sovereignty.
 
-Not everything that creates friction is a warning. Sometimes friction means something is wrong. Sometimes it means an old pattern is losing its grip.
+---
 
-If you want to feel what Fractalism offers before you read further, begin there. The next time you notice friction, pause before you explain it away. Ask what kind of friction this is.
+## Reading Routes (Non-Linear)
 
-Fractalism is not mainly a body of knowledge.
-It is a way of seeing these patterns sooner, so they do not keep deciding your life for you.
+If you are already operating, choose your depth:
 
-## Reading Routes
+### Foundations (Mechanics)
 
-### Start Here
+*   [The Source (Reality)](/the-source)
+*   [The Demiurge (Distortion)](/the-demiurge)
+*   [The Void](/the-void)
+*   [Attention Loops](/attention-loops)
+*   [Truth](/truth)
 
-A first orientation to what Fractalism is, how it should be read, and where it can go wrong.
+### Practice (Operations)
 
-1. [Introduction](/introduction)
-2. [How to Read Fractalism](/how-to-read-fractalism)
-3. [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong)
-4. [Truth](/truth)
-5. [Friction as Signal](/friction-as-signal)
+*   [Team 3 Method](/team-3-architecture)
+*   [Liquid Gnosis](/liquid-gnosis-method)
+*   [I Am the Formula](/i-am-the-formula)
+*   [Sobriety](/sobriety)
+*   [Epistemic Hygiene](/epistemic-hygiene)
 
-### Practical
+### Library & Network
 
-For readers who want clarity, sobriety, attention, and immediately usable distinctions.
+*   [Essays](/essays)
+*   [Axioms](/axioms)
+*   [Nostr: The Escape Route](/nostr)
+*   [Community/Discord](/community)
 
-1. [I Am the Formula](/i-am-the-formula)
-2. [The Void](/the-void)
-3. [Friction as Signal](/friction-as-signal)
-4. [Living Fractalism](/living-fractalism)
-5. [Sobriety](/sobriety)
-6. [What You Can Concretely Do in the Void](/what-you-can-concretely-do-in-the-void)
-7. [Nostr: The Escape Route](/nostr)
-
-### Core Architecture
-
-For readers who want the framework itself: its concepts, structure, and inner logic.
-
-1. [Introduction](/introduction)
-2. [Concepts](/concepts)
-3. [The Structure of Fractalism](/the-structure-of-fractalism)
-4. [Attention as a Resource](/attention-as-a-resource)
-5. [Community](/community)
-
-### Exploratory
-
-For the higher and more speculative range of Fractalism. Best read after the grounding pages are in place.
-
-1. [The Void](/the-void)
-2. [The Source](/the-source)
-3. [The Source in You](/the-source-in-you)
-4. [Vril](/vril)
-5. [Diamond Soul](/diamond-soul)
-6. [Loosh](/loosh)
-7. [The Demiurge](/the-demiurge)
-8. [Archons](/archons)
-9. [Black Diamond Soul](/black-diamond-soul)
-
-### Essays
-
-If you want longer writings, go to [Essays](/essays).
-
-The [Essays](/essays) page now gathers a growing library of longer Fractalist writings on attention, power, consciousness, truth, correction, and lived practice.
+---
 
 ## Closing
 
-Fractalism is not offered as a finished doctrine.
-It has to keep showing itself in lived experience.
+Fractalism is not a doctrine to be believed. It is an apparatus to be used. 
 
 If it helps you see more clearly, notice distortion earlier, and choose with less inner division, then it is doing real work.
+
+**Respect the rhythm. Stay sovereign.**

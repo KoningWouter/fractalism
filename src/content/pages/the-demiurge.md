@@ -93,6 +93,15 @@ But there is a psychological caution here that must be named. The narrative of t
 
 A prison is more useful with prisoners than with corpses. The goal is not to defeat the prison. The goal is to walk out by no longer being the kind of thing the prison holds.
 
+---
+
+### Next Step in the Funnel
+
+Seeing the distortion is the beginning. Operating within it requires a concrete method of discernment.
+
+**[Step 4: Practice the Team 3 Method](/team-3-architecture) →**
+
+
 ## Questions That Keep the Concept Honest
 
 The Demiurge remains useful only if it sharpens discernment rather than replacing it.

@@ -22,13 +22,15 @@ The central friction is precise:
 **What is required:**  
 Not belief. Not loyalty. Only the willingness to increase the resolution. If you are here for spiritual entertainment, you will find the coldness of the Void unbearable. If you are here to operate, you have arrived.
 
-**The Path to Depth:**
+---
 
-1. [Gnosis](/gnosis) - Distinguishing what clarifies from what only fascinates.
-2. [The Void](/the-void) - The interval between stimulus and reflex.
-3. [The Technical Logic of Gnosis](/the-technical-logic-of-gnosis) - Why the tools of sovereignty matter.
-4. [Friction as Signal](/friction-as-signal) - Reading the data of discomfort.
+### Next Step in the Funnel
+
+Fractalism begins with the realization that your most vital resource is being systematically harvested.
+
+**[Step 2: Understanding Attention as a Resource](/attention-as-a-resource) →**
 
 ---
 
 *Fractalism is an attempt to read reality more carefully. It does not offer a final answer. It offers a way of paying closer attention. And sometimes that is where a different quality of life becomes possible.*
+

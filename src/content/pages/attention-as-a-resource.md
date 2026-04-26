@@ -75,3 +75,11 @@ The [Void](/the-void), as [Fractalism](/the-structure-of-fractalism) describes i
 The [Void](/the-void) is not a solution to this problem. No individual practice can counter systemic attention capture. But it is a place where the pattern can be seen clearly enough to make choices about it. Not to escape the system, but to stop pretending it is not there.
 
 That is why these two essays belong together. Attention as a resource describes the capture layer. The Void and Palantir describes the prediction layer. A third essay on [Why Your Music Knows What You Want Before You Do](/why-your-music-knows-what-you-want-before-you-do) applies the same analysis to music recommendation.
+
+---
+
+### Next Step in the Funnel
+
+Once you understand how your attention is harvested, you must see the architect behind the capture.
+
+**[Step 3: Recognizing The Demiurge (Distortion)](/the-demiurge) →**
