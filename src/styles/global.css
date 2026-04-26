@@ -35,21 +35,21 @@
 
 :root[data-theme='light'] {
 	color-scheme: light;
-	--bg: #fdfaf3;
-	--bg-soft: #f8f5ee;
-	--panel: rgba(255, 253, 250, 0.88);
-	--panel-strong: rgba(255, 254, 252, 0.96);
+	--bg: #fefcf9;
+	--bg-soft: #f9f7f2;
+	--panel: rgba(255, 255, 255, 0.98);
+	--panel-strong: #ffffff;
 	--border: rgba(121, 95, 48, 0.12);
 	--border-strong: rgba(121, 95, 48, 0.22);
-	--text: #1a1612;
-	--text-soft: #3d3528;
+	--text: #16130f;
+	--text-soft: #383228;
 	--text-muted: #726857;
 	--accent: #9b6f2f;
 	--accent-soft: rgba(155, 111, 47, 0.08);
 	--gold-glow: rgba(214, 181, 107, 0.12);
 	--rose-glow: rgba(191, 149, 121, 0.06);
-	--shadow: 0 18px 50px rgba(105, 82, 42, 0.06);
-	--body-top-glow: rgba(255, 255, 255, 0.4);
+	--shadow: 0 18px 50px rgba(105, 82, 42, 0.04);
+	--body-top-glow: rgba(255, 255, 255, 0.5);
 }
 
 *,
@@ -173,10 +173,10 @@ body.lightbox-open {
 }
 
 :root[data-theme='light'] .site-header__inner {
-	background: rgba(255, 253, 245, 0.92);
-	border: 1px solid rgba(155, 111, 47, 0.15);
+	background: rgba(255, 255, 255, 0.92);
+	border: 1px solid rgba(155, 111, 47, 0.12);
 	box-shadow: 
-		0 12px 30px rgba(105, 82, 42, 0.08), 
+		0 12px 30px rgba(105, 82, 42, 0.06), 
 		inset 0 1px 0 rgba(255, 255, 255, 1);
 }
 
