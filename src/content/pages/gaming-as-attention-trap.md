@@ -31,7 +31,7 @@ The tragedy of the modern world is that it feels impossible to influence. The bu
 
 In a game, the rules are clear. You have a health bar, a quest log, and a visible path to power. This is **Proxy Agency**. You feel like an **Operator**, but you are operating within a closed loop owned by a corporation. You are "leveling up" a digital avatar while your sovereign self remains in a state of atrophy. 
 
-Real **Agency** requires a causal link to the **Source**—a movement that produces a change in the quality of your actual existence. A database, by definition, cannot possess this link; it can only simulate it.
+Real **Agency** requires a causal link to the **Source**: a movement that produces a change in the quality of your actual existence. A database, by definition, cannot possess this link; it can only simulate it.
 
 The Demiurge loves gaming because it provides a safe outlet for the human urge to rebel and conquer. It is a "honey-pot" for the soul's fire, managed by Archontic developers who profit from the fact that you are an insulted variable in their equation. It is a psychological bypass that allows the prisoner to feel like a king, ensuring he never tries to pick the lock of his actual cell.
 
