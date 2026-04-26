@@ -23,6 +23,9 @@ Then start with one of these essays:
 
 ### Attention and Capture
 
+- [Proxy Agency: Gaming as the Ultimate Attention Trap](/proxy-agency)
+  On why gaming is the most refined form of attention extraction, and why the simulation of power prevents actual sovereignty.
+
 - [Attention as a Resource](/attention-as-a-resource)
   An essay on attention capture as the foundation of the modern behavioral economy.
 
