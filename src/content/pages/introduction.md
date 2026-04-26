@@ -1,63 +1,34 @@
 ---
 title: Introduction
-description: "A first orientation to Fractalism, its basic premise, its main distinctions, and the kind of attention it asks for."
+description: Escape the 480p simulation. A diagnostic entry point into the mechanics of reality, attention, and sovereign operation.
 ---
 
-![Introduction](/hero3.png)
+**Fractalism is not a belief system. It is a diagnostic apparatus.**
 
-Fractalism is not a set of beliefs. It is a map of how things relate.
+Most human experience is confined to a 480p simulation. Perception is clouded by patterns that remain invisible to the observer while dictating every movement of their life. These patterns repeat across every scale: in private habits, in addictions, in relationships, and in the predatory systems that manage the collective.
 
-The central insight is simple, but it changes everything:
+**The 4K Operator recognizes the repetition.**
 
-**Source and observer are not separate.** The Ground does not sit somewhere out there, unreachable. How you experience Source depends on the conditioned self quieting. You do not observe reality from the outside. You participate in it from inside.
+The central friction is precise:  
+**Source and Observer are not separate.** The distortion you perceive in the world is often the echo of a distortion maintained within. As long as you believe the simulation, you remain a source of **Loosh**—energy harvested by Demiurgic structures that thrive on your lack of discernment.
 
-From this single relation, several other connections follow.
+### The 4K Axioms of Entry
 
-## [Attention](/attention-as-a-resource) and reality co-create
+1.  **Attention is Currency:** What captures your attention colonizes your reality. The **Void** is the only interval where the extraction loop pauses long enough for recognition to occur.
+2.  **Friction is Signal:** Discomfort is not a bug in the system; it is the truth abrasive against the simulation.
+3.  **Sovereignty is Technical:** You are only free when you can identify a pattern *before* it hardens into a reflex.
+4.  **Escape Velocity:** The objective is not to "improve" the simulation, but to achieve the integrity required to exit the **Oubliette**.
 
-What you see is shaped by where you look. The [void](/the-void) is not empty, it is the space before choice. What fills it depends on the observer. This means reality is not fixed while you watch it. Observer and observed move together.
+**What is required:**  
+Not belief. Not loyalty. Only the willingness to increase the resolution. If you are here for spiritual entertainment, you will find the coldness of the Void unbearable. If you are here to operate, you have arrived.
 
-## Truth and [distortion](/concepts#distortion) are both movements within the Whole
+**The Path to Depth:**
 
-Distortion is not the opposite of [truth](/truth). Both happen inside the same Ground. Distortion is what occurs when a movement within the Whole claims to be the Whole itself, when a part colonizes the whole.
+1. [Gnosis](/gnosis) — Distinguishing what clarifies from what only fascinates.
+2. [The Void](/the-void) — The interval between stimulus and reflex.
+3. [The Technical Logic of Gnosis](/the-technical-logic-of-gnosis) — Why the tools of sovereignty matter.
+4. [Friction as Signal](/friction-as-signal) — Reading the data of discomfort.
 
-## Law and freedom are not opposed
+---
 
-The laws of nature are not external constraints imposed on you. Freedom is not escape from law. It is recognition that the structure of reality and the structure of your own attention are made of the same substance.
-
-## [Reciprocity and extraction](/concepts#reciprocity-and-extraction) are orientations
-
-Extraction treats others as means to an end. Reciprocity treats others as persons. These are not fixed categories for whole people, they are directions a relationship can move toward, visible over time.
-
-## The [Void](/the-void) is the interval before the loop closes
-
-Before reaction. Before scroll. Before the familiar move hardens into habit. In that small gap, before reflex takes over, the pattern can still be seen. That gap is where interruption is possible.
-
-## Reading across scales
-
-Patterns repeat across levels of reality. A distortion in a person can appear later in a relationship, an institution, a culture. A truthful orientation in one place can echo elsewhere in different form. Similar structures recur, not identically, but recognizably.
-
-## Where to go next
-
-**Try it first:** Close your eyes for thirty seconds. Notice what arises before you name it. That moment before the label, before "I am anxious" or "I am bored", is the gap where source and observer have not yet separated. Fractalism asks you to stay there a little longer.
-
-Then continue:
-
-1. [How to Read Fractalism](/how-to-read-fractalism), how to approach the framework without turning it into dogma
-2. [Truth](/truth)
-3. [Friction as Signal](/friction-as-signal)
-4. [The Void](/the-void)
-5. [Living Fractalism](/living-fractalism)
-
-If you want the vocabulary map, go to [Core Concepts](/concepts).
-If you want the project's self-critique, go to [Where Fractalism Can Be Wrong](/where-fractalism-can-be-wrong).
-
-## Closing
-
-Fractalism is an attempt to read reality more carefully.
-
-It does not offer a final answer.
-
-It offers a way of paying closer attention.
-
-And sometimes that is where a different quality of life becomes possible.
+*Fractalism is an attempt to read reality more carefully. It does not offer a final answer. It offers a way of paying closer attention. And sometimes that is where a different quality of life becomes possible.*
