@@ -33,21 +33,21 @@
 
 :root[data-theme='light'] {
 	color-scheme: light;
-	--bg: #fbf3dc;
-	--bg-soft: #f5e9c8;
-	--panel: rgba(255, 248, 229, 0.88);
-	--panel-strong: rgba(255, 250, 236, 0.96);
-	--border: rgba(121, 95, 48, 0.14);
-	--border-strong: rgba(121, 95, 48, 0.24);
-	--text: #2c2419;
-	--text-soft: #4a3e2b;
-	--text-muted: #7b6d55;
+	--bg: #fdfaf3;
+	--bg-soft: #f8f5ee;
+	--panel: rgba(255, 253, 250, 0.88);
+	--panel-strong: rgba(255, 254, 252, 0.96);
+	--border: rgba(121, 95, 48, 0.12);
+	--border-strong: rgba(121, 95, 48, 0.22);
+	--text: #1a1612;
+	--text-soft: #3d3528;
+	--text-muted: #726857;
 	--accent: #9b6f2f;
-	--accent-soft: rgba(155, 111, 47, 0.1);
-	--gold-glow: rgba(214, 181, 107, 0.14);
-	--rose-glow: rgba(191, 149, 121, 0.08);
-	--shadow: 0 18px 50px rgba(105, 82, 42, 0.08);
-	--body-top-glow: rgba(255, 255, 255, 0.24);
+	--accent-soft: rgba(155, 111, 47, 0.08);
+	--gold-glow: rgba(214, 181, 107, 0.12);
+	--rose-glow: rgba(191, 149, 121, 0.06);
+	--shadow: 0 18px 50px rgba(105, 82, 42, 0.06);
+	--body-top-glow: rgba(255, 255, 255, 0.4);
 }
 
 *,
@@ -90,9 +90,9 @@ body::before {
 
 :root[data-theme='light'] body {
 	background:
-		radial-gradient(circle at top, rgba(226, 197, 129, 0.16), transparent 28%),
-		radial-gradient(circle at 78% 18%, rgba(214, 171, 132, 0.07), transparent 24%),
-		linear-gradient(180deg, #fdf6e6 0%, #fbf3dc 46%, #f6ebca 100%);
+		radial-gradient(circle at top, rgba(226, 197, 129, 0.12), transparent 28%),
+		radial-gradient(circle at 78% 18%, rgba(214, 171, 132, 0.05), transparent 24%),
+		linear-gradient(180deg, #ffffff 0%, #fdfaf3 46%, #f9f6ef 100%);
 }
 
 a {
