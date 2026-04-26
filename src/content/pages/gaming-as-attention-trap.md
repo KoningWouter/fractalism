@@ -56,7 +56,7 @@ To those lost in the simulation: **The real world is the only game with actual s
 In the simulation, death is a "respawn." In the real world, death is the limit that gives your choices weight. 
 In the simulation, power is a stat. In the real world, power is **Sovereignty**: the ability to identify and break the patterns that hold you captive.
 
-Fractalism is the attempt to turn the "Controller" toward reality. It asks you to take the skills honed in the simulation: discernment, strategy, persistence, and pattern recognition—and apply them to the **Void** of your own existence.
+Fractalism is the attempt to turn the "Controller" toward reality. It asks you to take the skills honed in the simulation: discernment, strategy, persistence, and pattern recognition, and apply them to the **Void** of your own existence.
 
 The Hero's Journey is real, but it was never meant to be played with a controller. It is a quest for the Source, and it starts the moment you refuse the proxy.
 
