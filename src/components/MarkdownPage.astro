@@ -26,7 +26,10 @@ const currentPath = Astro.url.pathname;
 
 		<hr>
 
-		<div id="fractal-graph-container" data-current-path={currentPath} style="width: 100%; height: 400px; background: #fefcf9; position: relative; overflow: hidden; border: 1px solid #eee; border-radius: 8px; margin-top: 2rem;">
+		<div id="fractal-graph-container" 
+             data-current-path={currentPath} 
+             data-page-title={title}
+             style="width: 100%; height: 400px; background: #fefcf9; position: relative; overflow: hidden; border: 1px solid #eee; border-radius: 8px; margin-top: 2rem;">
     <svg id="fractal-graph"></svg>
 </div>
 
@@ -34,17 +37,30 @@ const currentPath = Astro.url.pathname;
 <script>
     const fractalData = {
         nodes: [
-            { id: "Fractalism", label: "Fractalism", url: "/", group: "core", size: 8 },
+            { id: "Fractalism", label: "Fractalism", url: "/", group: "core", size: 9 },
+            
+            // Hubs
+            { id: "Essays", label: "Essays", url: "/essays", group: "hub", size: 7 },
+            { id: "Axioms", label: "Axioms", url: "/axioms", group: "hub", size: 6 },
+            { id: "Network", label: "Network", url: "/nostr", group: "hub", size: 6 },
+            
+            // Foundations
             { id: "Introduction", label: "Introduction", url: "/introduction", group: "foundations", size: 5 },
             { id: "Truth", label: "Truth", url: "/truth", group: "foundations", size: 5 },
             { id: "Attention", label: "Attention Loops", url: "/attention-loops", group: "foundations", size: 5 },
             { id: "Void", label: "The Void", url: "/the-void", group: "foundations", size: 5 },
+            
+            // The Source
             { id: "Source", label: "The Source", url: "/the-source", group: "source", size: 6 },
             { id: "Vril", label: "Vril", url: "/vril", group: "source", size: 4 },
             { id: "Diamond", label: "Diamond Soul", url: "/diamond-soul", group: "source", size: 4 },
+            
+            // The Demiurge
             { id: "Demiurge", label: "The Demiurge", url: "/the-demiurge", group: "demiurge", size: 6 },
             { id: "Loosh", label: "Loosh", url: "/loosh", group: "demiurge", size: 4 },
             { id: "Archons", label: "Archons", url: "/archons", group: "demiurge", size: 4 },
+            
+            // Practice
             { id: "Team3", label: "Team 3", url: "/team-3-architecture", group: "practice", size: 5 },
             { id: "Gnosis", label: "Liquid Gnosis", url: "/liquid-gnosis-method", group: "practice", size: 5 },
             { id: "Sobriety", label: "Sobriety", url: "/sobriety", group: "practice", size: 4 }
@@ -54,15 +70,22 @@ const currentPath = Astro.url.pathname;
             { source: "Fractalism", target: "Source" },
             { source: "Fractalism", target: "Demiurge" },
             { source: "Fractalism", target: "Team3" },
+            { source: "Fractalism", target: "Essays" },
+            { source: "Fractalism", target: "Axioms" },
+            { source: "Fractalism", target: "Network" },
+            
             { source: "Introduction", target: "Truth" },
             { source: "Introduction", target: "Attention" },
             { source: "Attention", target: "Void" },
+            
             { source: "Source", target: "Vril" },
             { source: "Source", target: "Diamond" },
             { source: "Source", target: "Void" },
+            
             { source: "Demiurge", target: "Loosh" },
             { source: "Demiurge", target: "Archons" },
             { source: "Demiurge", target: "Attention" },
+            
             { source: "Team3", target: "Gnosis" },
             { source: "Gnosis", target: "Void" },
             { source: "Team3", target: "Sobriety" }
@@ -70,8 +93,9 @@ const currentPath = Astro.url.pathname;
     };
 
     const container = d3.select("#fractal-graph-container");
-    const currentPathRaw = container.attr("data-current-path") || "/";
-    const currentPath = currentPathRaw.endsWith('/') && currentPathRaw.length > 1 ? currentPathRaw.slice(0, -1) : currentPathRaw;
+    const pageTitle = container.attr("data-page-title");
+    const rawPath = container.attr("data-current-path") || "/";
+    const currentPath = rawPath.endsWith('/') && rawPath.length > 1 ? rawPath.slice(0, -1) : rawPath;
     const svg = d3.select("#fractal-graph");
     
     const accentColor = "#d4af37"; // Gnosis Gold
@@ -84,8 +108,28 @@ const currentPath = Astro.url.pathname;
         const height = container.node().clientHeight;
         svg.attr("width", width).attr("height", height);
 
-        // Find active node based on URL
-        const activeNode = fractalData.nodes.find(n => n.url === currentPath) || fractalData.nodes[0];
+        // DYNAMIC INJECTION: If current page is missing from graph, add it
+        let activeNode = fractalData.nodes.find(n => n.url === currentPath);
+        
+        if (!activeNode && currentPath !== "/") {
+            activeNode = { 
+                id: pageTitle, 
+                label: pageTitle, 
+                url: currentPath, 
+                group: "dynamic", 
+                size: 5 
+            };
+            fractalData.nodes.push(activeNode);
+            
+            // Smart link logic
+            let parentHub = "Fractalism";
+            if (window.location.pathname.startsWith('/essays/')) parentHub = "Essays";
+            else if (window.location.pathname.includes('agency') || window.location.pathname.includes('trap')) parentHub = "Essays";
+            
+            fractalData.links.push({ source: parentHub, target: pageTitle });
+        } else if (!activeNode) {
+            activeNode = fractalData.nodes[0]; // Fallback to Fractalism node
+        }
 
         const simulation = d3.forceSimulation(fractalData.nodes)
             .force("link", d3.forceLink(fractalData.links).id(d => d.id).distance(120))
