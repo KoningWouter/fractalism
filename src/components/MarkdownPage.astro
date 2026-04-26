@@ -70,7 +70,8 @@ const currentPath = Astro.url.pathname;
     };
 
     const container = d3.select("#fractal-graph-container");
-    const currentPath = container.attr("data-current-path");
+    const currentPathRaw = container.attr("data-current-path") || "/";
+    const currentPath = currentPathRaw.endsWith('/') && currentPathRaw.length > 1 ? currentPathRaw.slice(0, -1) : currentPathRaw;
     const svg = d3.select("#fractal-graph");
     
     const accentColor = "#d4af37"; // Gnosis Gold
@@ -83,8 +84,8 @@ const currentPath = Astro.url.pathname;
         const height = container.node().clientHeight;
         svg.attr("width", width).attr("height", height);
 
-        // Find current node
-        const activeNode = fractalData.nodes.find(n => n.url === currentPath || (currentPath === '/' && n.url === '/')) || fractalData.nodes[0];
+        // Find active node based on URL
+        const activeNode = fractalData.nodes.find(n => n.url === currentPath) || fractalData.nodes[0];
 
         const simulation = d3.forceSimulation(fractalData.nodes)
             .force("link", d3.forceLink(fractalData.links).id(d => d.id).distance(120))
@@ -125,7 +126,7 @@ const currentPath = Astro.url.pathname;
             .attr("font-size", d => (d === activeNode ? "13px" : "11px"))
             .attr("font-weight", d => (d === activeNode ? "600" : "400"))
             .attr("font-family", "'Inter', sans-serif")
-            .attr("fill", d => (n === activeNode ? "#111" : labelColor))
+            .attr("fill", d => (d === activeNode ? "#111" : labelColor))
             .attr("dx", 14)
             .attr("dy", 4)
             .attr("cursor", "pointer")
@@ -178,7 +179,6 @@ const currentPath = Astro.url.pathname;
             })
             .on("end", (event) => {
                 if (!event.active) simulation.alphaTarget(0);
-                // Only unfix if it's NOT the active node
                 if (event.subject.url !== currentPath) {
                     event.subject.fx = null;
                     event.subject.fy = null;
