@@ -87,6 +87,8 @@ If this symbol triggers a reaction, observe it. Is it a reaction to the symbol i
 
 If you want to reach me, you can do so at [fractalisme@proton.me](mailto:fractalisme@proton.me).
 
+**Nostr:** `npub1dh4734l2gqvh35ctpx2tlhswksayx0czk6fhkldwcuupu4xtzm4sw26l6j`
+
 Or join our Discord server: https://discord.gg/uRgFqTy2 
 
 ## Closing
