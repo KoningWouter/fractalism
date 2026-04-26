@@ -1,9 +1,14 @@
 ---
 const navItems = [
 	{ href: '/', label: 'Home' },
-	{ href: '/nostr', label: 'Nostr' },
-	{ href: '/forum', label: 'Forum' },
-	{ href: '/community', label: 'Community' },
+	{
+		label: 'Network',
+		items: [
+			{ href: '/nostr', label: 'Nostr' },
+			{ href: '/forum', label: 'Forum' },
+			{ href: '/community', label: 'Community/Discord' },
+		],
+	},
 	{
 		label: 'Start',
 		items: [
