@@ -1,5 +1,5 @@
 ---
-title: Proxy Agency — Gaming as the Ultimate Attention Trap
+title: Proxy Agency: Gaming as the Ultimate Attention Trap
 description: Why gaming is the most refined form of attention extraction, and why the simulation of power prevents actual sovereignty.
 eyebrow: Essays
 hero:
