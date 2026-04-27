@@ -7,9 +7,9 @@ description: "Fractalism is a system for recognizing patterns before they decide
 
 ## Your patterns are deciding your life.
 
-Fractalism is a besturingssysteem for your attention. It provides the architecture to recognize patterns in your thoughts, habits, and the systems around you before they harden into reflexes.
+Fractalism is an Operating System for your attention. It provides the architecture to recognize patterns in your thoughts, habits, and the systems around you before they harden into reflexes.
 
-Most human experience is a 480p simulation—a loop of harvested attention and managed confusion. Fractalism is the practice of increasing the resolution to 4K.
+Most human experience is a 480p simulation: a loop of harvested attention and managed confusion. Fractalism is the practice of increasing the resolution to 4K.
 
 **The goal is not to "improve" the simulation. The goal is the integrity required to exit the loop.**
 
