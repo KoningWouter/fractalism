@@ -25,7 +25,8 @@ async function updateProfile() {
         display_name: "Fractalism Gatling Gun",
         about: "Sovereign Gnosis Dispatches. Automated truth salvos from the Ground.",
         website: "https://fractalisme.nl",
-        picture: "https://fractalisme.nl/hero.png"
+        picture: "https://fractalisme.nl/the_source.png",
+        banner: "https://fractalisme.nl/fractals.jpg"
     };
 
     const event = finalizeEvent({
