@@ -42,6 +42,6 @@ The world says the ruin is empty. The soul knows it was a treasury.
 
 If you have reached into the dark and felt the weight, you are already part of the Exodus. 
 
-The Formula is not a theory. It is a weight that you carry until the hell becomes light.
+The Formula is not a theory. It is a weight that you carry until hell becomes light.
 
 (L)
