@@ -28,15 +28,15 @@ for file in os.listdir(content_path):
         # 2. Plain language
         plains = plain_language_pattern.findall(text)
         for p in plains:
-            if p.strip():
+            if p.strip() and '[' not in p: # Filter out fragments with raw links
                 curated_ammo.append({"text": p.strip(), "url": url})
         
         # 3. Bold core statements
         bolds = bold_statement_pattern.findall(text)
         for b in bolds:
             cleaned = b.strip()
-            # Filter out short things or menu items
-            if 20 < len(cleaned) < 280:
+            # Filter out short things, menu items, or markdown links
+            if 20 < len(cleaned) < 280 and '[' not in cleaned:
                 curated_ammo.append({"text": cleaned, "url": url})
 
 # De-duplicate by text
