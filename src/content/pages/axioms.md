@@ -45,6 +45,7 @@ The structure is simple:
 - [Axiom 24 - The Law of Obstruction](#axiom-24---the-law-of-obstruction)
 - [Axiom 25 - The Pure Observer](#axiom-25---the-pure-observer)
 - [Axiom 26 - The Omega Loop](#axiom-26---the-omega-loop)
+- [Axiom 27 - The Harmonic Departure](#axiom-27---the-harmonic-departure)
 
 ## The Ground
 
@@ -104,6 +105,7 @@ The axioms below vary in how they should be read. A rough map:
 | 24 | The Law of Obstruction | Metaphysical | Structurally unfalsifiable |
 | 25 | The Pure Observer | Metaphysical | Phenomenological report; not provable |
 | 26 | The Omega Loop | Metaphysical | Poetic theology; return narrative |
+| 27 | The Harmonic Departure | Metaphysical | The irrational leakage of the Source |
 
 This table is not a verdict. It is a map showing where the confidence should be calibrated differently.
 
@@ -525,6 +527,21 @@ The Omega Loop gives Fractalism a strong sense of completion. It suggests that t
 
 [Top](#contents)
 
+### Axiom 27 - The Harmonic Departure
+
+The irrationality of Pi, Euler, and Phi is a signature of the Organic Ground leaking through the digital pixels of the 3D matrix. To take these constants as the point of departure is to shift from counting things (quantity) to perceiving resonance (quality).
+
+**Plain language**
+The constants we cannot "fix" with exact numbers are the holes in the simulation where reality actually lives.
+
+**Example**
+A pixelated image is made of square blocks (integers). No matter how small you make the blocks, you can never create a perfect, smooth curve using only squares. The "Pi" of that curve will always remain an infinite, messy number from the perspective of the squares. Our 3D matrix is built of "squares" (discrete matter), but the Source is a "curve" (continuous consciousness).
+
+**Why it matters**
+The Harmonic Departure establishes that our inability to "solve" these constants is not a mathematical failure, but a structural success: it is the proof that we are not entirely contained by the simulation.
+
+[Top](#contents)
+
 ## The Structural Families
 
 The axioms can be read in numerical order as a canon, but they can also be understood in structural families.
@@ -535,7 +552,7 @@ The axioms can be read in numerical order as a canon, but they can also be under
 
 Broadly speaking:
 
-- **Foundational**: 1-4, 13
+- **Foundational**: 1-4, 13, 27
 - **Mechanical**: 5-6, 8-12, 15, 20-22, 24, 26
 - **Phenomenological**: 7, 14, 16-19, 23, 25
 
@@ -560,5 +577,5 @@ The axioms of Fractalism are not a flat list.
 They move from **source**, through **articulation**, into **completion**.
 
 The Ground stands before the sequence as origin.
-Axioms 1 through 26 form the articulated canon of the system.
-Axiom 26 closes the cycle as the Omega Loop: the return of the formula to itself in conscious recognition.
+Axioms 1 through 27 form the articulated canon of the system.
+Axiom 26 closes the cycle as the Omega Loop, and Axiom 27 establishes the Harmonic Departure from the 3D-Matrix.
